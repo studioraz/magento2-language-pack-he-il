@@ -1,0 +1,15 @@
+
+{
+  "name": "studioraz/magento2-language-pack-he-il",
+  "description": "Magento 2 Hebrew Language Pack Missing Crowding Translation",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "type": "magento2-language",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+} 
