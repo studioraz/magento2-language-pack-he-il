@@ -11,3 +11,41 @@
 "Privacy Policy","מדיניות הפרטיות",module,Amasty_Gdpr
 "I have read and accept","קראתי והסכמתי",module,Amasty_Gdpr
 "Forgot Your Password","שכחת סיסמה",module,Magento_Customer
+in 	ב 	module 	Mirasvit_SearchAutocomplete
+Add to Cart 	הוסף לעגלה 	module 	Mirasvit_SearchAutocomplete
+Registrant: %1 	Registrant: %1 	module 	Mirasvit_SearchAutocomplete
+Products 	מוצרים 	module 	Mirasvit_SearchAutocomplete
+Popular suggestions 	הצעות פופולריות 	module 	Mirasvit_SearchAutocomplete
+Show all %1 results → 	הצג את כל %1 תוצאות → 	module 	Mirasvit_SearchAutocomplete
+Sorry, nothing found for "%1". 	מצטערים, לא נמצאו תוצאות עבור "%1". 	module 	Mirasvit_SearchAutocomplete
+Searchable content 	תוכן שניתן לחיפוש 	module 	Mirasvit_SearchAutocomplete
+Index 	אינדקס 	module 	Mirasvit_SearchAutocomplete
+Is Enabled 	האם מופעל 	module 	Mirasvit_SearchAutocomplete
+Max Number of results 	מספר תוצאות מקסימלי 	module 	Mirasvit_SearchAutocomplete
+Hot Searches 	חיפושים חמים 	module 	Mirasvit_SearchAutocomplete
+recent searches 	חיפושים אחרונים 	module 	Mirasvit_SearchAutocomplete
+Search Autocomplete 	השלמה אוטומטית של חיפוש 	module 	Mirasvit_SearchAutocomplete
+General Configuration 	הגדרות כלליות 	module 	Mirasvit_SearchAutocomplete
+Minimum number of characters to search 	מספר תווים מינימלי לחיפוש 	module 	Mirasvit_SearchAutocomplete
+The delay before start finding 	זמן ההשהיה לפני תחילת מציאת התוצאות 	module 	Mirasvit_SearchAutocomplete
+>In milliseconds, e.g. 500 means 0.5 of second 	> באלפיות השנייה, למשל, 500 פירושו 0.5 שניה 	module 	Mirasvit_SearchAutocomplete
+Fast Mode 	מצב מהיר 	module 	Mirasvit_SearchAutocomplete
+Disable not necessary observers and handlers 	ביטול משקיפים ומטפלים לא הכרחים (observers and handlers) 	module 	Mirasvit_SearchAutocomplete
+Products Settings 	הגדרות מוצרים 	module 	Mirasvit_SearchAutocomplete
+Show Price 	הצג מחיר 	module 	Mirasvit_SearchAutocomplete
+Show Thumbnail 	הצג תמונה ממוזערת 	module 	Mirasvit_SearchAutocomplete
+Show Rating 	הצג דירוג 	module 	Mirasvit_SearchAutocomplete
+Show Description 	הצג תיאור 	module 	Mirasvit_SearchAutocomplete
+Show SKU 	הצג מק"ט 	module 	Mirasvit_SearchAutocomplete
+Show "Add to cart" 	הצג "הוסף לעגלה" 	module 	Mirasvit_SearchAutocomplete
+Optimize autocomplete view for small screen size 	Optimize autocomplete view for small screen size 	module 	Mirasvit_SearchAutocomplete
+Appearance 	נראות 	module 	Mirasvit_SearchAutocomplete
+Additional CSS Styles 	נוספים CSS סגנונות 	module 	Mirasvit_SearchAutocomplete
+Show Hot Searches 	הצג חיפושים חמים 	module 	Mirasvit_SearchAutocomplete
+Search queries 	הצג שאילתות חיפוש 	module 	Mirasvit_SearchAutocomplete
+Comma separated search queries. Leave empty for show most popular queries. 	שאילתות חיפוש מופרדות בפסיקים. השאר ריק להצגת השאילתות הנפוצות ביותר. 	module 	Mirasvit_SearchAutocomplete
+Ignored words 	להתעלם מהמילות 	module 	Mirasvit_SearchAutocomplete
+Comma separated words. Ignore query, if search query contains any of these word. 	מילים מופרדות בפסיקים. התעלם מהחיפוש, אם שאילתת החיפוש מכילה כל מילה מאלו. 	module 	Mirasvit_SearchAutocomplete
+Max Number of queries 	מספר שאילתות מקסימלי 	module 	Mirasvit_SearchAutocomplete
+Dictionary successfully processed. 	מילון תהליכים שעברו בהצלחה. 	module 	Mirasvit_SearchAutocomplete
+Products in categories 	מוצרים בקטגוריות 	module 	Mirasvit_SearchAutocomplete
