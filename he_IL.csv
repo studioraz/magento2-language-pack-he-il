@@ -4,4 +4,10 @@
 "Continue Shopping","המשך בקניות",module,Magento_Checkout
 "Proceed to Checkout","המשך לתשלום",module,Magento_Checkout
 "This is a required field.","שדה זה הוא חובה.",module,Magento_Ui  
+"Sign Up for Our Newsletter","הירשם לניוזלטר שלנו",module,Amasty_Checkout
+"Item in Cart","פריט בסל",module,Amasty_Checkout
+"Items in Cart","פריטים בסל",module,Amasty_Checkout
+"I have read and accept the privacy policy","קראתי ואני מאשר/ת את תקנון האתר",module,Amasty_Gdpr
+"Privacy Policy","מדיניות הפרטיות",module,Amasty_Gdpr
 "I have read and accept","קראתי והסכמתי",module,Amasty_Gdpr
+"Forgot Your Password","שכחת סיסמה",module,Magento_Customer
