@@ -308,7 +308,7 @@ Delete,Delete,module,Amasty_Acart
 Price,Price,module,Amasty_Acart
 "Hello,","Hello,",module,Amasty_Acart
 "Dear %firstName %lastName,","Dear %firstName %lastName,",module,Amasty_Acart
-You have items in your shopping bag.,You have items in your shopping bag.,module,Amasty_Acart
+You have items in your shopping bag.,יש לך פריטים בסל הקניות שלך.,module,Amasty_Acart
 Get them with discount!,Get them with discount!,module,Amasty_Acart
 reply to this mail,reply to this mail,module,Amasty_Acart
 "Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !","Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !",module,Amasty_Acart
