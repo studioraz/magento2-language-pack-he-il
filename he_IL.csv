@@ -137,3 +137,233 @@
 "Enable","הפעל","module","Amasty_Extrafee"
 "ID","מזהה","module","Amasty_Extrafee"
 "Customer Group","קבוצת לקוחות","module","Amasty_Extrafee"
+Save and Continue Edit,Save and Continue Edit,module,Amasty_Acart
+Blacklist Item Information,Blacklist Item Information,module,Amasty_Acart
+General,General,module,Amasty_Acart
+Email,Email,module,Amasty_Acart
+Blacklist View,Blacklist View,module,Amasty_Acart
+Current Time,Current Time,module,Amasty_Acart
+No cron jobs found,No cron jobs found,module,Amasty_Acart
+Learn more,Learn more,module,Amasty_Acart
+Cron (Last 5),Cron (Last 5),module,Amasty_Acart
+Queue Item Information,Queue Item Information,module,Amasty_Acart
+Subject,Subject,module,Amasty_Acart
+Body,Body,module,Amasty_Acart
+Coupon,Coupon,module,Amasty_Acart
+Queue View,Queue View,module,Amasty_Acart
+Website:,Website:,module,Amasty_Acart
+Date Range:,Date Range:,module,Amasty_Acart
+From:,From:,module,Amasty_Acart
+To:,To:,module,Amasty_Acart
+Refresh,Refresh,module,Amasty_Acart
+All Websites,All Websites,module,Amasty_Acart
+Cart Abandonment Rate,Cart Abandonment Rate,module,Amasty_Acart
+Emails Sent,Emails Sent,module,Amasty_Acart
+Carts Restored,Carts Restored,module,Amasty_Acart
+Orders Placed*,Orders Placed*,module,Amasty_Acart
+Potential Revenue,Potential Revenue,module,Amasty_Acart
+Recovered Revenue*,Recovered Revenue*,module,Amasty_Acart
+Abandoned Cart Email Efficiency,Abandoned Cart Email Efficiency,module,Amasty_Acart
+Rule Information,Rule Information,module,Amasty_Acart
+Analytics,Analytics,module,Amasty_Acart
+Google Analytics,Google Analytics,module,Amasty_Acart
+Campaign Source,Campaign Source,module,Amasty_Acart
+"<b>Required.</b> Use <b>utm_source</b> to identify a search engine, newsletter name, or other source.<br/><i>Example:</i> utm_source=google","<b>Required.</b> Use <b>utm_source</b> to identify a search engine, newsletter name, or other source.<br/><i>Example:</i> utm_source=google",module,Amasty_Acart
+Campaign Medium,Campaign Medium,module,Amasty_Acart
+<b>Required.</b> Use <b>utm_medium</b> to identify a medium such as email or cost-per- click<br/><i>Example:</i> utm_medium=cpc,<b>Required.</b> Use <b>utm_medium</b> to identify a medium such as email or cost-per- click<br/><i>Example:</i> utm_medium=cpc,module,Amasty_Acart
+Campaign Name,Campaign Name,module,Amasty_Acart
+<b>Required.</b> Used for keyword analysis. Use <b>utm_campaign</b> to identify a specific product promotion or strategic campaign.<br/><i>Example:</i> utm_campaign=spring_sale,<b>Required.</b> Used for keyword analysis. Use <b>utm_campaign</b> to identify a specific product promotion or strategic campaign.<br/><i>Example:</i> utm_campaign=spring_sale,module,Amasty_Acart
+Campaign Term,Campaign Term,module,Amasty_Acart
+Used for paid search. Use <b>utm_term</b> to note the keywords for this ad.<br/><i>Example:</i> utm_term=running+shoes,Used for paid search. Use <b>utm_term</b> to note the keywords for this ad.<br/><i>Example:</i> utm_term=running+shoes,module,Amasty_Acart
+Campaign Content,Campaign Content,module,Amasty_Acart
+Used for A/B testing and content-targeted ads. Use <b>utm_content</b> to differentiate ads or links that point to the same URL.<br/><i>Example:</i> utm_content=logolink <i>or</i> utm_content=textlink,Used for A/B testing and content-targeted ads. Use <b>utm_content</b> to differentiate ads or links that point to the same URL.<br/><i>Example:</i> utm_content=logolink <i>or</i> utm_content=textlink,module,Amasty_Acart
+Conditions,Conditions,module,Amasty_Acart
+Conditions (don't add conditions if need all products),Conditions (don't add conditions if need all products),module,Amasty_Acart
+Name,Name,module,Amasty_Acart
+Status,Status,module,Amasty_Acart
+Priority,Priority,module,Amasty_Acart
+Cancel Condition,Cancel Condition,module,Amasty_Acart
+Note! Additional to the listed actions Order Placed action will always cancel the abandoned cart email,Note! Additional to the listed actions Order Placed action will always cancel the abandoned cart email,module,Amasty_Acart
+Schedule,Schedule,module,Amasty_Acart
+Add Record,Add Record,module,Amasty_Acart
+Stores & Customer Groups,Stores & Customer Groups,module,Amasty_Acart
+Apply In,Apply In,module,Amasty_Acart
+Stores,Stores,module,Amasty_Acart
+Leave empty or select all to apply the campaign to any store,Leave empty or select all to apply the campaign to any store,module,Amasty_Acart
+Apply For,Apply For,module,Amasty_Acart
+Customer Groups,Customer Groups,module,Amasty_Acart
+Leave empty or select all to apply the campaign to any group,Leave empty or select all to apply the campaign to any group,module,Amasty_Acart
+Test,Test,module,Amasty_Acart
+Products,Products,module,Amasty_Acart
+Quantity,Quantity,module,Amasty_Acart
+Subtotal,Subtotal,module,Amasty_Acart
+Applied Coupon,Applied Coupon,module,Amasty_Acart
+Created,Created,module,Amasty_Acart
+Updated,Updated,module,Amasty_Acart
+IP Address,IP Address,module,Amasty_Acart
+Send,Send,module,Amasty_Acart
+Rule View,Rule View,module,Amasty_Acart
+test email,test email,module,Amasty_Acart
+"Before sending test messages, please fill in the %1 in the extension configuration section","Before sending test messages, please fill in the %1 in the extension configuration section",module,Amasty_Acart
+import GeoIP Data,import GeoIP Data,module,Amasty_Acart
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Acart
+Installed,Installed,module,Amasty_Acart
+Specify SMTP settings properly. See more details <a target='_blank' href='%1'>here</a>.,Specify SMTP settings properly. See more details <a target='_blank' href='%1'>here</a>.,module,Amasty_Acart
+Not Installed,Not Installed,module,Amasty_Acart
+Marketing,Marketing,module,Amasty_Acart
+Blacklist,Blacklist,module,Amasty_Acart
+You deleted the blacklist.,You deleted the blacklist.,module,Amasty_Acart
+We can't delete the blacklist right now. Please review the log and try again.,We can't delete the blacklist right now. Please review the log and try again.,module,Amasty_Acart
+We can't find a blacklist to delete.,We can't find a blacklist to delete.,module,Amasty_Acart
+Something went wrong while editing the blacklist.,Something went wrong while editing the blacklist.,module,Amasty_Acart
+New Blacklist Email,New Blacklist Email,module,Amasty_Acart
+Something went wrong while export feed data. Please review the error log.,Something went wrong while export feed data. Please review the error log.,module,Amasty_Acart
+The wrong blacklist is specified.,The wrong blacklist is specified.,module,Amasty_Acart
+You saved the blacklist item.,You saved the blacklist item.,module,Amasty_Acart
+Something went wrong while saving the blacklist data. Please review the error log.,Something went wrong while saving the blacklist data. Please review the error log.,module,Amasty_Acart
+History,History,module,Amasty_Acart
+Error. Please see the log for more information.,Error. Please see the log for more information.,module,Amasty_Acart
+Queue,Queue,module,Amasty_Acart
+You deleted the queue.,You deleted the queue.,module,Amasty_Acart
+We can't delete the queue right now. Please review the log and try again.,We can't delete the queue right now. Please review the log and try again.,module,Amasty_Acart
+We can't find a queue to delete.,We can't find a queue to delete.,module,Amasty_Acart
+Something went wrong while editing the queue.,Something went wrong while editing the queue.,module,Amasty_Acart
+Edit queue item #%1,Edit queue item #%1,module,Amasty_Acart
+"If there are no emails in the queue for a long time, please make sure that cron is properly configured for your Magento. Please find more information <a class=""new-page-url"" href='%1' target='_blank'>here</a>.","If there are no emails in the queue for a long time, please make sure that cron is properly configured for your Magento. Please find more information <a class=""new-page-url"" href='%1' target='_blank'>here</a>.",module,Amasty_Acart
+The wrong queue is specified.,The wrong queue is specified.,module,Amasty_Acart
+You saved the queue item.,You saved the queue item.,module,Amasty_Acart
+Something went wrong while saving the queue data. Please review the error log.,Something went wrong while saving the queue data. Please review the error log.,module,Amasty_Acart
+Something went wrong. Please try again or check your Magento log file.,Something went wrong. Please try again or check your Magento log file.,module,Amasty_Acart
+Abandoned Cart Reports,Abandoned Cart Reports,module,Amasty_Acart
+Abandoned Cart Campaigns,Abandoned Cart Campaigns,module,Amasty_Acart
+You deleted the campaign.,You deleted the campaign.,module,Amasty_Acart
+We can't delete the rule right now. Please review the log and try again.,We can't delete the rule right now. Please review the log and try again.,module,Amasty_Acart
+We can't find a rule to delete.,We can't find a rule to delete.,module,Amasty_Acart
+Something went wrong while editing the campaign.,Something went wrong while editing the campaign.,module,Amasty_Acart
+New Campaign,New Campaign,module,Amasty_Acart
+Campaigns,Campaigns,module,Amasty_Acart
+Something went wrong while delete rule. Please review the error log.,Something went wrong while delete rule. Please review the error log.,module,Amasty_Acart
+Shopping Cart Rule is required,Shopping Cart Rule is required,module,Amasty_Acart
+The wrong campaign is specified.,The wrong campaign is specified.,module,Amasty_Acart
+You saved the campaign.,You saved the campaign.,module,Amasty_Acart
+Something went wrong while saving the campaign data. Please review the error log.,Something went wrong while saving the campaign data. Please review the error log.,module,Amasty_Acart
+Email didn't send.,Email didn't send.,module,Amasty_Acart
+You have been unsubscribed,בוטל הרישום שלך,module,Amasty_Acart
+Today,היום,module,Amasty_Acart
+Last 7 days,7 הימים האחרונים,module,Amasty_Acart
+Last 30 days,30 הימים האחרונים,module,Amasty_Acart
+Overall,באופן כללי,module,Amasty_Acart
+Custom, מותאם אישית,module,Amasty_Acart
+The schedule should be completed.,The schedule should be completed.,module,Amasty_Acart
+Rule do not have any Schedule,Rule do not have any Schedule,module,Amasty_Acart
+Number of recovered cards this month,Number of recovered cards this month,module,Amasty_Acart
+General Contact,General Contact,module,Amasty_Acart
+Sales Representative Contact,Sales Representative Contact,module,Amasty_Acart
+Customer Support Contact,Customer Support Contact,module,Amasty_Acart
+Custom Email 1 Contact,Custom Email 1 Contact,module,Amasty_Acart
+Custom Email 2 Contact,Custom Email 2 Contact,module,Amasty_Acart
+Active,פעיל,module,Amasty_Acart
+Inactive,לא פעיל,module,Amasty_Acart
+Link from Email Clicked,"קישור מדוא""ל שנלחץ",module,Amasty_Acart
+Any product went out of stock,Any product went out of stock,module,Amasty_Acart
+All products went out of stock,All products went out of stock,module,Amasty_Acart
+Not sent,לא נשלח,module,Amasty_Acart
+Sent,נשלח,module,Amasty_Acart
+Canceled by the admin,בוטל על ידי מנהל המערכת,module,Amasty_Acart
+Customer is Not Newsletter Subscriber,הלקוח אינו מנוי בניוזלטר,module,Amasty_Acart
+Edit,ערוך,module,Amasty_Acart
+Revenue,הכנסות,module,Amasty_Acart
+Recovered Revenue,Recovered Revenue,module,Amasty_Acart
+Orders Placed,Orders Placed,module,Amasty_Acart
+Statistics,סטטיסטיקה,module,Amasty_Acart
+* unshipped and uninvoiced orders also count towards statistics,* unshipped and uninvoiced orders also count towards statistics,module,Amasty_Acart
+"Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime).","Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime).",module,Amasty_Acart
+"Please make sure that your cron is properly configured. We recommend to run cron every 5 minutes. <a href=""%1"" target=""_blank"">Learn more</a>","Please make sure that your cron is properly configured. We recommend to run cron every 5 minutes. <a href=""%1"" target=""_blank"">Learn more</a>",module,Amasty_Acart
+Transactional Email,"טרנזקציות דוא""ל",module,Amasty_Acart
+Delivery Time,זמן משלוח,module,Amasty_Acart
+Days,ימים,module,Amasty_Acart
+Hours,שעות,module,Amasty_Acart
+Minutes,דקות,module,Amasty_Acart
+Type,סוג,module,Amasty_Acart
+None,None,module,Amasty_Acart
+Percent of product price discount,אחוז הנחה על מחיר המוצר,module,Amasty_Acart
+Fixed amount discount,Fixed amount discount,module,Amasty_Acart
+Fixed amount discount for whole cart,Fixed amount discount for whole cart,module,Amasty_Acart
+Auto add promo items with products,Auto add promo items with products,module,Amasty_Acart
+Auto add promo items for the whole cart,Auto add promo items for the whole cart,module,Amasty_Acart
+Auto add the same product,Auto add the same product,module,Amasty_Acart
+Discount Amount,Discount Amount,module,Amasty_Acart
+Expired in (days),Expired in (days),module,Amasty_Acart
+Maximum Qty Discount is Applied To,Maximum Qty Discount is Applied To,module,Amasty_Acart
+Discount Qty Step (Buy X),Discount Qty Step (Buy X),module,Amasty_Acart
+Expand,Expand,module,Amasty_Acart
+Collapse,Collapse,module,Amasty_Acart
+Send the Same Coupon Again,Send the Same Coupon Again,module,Amasty_Acart
+Use Shopping Cart Rule,Use Shopping Cart Rule,module,Amasty_Acart
+Rule ID,Rule ID,module,Amasty_Acart
+Rule option `Use Auto Generation` should be turned on.,Rule option `Use Auto Generation` should be turned on.,module,Amasty_Acart
+Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,module,Amasty_Acart
+here,here,module,Amasty_Acart
+Delete,Delete,module,Amasty_Acart
+Price,Price,module,Amasty_Acart
+"Hello,","Hello,",module,Amasty_Acart
+"Dear %firstName %lastName,","Dear %firstName %lastName,",module,Amasty_Acart
+You have items in your shopping bag.,You have items in your shopping bag.,module,Amasty_Acart
+Get them with discount!,Get them with discount!,module,Amasty_Acart
+reply to this mail,reply to this mail,module,Amasty_Acart
+"Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !","Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !",module,Amasty_Acart
+"Coupon expiration date: <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%expiration_date</span>","Coupon expiration date: <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%expiration_date</span>",module,Amasty_Acart
+CHECK OUT,לתשלום,module,Amasty_Acart
+Delivered by,נשלח על ידי,module,Amasty_Acart
+Unsubscribe,בטל רישום,module,Amasty_Acart
+Abandoned Carts,עגלות נטושות,module,Amasty_Acart
+Orders,הזמנות,module,Amasty_Acart
+Money awaiting in abandoned carts,כסף מחכה בעגלות נטושות,module,Amasty_Acart
+Money made of recovered carts,Money made of recovered carts,module,Amasty_Acart
+Sent emails,שלח אימיילים,module,Amasty_Acart
+Recovered carts,עגלות משוחזרות,module,Amasty_Acart
+Actual purchases,רכישות בפועל,module,Amasty_Acart
+Abandoned Cart Email,"דוא""ל של עגלה שננטשה",module,Amasty_Acart
+Information,מידע,module,Amasty_Acart
+The Coupon is Available Only for Particular Customer,The Coupon is Available Only for Particular Customer,module,Amasty_Acart
+If the option is disabled the coupon can be used by all customers.,If the option is disabled the coupon can be used by all customers.,module,Amasty_Acart
+Trigger a Campaign No More Than 1 Time per Quote,Trigger a Campaign No More Than 1 Time per Quote,module,Amasty_Acart
+Send Emails Only to Registered Customers,Send Emails Only to Registered Customers,module,Amasty_Acart
+Automatically Remove Sent Emails from History,Automatically Remove Sent Emails from History,module,Amasty_Acart
+In days.,In days.,module,Amasty_Acart
+Disable Guest Email Logging for EU Customers (GDPR Compliance Requirement),Disable Guest Email Logging for EU Customers (GDPR Compliance Requirement),module,Amasty_Acart
+For use this setting you need import GEOIP Data,For use this setting you need import GEOIP Data,module,Amasty_Acart
+Email Templates,Email Templates,module,Amasty_Acart
+Sender Name,שם השולח,module,Amasty_Acart
+Sender Email,"דוא""ל של השולח",module,Amasty_Acart
+Send to Newsletter Subscribers Only,Send to Newsletter Subscribers Only,module,Amasty_Acart
+Sends Copy of Emails to,Sends Copy of Emails to,module,Amasty_Acart
+Reply to Name,Reply to Name,module,Amasty_Acart
+Reply to Email,Reply to Email,module,Amasty_Acart
+Testing,Testing,module,Amasty_Acart
+Enable Safe Mode,Enable Safe Mode,module,Amasty_Acart
+"If enabled, emails will be sent only to the test email (not to customers).","If enabled, emails will be sent only to the test email (not to customers).",module,Amasty_Acart
+Test Email,Test Email,module,Amasty_Acart
+Import,Import,module,Amasty_Acart
+Debug (for Developers Only),Debug (for Developers Only),module,Amasty_Acart
+Enable Debug Mode,Enable Debug Mode,module,Amasty_Acart
+"If enabled, emails will only be sent to the authorized email domains.","If enabled, emails will only be sent to the authorized email domains.",module,Amasty_Acart
+Authorized Email Domains,Authorized Email Domains,module,Amasty_Acart
+"List of email domain names separated by commas ("",""). Don't use ""@"".","List of email domain names separated by commas ("",""). Don't use ""@"".",module,Amasty_Acart
+Cronjob Information,Cronjob Information,module,Amasty_Acart
+SMTP Settings,SMTP Settings,module,Amasty_Acart
+"For more options to customize your smtp settings, consider using our <a target=""_blank"" href=""https://amasty.com/magento-smtp-email-settings.html?utm_source=extension&utm_medium=link&utm_campaign=acart-smtp-m2"">SMTP extension</a>.","For more options to customize your smtp settings, consider using our <a target=""_blank"" href=""https://amasty.com/magento-smtp-email-settings.html?utm_source=extension&utm_medium=link&utm_campaign=acart-smtp-m2"">SMTP extension</a>.",module,Amasty_Acart
+Add Email,Add Email,module,Amasty_Acart
+Delete items,Delete items,module,Amasty_Acart
+Delete selected items?,Delete selected items?,module,Amasty_Acart
+ID,ID,module,Amasty_Acart
+Campaign,Campaign,module,Amasty_Acart
+First Name,First Name,module,Amasty_Acart
+Last Name,Last Name,module,Amasty_Acart
+Scheduled,Scheduled,module,Amasty_Acart
+Cancel items,Cancel items,module,Amasty_Acart
+Cancel selected items?,Cancel selected items?,module,Amasty_Acart
+Cancel,Cancel,module,Amasty_Acart
+Rule,Rule,module,Amasty_Acart
+Create New Campaign,Create New Campaign,module,Amasty_Acart
+Delete rules,Delete rules,module,Amasty_Acart
