@@ -367,4 +367,4 @@ Cancel,Cancel,module,Amasty_Acart
 Rule,Rule,module,Amasty_Acart
 Create New Campaign,Create New Campaign,module,Amasty_Acart
 Delete rules,Delete rules,module,Amasty_Acart
-"You will be charged for","תחויב עבור",module,Magento_Tax
+"You will be charged for","אתם תחויבו בסכום של",module,Magento_Tax
