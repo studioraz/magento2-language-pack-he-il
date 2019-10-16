@@ -578,3 +578,256 @@ Gift Code Qty,קוד מתנה כמות,module,Amasty_GiftCard
 Unused Gift Codes,קודי מתנה שאינם בשימוש,module,Amasty_GiftCard
 Image Thumbnail,תמונה ממוזערת,module,Amasty_GiftCard
 Image title,כותרת תמונה,module,Amasty_GiftCard
+Installed,מותקן,module,Amasty_Cart
+Not Installed,לא מותקן,module,Amasty_Cart
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Cart
+We can't add this item to your shopping cart right now. Please reload the page.,איננו יכולים להוסיף פריט זה לסל הקניות שלך ברגע זה. טען מחדש את העמוד בבקשה.,module,Amasty_Cart
+We can't add this item to your shopping cart right now.,איננו יכולים להוסיף פריט זה לסל הקניות שלך ברגע זה.,module,Amasty_Cart
+%1 has been added to your cart,%1 נוסף לסל הקניות שלך,module,Amasty_Cart
+Please specify the quantity of product(s).,אנא ציין את כמות המוצר/ים.,module,Amasty_Cart
+You need to choose options for your item.,עליכם לבחור אפשרויות לפריט שלכם.,module,Amasty_Cart
+Continue shopping,המשך בקניות,module,Amasty_Cart
+Cancel,בטל,module,Amasty_Cart
+Set options,הגדר אפשרויות,module,Amasty_Cart
+Add to cart,הוסף לסל,module,Amasty_Cart
+There is,יש,module,Amasty_Cart
+item,פריט,module,Amasty_Cart
+There are,יש,module,Amasty_Cart
+items,פריטים,module,Amasty_Cart
+View Cart,צפה בסל,module,Amasty_Cart
+" in your cart."," בסל שלך.",module,Amasty_Cart
+Cart Subtotal:,סיכום ביניים של סל הקניות:,module,Amasty_Cart
+Information,מידע,module,Amasty_Cart
+Continue,המשך,module,Amasty_Cart
+Go to Checkout,המשך לתשלום,module,Amasty_Cart
+%1 has been added to your cart.,%1 נוסף לעגלת הקניות שלך.,module,Amasty_Cart
+We can't add this item to your shopping cart.,איננו יכולים להוסיף פריט זה לסל הקניות שלך.,module,Amasty_Cart
+We can't find the quote item.,איננו יכולים למצוא את פריט הצעת המחיר.,module,Amasty_Cart
+%1 was updated in your shopping cart.,%1 עודכן בעגלת הקניות שלך.,module,Amasty_Cart
+We can't update the item right now.,איננו יכולים לעדכן את הפריט ברגע זה.,module,Amasty_Cart
+This product(s) is out of stock.,מוצר (ים) אזל במלאי.,module,Amasty_Cart
+We can't add the item to the cart right now.,איננו יכולים להוסיף את הפריט לסל ברגע זה.,module,Amasty_Cart
+in your cart,בסל שלך,module,Amasty_Cart
+More Choices:,עוד בחירות:,module,Amasty_Cart
+You may be interested in the following items,יתכן שאתה מעוניין בפריטים הבאים,module,Amasty_Cart
+Center,מרכז,module,Amasty_Cart
+Top,חלק עליון,module,Amasty_Cart
+Top Left,למעלה משמאל,module,Amasty_Cart
+Top Right,למעלה מימין,module,Amasty_Cart
+Left,Left,module,Amasty_Cart
+Right,Right,module,Amasty_Cart
+None,None,module,Amasty_Cart
+Related,Related,module,Amasty_Cart
+Cross-sell,Cross-sell,module,Amasty_Cart
+Stay on Current Page,Stay on Current Page,module,Amasty_Cart
+Go to Category Page,Go to Category Page,module,Amasty_Cart
+Parent Configurable Product Image,Parent Configurable Product Image,module,Amasty_Cart
+Child Simple Product Image,Child Simple Product Image,module,Amasty_Cart
+Mini Product Page,Mini Product Page,module,Amasty_Cart
+Custom Options & Product Qty,Custom Options & Product Qty,module,Amasty_Cart
+Product Image,תמונת מוצר,module,Amasty_Cart
+Product Quantity Field,שדה כמות מוצר,module,Amasty_Cart
+Number of Products in Cart,Number of Products in Cart,module,Amasty_Cart
+Cart Subtotal,סיכום ביניים של סל הקניות,module,Amasty_Cart
+Go to Checkout Button,Go to Checkout Button,module,Amasty_Cart
+Show Only if There Are Required Options,הצג רק אם יש אפשרויות חובה,module,Amasty_Cart
+Always Show All Custom Options,הצג תמיד את כל האפשרויות המותאמות אישית,module,Amasty_Cart
+has been added to your cart,נוסף לסל הקניות שלך,module,Amasty_Cart
+%1 has been added to your Wish List.,%1 נוסף לרשימת המשאלות שלך.,module,Amasty_Cart
+Add to Wish List,הוסף לרשימת המשאלות,module,Amasty_Cart
+Add to Compare,הוסף להשוואה,module,Amasty_Cart
+Add to Cart,הוסף לסל,module,Amasty_Cart
+In stock,במלאי,module,Amasty_Cart
+Out of stock,אזל מהמלאי,module,Amasty_Cart
+Please choose the options for your item,אנא בחר באפשרויות עבור הפריט שלך,module,Amasty_Cart
+Qty,כמות,module,Amasty_Cart
+Update,עדכון,module,Amasty_Cart
+Close,לסגור,module,Amasty_Cart
+Ajax Shopping Cart,Ajax Shopping Cart,module,Amasty_Cart
+General,כללי,module,Amasty_Cart
+Enable Ajax Shopping Cart,הפעל Ajax Shopping Cart,module,Amasty_Cart
+Enable Flying Image Effect,הפעל Flying Image Effect,module,Amasty_Cart
+Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,module,Amasty_Cart
+Show the Product Qty Added to the Cart on the Product Listing,Show the Product Qty Added to the Cart on the Product Listing,module,Amasty_Cart
+Add Products to Compare with AJAX,Add Products to Compare with AJAX,module,Amasty_Cart
+Add Products to Wish List with AJAX,Add Products to Wish List with AJAX,module,Amasty_Cart
+Show a Mini Cart once Item is Added,Show a Mini Cart once Item is Added,module,Amasty_Cart
+Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,module,Amasty_Cart
+Dialog Pop-up,Dialog Pop-up,module,Amasty_Cart
+Redirect to the Product Page,Redirect to the Product Page,module,Amasty_Cart
+Display Custom Options,Display Custom Options,module,Amasty_Cart
+"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.","Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",module,Amasty_Cart
+Pop-up for Composite Products,Pop-up for Composite Products,module,Amasty_Cart
+QTY Instant Change,QTY Instant Change,module,Amasty_Cart
+"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up","Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",module,Amasty_Cart
+Confirmation Pop-up,Confirmation Pop-up,module,Amasty_Cart
+Dialog Close Delay (in seconds),Dialog Close Delay (in seconds),module,Amasty_Cart
+"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.","Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",module,Amasty_Cart
+Enable a Confirmation Pop-up on a Product Page,Enable a Confirmation Pop-up on a Product Page,module,Amasty_Cart
+Continue Button Action on a Product Page,Continue Button Action on a Product Page,module,Amasty_Cart
+Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,module,Amasty_Cart
+Confirmation Pop-up Display,Confirmation Pop-up Display,module,Amasty_Cart
+Align Pop-up,Align Pop-up,module,Amasty_Cart
+"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.","Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",module,Amasty_Cart
+Image Display for Configurable Products,Image Display for Configurable Products,module,Amasty_Cart
+Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,module,Amasty_Cart
+Display in Pop-up,Display in Pop-up,module,Amasty_Cart
+Choose what to display in the Confirmation Pup-up,Choose what to display in the Confirmation Pup-up,module,Amasty_Cart
+Selling Options,Selling Options,module,Amasty_Cart
+Product Block Type Displayed in the Confirmation Pop-up,Product Block Type Displayed in the Confirmation Pop-up,module,Amasty_Cart
+Title,כותרת,module,Amasty_Cart
+Subtitle,Subtitle,module,Amasty_Cart
+Products Qty Limit,Products Qty Limit,module,Amasty_Cart
+If more than 2 then slider is activated,If more than 2 then slider is activated,module,Amasty_Cart
+Visual Options,Visual Options,module,Amasty_Cart
+Background Color,Background Color,module,Amasty_Cart
+Product Name Color,Product Name Color,module,Amasty_Cart
+Text Color,Text Color,module,Amasty_Cart
+Button Text Color,Button Text Color,module,Amasty_Cart
+Continue Button Color,Continue Button Color,module,Amasty_Cart
+View Cart Button Color,View Cart Button Color,module,Amasty_Cart
+Automatic Related Products,Automatic Related Products,module,Amasty_Cart
+Status,Status,module,Amasty_Cart
+"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.","Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",module,Amasty_Cart
+Department,מַחלָקָה,module,Mirasvit_Helpdesk
+"Create New Ticket","צור כרטיס חדש",module,Mirasvit_Helpdesk
+Status,סטָטוּס,module,Mirasvit_Helpdesk
+Priority,עדיפות,module,Mirasvit_Helpdesk
+Replies,תגובות,module,Mirasvit_Helpdesk
+View,נוף,module,Mirasvit_Helpdesk
+"Help Desk","דלפק עזרה",module,Mirasvit_Helpdesk
+"Thank you",תודה,module,Mirasvit_Helpdesk
+"Create Ticket","צור כרטיס",module,Mirasvit_Helpdesk
+"Your request was successfully submitted. You should receive a confirmation email shortly.","הבקשה שלך נשלחה בהצלחה. בקרוב תקבל דוא&quot;ל אישור.",module,Mirasvit_Helpdesk
+Telephone,טֵלֵפוֹן,module,Mirasvit_Helpdesk
+"Your inquiry was submitted and will be responded to as soon as possible. Thank you for contacting us.","שאלתך נשלחה ותוגש בהקדם האפשרי. תודה שפנית אלינו.",module,Mirasvit_Helpdesk
+"Unable to submit your request. Please, try again later","לא ניתן לשלוח את הבקשה שלך. בבקשה נסה שוב מאוחר יותר",module,Mirasvit_Helpdesk
+"Page not found.","הדף לא נמצא.",module,Mirasvit_Helpdesk
+"Your message was successfuly posted","ההודעה שלך נשלחה בהצלחה",module,Mirasvit_Helpdesk
+"Your ticket was successfuly posted","הכרטיס שלך פורסם בהצלחה",module,Mirasvit_Helpdesk
+"Ticket was successfuly closed","הכרטיס נסגר בהצלחה",module,Mirasvit_Helpdesk
+"Can't upload file %1 . Max allowed upload size is %2 MB.","לא ניתן לטעון את הקובץ %1. הגודל המרבי המותר להעלאה הוא %2 MB.",module,Mirasvit_Helpdesk
+"Allows only this file types: %1","מאפשר רק את סוגי הקבצים הבאים: %1",module,Mirasvit_Helpdesk
+"Message added","ההודעה נוספה",module,Mirasvit_Helpdesk
+"Internal note added","הערה פנימית נוספה",module,Mirasvit_Helpdesk
+"Third party message added","נוספה הודעת צד שלישי",module,Mirasvit_Helpdesk
+"Private third party message added","הודעה פרטית של צד שלישי נוספה",module,Mirasvit_Helpdesk
+"-- Please Select --","-- בבקשה תבחר --",module,Mirasvit_Helpdesk
+"Contact Tab","לשונית אנשי קשר",module,Mirasvit_Helpdesk
+"Contact Form","טופס יצירת קשר",module,Mirasvit_Helpdesk
+" at %1 (%2) - %3","ב- %1 (%2) - %3",module,Mirasvit_Helpdesk
+"You don't have permissions to read this ticket. Please, contact your administrator.","אין לך הרשאות לקרוא את הכרטיס הזה. אנא פנה למנהל המערכת שלך.",module,Mirasvit_Helpdesk
+"Invalid Customer Email","דוא&quot;ל לקוח לא חוקי",module,Mirasvit_Helpdesk
+"not set","לא מוכן",module,Mirasvit_Helpdesk
+"Unknown time","זמן לא ידוע",module,Mirasvit_Helpdesk
+ago,לִפנֵי,module,Mirasvit_Helpdesk
+"from now",מעכשיו,module,Mirasvit_Helpdesk
+"1 sec ago","לפני 1 שנייה",module,Mirasvit_Helpdesk
+"Open Ticket","כרטיס פתוח",module,Mirasvit_Helpdesk
+"Open Tickets","כרטיסים פתוחים",module,Mirasvit_Helpdesk
+"! Blocked file - ","! קובץ חסום -",module,Mirasvit_Helpdesk
+Disabled,השבת,module,Mirasvit_Helpdesk
+"AW Helpdesk","עזרה AW",module,Mirasvit_Helpdesk
+"MW Helpdesk","MW Helpdesk",module,Mirasvit_Helpdesk
+"File System","מערכת קבצים",module,Mirasvit_Helpdesk
+Database,"מאגר מידע",module,Mirasvit_Helpdesk
+Aqua,אקווה,module,Mirasvit_Helpdesk
+Grey,אפור,module,Mirasvit_Helpdesk
+Navy,"חיל הים",module,Mirasvit_Helpdesk
+Silver,כסף,module,Mirasvit_Helpdesk
+Black,שָׁחוֹר,module,Mirasvit_Helpdesk
+Green,ירוק,module,Mirasvit_Helpdesk
+Olive,זית,module,Mirasvit_Helpdesk
+Teal,"ירוק כחלחל",module,Mirasvit_Helpdesk
+Blue,כָּחוֹל,module,Mirasvit_Helpdesk
+Lime,ליים,module,Mirasvit_Helpdesk
+Purple,סָגוֹל,module,Mirasvit_Helpdesk
+Fuchsia,"ורוד פוקסיה",module,Mirasvit_Helpdesk
+Maroon,"חוּם עֲרמוֹנִי",module,Mirasvit_Helpdesk
+Red,אָדוֹם,module,Mirasvit_Helpdesk
+Orange,תפוז,module,Mirasvit_Helpdesk
+Yellow,צהוב,module,Mirasvit_Helpdesk
+Text,טֶקסט,module,Mirasvit_Helpdesk
+Date,תַאֲרִיך,module,Mirasvit_Helpdesk
+Checkbox,"תיבת סימון",module,Mirasvit_Helpdesk
+"Drop-down list","רשימה נפתחת",module,Mirasvit_Helpdesk
+"In minutes...",בדקות...,module,Mirasvit_Helpdesk
+"In hours...","בשעות ...",module,Mirasvit_Helpdesk
+"In days...",בימים...,module,Mirasvit_Helpdesk
+"In weeks...","בשבועות ...",module,Mirasvit_Helpdesk
+"In months...","בחודשים ...",module,Mirasvit_Helpdesk
+Custom,"המותאם אישית",module,Mirasvit_Helpdesk
+"--Please Select--","--בבקשה תבחר--",module,Mirasvit_Helpdesk
+"New ticket created","כרטיס חדש נוצר",module,Mirasvit_Helpdesk
+Success,הַצלָחָה,module,Mirasvit_Helpdesk
+Customer,צרכן,module,Mirasvit_Helpdesk
+Staff,צוות,module,Mirasvit_Helpdesk
+"Third party","צד שלישי",module,Mirasvit_Helpdesk
+Closed,סָגוּר,module,Mirasvit_Helpdesk
+"Opened 24hr","נפתח 24 שעות",module,Mirasvit_Helpdesk
+"Helpdesk Tickets","כרטיסי תמיכה",module,Mirasvit_Helpdesk
+"Cannot delete ticket with id %1","לא ניתן למחוק כרטיס עם מזהה %1",module,Mirasvit_Helpdesk
+Edit,לַעֲרוֹך,module,Mirasvit_Helpdesk
+"All Departments","כל המחלקות",module,Mirasvit_Helpdesk
+Back,חזור,module,Mirasvit_Helpdesk
+"24 hrs x 7 days","24 שעות x 7 ימים",module,Mirasvit_Helpdesk
+"Select working days/hours","בחר ימי עבודה / שעות",module,Mirasvit_Helpdesk
+"Satisfaction survey","סקר שביעות רצון",module,Mirasvit_Helpdesk
+"to %1 (third party)","אל %1 (צד שלישי)",module,Mirasvit_Helpdesk
+"%1 (third party)","%1 (צד שלישי)",module,Mirasvit_Helpdesk
+"added %1 (%2)","הוסיף %1 (%2)",module,Mirasvit_Helpdesk
+"Ticket Summary","סיכום כרטיסים",module,Mirasvit_Helpdesk
+"Ticket ID","מזהה כרטיס",module,Mirasvit_Helpdesk
+Assignee,נִמחֶה,module,Mirasvit_Helpdesk
+"Additional Info","מידע נוסף",module,Mirasvit_Helpdesk
+"Ticket History","היסטוריית כרטיסים",module,Mirasvit_Helpdesk
+"Done by","בוצע ע&quot;י",module,Mirasvit_Helpdesk
+Changes,שינויים,module,Mirasvit_Helpdesk
+Name,שֵׁם,module,Mirasvit_Helpdesk
+"Attach files","צרף קבצים",module,Mirasvit_Helpdesk
+Submit,שלח,module,Mirasvit_Helpdesk
+"Submit Ticket","שלח כרטיס",module,Mirasvit_Helpdesk
+"What is your question?","מה השאלה שלך?",module,Mirasvit_Helpdesk
+"We found the following topics that might be helpful:","מצאנו את הנושאים הבאים שעשויים להיות שימושיים:",module,Mirasvit_Helpdesk
+"None of these are helpful - get in touch","אף אחד מאלה לא עוזר - צור קשר",module,Mirasvit_Helpdesk
+"We have not found topics that can be helpful.","לא מצאנו נושאים שיכולים לעזור.",module,Mirasvit_Helpdesk
+"Contact Information","פרטי התקשרות",module,Mirasvit_Helpdesk
+Comment,תגובה,module,Mirasvit_Helpdesk
+"We are open 24 x 7","אנחנו פתוחים 24 x 7",module,Mirasvit_Helpdesk
+"We are closed","אנחנו סגורים",module,Mirasvit_Helpdesk
+"Timezone: %1","אזור זמן: %1",module,Mirasvit_Helpdesk
+"Please take a second to rate my reply...","הקדש שנייה כדי לדרג את תשובתי ...",module,Mirasvit_Helpdesk
+Great,גדול,module,Mirasvit_Helpdesk
+Awesome,מדהים,module,Mirasvit_Helpdesk
+"Fast, friendly, helpful, pleasant. Great job!","מהיר, ידידותי, מועיל, נעים. עבודה טובה!",module,Mirasvit_Helpdesk
+"Just Okay","רק בסדר",module,Mirasvit_Helpdesk
+"Fine, but definitely could have been better.","בסדר, אבל בהחלט יכול היה להיות טוב יותר.",module,Mirasvit_Helpdesk
+"Not good","לא טוב",module,Mirasvit_Helpdesk
+"Unfortunately, I wasn't happy with it at all.","לרוע המזל, לא הייתי מרוצה ממנו כלל.",module,Mirasvit_Helpdesk
+"Thank you for participating in our survey!","תודה על השתתפותך בסקר שלנו!",module,Mirasvit_Helpdesk
+"If you would like to provide additional comments, please do so below:","אם תרצה לספק הערות נוספות, אנא בצע את הפעולות הבאות:",module,Mirasvit_Helpdesk
+Message,הוֹדָעָה,module,Mirasvit_Helpdesk
+"Submit Message","שלח הודעה",	module,	Mirasvit_Helpdesk
+"Thank you for your feedback!","תודה על המשוב שלך!",module,Mirasvit_Helpdesk
+Attachments,"קבצים מצורפים",module,Mirasvit_Helpdesk
+Order,להזמין,module,Mirasvit_Helpdesk
+"-- Select an Order --","- בחר הזמנה -",module,Mirasvit_Helpdesk
+"Create ticket","צור כרטיס",module,Mirasvit_Helpdesk
+"You don't have open tickets","אין לך כרטיסים פתוחים",module,Mirasvit_Helpdesk
+"Post a Reply","פרסם תגובה",module,Mirasvit_Helpdesk
+"Reopen Ticket","פתיחה מחדש של כרטיס",module,Mirasvit_Helpdesk
+"Close Ticket","סגור כרטיס",module,Mirasvit_Helpdesk
+History,הִיסטוֹרִיָה,module,Mirasvit_Helpdesk
+"Back to My Tickets","חזרה אל הכרטיסים שלי",module,Mirasvit_Helpdesk
+"Help Desk MX","Help Desk MX",module,Mirasvit_Helpdesk
+"Contact Us","תיצור איתנו קשר",module,Mirasvit_Helpdesk
+Open,לִפְתוֹחַ,module,Mirasvit_Helpdesk
+Subject,נושא,module,Mirasvit_Helpdesk
+"Last Activity","פעילות אחרונה",module,Mirasvit_Helpdesk
+"Request ID","מזהה בקשה",module,Mirasvit_Helpdesk
+"All Brands","כל המותגים",module,Amasty_ShopbyBrand
+"Search Brands","חיפוש מותגים",module,Amasty_ShopbyBrand
+"Search Brand","חיפוש מותג",module,Amasty_ShopbyBrand
+"Make sure that ""%1"" attribute can be used in layered navigation","ודא כי ניתן להשתמש בתכונה ""%1"" בניווט שכבתי",module,Amasty_ShopbyBrand
+"Brands","מותגים",module,Amasty_ShopbyBrand
+"Shop all","כל המוצרים",module,Ubertheme_UbMegaMenu
