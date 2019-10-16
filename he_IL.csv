@@ -694,7 +694,7 @@ Department,מַחלָקָה,module,Mirasvit_Helpdesk
 Status,סטָטוּס,module,Mirasvit_Helpdesk
 Priority,עדיפות,module,Mirasvit_Helpdesk
 Replies,תגובות,module,Mirasvit_Helpdesk
-View,נוף,module,Mirasvit_Helpdesk
+View,הצג,module,Mirasvit_Helpdesk
 "Help Desk","דלפק עזרה",module,Mirasvit_Helpdesk
 "Thank you",תודה,module,Mirasvit_Helpdesk
 "Create Ticket","צור כרטיס",module,Mirasvit_Helpdesk
@@ -957,8 +957,8 @@ Edit,עריכה,module,Amasty_Affiliate
 Enable,אפשר,module,Amasty_Affiliate
 Disable,בטל,module,Amasty_Affiliate
 Delete ${ $.$data.name },מחק $ {$. Data.name $},module,Amasty_Affiliate
-Are you sure you wan't to delete a ${ $.$data.name } record?,האם אתה בטוח שאתה רוצה לבצע למחוק $ {$. $ Data.name} שיא?,module,Amasty_Affiliate
-View,נוף,module,Amasty_Affiliate
+Are you sure you wan't to delete a ${ $.$data.name } record?,האם אתה בטוח שאתה רוצה לבצע למחוק $ {$. $ Data.name} רשומה?,module,Amasty_Affiliate
+View,הצג,module,Amasty_Affiliate
 Commission for order #,עמלה להזמנה מספר,module,Amasty_Affiliate
 Orders,הזמנות,module,Amasty_Affiliate
 Program,תכנית,module,Amasty_Affiliate
@@ -990,8 +990,8 @@ You have no banners.,אין לך באנרים.,module,Amasty_Affiliate
 Copied,הועתק,module,Amasty_Affiliate
 Your account has been disabled by store administrator. Please contact us for details.,החשבון שלך הושיב על ידי מנהל חנות. אנא צור איתנו קשר לקבלת פרטים.,module,Amasty_Affiliate
 * Required Fields,* שדות חובה,module,Amasty_Affiliate
-Referring Website,אתר בהתייחסו,module,Amasty_Affiliate
-Paypal Email,"דוא""ל Paypal",module,Amasty_Affiliate
+Referring Website,אתר המפנה,module,Amasty_Affiliate
+Paypal Email,"דוא""ל (Paypal)",module,Amasty_Affiliate
 Subscribe to Email Notifications,"הירשם לקבלת הודעות בדוא""ל",module,Amasty_Affiliate
 Accept Terms and Conditions,קבל תנאי שימוש,module,Amasty_Affiliate
 Source,מקור,module,Amasty_Affiliate
