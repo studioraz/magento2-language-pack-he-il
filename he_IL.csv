@@ -831,3 +831,315 @@ Subject,נושא,module,Mirasvit_Helpdesk
 "Make sure that ""%1"" attribute can be used in layered navigation","ודא כי ניתן להשתמש בתכונה ""%1"" בניווט שכבתי",module,Amasty_ShopbyBrand
 "Brands","מותגים",module,Amasty_ShopbyBrand
 "Shop all","כל המוצרים",module,Ubertheme_UbMegaMenu
+Affiliate Programs,תוכניות שותפים,module,Amasty_Affiliate
+Refer Friends,הפנה חברים,module,Amasty_Affiliate
+Affiliate Settings,הגדרות שותפים,module,Amasty_Affiliate
+My Balance,היתרה שלי,module,Amasty_Affiliate
+Per Profit,לפי רווח,module,Amasty_Affiliate
+Commission per oder #,עמלה לכל הזמנה #,module,Amasty_Affiliate
+Withdrawal,משיכת,module,Amasty_Affiliate
+Reset,איפוס,module,Amasty_Affiliate
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_Affiliate
+Save,לשמור,module,Amasty_Affiliate
+Delete,מחק,module,Amasty_Affiliate
+Are you sure you want to delete this?,האם אתה בטוח שברצונך למחוק את זה?,module,Amasty_Affiliate
+Affiliate Account,חשבון שותפים,module,Amasty_Affiliate
+Enabled,מופעל,module,Amasty_Affiliate
+Receive Notifications,לקבל התראות,module,Amasty_Affiliate
+Please create shopping cart price rule with 'Auto generated coupons',"אנא צור חוק הנחת קופה עם ""יצירת קופונים אוטומטים""",module,Amasty_Affiliate
+Cancel,לבטל,module,Amasty_Affiliate
+Pay,שלם,module,Amasty_Affiliate
+"You should accept ""Accept Terms and Conditions","'אתה צריך לקבל 'מסכים לתנאים והגבלות",module,Amasty_Affiliate
+Affiliate Account has successfully saved,חשבון השותף נשמר בהצלחה,module,Amasty_Affiliate
+Promo Data,נתוני פרומו,module,Amasty_Affiliate
+Settings,הגדרות,module,Amasty_Affiliate
+Traffic Sources,מקורות תנועה,module,Amasty_Affiliate
+Promo Widget,יישומון פרומו,module,Amasty_Affiliate
+Affiliate Widget has successfully saved,יישומון שותפים נשמר בהצלחה,module,Amasty_Affiliate
+My Withdrawals,משיכות שלי,module,Amasty_Affiliate
+Please enter an amount more than zero,נא להזין את סכום שגדול מאפס,module,Amasty_Affiliate
+You have no enough funds available for the withdrawal,אין לך מספיק כסף זמין עבור משיכה,module,Amasty_Affiliate
+Withdrawal was successfully canceled.,משיכה בוטלה בהצלחה.,module,Amasty_Affiliate
+Withdrawal was successfully created.,משיכה נוצר בהצלחה.,module,Amasty_Affiliate
+Manage Affiliate Accounts,ניהול חשבונות שותפים,module,Amasty_Affiliate
+This account no longer exists.,חשבון זה אינו קיים עוד.,module,Amasty_Affiliate
+Manage Affiliate Account,ניהול חשבון השותפים,module,Amasty_Affiliate
+New Affiliate Account,חשבון שותפים חדש,module,Amasty_Affiliate
+Affiliate Accounts,חשבונות שותפים,module,Amasty_Affiliate
+A total of %1 record(s) have been deleted.,סך של שיא% 1 (ים) נמחק.,module,Amasty_Affiliate
+The account is saved.,החשבון נשמר.,module,Amasty_Affiliate
+Manage Affiliate Banners,ניהול באנרים שותפים,module,Amasty_Affiliate
+The banner has been deleted.,הבאנר נמחק.,module,Amasty_Affiliate
+We can't find a page to delete.,אנחנו לא יכולים למצוא בעמוד למחוק.,module,Amasty_Affiliate
+This banner no longer exists.,באנר זה כבר לא קיים.,module,Amasty_Affiliate
+Manage Banner,ניהול באנר,module,Amasty_Affiliate
+New Banner,ניו באנר,module,Amasty_Affiliate
+Affiliate Banners,באנרים שותפים,module,Amasty_Affiliate
+Please use valid url,השתמש בכתובת אתר חוקית,module,Amasty_Affiliate
+The banner is saved.,הבאנר נשמר.,module,Amasty_Affiliate
+Manage Affiliate Program,ניהול תוכנית שותפים,module,Amasty_Affiliate
+Status for Program with ID %1 has been changed.,מצב עבור תוכנית עם זיהוי% 1 שונתה.,module,Amasty_Affiliate
+The program has been deleted.,התכנית נמחקה.,module,Amasty_Affiliate
+This program no longer exists.,תוכנית זו אינה קיימת עוד.,module,Amasty_Affiliate
+New Affiliate Program,תכנית שותפים חדשה,module,Amasty_Affiliate
+The program is saved.,התכנית נשמרה.,module,Amasty_Affiliate
+Manage Affiliate Transactions,נהל עסקאות שותפים,module,Amasty_Affiliate
+This transaction no longer exists.,עסקה זו אינה קיימת עוד.,module,Amasty_Affiliate
+Manage Affiliate Transaction,ניהול עסקת השותפים,module,Amasty_Affiliate
+Affiliate Transactions,עסקאות שותפים,module,Amasty_Affiliate
+Manage Affiliate Withdrawals,ניהול משיכות שותפים,module,Amasty_Affiliate
+The withdrawal was canceled.,הנסיגה בוטלה.,module,Amasty_Affiliate
+This withdrawal no longer exists.,נסיגה זו אינה קיימת עוד.,module,Amasty_Affiliate
+Manage Affiliate Withdrawal,ניהול משייך שותפים,module,Amasty_Affiliate
+New Affiliate Withdrawal,שותפים חדשים משייך,module,Amasty_Affiliate
+Affiliate Withdrawals,משיכות שותפים,module,Amasty_Affiliate
+The withdrawal was already processed,המשיכה כבר מעובדת,module,Amasty_Affiliate
+The account has not enough funds to this withdrawal,אין בחשבון לא מספיק כספים כדי נסיגה זו,module,Amasty_Affiliate
+The withdrawal was payed.,הנסיגה היתה בתשלום.,module,Amasty_Affiliate
+Active,Active,module,Amasty_Affiliate
+Inactive,לא פעיל,module,Amasty_Affiliate
+Unable to save account with ID %1. Error: %2,לא ניתן לשמור את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new account. Error: %1,לא ניתן לשמור את חשבון חדש. שגיאה:% 1,module,Amasty_Affiliate
+"Account with specified ID ""%1"" not found.","חשבון עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove account with ID %1. Error: %2,ניתן להסיר את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove account. Error: %1,ניתן להסיר את החשבון. שגיאה:% 1,module,Amasty_Affiliate
+No such entity with %fieldName = %fieldValue,אין ישות עם% fieldName =% fieldValue,module,Amasty_Affiliate
+Something went wrong while getting the image url.,משהו השתבש בזמן מקבל את התמונה url.,module,Amasty_Affiliate
+Disabled,לנכים,module,Amasty_Affiliate
+Image,תמונה,module,Amasty_Affiliate
+Text,טקסט,module,Amasty_Affiliate
+Unable to save banner with ID %1. Error: %2,אין אפשרות לשמור באנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new banner. Error: %1,אין אפשרות לשמור הבאנר החדש. שגיאה:% 1,module,Amasty_Affiliate
+"Banner with specified ID ""%1"" not found.","באנר עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove banner with ID %1. Error: %2,לא ניתן להסיר את הבאנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove banner. Error: %1,לא ניתן להסיר את הבאנר. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save lifetime with ID %1. Error: %2,אין אפשרות לשמור בחיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new lifetime. Error: %1,אין אפשרות לשמור בחיים חדשים. שגיאה:% 1,module,Amasty_Affiliate
+"Lifetime with specified ID ""%1"" not found.","חיים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove lifetime with ID %1. Error: %2,לא ניתן להסיר את החיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove lifetime. Error: %1,לא ניתן להסיר את החיים. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save links with ID %1. Error: %2,לא ניתן לשמור קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new links. Error: %1,לא ניתן לשמור קישורים חדשים. שגיאה:% 1,module,Amasty_Affiliate
+"Links with specified ID ""%1"" not found.","קישורים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove links with ID %1. Error: %2,לא ניתן להסיר קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove links. Error: %1,לא ניתן להסיר את הקישורים. שגיאה:% 1,module,Amasty_Affiliate
+Percent of product price discount,אחוז הנחה במחיר המוצר,module,Amasty_Affiliate
+Fixed amount discount,הנחה בסכום קבוע,module,Amasty_Affiliate
+Fixed amount discount for whole cart,הנחת סכום קבוע עבור עגלה,module,Amasty_Affiliate
+Buy X get Y free (discount amount is Y),לקנות X קבל Y בחינם (סכום ההנחה היא Y),module,Amasty_Affiliate
+Percent,אחוז,module,Amasty_Affiliate
+Fixed,תוקן,module,Amasty_Affiliate
+Per Sale,לפי למכירה,module,Amasty_Affiliate
+Unable to save program with ID %1. Error: %2,אין אפשרות לשמור תוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new program. Error: %1,אין אפשרות לשמור תוכנית חדשה. שגיאה:% 1,module,Amasty_Affiliate
+"Program with specified ID ""%1"" not found.","תוכנית עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove program with ID %1. Error: %2,לא ניתן להסיר את התוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove program. Error: %1,לא ניתן להסיר את התוכנית. שגיאה:% 1,module,Amasty_Affiliate
+Top Menu,תפריט עליון,module,Amasty_Affiliate
+Bottom Menu,תפריט תחתון,module,Amasty_Affiliate
+Affiliate Code,קוד השותפים,module,Amasty_Affiliate
+Affiliate ID,מזהה שותפים,module,Amasty_Affiliate
+Pending,ממתין ל,module,Amasty_Affiliate
+Completed,הושלם,module,Amasty_Affiliate
+Canceled,מבוטל,module,Amasty_Affiliate
+On Hold,בהמתנה,module,Amasty_Affiliate
+Unable to save transaction with ID %1. Error: %2,אין אפשרות לשמור העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new transaction. Error: %1,אין אפשרות לשמור העסקה חדשה. שגיאה:% 1,module,Amasty_Affiliate
+"Transaction with specified ID ""%1"" not found.","עסקה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove transaction with ID %1. Error: %2,לא ניתן להסיר את העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove transaction. Error: %1,לא ניתן להסיר את העסקה. שגיאה:% 1,module,Amasty_Affiliate
+"Withdrawal with specified ID ""%1"" not found.","משיכה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+"This shopping cart price rule is assigned to the Affiliate Program.
+                The affiliate program discount will not apply without a rule assigned.","כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
+                הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.",module,Amasty_Affiliate
+Affiliate Account changes were not saved: customer have to accept Affiliate Program's first in Customer Account.,שינויים לחשבון עסקי לא נשמרו: לקוח צריך לקבל הראשונה של תכנית השותפים בחשבון לקוחות.,module,Amasty_Affiliate
+Edit,עריכה,module,Amasty_Affiliate
+Enable,אפשר,module,Amasty_Affiliate
+Disable,בטל,module,Amasty_Affiliate
+Delete ${ $.$data.name },מחק $ {$. Data.name $},module,Amasty_Affiliate
+Are you sure you wan't to delete a ${ $.$data.name } record?,האם אתה בטוח שאתה רוצה לבצע למחוק $ {$. $ Data.name} שיא?,module,Amasty_Affiliate
+View,נוף,module,Amasty_Affiliate
+Commission for order #,עמלה להזמנה מספר,module,Amasty_Affiliate
+Orders,הזמנות,module,Amasty_Affiliate
+Program,תכנית,module,Amasty_Affiliate
+Type,סוג,module,Amasty_Affiliate
+Commission,עמלה,module,Amasty_Affiliate
+Commission from 2nd order,עמלה (מההזמנה השניה),module,Amasty_Affiliate
+Discount Type,סוג הנחה,module,Amasty_Affiliate
+Discount,הנחה,module,Amasty_Affiliate
+Commission(from 2nd order),עמלה (מההזמנה השניה),module,Amasty_Affiliate
+You have no programs.,אין לך תוכניות.,module,Amasty_Affiliate
+Coupon Codes,קודי קופון,module,Amasty_Affiliate
+Affiliate Program,תכנית שותפים,module,Amasty_Affiliate
+Coupon Code,קוד קופון,module,Amasty_Affiliate
+Program Name,שם תכנית,module,Amasty_Affiliate
+Copy,עותק,module,Amasty_Affiliate
+Share the coupon and receive a commission for the purchase using this code.,שתף את הקופון וקבל עמלה עבור הרכישה באמצעות קוד זה.,module,Amasty_Affiliate
+You have no coupons.,אין לך קופונים.,module,Amasty_Affiliate
+Referral Link,קישור הפניה,module,Amasty_Affiliate
+Enter any URL from this store in the form below to generate a new referral link,זן כתובת אתר מחנות זו את הטופס הבא כדי ליצור קישור הפניה חדש,module,Amasty_Affiliate
+"Enter any URL from this store
+                    in the form below to generate a new referral link","זן כתובת אתר מחנות זו
+                    את הטופס הבא כדי ליצור קישור הפניה חדש",module,Amasty_Affiliate
+Banners,באנרים,module,Amasty_Affiliate
+Name,שם,module,Amasty_Affiliate
+Clicks,קליקים,module,Amasty_Affiliate
+Link,קישור,module,Amasty_Affiliate
+Preview,תצוגה מקדימה,module,Amasty_Affiliate
+You have no banners.,אין לך באנרים.,module,Amasty_Affiliate
+Copied,הועתק,module,Amasty_Affiliate
+Your account has been disabled by store administrator. Please contact us for details.,החשבון שלך הושיב על ידי מנהל חנות. אנא צור איתנו קשר לקבלת פרטים.,module,Amasty_Affiliate
+* Required Fields,* שדות חובה,module,Amasty_Affiliate
+Referring Website,אתר בהתייחסו,module,Amasty_Affiliate
+Paypal Email,"דוא""ל Paypal",module,Amasty_Affiliate
+Subscribe to Email Notifications,"הירשם לקבלת הודעות בדוא""ל",module,Amasty_Affiliate
+Accept Terms and Conditions,קבל תנאי שימוש,module,Amasty_Affiliate
+Source,מקור,module,Amasty_Affiliate
+Count,לספור,module,Amasty_Affiliate
+You have no traffic.,אין לך תנועה.,module,Amasty_Affiliate
+Balance:,איזון:,module,Amasty_Affiliate
+Available:,זמין:,module,Amasty_Affiliate
+On Hold:,בהמתנה:,module,Amasty_Affiliate
+Lifetime:,לכל החיים:,module,Amasty_Affiliate
+Paid:,שולם:,module,Amasty_Affiliate
+Date,תאריך,module,Amasty_Affiliate
+Balance,איזון,module,Amasty_Affiliate
+Amount,כמות,module,Amasty_Affiliate
+Details,פרטים,module,Amasty_Affiliate
+You have no transactions.,אין לך עסקאות.,module,Amasty_Affiliate
+Title,כותרת,module,Amasty_Affiliate
+Products Qty,מוצרי כמות,module,Amasty_Affiliate
+"Width, px","רוחב, פיקסלים",module,Amasty_Affiliate
+"Height, px","גובה, פיקסלים",module,Amasty_Affiliate
+Bestsellers,רבי מכר,module,Amasty_Affiliate
+New Products,מוצרים חדשים,module,Amasty_Affiliate
+Product Name,שם מוצר,module,Amasty_Affiliate
+Price,מחיר,module,Amasty_Affiliate
+Minimum Payout:,תשלום מינימאלי:,module,Amasty_Affiliate
+Submit Request,שלח בקשה,module,Amasty_Affiliate
+Send Request,שלח בקשה,module,Amasty_Affiliate
+"The minimum ""Available"" balance to request a withdrawal is ","היתרה המינימלית ""זמינה"" לבקשת משיכה היא",module,Amasty_Affiliate
+#,#,module,Amasty_Affiliate
+Status,מצב,module,Amasty_Affiliate
+Action,פעולה,module,Amasty_Affiliate
+Actions,פעולות,module,Amasty_Affiliate
+Repeat,חזור,module,Amasty_Affiliate
+You have no withdrawals.,אין לך משיכות.,module,Amasty_Affiliate
+Affiliate,שותפים,module,Amasty_Affiliate
+Manage Programs,ניהול תוכניות,module,Amasty_Affiliate
+Manage Accounts,ניהול חשבונות,module,Amasty_Affiliate
+Manage Banners,ניהול באנרים,module,Amasty_Affiliate
+Manage Transactions,נהל עסקאות,module,Amasty_Affiliate
+Manage Withdrawals,ניהול משיכות,module,Amasty_Affiliate
+General Settings,הגדרות כלליות,module,Amasty_Affiliate
+Add Affiliate Link to Footer,הוסף קישור שותפים כדי תחתון,module,Amasty_Affiliate
+Cookie Expiration (Days),קובץ cookie פג (ימים),module,Amasty_Affiliate
+"The number of days the system stores cookies for the affiliate program. Default: 365 (Days). If a referred visitor comes to
+                        your site using an affiliate link and completes any order within 365 days, he (she) will receive a discount and the affiliate will get a commission. After this period the affiliate won't earn
+                        any commission, a referred customer won't get a discount.","מספר ימים המערכת מאחסנת עוגיות עבור תוכנית השותפים. ברירת מחדל: 365 (ימים). אם מבקר שהופנה מגיע
+                        האתר באמצעות קישור שותפים ומשלים בכל סדר בתוך 365 ימים, הוא (היא) יקבל הנחה ואת השותפים יקבלו עמלה. לאחר תקופה זו השותפים לא ירוויחו
+                        כל עמלה, לקוח המכונה לא תקבל הנחה.",module,Amasty_Affiliate
+Account,חשבון,module,Amasty_Affiliate
+"Checked ""Email Notifications"" by Default","בדקו ""הודעות דוא""ל"" כברירת מחדל",module,Amasty_Affiliate
+"If ""Yes"", the ""Email notifications"" subscription will be auto checked in the affiliate account.","אם ""כן"", ""הודעות דוא""ל"" המנוי ייבדק אוטומטי בחשבון השותפים.",module,Amasty_Affiliate
+Affiliate URL,כתובת אתר שותפים,module,Amasty_Affiliate
+Affiliate General URL,כתובת אתר שותפים כללי,module,Amasty_Affiliate
+This text replace amasty_affiliate in next url: {donmain}/amasty_affiliate/account/setting.,This text replace amasty_affiliate in next url: {donmain}/amasty_affiliate/account/setting.,module,Amasty_Affiliate
+Customer Parameter,פרמטר לקוחות,module,Amasty_Affiliate
+It will be used in URLs such as: ?c=123,זה ישמש כתובות כגון:? C = 123,module,Amasty_Affiliate
+Affiliate code length,אורך קוד השותפים,module,Amasty_Affiliate
+The code should contain from 4 to 31 symbols. '10' is set by default.,"הקוד צריך להכיל מ 4 כדי 31 סימנים. ""10"" מוגדר כברירת מחדל.",module,Amasty_Affiliate
+Commission Workflow,זרימת העבודה של העמלה ,module,Amasty_Affiliate
+Add Commission When Order Obtained Status,להוסיף עמלה כאשר התקבלה הזמנה,module,Amasty_Affiliate
+Subtract Commission When Order Obtained Status,להפחית עמלה כאשר התקבלה הזמנה,module,Amasty_Affiliate
+It works for the Pay per Sale programs only.,זה עובד עבור Pay per תוכניות מכירה בלבד.,module,Amasty_Affiliate
+Subtract Commission When Creditmemo is Created,חיסור עמלה כאשר זיכוי נוצר,module,Amasty_Affiliate
+Commission Holding Period (Days),עמלת תקופת החזקה (ימים),module,Amasty_Affiliate
+Withdrawal Configuration,תצורת משיכת,module,Amasty_Affiliate
+Minimum Withdrawal Amount,כמות משיכת מינימום,module,Amasty_Affiliate
+"The Minimum ""Available"" Balance to Request Withdrawal","המינימום ""הזמין"" מאזן לבקש את הוצאתם",module,Amasty_Affiliate
+Email Notifications,"הודעות דוא""ל",module,Amasty_Affiliate
+General,כללי,module,Amasty_Affiliate
+Send Emails To,לשלוח מיילים,module,Amasty_Affiliate
+Email Sender,אי-מייל,module,Amasty_Affiliate
+To Affiliate,להשתייך,module,Amasty_Affiliate
+Welcome Email After Sign Up,"דוא""ל ברוכים הבאים לאחר הרשם",module,Amasty_Affiliate
+Template,תבנית,module,Amasty_Affiliate
+Account Status Change,שינוי מצב חשבון,module,Amasty_Affiliate
+New Transaction is Created,עסקה חדשה נוצרת,module,Amasty_Affiliate
+Transaction Status is Changed,סטטוס טרנזקציה משתנה,module,Amasty_Affiliate
+Withdrawal Status is Changed,מצב המשיכה משתנה,module,Amasty_Affiliate
+To Admin,כדי Admin,module,Amasty_Affiliate
+New Withdrawal Request,ניו בקשת משיכה,module,Amasty_Affiliate
+New Affiliate Sing Up,השותפים החדשים סינג Up,module,Amasty_Affiliate
+AddThis Account ID,AddThis חשבון ID,module,Amasty_Affiliate
+"Public AddThis Account ID ra-5968d339b0751a2f is used for testing purpose. Please click <a href=""https://www.addthis.com"" target=""_blank"">here</a> to get your own AddThis Account ID.","AddThis החשבון מזהה RA-5968d339b0751a2f הציבורי משמש למטרת בדיקה. לחץ <a href=""https://www.addthis.com"" target=""_blank""> כאן </a> כדי לקבל את זיהוי חשבון AddThis משלך.",module,Amasty_Affiliate
+Refer Friends Page Content,עיין תוכן דף החברים,module,Amasty_Affiliate
+Traffic Sources Page Content,תוכן תנועת דף המקורות,module,Amasty_Affiliate
+Enable on Product Listing Page,אפשר פרטי מוצר העמוד,module,Amasty_Affiliate
+Enable on Product Details Page,אפשר על מוצרי פרטי עמוד,module,Amasty_Affiliate
+Enable on My Account / Affiliate menu,אפשר על תפריט החשבון / השותפים שלי,module,Amasty_Affiliate
+Terms and Conditions,תנאים,module,Amasty_Affiliate
+Checkbox Text,טקסט תיבת סימון,module,Amasty_Affiliate
+Checkbox is Checked by Default,תיבת סימון מסומנת כברירת מחדל,module,Amasty_Affiliate
+Coupon,קופון,module,Amasty_Affiliate
+Back,חזור,module,Amasty_Affiliate
+General Information,מידע כללי,module,Amasty_Affiliate
+First Name,שם פרטי,module,Amasty_Affiliate
+Last Name,שם משפחה,module,Amasty_Affiliate
+Email Address,"כתובת דוא""ל",module,Amasty_Affiliate
+Receive Notification Emails,לקבל הודעות דואל,module,Amasty_Affiliate
+Yes,כן,module,Amasty_Affiliate
+No,לא,module,Amasty_Affiliate
+Payment Information,פרטי תשלום,module,Amasty_Affiliate
+PayPal Email Address,"כתובת דוא""ל של Paypal",module,Amasty_Affiliate
+Total Commission,"עמלה סה""כ",module,Amasty_Affiliate
+Commission Paid,עמלה שולמה,module,Amasty_Affiliate
+Coupons,קופונים,module,Amasty_Affiliate
+Transactions,עסקאות,module,Amasty_Affiliate
+Withdrawals,משייך,module,Amasty_Affiliate
+Add Account,הוסף חשבון,module,Amasty_Affiliate
+Delete items,מחק פריטים,module,Amasty_Affiliate
+Are you sure to delete selected accounts?,האם אתה בטוח שברצונך למחוק את חשבונות שנבחרו?,module,Amasty_Affiliate
+ID,מזהה,module,Amasty_Affiliate
+Email,אימייל,module,Amasty_Affiliate
+Total Paid,סך הכל שולם,module,Amasty_Affiliate
+Date Updated,תאריך עדכון,module,Amasty_Affiliate
+Message,הודעה,module,Amasty_Affiliate
+Affiliate Banner,באנר שותפים,module,Amasty_Affiliate
+Rel Nofollow,יחסי Nofollow,module,Amasty_Affiliate
+Add Banner,הוספת באנר,module,Amasty_Affiliate
+Are you sure to delete selected banners?,האם אתה בטוח שברצונך למחוק באנרים שנבחרו?,module,Amasty_Affiliate
+Shopping Cart Price Rule,כלל מחיר סל קניות,module,Amasty_Affiliate
+Commission Configuration,ועדת תצורה,module,Amasty_Affiliate
+"
+If the commission type is percent, its value is dynamic and based on the store profit margin (order total after discount, before taxes).</br>
+If the commission type is fixed, its value is always static.
+                    ","
+אם סוג עמלה הוא אחוז, הערך שלו הוא דינמי המבוסס על שולי רווח החנות (סכום ההזמנות לאחר הנחה, לפני מסים). </ Br>
+אם סוג העמלה קבוע, הערך שלו הוא תמיד סטטי.
+                    ",module,Amasty_Affiliate
+Pay Commission,ועדת Pay,module,Amasty_Affiliate
+Pay per Sale,לשלם לכל מכירה,module,Amasty_Affiliate
+Pay Per Profit,Pay Per רווח,module,Amasty_Affiliate
+Amount to Pay Commission,סכום לתשלום עמלה,module,Amasty_Affiliate
+Commission Type,סוג הנציבות,module,Amasty_Affiliate
+Commission Value,נציבות ערך,module,Amasty_Affiliate
+Use different commission from 2nd order of a Customer.,השתמש עמלה שונה סדר ה -2 של לקוחות.,module,Amasty_Affiliate
+"Select ""No"" to apply the above commission to all orders.","""לא"" בחר ליישם את העמלה מעל לכל ההזמנות.",module,Amasty_Affiliate
+Commission Type (from 2nd order),סוג הנציבות (מהזמנה 2),module,Amasty_Affiliate
+Commission Value (from 2nd order),נציבות ערך (מהזמנה 2),module,Amasty_Affiliate
+Keep paying commissions to the first affiliate,שמור עמלות לשלם לחברת הכלולה הראשונה,module,Amasty_Affiliate
+"If 'Yes': When a customer first buys products through the affiliate A's link, but later makes purchases using B's links, the transaction will still be counted for the affiliate A.","אם ""כן"": כאשר לקוח רוכש הראשונה מוצרים דרך לינק השותפים, אך מאוחר יותר הופך רכישות באמצעות הקישורים של B, העסקה עדיין תיספר עבור א השותפים",module,Amasty_Affiliate
+Add New Program,Add New Program,module,Amasty_Affiliate
+Are you sure to delete selected programs?,האם אתה בטוח שברצונך למחוק תוכניות שנבחרו?,module,Amasty_Affiliate
+Discount Amount,כמות ההנחה,module,Amasty_Affiliate
+Total Sales Amount,"סכום המכירות סה""כ",module,Amasty_Affiliate
+Affiliate Transaction,עסקת שותפים,module,Amasty_Affiliate
+Order Subtotal,סיכום ביניים להזמין,module,Amasty_Affiliate
+Affiliate Email,"דוא""ל שותפים",module,Amasty_Affiliate
+Customer Email,"דוא""ל של לקוחות",module,Amasty_Affiliate
+Order ID,מספר הזמנה,module,Amasty_Affiliate
+Store View,תצוגה בחנות,module,Amasty_Affiliate
+Affiliate Withdrawal,משיכת שותפים,module,Amasty_Affiliate
+Withdrawal Information,מידע משייך,module,Amasty_Affiliate
