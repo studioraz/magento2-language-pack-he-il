@@ -121,8 +121,8 @@
 "Manage Fees","ניהול תוספות תשלום","module","Amasty_Extrafee"
 "Extra Fee","תשלום נוסף","module","Amasty_Extrafee"
 "Information","מידע","module","Amasty_Extrafee"
-"Tax","מס","module","Amasty_Extrafee"
-"Tax Class","מחלקת מס","module","Amasty_Extrafee"
+"Tax","מע""מ","module","Amasty_Extrafee"
+"Tax Class","מחלקת מע""מ","module","Amasty_Extrafee"
 "Frontend","חזיתי","module","Amasty_Extrafee"
 "Show On Cart Page","הצג בסל הקניות","module","Amasty_Extrafee"
 "Enable Fee","אפשר תוספת תשלום","module","Amasty_Extrafee"
@@ -196,7 +196,7 @@ Leave empty or select all to apply the campaign to any group,Leave empty or sele
 Test,Test,module,Amasty_Acart
 Products,Products,module,Amasty_Acart
 Quantity,Quantity,module,Amasty_Acart
-Subtotal,Subtotal,module,Amasty_Acart
+Subtotal,סכום ביניים,module,Amasty_Acart
 Applied Coupon,Applied Coupon,module,Amasty_Acart
 Created,Created,module,Amasty_Acart
 Updated,Updated,module,Amasty_Acart
@@ -305,7 +305,7 @@ Rule option `Use Auto Generation` should be turned on.,Rule option `Use Auto Gen
 Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,module,Amasty_Acart
 here,here,module,Amasty_Acart
 Delete,Delete,module,Amasty_Acart
-Price,Price,module,Amasty_Acart
+Price,מחיר,module,Amasty_Acart
 "Hello,","Hello,",module,Amasty_Acart
 "Dear %firstName %lastName,","Dear %firstName %lastName,",module,Amasty_Acart
 You have items in your shopping bag.,יש לך פריטים בסל הקניות שלך.,module,Amasty_Acart
