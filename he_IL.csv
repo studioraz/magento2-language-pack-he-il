@@ -1263,3 +1263,4 @@ Cancel,לבטל,module,Amasty_Cart
 Rule,כלל,module,Amasty_Cart
 Create New Campaign,צור קמפיין חדש,module,Amasty_Cart
 Delete rules,מחק את הכללים,module,Amasty_Cart
+"You added %1 to your <a href=""%2"">shopping cart</a>.","%1 נוסף לעגלת הקניות.",module,Magento_Checkout
