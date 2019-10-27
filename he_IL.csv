@@ -578,117 +578,6 @@ Gift Code Qty,קוד מתנה כמות,module,Amasty_GiftCard
 Unused Gift Codes,קודי מתנה שאינם בשימוש,module,Amasty_GiftCard
 Image Thumbnail,תמונה ממוזערת,module,Amasty_GiftCard
 Image title,כותרת תמונה,module,Amasty_GiftCard
-Installed,מותקן,module,Amasty_Cart
-Not Installed,לא מותקן,module,Amasty_Cart
-Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Cart
-We can't add this item to your shopping cart right now. Please reload the page.,איננו יכולים להוסיף פריט זה לסל הקניות שלך ברגע זה. טען מחדש את העמוד בבקשה.,module,Amasty_Cart
-We can't add this item to your shopping cart right now.,איננו יכולים להוסיף פריט זה לסל הקניות שלך ברגע זה.,module,Amasty_Cart
-%1 has been added to your cart,%1 נוסף לסל הקניות שלך,module,Amasty_Cart
-Please specify the quantity of product(s).,אנא ציין את כמות המוצר/ים.,module,Amasty_Cart
-You need to choose options for your item.,עליכם לבחור אפשרויות לפריט שלכם.,module,Amasty_Cart
-Continue shopping,המשך בקניות,module,Amasty_Cart
-Cancel,בטל,module,Amasty_Cart
-Set options,הגדר אפשרויות,module,Amasty_Cart
-Add to cart,הוסף לסל,module,Amasty_Cart
-There is,יש,module,Amasty_Cart
-item,פריט,module,Amasty_Cart
-There are,יש,module,Amasty_Cart
-items,פריטים,module,Amasty_Cart
-View Cart,צפה בסל,module,Amasty_Cart
-" in your cart."," בסל שלך.",module,Amasty_Cart
-Cart Subtotal:,סיכום ביניים של סל הקניות:,module,Amasty_Cart
-Information,מידע,module,Amasty_Cart
-Continue,המשך,module,Amasty_Cart
-Go to Checkout,המשך לתשלום,module,Amasty_Cart
-%1 has been added to your cart.,%1 נוסף לעגלת הקניות שלך.,module,Amasty_Cart
-We can't add this item to your shopping cart.,איננו יכולים להוסיף פריט זה לסל הקניות שלך.,module,Amasty_Cart
-We can't find the quote item.,איננו יכולים למצוא את פריט הצעת המחיר.,module,Amasty_Cart
-%1 was updated in your shopping cart.,%1 עודכן בעגלת הקניות שלך.,module,Amasty_Cart
-We can't update the item right now.,איננו יכולים לעדכן את הפריט ברגע זה.,module,Amasty_Cart
-This product(s) is out of stock.,מוצר (ים) אזל במלאי.,module,Amasty_Cart
-We can't add the item to the cart right now.,איננו יכולים להוסיף את הפריט לסל ברגע זה.,module,Amasty_Cart
-in your cart,בסל שלך,module,Amasty_Cart
-More Choices:,עוד בחירות:,module,Amasty_Cart
-You may be interested in the following items,יתכן שאתה מעוניין בפריטים הבאים,module,Amasty_Cart
-Center,מרכז,module,Amasty_Cart
-Top,חלק עליון,module,Amasty_Cart
-Top Left,למעלה משמאל,module,Amasty_Cart
-Top Right,למעלה מימין,module,Amasty_Cart
-Left,Left,module,Amasty_Cart
-Right,Right,module,Amasty_Cart
-None,None,module,Amasty_Cart
-Related,Related,module,Amasty_Cart
-Cross-sell,Cross-sell,module,Amasty_Cart
-Stay on Current Page,Stay on Current Page,module,Amasty_Cart
-Go to Category Page,Go to Category Page,module,Amasty_Cart
-Parent Configurable Product Image,Parent Configurable Product Image,module,Amasty_Cart
-Child Simple Product Image,Child Simple Product Image,module,Amasty_Cart
-Mini Product Page,Mini Product Page,module,Amasty_Cart
-Custom Options & Product Qty,Custom Options & Product Qty,module,Amasty_Cart
-Product Image,תמונת מוצר,module,Amasty_Cart
-Product Quantity Field,שדה כמות מוצר,module,Amasty_Cart
-Number of Products in Cart,Number of Products in Cart,module,Amasty_Cart
-Cart Subtotal,סיכום ביניים של סל הקניות,module,Amasty_Cart
-Go to Checkout Button,Go to Checkout Button,module,Amasty_Cart
-Show Only if There Are Required Options,הצג רק אם יש אפשרויות חובה,module,Amasty_Cart
-Always Show All Custom Options,הצג תמיד את כל האפשרויות המותאמות אישית,module,Amasty_Cart
-has been added to your cart,נוסף לסל הקניות שלך,module,Amasty_Cart
-%1 has been added to your Wish List.,%1 נוסף לרשימת המשאלות שלך.,module,Amasty_Cart
-Add to Wish List,הוסף לרשימת המשאלות,module,Amasty_Cart
-Add to Compare,הוסף להשוואה,module,Amasty_Cart
-Add to Cart,הוסף לסל,module,Amasty_Cart
-In stock,במלאי,module,Amasty_Cart
-Out of stock,אזל מהמלאי,module,Amasty_Cart
-Please choose the options for your item,אנא בחר באפשרויות עבור הפריט שלך,module,Amasty_Cart
-Qty,כמות,module,Amasty_Cart
-Update,עדכון,module,Amasty_Cart
-Close,לסגור,module,Amasty_Cart
-Ajax Shopping Cart,Ajax Shopping Cart,module,Amasty_Cart
-General,כללי,module,Amasty_Cart
-Enable Ajax Shopping Cart,הפעל Ajax Shopping Cart,module,Amasty_Cart
-Enable Flying Image Effect,הפעל Flying Image Effect,module,Amasty_Cart
-Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,module,Amasty_Cart
-Show the Product Qty Added to the Cart on the Product Listing,Show the Product Qty Added to the Cart on the Product Listing,module,Amasty_Cart
-Add Products to Compare with AJAX,Add Products to Compare with AJAX,module,Amasty_Cart
-Add Products to Wish List with AJAX,Add Products to Wish List with AJAX,module,Amasty_Cart
-Show a Mini Cart once Item is Added,Show a Mini Cart once Item is Added,module,Amasty_Cart
-Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,module,Amasty_Cart
-Dialog Pop-up,Dialog Pop-up,module,Amasty_Cart
-Redirect to the Product Page,Redirect to the Product Page,module,Amasty_Cart
-Display Custom Options,Display Custom Options,module,Amasty_Cart
-"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.","Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",module,Amasty_Cart
-Pop-up for Composite Products,Pop-up for Composite Products,module,Amasty_Cart
-QTY Instant Change,QTY Instant Change,module,Amasty_Cart
-"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up","Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",module,Amasty_Cart
-Confirmation Pop-up,Confirmation Pop-up,module,Amasty_Cart
-Dialog Close Delay (in seconds),Dialog Close Delay (in seconds),module,Amasty_Cart
-"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.","Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",module,Amasty_Cart
-Enable a Confirmation Pop-up on a Product Page,Enable a Confirmation Pop-up on a Product Page,module,Amasty_Cart
-Continue Button Action on a Product Page,Continue Button Action on a Product Page,module,Amasty_Cart
-Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,module,Amasty_Cart
-Confirmation Pop-up Display,Confirmation Pop-up Display,module,Amasty_Cart
-Align Pop-up,Align Pop-up,module,Amasty_Cart
-"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.","Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",module,Amasty_Cart
-Image Display for Configurable Products,Image Display for Configurable Products,module,Amasty_Cart
-Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,module,Amasty_Cart
-Display in Pop-up,Display in Pop-up,module,Amasty_Cart
-Choose what to display in the Confirmation Pup-up,Choose what to display in the Confirmation Pup-up,module,Amasty_Cart
-Selling Options,Selling Options,module,Amasty_Cart
-Product Block Type Displayed in the Confirmation Pop-up,Product Block Type Displayed in the Confirmation Pop-up,module,Amasty_Cart
-Title,כותרת,module,Amasty_Cart
-Subtitle,Subtitle,module,Amasty_Cart
-Products Qty Limit,Products Qty Limit,module,Amasty_Cart
-If more than 2 then slider is activated,If more than 2 then slider is activated,module,Amasty_Cart
-Visual Options,Visual Options,module,Amasty_Cart
-Background Color,Background Color,module,Amasty_Cart
-Product Name Color,Product Name Color,module,Amasty_Cart
-Text Color,Text Color,module,Amasty_Cart
-Button Text Color,Button Text Color,module,Amasty_Cart
-Continue Button Color,Continue Button Color,module,Amasty_Cart
-View Cart Button Color,View Cart Button Color,module,Amasty_Cart
-Automatic Related Products,Automatic Related Products,module,Amasty_Cart
-Status,Status,module,Amasty_Cart
-"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.","Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",module,Amasty_Cart
 Department,מַחלָקָה,module,Mirasvit_Helpdesk
 "Create New Ticket","צור כרטיס חדש",module,Mirasvit_Helpdesk
 Status,סטָטוּס,module,Mirasvit_Helpdesk
@@ -1136,10 +1025,241 @@ Are you sure to delete selected programs?,האם אתה בטוח שברצונך 
 Discount Amount,כמות ההנחה,module,Amasty_Affiliate
 Total Sales Amount,"סכום המכירות סה""כ",module,Amasty_Affiliate
 Affiliate Transaction,עסקת שותפים,module,Amasty_Affiliate
-Order Subtotal,סיכום ביניים להזמין,module,Amasty_Affiliate
+Order Subtotal,סכום ביניים להזמנה,module,Amasty_Affiliate
 Affiliate Email,"דוא""ל שותפים",module,Amasty_Affiliate
 Customer Email,"דוא""ל של לקוחות",module,Amasty_Affiliate
 Order ID,מספר הזמנה,module,Amasty_Affiliate
 Store View,תצוגה בחנות,module,Amasty_Affiliate
 Affiliate Withdrawal,משיכת שותפים,module,Amasty_Affiliate
 Withdrawal Information,מידע משייך,module,Amasty_Affiliate
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_Cart
+Blacklist Item Information,מידע פריט רשימה שחורה,module,Amasty_Cart
+General,כללי,module,Amasty_Cart
+Email,אימייל,module,Amasty_Cart
+Blacklist View,הצג רשימה שחורה,module,Amasty_Cart
+Current Time,זמן נוכחי,module,Amasty_Cart
+No cron jobs found,לא נמצאו cron jobs,module,Amasty_Cart
+Learn more,למד עוד,module,Amasty_Cart
+Cron (Last 5),Cron (האחרונים 5),module,Amasty_Cart
+Queue Item Information,מידע פריט תור,module,Amasty_Cart
+Subject,נושא,module,Amasty_Cart
+Body,גוף,module,Amasty_Cart
+Coupon,קופון,module,Amasty_Cart
+Queue View,הצג תור,module,Amasty_Cart
+Website:,אתר אינטרנט:,module,Amasty_Cart
+Date Range:,טווח תאריכים:,module,Amasty_Cart
+From:,מ:,module,Amasty_Cart
+To:,ל:,module,Amasty_Cart
+Refresh,רענן,module,Amasty_Cart
+All Websites,כל אתרי האינטרנט,module,Amasty_Cart
+Cart Abandonment Rate,סל שיעור נטישה,module,Amasty_Cart
+Emails Sent,"דוא""ל שנשלח",module,Amasty_Cart
+Carts Restored,עגלות שוחזרו,module,Amasty_Cart
+Orders Placed*,הזמנות שיתקבלו *,module,Amasty_Cart
+Potential Revenue,פוטנציאל הכנסות,module,Amasty_Cart
+Recovered Revenue*,הכנסות ששוחזרו *,module,Amasty_Cart
+Abandoned Cart Email Efficiency,"יעיל דוא""ל עגלה שננטש",module,Amasty_Cart
+Rule Information,כלל מידע,module,Amasty_Cart
+Analytics,ניתוח,module,Amasty_Cart
+Google Analytics,גוגל ניתוח נתונים,module,Amasty_Cart
+Campaign Source,מקור הקמפיין,module,Amasty_Cart
+"<b>Required.</b> Use <b>utm_source</b> to identify a search engine, newsletter name, or other source.<br/><i>Example:</i> utm_source=google","<B> חובה </ b> השתמש <b> utm_source </ b> כדי לזהות מנוע חיפוש, שם של ניוזלטר או מקור אחר <br/> <i> דוגמה:.. </ I> utm_source = google",module,Amasty_Cart
+Campaign Medium,אמצעי מסע פרסום,module,Amasty_Cart
+<b>Required.</b> Use <b>utm_medium</b> to identify a medium such as email or cost-per- click<br/><i>Example:</i> utm_medium=cpc,"<B> דרוש </ b> השתמש <b> utm_medium </ b> כדי לזהות אמצעי כגון דוא""ל או עלות-עַל- לחץ <br/> <i> דוגמה:. </ I> utm_medium = cpc",module,Amasty_Cart
+Campaign Name,שם המבצע,module,Amasty_Cart
+<b>Required.</b> Used for keyword analysis. Use <b>utm_campaign</b> to identify a specific product promotion or strategic campaign.<br/><i>Example:</i> utm_campaign=spring_sale,<B> חובה. </ B> משמש לניתוח של מילות מפתח. השתמש ב- <b> utm_campaign </ b> כדי לזהות קידום מוצר ספציפי או קמפיין אסטרטגי <br/> <i> דוגמה:. </ I> utm_campaign = spring_sale,module,Amasty_Cart
+Campaign Term,מונח הקמפיין,module,Amasty_Cart
+Used for paid search. Use <b>utm_term</b> to note the keywords for this ad.<br/><i>Example:</i> utm_term=running+shoes,משמש לחיפוש בתשלום. השתמש ב- <b> utm_term </ b> כדי לציין את מילות המפתח עבור המודעה הזו <br/> <i> דוגמה:. </ I> utm_term = ריצה + נעליים,module,Amasty_Cart
+Campaign Content,תוכן הקמפיין,module,Amasty_Cart
+Used for A/B testing and content-targeted ads. Use <b>utm_content</b> to differentiate ads or links that point to the same URL.<br/><i>Example:</i> utm_content=logolink <i>or</i> utm_content=textlink,משמש לבדיקת A / B ולמודעות במיקוד תוכן. השתמש ב- <b> utm_content </ b> כדי להבדיל בין מודעות או קישורים שמפנים לאותה כתובת האתר <br/> <i> דוגמה:. </ I> utm_content = logolink <i> או </ i> utm_content = textlink,module,Amasty_Cart
+Conditions,תנאים,module,Amasty_Cart
+Conditions (don't add conditions if need all products),תנאים (לא להוסיף תנאים אם צריך כל המוצרים),module,Amasty_Cart
+Name,שם,module,Amasty_Cart
+Status,מצב,module,Amasty_Cart
+Priority,עדיפות,module,Amasty_Cart
+Cancel Condition,לבטל מצב,module,Amasty_Cart
+Note! Additional to the listed actions Order Placed action will always cancel the abandoned cart email,"הערה! נוספת לפעולות הרשומות פעולת הזמנה נקלטה תמיד תבטל את הדוא""ל עגלה הנטושה",module,Amasty_Cart
+Schedule,לוח זמנים,module,Amasty_Cart
+Add Record,הוסף רשומה,module,Amasty_Cart
+Stores & Customer Groups,חנויות & קבוצות לקוחות,module,Amasty_Cart
+Apply In,החל בשנת,module,Amasty_Cart
+Stores,חנויות,module,Amasty_Cart
+Leave empty or select all to apply the campaign to any store,השאר ריק או בחר הכל כדי להחיל את הקמפיין לכל חנות,module,Amasty_Cart
+Apply For,להגיש בקשה ל,module,Amasty_Cart
+Customer Groups,קבוצות של לקוחות,module,Amasty_Cart
+Leave empty or select all to apply the campaign to any group,השאר ריק או בחר הכל כדי להחיל את הקמפיין לכל קבוצה,module,Amasty_Cart
+Test,בדיקה,module,Amasty_Cart
+Products,מוצרים,module,Amasty_Cart
+Quantity,כמות,module,Amasty_Cart
+Subtotal,סכום ביניים,module,Amasty_Cart
+Applied Coupon,קופון יישומית,module,Amasty_Cart
+Created,נוצר,module,Amasty_Cart
+Updated,עודכן,module,Amasty_Cart
+IP Address,כתובת ה - IP,module,Amasty_Cart
+Send,שלח,module,Amasty_Cart
+Rule View,הצגת כלל,module,Amasty_Cart
+test email,הודעה לבדיקה,module,Amasty_Cart
+"Before sending test messages, please fill in the %1 in the extension configuration section","לפני שליחת הודעות המבחן, נא למלא את% 1 בקטע הגדרת הסיומת",module,Amasty_Cart
+import GeoIP Data,ייבוא ​​GeoIP נתונים,module,Amasty_Cart
+Please update Amasty Base module. Re-upload it and replace all the files.,עדכן את מודול בסיס Amasty. להעלות אותו מחדש ולהחליף את כל הקבצים.,module,Amasty_Cart
+Installed,מותקן,module,Amasty_Cart
+Specify SMTP settings properly. See more details <a target='_blank' href='%1'>here</a>.,ציין הגדרות SMTP כראוי. לפרטים נוספים ראה <a target='_blank' href='%1'> כאן </a>.,module,Amasty_Cart
+Not Installed,לא מותקן,module,Amasty_Cart
+Marketing,שיווק,module,Amasty_Cart
+Blacklist,רשימה שחורה,module,Amasty_Cart
+You deleted the blacklist.,מחק את הרשימה השחורה.,module,Amasty_Cart
+We can't delete the blacklist right now. Please review the log and try again.,אנחנו לא יכולים למחוק את הרשימה השחורה עכשיו. עיין ביומן ונסה שוב.,module,Amasty_Cart
+We can't find a blacklist to delete.,אנחנו לא יכולים למצוא רשימה שחורה למחוק.,module,Amasty_Cart
+Something went wrong while editing the blacklist.,משהו השתבש בעת עריכת הרשימה השחורה.,module,Amasty_Cart
+New Blacklist Email,"דוא""ל רשימה שחור חדש",module,Amasty_Cart
+Something went wrong while export feed data. Please review the error log.,משהו השתבש במהלך עדכון נתוני יצוא. עיין ביומן השגיאות.,module,Amasty_Cart
+The wrong blacklist is specified.,הרשימה השחורה של הטועה מצוינת.,module,Amasty_Cart
+You saved the blacklist item.,אתה הצלת את הפריט ברשימה השחורה.,module,Amasty_Cart
+Something went wrong while saving the blacklist data. Please review the error log.,משהו השתבש בעת שמירת הנתונים ברשימה השחורה. עיין ביומן השגיאות.,module,Amasty_Cart
+History,היסטוריה,module,Amasty_Cart
+Error. Please see the log for more information.,שגיאה. עיין ביומן לקבלת מידע נוסף.,module,Amasty_Cart
+Queue,תור,module,Amasty_Cart
+You deleted the queue.,מחקת את התור.,module,Amasty_Cart
+We can't delete the queue right now. Please review the log and try again.,אנחנו לא יכולים למחוק את התור עכשיו. עיין ביומן ונסה שוב.,module,Amasty_Cart
+We can't find a queue to delete.,אנחנו לא יכולים למצוא תור למחוק.,module,Amasty_Cart
+Something went wrong while editing the queue.,משהו השתבש בעת עריכת התור.,module,Amasty_Cart
+Edit queue item #%1,# פריט ערוך תור% 1,module,Amasty_Cart
+"If there are no emails in the queue for a long time, please make sure that cron is properly configured for your Magento. Please find more information <a class=""new-page-url"" href='%1' target='_blank'>here</a>.","אם לא נשלחות הודעות בתור במשך זמן רב, ודא כי cron מוגדרת כראוי עבור Magento שלך. אנא למצוא מידע נוסף <a class=""new-page-url"" href='%1' target='_blank'> כאן </a>.",module,Amasty_Cart
+The wrong queue is specified.,התור לא בסדר מצוין.,module,Amasty_Cart
+You saved the queue item.,אתה הצלת את פריט התור.,module,Amasty_Cart
+Something went wrong while saving the queue data. Please review the error log.,משהו השתבש בעת שמירת נתוני התור. עיין ביומן השגיאות.,module,Amasty_Cart
+Something went wrong. Please try again or check your Magento log file.,משהו השתבש. נסה שוב או לבדוק קובץ יומן Magento שלך.,module,Amasty_Cart
+Abandoned Cart Reports,דוחות עגלה שננטשו,module,Amasty_Cart
+Abandoned Cart Campaigns,קמפייני עגלה שננטשו,module,Amasty_Cart
+You deleted the campaign.,מחקת את הקמפיין.,module,Amasty_Cart
+We can't delete the rule right now. Please review the log and try again.,אנחנו לא יכולים למחוק את כלל עכשיו. עיין ביומן ונסה שוב.,module,Amasty_Cart
+We can't find a rule to delete.,אנחנו לא יכולים למצוא ככלל למחוק.,module,Amasty_Cart
+Something went wrong while editing the campaign.,משהו השתבש בעת עריכת הקמפיין.,module,Amasty_Cart
+New Campaign,קמפיין חדש,module,Amasty_Cart
+Campaigns,קמפיינים,module,Amasty_Cart
+Something went wrong while delete rule. Please review the error log.,משהו השתבש בזמן השלטון מחיק. עיין ביומן השגיאות.,module,Amasty_Cart
+The wrong campaign is specified.,הקמפיין בסדר מצוין.,module,Amasty_Cart
+You saved the campaign.,אתה הצלת את הקמפיין.,module,Amasty_Cart
+Something went wrong while saving the campaign data. Please review the error log.,משהו השתבש בעת שמירת נתוני הקמפיין. עיין ביומן השגיאות.,module,Amasty_Cart
+Shopping Cart Rule is required,כלל צורך בעגלת קניות,module,Amasty_Cart
+Email didn't send.,"דוא""ל לא לשלוח.",module,Amasty_Cart
+You have been unsubscribed,בוטל המינוי,module,Amasty_Cart
+Please fill in the test email in the extension configuration section,"אנא מלאו את הדוא""ל המבחן במקטע תצורת סיומת",module,Amasty_Cart
+Today,היום,module,Amasty_Cart
+Last 7 days,אחרון 7 ימים,module,Amasty_Cart
+Last 30 days,30 הימים האחרונים,module,Amasty_Cart
+Overall,באופן כללי,module,Amasty_Cart
+Custom,המותאם אישית,module,Amasty_Cart
+The schedule should be completed.,לוח הזמנים צריך להסתיים.,module,Amasty_Cart
+Rule do not have any Schedule,כלל אין לי שום לוח זמנים,module,Amasty_Cart
+Number of recovered cards this month,מספר כרטיסי התאושש החודש,module,Amasty_Cart
+General Contact,יצירת קשר כללי,module,Amasty_Cart
+Sales Representative Contact,פנה לנציג המכירות,module,Amasty_Cart
+Customer Support Contact,פנה אל תמיכת לקוחות,module,Amasty_Cart
+Custom Email 1 Contact,"צור Custom דוא""ל 1",module,Amasty_Cart
+Custom Email 2 Contact,"צור Custom דוא""ל 2",module,Amasty_Cart
+Active,Active,module,Amasty_Cart
+Inactive,לא פעיל,module,Amasty_Cart
+Link from Email Clicked,"קישור מ'דוא""ל שנלחץ",module,Amasty_Cart
+Any product went out of stock,כל מוצר הלך אזל מהמלאי,module,Amasty_Cart
+All products went out of stock,כל המוצרים יצאו מהמלאי,module,Amasty_Cart
+Not sent,לא נשלח,module,Amasty_Cart
+Sent,Sent,module,Amasty_Cart
+Canceled by the admin,בוטל על ידי המנהל,module,Amasty_Cart
+Customer is Not Newsletter Subscriber,הלקוח אינו עלון מנוי,module,Amasty_Cart
+Edit,עריכה,module,Amasty_Cart
+Revenue,הכנסות,module,Amasty_Cart
+Recovered Revenue,הכנסות ששוחזרו,module,Amasty_Cart
+Orders Placed,הזמנות שיתקבלו,module,Amasty_Cart
+Statistics,סטטיסטיקה,module,Amasty_Cart
+* unshipped and uninvoiced orders also count towards statistics,* הזמנות unshipped ו חויבו גם לספור לקראת הסטטיסטיקה,module,Amasty_Cart
+"Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime). ","לידיעתך, האימיילים שלכם שולחים תקופה עולה בחי ציטוט (ימים). (כדי לבדוק את זה, בבקשה, ללכת Stores-> Configuration-> במכירות של> Checkout-> חי ציטוט קניות מכונת האשפה>).",module,Amasty_Cart
+"Please make sure that your cron is properly configured. We recommend to run cron every 5 minutes. <a href=""%1"" target=""_blank"">Learn more</a>","אנא ודא כי cron שלך מוגדר כראוי. אנו ממליצים לרוץ cron כל 5 דקות. <a href=""%1"" target=""_blank""> למידע נוסף </a>",module,Amasty_Cart
+Transactional Email,"דוא""ל עסקי",module,Amasty_Cart
+Delivery Time,זמן משלוח,module,Amasty_Cart
+Days,ימים,module,Amasty_Cart
+Hours,שעות,module,Amasty_Cart
+Minutes,דקות,module,Amasty_Cart
+Type,סוג,module,Amasty_Cart
+None,אף אחד,module,Amasty_Cart
+Percent of product price discount,אחוז הנחה במחיר המוצר,module,Amasty_Cart
+Fixed amount discount,הנחה בסכום קבוע,module,Amasty_Cart
+Fixed amount discount for whole cart,הנחת סכום קבוע עבור עגלה,module,Amasty_Cart
+Auto add promo items with products,הוספה אוטומטית פריטי פרומו עם מוצרים,module,Amasty_Cart
+Auto add promo items for the whole cart,הוספה אוטומטית פריטי פרומו עבור העגלה כולה,module,Amasty_Cart
+Auto add the same product,הוספה אוטומטית את אותו המוצר,module,Amasty_Cart
+Discount Amount,כמות ההנחה,module,Amasty_Cart
+Expired in (days),פג תוקף ב (ימים),module,Amasty_Cart
+Maximum Qty Discount is Applied To,דיסקונט כמות מקסימלית מוחל,module,Amasty_Cart
+Discount Qty Step (Buy X),שלב דיסקונט כמות (לקנות X),module,Amasty_Cart
+Expand,להרחיב,module,Amasty_Cart
+Collapse,סגור,module,Amasty_Cart
+Send the Same Coupon Again,שלח את קופון שוב אותו הדבר,module,Amasty_Cart
+Use Shopping Cart Rule,השתמשתי כלל סל קניות,module,Amasty_Cart
+Rule ID,זיהוי כלל,module,Amasty_Cart
+Rule option `Use Auto Generation` should be turned on.,אפשרות Rule 'השתמש Auto Generation` צריכה להיות מופעלת.,module,Amasty_Cart
+Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details ,עשר רשימת כללי מחיר העגלה שלך עם 20 פעולות נוספות פרומו. הפעל מגוון גדול של מבצעים בלעדיים למשוך מכירות קשב עליית לקוחות בקלות. הצגת פרטים נוספים,module,Amasty_Cart
+here,פה,module,Amasty_Cart
+Delete,מחק,module,Amasty_Cart
+Price,מחיר,module,Amasty_Cart
+"Hello,","שלום,",module,Amasty_Cart
+"Dear %firstName %lastName,","LASTNAME% היקר% Firstname,",module,Amasty_Cart
+You have items in your shopping bag.,יש לך פריטים בסל הקניות שלך.,module,Amasty_Cart
+Get them with discount!,קבל אותם עם הנחה!,module,Amasty_Cart
+reply to this mail,לענות לאימייל,module,Amasty_Cart
+"Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !","חוסכים כסף עם קוד קופון <span style = ""גבול: # E0E0E0 מוצק 1px;-שמאל margin: 10px; background-color: # f9f9f9;""> קופון% </ span>!",module,Amasty_Cart
+"Coupon expiration date: <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%expiration_date</span> ","התפוגה קופון תאריך: <span style = ""גבול: # E0E0E0 מוצק 1px;-שמאל margin: 10px; background-color: # f9f9f9;"">% expiration_date </ span>",module,Amasty_Cart
+CHECK OUT,לבדוק,module,Amasty_Cart
+Delivered by ,נשלח על ידי,module,Amasty_Cart
+Unsubscribe,ביטול מנוי,module,Amasty_Cart
+Abandoned Carts,עגלות נטושות,module,Amasty_Cart
+Orders,הזמנות,module,Amasty_Cart
+Money awaiting in abandoned carts,כסף ממתין בעגלות נטושות,module,Amasty_Cart
+Money made of recovered carts,כסף עשוי עגלות התאוששו,module,Amasty_Cart
+Sent emails,"הודעות דוא""ל שנשלחו",module,Amasty_Cart
+Recovered carts,עגלות ששוחזרו,module,Amasty_Cart
+Actual purchases,רכישות בפועל,module,Amasty_Cart
+Abandoned Cart Email,"דוא""ל עגלה שננטש",module,Amasty_Cart
+Information,מידע,module,Amasty_Cart
+The Coupon is Available Only for Particular Customer,הקופון זמין רק עבור לקוח מסוים,module,Amasty_Cart
+If the option is disabled the coupon can be used by all customers.,אם האפשרות מושבתת הקופון יכול להיות בשימוש על ידי כל הלקוחות.,module,Amasty_Cart
+Trigger a Campaign No More Than 1 Time per Quote,לעורר מבצע לא יותר מ 1 שעה לכל ציטוט,module,Amasty_Cart
+Send Emails Only to Registered Customers,"שלח דוא""ל רק ללקוחות רשומים",module,Amasty_Cart
+Automatically Remove Sent Emails from History,"להסיר באופן אוטומטי הודעות דוא""ל שנשלחו מהיסטוריית",module,Amasty_Cart
+In days.,בימים.,module,Amasty_Cart
+Disable Guest Email Logging for EU Customers (GDPR Compliance Requirement),"לבטל רישום דוא""ל אורח הלקוחות באיחוד האירופי (דרישת תאימות GDPR)",module,Amasty_Cart
+For use this setting you need import GEOIP Data,לשימוש ההגדרה הזו אתה צריך לייבא נתונים GeoIP,module,Amasty_Cart
+Email Templates,תבניות אימייל,module,Amasty_Cart
+Sender Name,שם השולח,module,Amasty_Cart
+Sender Email,אי-מייל,module,Amasty_Cart
+Send to Newsletter Subscribers Only,שלח מנוי ניוזלטר רק,module,Amasty_Cart
+Sends Copy of Emails to,"שולח העתק של הודעות דוא""ל אל",module,Amasty_Cart
+Reply to Name,הגב שם,module,Amasty_Cart
+Reply to Email,"תגובה לדוא""ל",module,Amasty_Cart
+Testing,בדיקה,module,Amasty_Cart
+Enable Safe Mode,Enable Safe Mode,module,Amasty_Cart
+"If enabled, emails will be sent only to the test email (not to customers).","אם מאופשר, מיילים יישלחו רק לדוא""ל מבחן (לא ללקוחות).",module,Amasty_Cart
+Test Email,"דוא""ל מבחן",module,Amasty_Cart
+Import,יבוא,module,Amasty_Cart
+Debug (for Developers Only),Debug (עבור מפתחים בלבד),module,Amasty_Cart
+Enable Debug Mode,אפשר מצב Debug,module,Amasty_Cart
+"If enabled, emails will only be sent to the authorized email domains.","אם מאופשר, מיילים יישלחו רק אל לדומיין האימייל המורשה.",module,Amasty_Cart
+Authorized Email Domains,דומיינים של אימייל מורשה,module,Amasty_Cart
+"List of email domain names separated by commas ("",""). Don't use ""@"".","רשימת שמות דומיין דוא""ל מופרדות בפסיקים ( """"). אין להשתמש ""@"".",module,Amasty_Cart
+Cronjob Information,מידע Cronjob,module,Amasty_Cart
+SMTP Settings,הגדרות SMTP,module,Amasty_Cart
+"For more options to customize your smtp settings, consider using our <a target=""_blank"" href=""https://amasty.com/magento-smtp-email-settings.html?utm_source=extension&utm_medium=link&utm_campaign=acart-smtp-m2"">SMTP extension</a>.","במשך יותר אפשרויות להתאמה אישית של הגדרות SMTP שלך, לשקול השימוש <a target = ""_ blank"" href = ""https://amasty.com/magento-smtp-email-settings.html?utm_source=extension&utm_medium=link&utm_campaign=acart-smtp- m2"" > </a> הרחבה SMTP.",module,Amasty_Cart
+Add Email,הוסף כתובת אימייל,module,Amasty_Cart
+Delete items,מחק פריטים,module,Amasty_Cart
+Delete selected items?,למחוק את הפריטים שנבחרו?,module,Amasty_Cart
+ID,מזהה,module,Amasty_Cart
+Campaign,קמפיין,module,Amasty_Cart
+First Name,שם פרטי,module,Amasty_Cart
+Last Name,שם משפחה,module,Amasty_Cart
+Scheduled,מתוזמנות,module,Amasty_Cart
+Cancel items,לבטל מוצרים,module,Amasty_Cart
+Cancel selected items?,לבטל את הפריטים שנבחרו?,module,Amasty_Cart
+Cancel,לבטל,module,Amasty_Cart
+Rule,כלל,module,Amasty_Cart
+Create New Campaign,צור קמפיין חדש,module,Amasty_Cart
+Delete rules,מחק את הכללים,module,Amasty_Cart
