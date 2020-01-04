@@ -1,142 +1,142 @@
-שיטות המשלוח,Shipping Methods,module,Magento_Checkout
-הזינו קוד הנחה,Enter discount code,module,Magento_Checkout
-המשך בקניות,Continue Shopping,module,Magento_Checkout
-המשך לתשלום,Proceed to Checkout,module,Magento_Checkout
-הזינו קוד הנחה,Enter discount code,module,Magento_SalesRule
-שכחת סיסמה,Forgot Your Password,module,Magento_Customer
-שדה זה הוא חובה.,This is a required field.,module,Magento_Ui
-הירשם לניוזלטר שלנו,Sign Up for Our Newsletter,module,Amasty_Checkout
-פריט בסל,Item in Cart,module,Amasty_Checkout
-פריטים בסל,Items in Cart,module,Amasty_Checkout
-קראתי ואני מאשר/ת את תקנון האתר,I have read and accept the privacy policy,module,Amasty_Gdpr
-מדיניות הפרטיות,Privacy Policy,module,Amasty_Gdpr
-קראתי והסכמתי,I have read and accept,module,Amasty_Gdpr
- ב, in ,module,Mirasvit_SearchAutocomplete
-הוסף לעגלה,Add to Cart,module,Mirasvit_SearchAutocomplete
+Shipping Methods,שיטות המשלוח,module,Magento_Checkout
+Enter discount code,הזינו קוד הנחה,module,Magento_Checkout
+Continue Shopping,המשך בקניות,module,Magento_Checkout
+Proceed to Checkout,המשך לתשלום,module,Magento_Checkout
+Enter discount code,הזינו קוד הנחה,module,Magento_SalesRule
+Forgot Your Password,שכחת סיסמה,module,Magento_Customer
+This is a required field.,שדה זה הוא חובה.,module,Magento_Ui
+Sign Up for Our Newsletter,הירשם לניוזלטר שלנו,module,Amasty_Checkout
+Item in Cart,פריט בסל,module,Amasty_Checkout
+Items in Cart,פריטים בסל,module,Amasty_Checkout
+I have read and accept the privacy policy,קראתי ואני מאשר/ת את תקנון האתר,module,Amasty_Gdpr
+Privacy Policy,מדיניות הפרטיות,module,Amasty_Gdpr
+I have read and accept,קראתי והסכמתי,module,Amasty_Gdpr
+ in , ב,module,Mirasvit_SearchAutocomplete
+Add to Cart,הוסף לעגלה,module,Mirasvit_SearchAutocomplete
 Registrant: %1,Registrant: %1,module,Mirasvit_SearchAutocomplete
-מוצרים,Products,module,Mirasvit_SearchAutocomplete
-הצעות פופולריות,Popular suggestions,module,Mirasvit_SearchAutocomplete
-הצג את כל %1 תוצאות →,Show all %1 results →,module,Mirasvit_SearchAutocomplete
-"מצטערים, לא נמצאו תוצאות עבור ""%1"".","Sorry, nothing found for ""%1"".",module,Mirasvit_SearchAutocomplete
-תוכן שניתן לחיפוש,Searchable content,module,Mirasvit_SearchAutocomplete
-אינדקס,Index,module,Mirasvit_SearchAutocomplete
-האם מופעל,Is Enabled,module,Mirasvit_SearchAutocomplete
-מספר תוצאות מקסימלי,Max Number of results,module,Mirasvit_SearchAutocomplete
-חיפושים חמים,Hot Searches,module,Mirasvit_SearchAutocomplete
-חיפושים אחרונים,recent searches,module,Mirasvit_SearchAutocomplete
-השלמה אוטומטית של חיפוש,Search Autocomplete,module,Mirasvit_SearchAutocomplete
-הגדרות כלליות,General Configuration,module,Mirasvit_SearchAutocomplete
-מספר תווים מינימלי לחיפוש,Minimum number of characters to search,module,Mirasvit_SearchAutocomplete
-זמן ההשהיה לפני תחילת מציאת התוצאות,The delay before start finding,module,Mirasvit_SearchAutocomplete
-"> באלפיות השנייה, למשל, 500 פירושו 0.5 שניה",">In milliseconds, e.g. 500 means 0.5 of second",module,Mirasvit_SearchAutocomplete
-מצב מהיר,Fast Mode,module,Mirasvit_SearchAutocomplete
-ביטול משקיפים ומטפלים לא הכרחים (observers and handlers),Disable not necessary observers and handlers,module,Mirasvit_SearchAutocomplete
-הגדרות מוצרים,Products Settings,module,Mirasvit_SearchAutocomplete
-הצג מחיר,Show Price,module,Mirasvit_SearchAutocomplete
-הצג תמונה ממוזערת,Show Thumbnail,module,Mirasvit_SearchAutocomplete
-הצג דירוג,Show Rating,module,Mirasvit_SearchAutocomplete
-הצג תיאור,Show Description,module,Mirasvit_SearchAutocomplete
-"הצג מק""ט",Show SKU,module,Mirasvit_SearchAutocomplete
-"הצג ""הוסף לעגלה""","Show ""Add to cart""",module,Mirasvit_SearchAutocomplete
+Products,מוצרים,module,Mirasvit_SearchAutocomplete
+Popular suggestions,הצעות פופולריות,module,Mirasvit_SearchAutocomplete
+Show all %1 results →,הצג את כל %1 תוצאות →,module,Mirasvit_SearchAutocomplete
+"Sorry, nothing found for ""%1"".","מצטערים, לא נמצאו תוצאות עבור ""%1"".",module,Mirasvit_SearchAutocomplete
+Searchable content,תוכן שניתן לחיפוש,module,Mirasvit_SearchAutocomplete
+Index,אינדקס,module,Mirasvit_SearchAutocomplete
+Is Enabled,האם מופעל,module,Mirasvit_SearchAutocomplete
+Max Number of results,מספר תוצאות מקסימלי,module,Mirasvit_SearchAutocomplete
+Hot Searches,חיפושים חמים,module,Mirasvit_SearchAutocomplete
+recent searches,חיפושים אחרונים,module,Mirasvit_SearchAutocomplete
+Search Autocomplete,השלמה אוטומטית של חיפוש,module,Mirasvit_SearchAutocomplete
+General Configuration,הגדרות כלליות,module,Mirasvit_SearchAutocomplete
+Minimum number of characters to search,מספר תווים מינימלי לחיפוש,module,Mirasvit_SearchAutocomplete
+The delay before start finding,זמן ההשהיה לפני תחילת מציאת התוצאות,module,Mirasvit_SearchAutocomplete
+">In milliseconds, e.g. 500 means 0.5 of second","> באלפיות השנייה, למשל, 500 פירושו 0.5 שניה",module,Mirasvit_SearchAutocomplete
+Fast Mode,מצב מהיר,module,Mirasvit_SearchAutocomplete
+Disable not necessary observers and handlers,ביטול משקיפים ומטפלים לא הכרחים (observers and handlers),module,Mirasvit_SearchAutocomplete
+Products Settings,הגדרות מוצרים,module,Mirasvit_SearchAutocomplete
+Show Price,הצג מחיר,module,Mirasvit_SearchAutocomplete
+Show Thumbnail,הצג תמונה ממוזערת,module,Mirasvit_SearchAutocomplete
+Show Rating,הצג דירוג,module,Mirasvit_SearchAutocomplete
+Show Description,הצג תיאור,module,Mirasvit_SearchAutocomplete
+Show SKU,"הצג מק""ט",module,Mirasvit_SearchAutocomplete
+"Show ""Add to cart""","הצג ""הוסף לעגלה""",module,Mirasvit_SearchAutocomplete
 Optimize autocomplete view for small screen size,Optimize autocomplete view for small screen size,module,Mirasvit_SearchAutocomplete
-נראות,Appearance,module,Mirasvit_SearchAutocomplete
-נוספים CSS סגנונות,Additional CSS Styles,module,Mirasvit_SearchAutocomplete
-הצג חיפושים חמים,Show Hot Searches,module,Mirasvit_SearchAutocomplete
-הצג שאילתות חיפוש,Search queries,module,Mirasvit_SearchAutocomplete
-שאילתות חיפוש מופרדות בפסיקים. השאר ריק להצגת השאילתות הנפוצות ביותר.,Comma separated search queries. Leave empty for show most popular queries.,module,Mirasvit_SearchAutocomplete
-להתעלם מהמילות,Ignored words,module,Mirasvit_SearchAutocomplete
-" מילים מופרדות בפסיקים. התעלם מהחיפוש, אם שאילתת החיפוש מכילה כל מילה מאלו.","Comma separated words. Ignore query, if search query contains any of these word.",module,Mirasvit_SearchAutocomplete
-מספר שאילתות מקסימלי,Max Number of queries,module,Mirasvit_SearchAutocomplete
-מילון תהליכים שעברו בהצלחה.,Dictionary successfully processed.,module,Mirasvit_SearchAutocomplete
-מוצרים בקטגוריות,Products in categories,module,Mirasvit_SearchAutocomplete
-שמור והמשך עריכה,Save and Continue Edit,module,Amasty_Extrafee
-חזור,Back,module,Amasty_Extrafee
-מחק את הדף,Delete Page,module,Amasty_Extrafee
-האם אתה בטוח שברצונך לעשות זאת?,Are you sure you want to do this?,module,Amasty_Extrafee
-אפס,Reset,module,Amasty_Extrafee
-שמור דף,Save Page,module,Amasty_Extrafee
-חישוב,Calculation,module,Amasty_Extrafee
-חישוב דמי אחוז,Percent Fee Calculation,module,Amasty_Extrafee
-כלול הנחה בסכום ביניים,Include discount in subtotal,module,Amasty_Extrafee
-בחר באפשרות 'כן' אם ברצונך לחשב את העמלה הנוספת בהתאם למחירים עם סכומי הנחה (רק עבור סוג עמלה),Select 'Yes' if you want to calculate the extra fee based on the prices with discount amounts (only for percent fee type),module,Amasty_Extrafee
-כלול מס בסכום ביניים,Include tax in subtotal,module,Amasty_Extrafee
-בחר 'כן' אם ברצונך לחשב את העמלה הנוספת בהתבסס על המחירים עם מסים (רק עבור סוג עמלה),Select 'Yes' if you want to calculate the extra fee based on the prices with taxes (only for percent fee type),module,Amasty_Extrafee
-כלול משלוח בסכום ביניים,Include shipping in subtotal,module,Amasty_Extrafee
-בחר 'כן' אם ברצונך לחשב את העמלה הנוספת בהתבסס על המחירים עם עלויות המשלוח (רק עבור סוג עמלה),Select 'Yes' if you want to calculate the extra fee based on the prices with shipping costs (only for percent fee type),module,Amasty_Extrafee
-תנאים,Conditions,module,Amasty_Extrafee
-תנאים (לא להוסיף תנאים אם צריך את כל המוצרים),Conditions (don't add conditions if need all products),module,Amasty_Extrafee
-חנויות וקבוצות לקוחות,Stores & Customer Groups,module,Amasty_Extrafee
-תצוגת חנות,Store View,module,Amasty_Extrafee
-קבוצות לקוחות,Customer Groups,module,Amasty_Extrafee
-כללי,General,module,Amasty_Extrafee
-שם,Name,module,Amasty_Extrafee
-מופעל,Enabled,module,Amasty_Extrafee
-הקלד,Type,module,Amasty_Extrafee
-סדר המיון,Sort_ Order,module,Amasty_Extrafee
-סדר המיון,Sort Order,module,Amasty_Extrafee
-תיאור,Description,module,Amasty_Extrafee
-אפשרויות,Options,module,Amasty_Extrafee
-מידע על עמלות,Fee Information,module,Amasty_Extrafee
-שירותים נוספים בתשלום,Additional Fees,module,Amasty_Extrafee
-אנא עדכנו את מודול בסיס Amasty. לטעון מחדש את זה ולהחליף את כל הקבצים.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Extrafee
-תשלום נוסף: %1,Extra Fee: %1,module,Amasty_Extrafee
-אגרות,Fees,module,Amasty_Extrafee
-תוספת התשלום נמחקה.,The fee has been deleted.,module,Amasty_Extrafee
-תוספת תשלום חדשה,New Fee,module,Amasty_Extrafee
-תוספות תשלום נוספות,Extra Fees,module,Amasty_Extrafee
-ניהול תוספות תשלום נוספות,Manage Extra Fees,module,Amasty_Extrafee
-"סה""כ %1 הרשומות נמחקו.",A total of %1 record(s) have been deleted.,module,Amasty_Extrafee
-"סה""כ %1 הרשומות שונו.",A total of %1 record(s) have been changed.,module,Amasty_Extrafee
-הערך של טווח הניהול אינו יכול להיות ריק.,The value of Admin scope can't be empty.,module,Amasty_Extrafee
-משהו השתבש בעת שמירת הנתונים.,Something went wrong while saving the data.,module,Amasty_Extrafee
-לא,No,module,Amasty_Extrafee
-כן,Yes,module,Amasty_Extrafee
-ברירת מחדל,Default,module,Amasty_Extrafee
-תיבת סימון,Checkbox,module,Amasty_Extrafee
-להפיל,Dropdown,module,Amasty_Extrafee
-כפתור רדיו,Radio Button,module,Amasty_Extrafee
-תוקן,Fixed,module,Amasty_Extrafee
-אחוזים,Percent,module,Amasty_Extrafee
-לא ניתן לשמור את האגרה: %1,Could not save the fee: %1,module,Amasty_Extrafee
-"תוספת תשלום עם מזהה ""%1"" אינה קיימת.","Fee with id ""%1"" does not exist.",module,Amasty_Extrafee
-לא ניתן למחוק את תוספת התשלום: %1,Could not delete the fee: %1,module,Amasty_Extrafee
-תשלום נוסף (%1),Extra Fee (%1),module,Amasty_Extrafee
-תוספת תשלום,Amasty Fee,module,Amasty_Extrafee
+Appearance,נראות,module,Mirasvit_SearchAutocomplete
+Additional CSS Styles,נוספים CSS סגנונות,module,Mirasvit_SearchAutocomplete
+Show Hot Searches,הצג חיפושים חמים,module,Mirasvit_SearchAutocomplete
+Search queries,הצג שאילתות חיפוש,module,Mirasvit_SearchAutocomplete
+Comma separated search queries. Leave empty for show most popular queries.,שאילתות חיפוש מופרדות בפסיקים. השאר ריק להצגת השאילתות הנפוצות ביותר.,module,Mirasvit_SearchAutocomplete
+Ignored words,להתעלם מהמילות,module,Mirasvit_SearchAutocomplete
+"Comma separated words. Ignore query, if search query contains any of these word."," מילים מופרדות בפסיקים. התעלם מהחיפוש, אם שאילתת החיפוש מכילה כל מילה מאלו.",module,Mirasvit_SearchAutocomplete
+Max Number of queries,מספר שאילתות מקסימלי,module,Mirasvit_SearchAutocomplete
+Dictionary successfully processed.,מילון תהליכים שעברו בהצלחה.,module,Mirasvit_SearchAutocomplete
+Products in categories,מוצרים בקטגוריות,module,Mirasvit_SearchAutocomplete
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_Extrafee
+Back,חזור,module,Amasty_Extrafee
+Delete Page,מחק את הדף,module,Amasty_Extrafee
+Are you sure you want to do this?,האם אתה בטוח שברצונך לעשות זאת?,module,Amasty_Extrafee
+Reset,אפס,module,Amasty_Extrafee
+Save Page,שמור דף,module,Amasty_Extrafee
+Calculation,חישוב,module,Amasty_Extrafee
+Percent Fee Calculation,חישוב דמי אחוז,module,Amasty_Extrafee
+Include discount in subtotal,כלול הנחה בסכום ביניים,module,Amasty_Extrafee
+Select 'Yes' if you want to calculate the extra fee based on the prices with discount amounts (only for percent fee type),בחר באפשרות 'כן' אם ברצונך לחשב את העמלה הנוספת בהתאם למחירים עם סכומי הנחה (רק עבור סוג עמלה),module,Amasty_Extrafee
+Include tax in subtotal,כלול מס בסכום ביניים,module,Amasty_Extrafee
+Select 'Yes' if you want to calculate the extra fee based on the prices with taxes (only for percent fee type),בחר 'כן' אם ברצונך לחשב את העמלה הנוספת בהתבסס על המחירים עם מסים (רק עבור סוג עמלה),module,Amasty_Extrafee
+Include shipping in subtotal,כלול משלוח בסכום ביניים,module,Amasty_Extrafee
+Select 'Yes' if you want to calculate the extra fee based on the prices with shipping costs (only for percent fee type),בחר 'כן' אם ברצונך לחשב את העמלה הנוספת בהתבסס על המחירים עם עלויות המשלוח (רק עבור סוג עמלה),module,Amasty_Extrafee
+Conditions,תנאים,module,Amasty_Extrafee
+Conditions (don't add conditions if need all products),תנאים (לא להוסיף תנאים אם צריך את כל המוצרים),module,Amasty_Extrafee
+Stores & Customer Groups,חנויות וקבוצות לקוחות,module,Amasty_Extrafee
+Store View,תצוגת חנות,module,Amasty_Extrafee
+Customer Groups,קבוצות לקוחות,module,Amasty_Extrafee
+General,כללי,module,Amasty_Extrafee
+Name,שם,module,Amasty_Extrafee
+Enabled,מופעל,module,Amasty_Extrafee
+Type,הקלד,module,Amasty_Extrafee
+Sort_ Order,סדר המיון,module,Amasty_Extrafee
+Sort Order,סדר המיון,module,Amasty_Extrafee
+Description,תיאור,module,Amasty_Extrafee
+Options,אפשרויות,module,Amasty_Extrafee
+Fee Information,מידע על עמלות,module,Amasty_Extrafee
+Additional Fees,שירותים נוספים בתשלום,module,Amasty_Extrafee
+Please update Amasty Base module. Re-upload it and replace all the files.,אנא עדכנו את מודול בסיס Amasty. לטעון מחדש את זה ולהחליף את כל הקבצים.,module,Amasty_Extrafee
+Extra Fee: %1,תשלום נוסף: %1,module,Amasty_Extrafee
+Fees,אגרות,module,Amasty_Extrafee
+The fee has been deleted.,תוספת התשלום נמחקה.,module,Amasty_Extrafee
+New Fee,תוספת תשלום חדשה,module,Amasty_Extrafee
+Extra Fees,תוספות תשלום נוספות,module,Amasty_Extrafee
+Manage Extra Fees,ניהול תוספות תשלום נוספות,module,Amasty_Extrafee
+A total of %1 record(s) have been deleted.,"סה""כ %1 הרשומות נמחקו.",module,Amasty_Extrafee
+A total of %1 record(s) have been changed.,"סה""כ %1 הרשומות שונו.",module,Amasty_Extrafee
+The value of Admin scope can't be empty.,הערך של טווח הניהול אינו יכול להיות ריק.,module,Amasty_Extrafee
+Something went wrong while saving the data.,משהו השתבש בעת שמירת הנתונים.,module,Amasty_Extrafee
+No,לא,module,Amasty_Extrafee
+Yes,כן,module,Amasty_Extrafee
+Default,ברירת מחדל,module,Amasty_Extrafee
+Checkbox,תיבת סימון,module,Amasty_Extrafee
+Dropdown,להפיל,module,Amasty_Extrafee
+Radio Button,כפתור רדיו,module,Amasty_Extrafee
+Fixed,תוקן,module,Amasty_Extrafee
+Percent,אחוזים,module,Amasty_Extrafee
+Could not save the fee: %1,לא ניתן לשמור את האגרה: %1,module,Amasty_Extrafee
+"Fee with id ""%1"" does not exist.","תוספת תשלום עם מזהה ""%1"" אינה קיימת.",module,Amasty_Extrafee
+Could not delete the fee: %1,לא ניתן למחוק את תוספת התשלום: %1,module,Amasty_Extrafee
+Extra Fee (%1),תשלום נוסף (%1),module,Amasty_Extrafee
+Amasty Fee,תוספת תשלום,module,Amasty_Extrafee
 . ' %s %s',. ' %s %s',module,Amasty_Extrafee
-מכיל,contains,module,Amasty_Extrafee
-לא מכיל,does not contain,module,Amasty_Extrafee
-חישוב הסיכום אינו חל על עגלה ריקה,Totals calculation is not applicable to empty cart,module,Amasty_Extrafee
-ערוך,Edit,module,Amasty_Extrafee
-כל תצוגות חנות,All Store Views,module,Amasty_Extrafee
-ברירת המחדל,Is Default,module,Amasty_Extrafee
-מחיר,Price,module,Amasty_Extrafee
-הוסף אפשרות,Add Option,module,Amasty_Extrafee
-מיין אפשרות,Sort Option,module,Amasty_Extrafee
-תווית,label,module,Amasty_Extrafee
-מחק,Delete,module,Amasty_Extrafee
-בחר באפשרות אפשרות,Choose Option,module,Amasty_Extrafee
-החל תוספות תשלום,Apply Fees,module,Amasty_Extrafee
-אין תוספת תשלום נוספות.,No Extra Fees available.,module,Amasty_Extrafee
+contains,מכיל,module,Amasty_Extrafee
+does not contain,לא מכיל,module,Amasty_Extrafee
+Totals calculation is not applicable to empty cart,חישוב הסיכום אינו חל על עגלה ריקה,module,Amasty_Extrafee
+Edit,ערוך,module,Amasty_Extrafee
+All Store Views,כל תצוגות חנות,module,Amasty_Extrafee
+Is Default,ברירת המחדל,module,Amasty_Extrafee
+Price,מחיר,module,Amasty_Extrafee
+Add Option,הוסף אפשרות,module,Amasty_Extrafee
+Sort Option,מיין אפשרות,module,Amasty_Extrafee
+label,תווית,module,Amasty_Extrafee
+Delete,מחק,module,Amasty_Extrafee
+Choose Option,בחר באפשרות אפשרות,module,Amasty_Extrafee
+Apply Fees,החל תוספות תשלום,module,Amasty_Extrafee
+No Extra Fees available.,אין תוספת תשלום נוספות.,module,Amasty_Extrafee
 Amasty: Extra Fee,Amasty: Extra Fee,module,Amasty_Extrafee
-ניהול תוספות תשלום,Manage Fees,module,Amasty_Extrafee
-תשלום נוסף,Extra Fee,module,Amasty_Extrafee
-מידע,Information,module,Amasty_Extrafee
-"מע""מ",Tax,module,Amasty_Extrafee
-"מחלקת מע""מ",Tax Class,module,Amasty_Extrafee
-חזיתי,Frontend,module,Amasty_Extrafee
-הצג בסל הקניות,Show On Cart Page,module,Amasty_Extrafee
-אפשר תוספת תשלום,Enable Fee,module,Amasty_Extrafee
-יישום אוטומטי,Autoapply,module,Amasty_Extrafee
-תוספת תשלום זו תחול באופן אוטומטי ותוצג בשלב 'סיכום הזמנה'.,Fee will be applied automatically and displayed in Order Summary step.,module,Amasty_Extrafee
--- בחר --,-- Please Select --,module,Amasty_Extrafee
-הצג בסל הקניות,Display on Cart,module,Amasty_Extrafee
-הוסף תוספתתשלום חדשה,Add New Fee,module,Amasty_Extrafee
-מחק פריטים,Delete items,module,Amasty_Extrafee
-האם אתה בטוח שאתה רוצה למחוק את הפריטים הנבחרים?,Are you sure you wan't to delete selected items?,module,Amasty_Extrafee
-כבה,Disable,module,Amasty_Extrafee
-הפעל,Enable,module,Amasty_Extrafee
-מזהה,ID,module,Amasty_Extrafee
-קבוצת לקוחות,Customer Group,module,Amasty_Extrafee
+Manage Fees,ניהול תוספות תשלום,module,Amasty_Extrafee
+Extra Fee,תשלום נוסף,module,Amasty_Extrafee
+Information,מידע,module,Amasty_Extrafee
+Tax,"מע""מ",module,Amasty_Extrafee
+Tax Class,"מחלקת מע""מ",module,Amasty_Extrafee
+Frontend,חזיתי,module,Amasty_Extrafee
+Show On Cart Page,הצג בסל הקניות,module,Amasty_Extrafee
+Enable Fee,אפשר תוספת תשלום,module,Amasty_Extrafee
+Autoapply,יישום אוטומטי,module,Amasty_Extrafee
+Fee will be applied automatically and displayed in Order Summary step.,תוספת תשלום זו תחול באופן אוטומטי ותוצג בשלב 'סיכום הזמנה'.,module,Amasty_Extrafee
+-- Please Select --,-- בחר --,module,Amasty_Extrafee
+Display on Cart,הצג בסל הקניות,module,Amasty_Extrafee
+Add New Fee,הוסף תוספתתשלום חדשה,module,Amasty_Extrafee
+Delete items,מחק פריטים,module,Amasty_Extrafee
+Are you sure you wan't to delete selected items?,האם אתה בטוח שאתה רוצה למחוק את הפריטים הנבחרים?,module,Amasty_Extrafee
+Disable,כבה,module,Amasty_Extrafee
+Enable,הפעל,module,Amasty_Extrafee
+ID,מזהה,module,Amasty_Extrafee
+Customer Group,קבוצת לקוחות,module,Amasty_Extrafee
 Save and Continue Edit,Save and Continue Edit,module,Amasty_Acart
 Blacklist Item Information,Blacklist Item Information,module,Amasty_Acart
 General,General,module,Amasty_Acart
@@ -196,7 +196,7 @@ Leave empty or select all to apply the campaign to any group,Leave empty or sele
 Test,Test,module,Amasty_Acart
 Products,Products,module,Amasty_Acart
 Quantity,Quantity,module,Amasty_Acart
-סכום ביניים,Subtotal,module,Amasty_Acart
+Subtotal,סכום ביניים,module,Amasty_Acart
 Applied Coupon,Applied Coupon,module,Amasty_Acart
 Created,Created,module,Amasty_Acart
 Updated,Updated,module,Amasty_Acart
@@ -248,12 +248,12 @@ The wrong campaign is specified.,The wrong campaign is specified.,module,Amasty_
 You saved the campaign.,You saved the campaign.,module,Amasty_Acart
 Something went wrong while saving the campaign data. Please review the error log.,Something went wrong while saving the campaign data. Please review the error log.,module,Amasty_Acart
 Email didn't send.,Email didn't send.,module,Amasty_Acart
-בוטל הרישום שלך,You have been unsubscribed,module,Amasty_Acart
-היום,Today,module,Amasty_Acart
-7 הימים האחרונים,Last 7 days,module,Amasty_Acart
-30 הימים האחרונים,Last 30 days,module,Amasty_Acart
-באופן כללי,Overall,module,Amasty_Acart
-מותאם אישית,Custom,module,Amasty_Acart
+You have been unsubscribed,בוטל הרישום שלך,module,Amasty_Acart
+Today,היום,module,Amasty_Acart
+Last 7 days,7 הימים האחרונים,module,Amasty_Acart
+Last 30 days,30 הימים האחרונים,module,Amasty_Acart
+Overall,באופן כללי,module,Amasty_Acart
+Custom,מותאם אישית,module,Amasty_Acart
 The schedule should be completed.,The schedule should be completed.,module,Amasty_Acart
 Rule do not have any Schedule,Rule do not have any Schedule,module,Amasty_Acart
 Number of recovered cards this month,Number of recovered cards this month,module,Amasty_Acart
@@ -262,31 +262,31 @@ Sales Representative Contact,Sales Representative Contact,module,Amasty_Acart
 Customer Support Contact,Customer Support Contact,module,Amasty_Acart
 Custom Email 1 Contact,Custom Email 1 Contact,module,Amasty_Acart
 Custom Email 2 Contact,Custom Email 2 Contact,module,Amasty_Acart
-פעיל,Active,module,Amasty_Acart
-לא פעיל,Inactive,module,Amasty_Acart
-"קישור מדוא""ל שנלחץ",Link from Email Clicked,module,Amasty_Acart
+Active,פעיל,module,Amasty_Acart
+Inactive,לא פעיל,module,Amasty_Acart
+Link from Email Clicked,"קישור מדוא""ל שנלחץ",module,Amasty_Acart
 Any product went out of stock,Any product went out of stock,module,Amasty_Acart
 All products went out of stock,All products went out of stock,module,Amasty_Acart
-לא נשלח,Not sent,module,Amasty_Acart
-נשלח,Sent,module,Amasty_Acart
-בוטל על ידי מנהל המערכת,Canceled by the admin,module,Amasty_Acart
-הלקוח אינו מנוי בניוזלטר,Customer is Not Newsletter Subscriber,module,Amasty_Acart
-ערוך,Edit,module,Amasty_Acart
-הכנסות,Revenue,module,Amasty_Acart
+Not sent,לא נשלח,module,Amasty_Acart
+Sent,נשלח,module,Amasty_Acart
+Canceled by the admin,בוטל על ידי מנהל המערכת,module,Amasty_Acart
+Customer is Not Newsletter Subscriber,הלקוח אינו מנוי בניוזלטר,module,Amasty_Acart
+Edit,ערוך,module,Amasty_Acart
+Revenue,הכנסות,module,Amasty_Acart
 Recovered Revenue,Recovered Revenue,module,Amasty_Acart
 Orders Placed,Orders Placed,module,Amasty_Acart
-סטטיסטיקה,Statistics,module,Amasty_Acart
+Statistics,סטטיסטיקה,module,Amasty_Acart
 * unshipped and uninvoiced orders also count towards statistics,* unshipped and uninvoiced orders also count towards statistics,module,Amasty_Acart
 "Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime).","Please, mind that your emails sending period is greater than Quote Lifetime (days). (To check it, please, go to Stores->Configuration->Sales->Checkout->Shopping Cart->Quote Lifetime).",module,Amasty_Acart
 "Please make sure that your cron is properly configured. We recommend to run cron every 5 minutes. <a href=""%1"" target=""_blank"">Learn more</a>","Please make sure that your cron is properly configured. We recommend to run cron every 5 minutes. <a href=""%1"" target=""_blank"">Learn more</a>",module,Amasty_Acart
-"טרנזקציות דוא""ל",Transactional Email,module,Amasty_Acart
-זמן משלוח,Delivery Time,module,Amasty_Acart
-ימים,Days,module,Amasty_Acart
-שעות,Hours,module,Amasty_Acart
-דקות,Minutes,module,Amasty_Acart
-סוג,Type,module,Amasty_Acart
+Transactional Email,"טרנזקציות דוא""ל",module,Amasty_Acart
+Delivery Time,זמן משלוח,module,Amasty_Acart
+Days,ימים,module,Amasty_Acart
+Hours,שעות,module,Amasty_Acart
+Minutes,דקות,module,Amasty_Acart
+Type,סוג,module,Amasty_Acart
 None,None,module,Amasty_Acart
-אחוז הנחה על מחיר המוצר,Percent of product price discount,module,Amasty_Acart
+Percent of product price discount,אחוז הנחה על מחיר המוצר,module,Amasty_Acart
 Fixed amount discount,Fixed amount discount,module,Amasty_Acart
 Fixed amount discount for whole cart,Fixed amount discount for whole cart,module,Amasty_Acart
 Auto add promo items with products,Auto add promo items with products,module,Amasty_Acart
@@ -305,26 +305,26 @@ Rule option `Use Auto Generation` should be turned on.,Rule option `Use Auto Gen
 Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,Enrich your cart price rules list with 20 more promo actions. Run a great variety of exclusive promotions to easily attract customers' attention and increase sales. See more details,module,Amasty_Acart
 here,here,module,Amasty_Acart
 Delete,Delete,module,Amasty_Acart
-מחיר,Price,module,Amasty_Acart
+Price,מחיר,module,Amasty_Acart
 "Hello,","Hello,",module,Amasty_Acart
 "Dear %firstName %lastName,","Dear %firstName %lastName,",module,Amasty_Acart
-יש לך פריטים בסל הקניות שלך.,You have items in your shopping bag.,module,Amasty_Acart
+You have items in your shopping bag.,יש לך פריטים בסל הקניות שלך.,module,Amasty_Acart
 Get them with discount!,Get them with discount!,module,Amasty_Acart
 reply to this mail,reply to this mail,module,Amasty_Acart
 "Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !","Save money with coupon code <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%coupon</span> !",module,Amasty_Acart
 "Coupon expiration date: <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%expiration_date</span>","Coupon expiration date: <span style=""border: 1px solid #E0E0E0; margin-left: 10px; background-color: #f9f9f9;"">%expiration_date</span>",module,Amasty_Acart
-לתשלום,CHECK OUT,module,Amasty_Acart
-נשלח על ידי,Delivered by,module,Amasty_Acart
-בטל רישום,Unsubscribe,module,Amasty_Acart
-עגלות נטושות,Abandoned Carts,module,Amasty_Acart
-הזמנות,Orders,module,Amasty_Acart
-כסף מחכה בעגלות נטושות,Money awaiting in abandoned carts,module,Amasty_Acart
+CHECK OUT,לתשלום,module,Amasty_Acart
+Delivered by,נשלח על ידי,module,Amasty_Acart
+Unsubscribe,בטל רישום,module,Amasty_Acart
+Abandoned Carts,עגלות נטושות,module,Amasty_Acart
+Orders,הזמנות,module,Amasty_Acart
+Money awaiting in abandoned carts,כסף מחכה בעגלות נטושות,module,Amasty_Acart
 Money made of recovered carts,Money made of recovered carts,module,Amasty_Acart
-שלח אימיילים,Sent emails,module,Amasty_Acart
-עגלות משוחזרות,Recovered carts,module,Amasty_Acart
-רכישות בפועל,Actual purchases,module,Amasty_Acart
-"דוא""ל של עגלה שננטשה",Abandoned Cart Email,module,Amasty_Acart
-מידע,Information,module,Amasty_Acart
+Sent emails,שלח אימיילים,module,Amasty_Acart
+Recovered carts,עגלות משוחזרות,module,Amasty_Acart
+Actual purchases,רכישות בפועל,module,Amasty_Acart
+Abandoned Cart Email,"דוא""ל של עגלה שננטשה",module,Amasty_Acart
+Information,מידע,module,Amasty_Acart
 The Coupon is Available Only for Particular Customer,The Coupon is Available Only for Particular Customer,module,Amasty_Acart
 If the option is disabled the coupon can be used by all customers.,If the option is disabled the coupon can be used by all customers.,module,Amasty_Acart
 Trigger a Campaign No More Than 1 Time per Quote,Trigger a Campaign No More Than 1 Time per Quote,module,Amasty_Acart
@@ -334,8 +334,8 @@ In days.,In days.,module,Amasty_Acart
 Disable Guest Email Logging for EU Customers (GDPR Compliance Requirement),Disable Guest Email Logging for EU Customers (GDPR Compliance Requirement),module,Amasty_Acart
 For use this setting you need import GEOIP Data,For use this setting you need import GEOIP Data,module,Amasty_Acart
 Email Templates,Email Templates,module,Amasty_Acart
-שם השולח,Sender Name,module,Amasty_Acart
-"דוא""ל של השולח",Sender Email,module,Amasty_Acart
+Sender Name,שם השולח,module,Amasty_Acart
+Sender Email,"דוא""ל של השולח",module,Amasty_Acart
 Send to Newsletter Subscribers Only,Send to Newsletter Subscribers Only,module,Amasty_Acart
 Sends Copy of Emails to,Sends Copy of Emails to,module,Amasty_Acart
 Reply to Name,Reply to Name,module,Amasty_Acart
@@ -367,780 +367,780 @@ Cancel,Cancel,module,Amasty_Acart
 Rule,Rule,module,Amasty_Acart
 Create New Campaign,Create New Campaign,module,Amasty_Acart
 Delete rules,Delete rules,module,Amasty_Acart
-אתם תחויבו בסכום של,You will be charged for,module,Magento_Tax
-שמור & שלח דוא''ל,Save & Send Email,module,Amasty_GiftCard
-לערוך,Edit,module,Amasty_GiftCard
-אינפומציה כללית,General Infomation,module,Amasty_GiftCard
-מידע,Information,module,Amasty_GiftCard
-מספר הזמנה,Order ID,module,Amasty_GiftCard
-קוד כרטיס מתנה,Gift Card Code,module,Amasty_GiftCard
-סטָטוּס,Status,module,Amasty_GiftCard
-אתר אינטרנט,Website,module,Amasty_GiftCard
-ערך קוד התחלתי,Initial code value,module,Amasty_GiftCard
-יתרה נוכחית,Current Balance,module,Amasty_GiftCard
-תאריך תפוגה,Expiry Date,module,Amasty_GiftCard
-תגובה,Comment,module,Amasty_GiftCard
-להזמין #,Order #,module,Amasty_GiftCard
-רכש ב,Purchased On,module,Amasty_GiftCard
-ביל אל השם,Bill to Name,module,Amasty_GiftCard
-נשלח אל השם,Shipped to Name,module,Amasty_GiftCard
-סך כל ההזמנה,Order Total,module,Amasty_GiftCard
-קנו מ,Bought From,module,Amasty_GiftCard
-פעולה,Action,module,Amasty_GiftCard
-נוף,View,module,Amasty_GiftCard
-שלח שוב כרטיס מתנה,Resend Gift Card,module,Amasty_GiftCard
-שלח כרטיס מתנה,Send Gift Card,module,Amasty_GiftCard
-"דוא""ל מקבל",Recipient Email,module,Amasty_GiftCard
-שם הנמען,Recipient Name,module,Amasty_GiftCard
-שלח אימייל מתצוגת החנות הבאה,Send Email from the Following Store View,module,Amasty_GiftCard
-פרטי חשבון,Account Information,module,Amasty_GiftCard
-שמור והמשך עריכה,Save and Continue Edit,module,Amasty_GiftCard
-חשבון קוד מתנה חדש,New Gift Code Account,module,Amasty_GiftCard
-בריכת קוד,Code Pool,module,Amasty_GiftCard
-תמונה,Image,module,Amasty_GiftCard
-חֲנוּת,Store,module,Amasty_GiftCard
-איזון,Balance,module,Amasty_GiftCard
-שלח מידע,Send Information,module,Amasty_GiftCard
-שם השולח,Sender Name,module,Amasty_GiftCard
-"דוא""ל השולח",Sender Email,module,Amasty_GiftCard
-הודעת השולח,Sender Message,module,Amasty_GiftCard
-משלוח תאריך,Date Delivery,module,Amasty_GiftCard
-כללי,General,module,Amasty_GiftCard
-מידע כללי,General Information,module,Amasty_GiftCard
-שם בריכת קוד,Code Pool Name,module,Amasty_GiftCard
-צור קודים,Generate Codes,module,Amasty_GiftCard
-תבנית קודים שנוצר,Generated codes template,module,Amasty_GiftCard
-קודים שנוצרו כמות,Generated codes qty,module,Amasty_GiftCard
-ייבוא ​​קודים,Import Codes,module,Amasty_GiftCard
-קובץ CSV,CSV File,module,Amasty_GiftCard
-כל קוד מתנה על קו חדש,Each gift code on a new line,module,Amasty_GiftCard
-רשימת קודים,Codes List,module,Amasty_GiftCard
-קוד,Code,module,Amasty_GiftCard
-מְשׁוּמָשׁ,Used,module,Amasty_GiftCard
-לִמְחוֹק,Delete,module,Amasty_GiftCard
-האם אתה בטוח?,Are you sure?,module,Amasty_GiftCard
+You will be charged for,אתם תחויבו בסכום של,module,Magento_Tax
+Save & Send Email,שמור & שלח דוא''ל,module,Amasty_GiftCard
+Edit,לערוך,module,Amasty_GiftCard
+General Infomation,אינפומציה כללית,module,Amasty_GiftCard
+Information,מידע,module,Amasty_GiftCard
+Order ID,מספר הזמנה,module,Amasty_GiftCard
+Gift Card Code,קוד כרטיס מתנה,module,Amasty_GiftCard
+Status,סטָטוּס,module,Amasty_GiftCard
+Website,אתר אינטרנט,module,Amasty_GiftCard
+Initial code value,ערך קוד התחלתי,module,Amasty_GiftCard
+Current Balance,יתרה נוכחית,module,Amasty_GiftCard
+Expiry Date,תאריך תפוגה,module,Amasty_GiftCard
+Comment,תגובה,module,Amasty_GiftCard
+Order #,להזמין #,module,Amasty_GiftCard
+Purchased On,רכש ב,module,Amasty_GiftCard
+Bill to Name,ביל אל השם,module,Amasty_GiftCard
+Shipped to Name,נשלח אל השם,module,Amasty_GiftCard
+Order Total,סך כל ההזמנה,module,Amasty_GiftCard
+Bought From,קנו מ,module,Amasty_GiftCard
+Action,פעולה,module,Amasty_GiftCard
+View,נוף,module,Amasty_GiftCard
+Resend Gift Card,שלח שוב כרטיס מתנה,module,Amasty_GiftCard
+Send Gift Card,שלח כרטיס מתנה,module,Amasty_GiftCard
+Recipient Email,"דוא""ל מקבל",module,Amasty_GiftCard
+Recipient Name,שם הנמען,module,Amasty_GiftCard
+Send Email from the Following Store View,שלח אימייל מתצוגת החנות הבאה,module,Amasty_GiftCard
+Account Information,פרטי חשבון,module,Amasty_GiftCard
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_GiftCard
+New Gift Code Account,חשבון קוד מתנה חדש,module,Amasty_GiftCard
+Code Pool,בריכת קוד,module,Amasty_GiftCard
+Image,תמונה,module,Amasty_GiftCard
+Store,חֲנוּת,module,Amasty_GiftCard
+Balance,איזון,module,Amasty_GiftCard
+Send Information,שלח מידע,module,Amasty_GiftCard
+Sender Name,שם השולח,module,Amasty_GiftCard
+Sender Email,"דוא""ל השולח",module,Amasty_GiftCard
+Sender Message,הודעת השולח,module,Amasty_GiftCard
+Date Delivery,משלוח תאריך,module,Amasty_GiftCard
+General,כללי,module,Amasty_GiftCard
+General Information,מידע כללי,module,Amasty_GiftCard
+Code Pool Name,שם בריכת קוד,module,Amasty_GiftCard
+Generate Codes,צור קודים,module,Amasty_GiftCard
+Generated codes template,תבנית קודים שנוצר,module,Amasty_GiftCard
+Generated codes qty,קודים שנוצרו כמות,module,Amasty_GiftCard
+Import Codes,ייבוא ​​קודים,module,Amasty_GiftCard
+CSV File,קובץ CSV,module,Amasty_GiftCard
+Each gift code on a new line,כל קוד מתנה על קו חדש,module,Amasty_GiftCard
+Codes List,רשימת קודים,module,Amasty_GiftCard
+Code,קוד,module,Amasty_GiftCard
+Used,מְשׁוּמָשׁ,module,Amasty_GiftCard
+Delete,לִמְחוֹק,module,Amasty_GiftCard
+Are you sure?,האם אתה בטוח?,module,Amasty_GiftCard
 CSV,CSV,module,Amasty_GiftCard
-מידע על תבנית,Template Information,module,Amasty_GiftCard
-כותרת תמונה,Image Title,module,Amasty_GiftCard
-לֹא פָּעִיל,Inactive,module,Amasty_GiftCard
-פָּעִיל,Active,module,Amasty_GiftCard
-העלאת תמונה,Upload Image,module,Amasty_GiftCard
-"אנא, ציין מיקום קוד","Please, specify code position",module,Amasty_GiftCard
-כל הקבוצות,ALL GROUPS,module,Amasty_GiftCard
-הוסף מחיר,Add Price,module,Amasty_GiftCard
-ערך כרטיס,Card Value,module,Amasty_GiftCard
-סוג כרטיס,Card Type,module,Amasty_GiftCard
-מזהה תמונה% d,Image Id %d,module,Amasty_GiftCard
-תמונה של כרטיס מתנה,Gift Card Image,module,Amasty_GiftCard
-כרטיס מתנה Sender,Gift Card Sender,module,Amasty_GiftCard
-כרטיס מתנה,Gift Card Recipient,module,Amasty_GiftCard
-כרטיס מתנה הודעה,Gift Card Message,module,Amasty_GiftCard
-כרטיס מתנה Lifetime,Gift Card Lifetime,module,Amasty_GiftCard
-% 1 ימים,%1 days,module,Amasty_GiftCard
-תאריך מסירת האישור,Date of certificate delivery,module,Amasty_GiftCard
-לא ניתן ליצור.,Unable to create.,module,Amasty_GiftCard
-N / A,N/A,module,Amasty_GiftCard
-כרטיס מתנה חשבונות,Gift Card Accounts,module,Amasty_GiftCard
-כרטיס מתנה (% 1),Gift Card (%1),module,Amasty_GiftCard
-קוד מתנה זה כבר קיים,This Gift Code already exists,module,Amasty_GiftCard
-כרטיס מתנה נוסף בהצלחה,Gift Card has been successfully added,module,Amasty_GiftCard
-כרטיס מתנה שגוי,Wrong Gift Card code,module,Amasty_GiftCard
-כרטיסי ברכה,Gift Cards,module,Amasty_GiftCard
-כרטיס מתנה הוסר בהצלחה,Gift Card has been successfully removed,module,Amasty_GiftCard
-קוד מתנה חשבונות,Gift Code Accounts,module,Amasty_GiftCard
-הודעת האימייל נשלחה בהצלחה.,The email has been sent successfully.,module,Amasty_GiftCard
-חשבון הקוד נשמר.,The code account has been saved.,module,Amasty_GiftCard
-משהו השתבש בעת שמירת נתוני החשבון. עיין ביומן השגיאות.,Something went wrong while saving the Account data. Please review the error log.,module,Amasty_GiftCard
-החשבון נמחק.,Account has been deleted.,module,Amasty_GiftCard
-פריט זה אינו קיים עוד.,This item no longer exists.,module,Amasty_GiftCard
-ערוך קוד קוד חשבון,Edit Gift Code Account,module,Amasty_GiftCard
-"סה""כ% 1 הרשומות נמחקו.",A total of %1 record(s) have been deleted.,module,Amasty_GiftCard
-קוד מתנה בריכות,Gift Code Pools,module,Amasty_GiftCard
-קוד הבריכה נמחק.,Code Pool has been deleted.,module,Amasty_GiftCard
-הקוד נמחק.,Code has been deleted.,module,Amasty_GiftCard
-עריכת קוד מתנה,Edit Gift Code Pool,module,Amasty_GiftCard
-חדש קוד מתנה בריכה,New Gift Code Pool,module,Amasty_GiftCard
-הוגדר קוד השגיאה שגוי.,The wrong Code Pool is specified.,module,Amasty_GiftCard
-הרשומה נשמרה בהצלחה,Record has been successfully saved,module,Amasty_GiftCard
-משהו השתבש בעת שמירת נתוני קוד הבריכה. עיין ביומן השגיאות.,Something went wrong while saving the Code Pool data. Please review the error log.,module,Amasty_GiftCard
-כרטיס מתנה תמונות,Gift Card Images,module,Amasty_GiftCard
-התמונה נמחקה.,Image has been deleted.,module,Amasty_GiftCard
-עריכת תמונת מתנה,Edit Gift Image,module,Amasty_GiftCard
-תמונה חדשה מתנה,New Gift Image,module,Amasty_GiftCard
-תמונה שגויה צוין.,The wrong Image is specified.,module,Amasty_GiftCard
-משהו השתבש בעת שמירת נתוני התמונה. עיין ביומן השגיאות.,Something went wrong while saving the Image data. Please review the error log.,module,Amasty_GiftCard
-חשבון כרטיס מתנה זה כבר מופיע בציטוט.,This gift card account is already in the quote.,module,Amasty_GiftCard
-"כרטיס מתנה ""% 1"" נוסף.","Gift Card ""%1"" was added.",module,Amasty_GiftCard
-לא ניתן להחיל כרטיס מתנה.,Cannot apply gift card.,module,Amasty_GiftCard
-כרטיס מתנה הוסר.,Gift Card was removed.,module,Amasty_GiftCard
-גם וירטואלית וגם מודפסת,Both Virtual and Printed,module,Amasty_GiftCard
-רק מודפס,Only Printed,module,Amasty_GiftCard
-רק וירטואלי,Only Virtual,module,Amasty_GiftCard
-ערך כרטיס ב-% 1,Card Value in %1,module,Amasty_GiftCard
-ערך כרטיס מותאם אישית,Custom Card Value,module,Amasty_GiftCard
-תמונת כרטיס,Card Image,module,Amasty_GiftCard
-אזור זמן,Timezone,module,Amasty_GiftCard
-הוֹדָעָה,Message,module,Amasty_GiftCard
-אנא תקן את מטבע היעד.,Please correct the target currency.,module,Amasty_GiftCard
-לא בתוקף,Expired,module,Amasty_GiftCard
-אין קודים חופשיים,No free codes,module,Amasty_GiftCard
-קוד כרטיס מתנה שגוי,Wrong gift card code,module,Amasty_GiftCard
-אתר כרטיס מתנה שגוי,Wrong gift card website,module,Amasty_GiftCard
-כרטיס האשראי% 1 פג.,Gift card %1 is expired.,module,Amasty_GiftCard
-נעשה שימוש בכרטיס מתנה% 1.,Gift card %1 is used.,module,Amasty_GiftCard
-כרטיס מתנה% 1 אינו מופעל.,Gift card %1 is not enabled.,module,Amasty_GiftCard
-כרטיס מתנה% 1 מאזן אין כספים.,Gift card %1  balance does not have funds.,module,Amasty_GiftCard
-"לידיעתך, לא ניתן להשתמש בכרטיס המתנה שקנית עבור ההזמנות שלך.",Please be aware that it is not possible to use the gift card you purchased for your own orders.,module,Amasty_GiftCard
-"הוסף {L} או {d} מצייני מיקום לתבנית ""% s""","Please add {L} or {D} placeholders into the template ""%s""",module,Amasty_GiftCard
-"המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא% d, אנא עדכן את כמות השדות בהתאם.","Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.",module,Amasty_GiftCard
-"עם הזמן, תוכל ליצור לא יותר מ-% d קודים.","Over time, you can generate no more than %d codes.",module,Amasty_GiftCard
-אָחוּז,Percent,module,Amasty_GiftCard
-תוקן,Fixed,module,Amasty_GiftCard
-וירטואלי,Virtual,module,Amasty_GiftCard
-מודפס,Printed,module,Amasty_GiftCard
-מְשׁוּלָב,Combined,module,Amasty_GiftCard
-אירעה שגיאה בעת הכנת כרטיס מתנה.,An error has occurred while preparing Gift Card.,module,Amasty_GiftCard
-ציין% 1,Please specify %1,module,Amasty_GiftCard
-ציין את כל הפרטים הנדרשים.,Please specify all the required information.,module,Amasty_GiftCard
-כמות מינימום של כרטיס מתנה היא% 1,Gift Card min amount is %1,module,Amasty_GiftCard
-הסכום המקסימלי של כרטיס מתנה הוא% 1,Gift Card max amount is %1,module,Amasty_GiftCard
-נא לציין ערך כרטיס מתנה,Please specify Gift Card Value,module,Amasty_GiftCard
-כל הקודים כבר קיימים,All codes already exists,module,Amasty_GiftCard
-% 1 בשורה% 2,%1 in row %2,module,Amasty_GiftCard
-קודים כבר קיימים. קודים כפולים: <br />% 1,Codes already exists. Duplicate codes:<br /> %1,module,Amasty_GiftCard
-כרטיס מתנה,GiftCard,module,Amasty_GiftCard
-חשבון כרטיס מתנה זה אינו פעיל.,This gift card account is not active.,module,Amasty_GiftCard
-כרטיס המתנה נמחק.,Gift Card was deleted.,module,Amasty_GiftCard
-מ% 1,From %1,module,Amasty_GiftCard
-כל תצוגות חנות,All Store Views,module,Amasty_GiftCard
-השתמש בהגדרות תצורה,Use Config Settings,module,Amasty_GiftCard
-כל אתרי האינטרנט,All Websites,module,Amasty_GiftCard
-סכומים,Amounts,module,Amasty_GiftCard
-כמות,Amount,module,Amasty_GiftCard
-גרור אותי,Drag me,module,Amasty_GiftCard
-להגיש מועמדות,Apply,module,Amasty_GiftCard
-הסר כרטיסי מתנה קוד,Remove Gift Cards Code,module,Amasty_GiftCard
-לְהַסִיר,Remove,module,Amasty_GiftCard
-סטטוס:% 1,Status: %1,module,Amasty_GiftCard
-יתרה נוכחית:% 1,Current Balance: %1,module,Amasty_GiftCard
-ללא הגבלה,unlimited,module,Amasty_GiftCard
-תקף עד:% 1,Valid till: %1,module,Amasty_GiftCard
-קוד כרטיס מתנה שגוי.,Wrong Gift Card Code.,module,Amasty_GiftCard
-שימוש בקוד כרטיס מתנה,Apply Gift Card Code,module,Amasty_GiftCard
-הזן קוד כרטיס מתנה,Enter gift card code,module,Amasty_GiftCard
-הוסף כרטיס מתנה,Add Gift Card,module,Amasty_GiftCard
-בדוק את סטטוס כרטיס המתנה,Check Gift Card status,module,Amasty_GiftCard
-ציין קוד מתנה,Specify Gift Code,module,Amasty_GiftCard
-שלח,Submit,module,Amasty_GiftCard
-קודי מתנה,Gift Codes,module,Amasty_GiftCard
-קוד:% 1,Code: %1,module,Amasty_GiftCard
-בחר סכום ...,Choose an Amount...,module,Amasty_GiftCard
-סכום מותאם אישית,Custom Amount,module,Amasty_GiftCard
-מינימום:% 1,Minimum: %1,module,Amasty_GiftCard
-מקסימום:% 1,Maximum: %1,module,Amasty_GiftCard
-בחר סוג כרטיס,Choose card type,module,Amasty_GiftCard
--- בבקשה תבחר --,-- Please Select --,module,Amasty_GiftCard
-"לידיעתך, כרטיס מתנה מודפס יישלח לכתובת המשלוח שתציין במהלך הקנייה.",Please be aware that printed gift card will be sent to the shipping address you specify during checkout.,module,Amasty_GiftCard
-בחר תמונה בכרטיס,Choose card Image,module,Amasty_GiftCard
-"לידיעתך, תאריך האספקה ​​של האישורים המודפסים עשוי להיות שונה עקב הודעה.",Please be aware that delivery date of printed certificates may be different due to post.,module,Amasty_GiftCard
-בחר אזור זמן,Select timezone,module,Amasty_GiftCard
-כרטיס מתנה,#Gift Card,module,Amasty_GiftCard
-מאופשר,Enabled,module,Amasty_GiftCard
-"סוגי מוצרים, אשר ניתן לקנות עם כרטיס מתנה","Product Types, Which Can Be Bought With Gift Card",module,Amasty_GiftCard
-אפשרויות כרטיס מתנה,Gift Card options,module,Amasty_GiftCard
-Lifetime (ימים),Lifetime (Days),module,Amasty_GiftCard
-אפשר הודעה,Allow Message,module,Amasty_GiftCard
-אפשר ללקוחות להשתמש בכרטיסי מתנה שקנו לעצמם,Allow customers to use gift cards they bought for themselves,module,Amasty_GiftCard
-אפשר ללקוחות לבחור תאריך אספקה ​​עבור אישורים,Allow customers to choose delivery date for certificates,module,Amasty_GiftCard
-הודע ללקוחות לפני פקיעת האישור,Notify Customers before Certificate Expires,module,Amasty_GiftCard
-מספר הימים לפני התפוגה,Number of Days before Expiry,module,Amasty_GiftCard
-"כאשר מוגדר 0 (אפס), ההודעה נשלחת לאחר פקיעת האישור.","When set to 0 (zero), the notification is sent once the certificate expires.",module,Amasty_GiftCard
-"אפשרויות דוא""ל",Email Options,module,Amasty_GiftCard
-"שולח דוא""ל",Email Sender,module,Amasty_GiftCard
-"תבנית דוא""ל",Email Template,module,Amasty_GiftCard
-שלח עותק אל,Send copy to,module,Amasty_GiftCard
-מופרדים בפסיקים,Separated by comma,module,Amasty_GiftCard
-"תבנית דוא""ל של הודעת תפוגה",Expiry Notification Email Template,module,Amasty_GiftCard
-הודעה על פקיעת כרטיס מתנה,Notice of the expiry of the Gift Card,module,Amasty_GiftCard
-שלח אישור לשולח,Send confirmation to sender,module,Amasty_GiftCard
-"תבנית דוא""ל לאישור שולח",Sender Confirmation Email Template,module,Amasty_GiftCard
-היסטוריית הזמנות,Order History,module,Amasty_GiftCard
-הוסף חדש,Add New,module,Amasty_GiftCard
-למחוק את הפריטים שנבחרו?,Delete selected items?,module,Amasty_GiftCard
-תְעוּדַת זֶהוּת,ID,module,Amasty_GiftCard
-קוד מתנה,Gift Code,module,Amasty_GiftCard
-ערך התחלתי,Initial Value,module,Amasty_GiftCard
-ערך נוכחי,Current Value,module,Amasty_GiftCard
-להזמין,Order,module,Amasty_GiftCard
-קוד מתנה כותרת כותר,Gift Code Pool Title,module,Amasty_GiftCard
-תבנית בריכת קוד,Code Pool Template,module,Amasty_GiftCard
-קוד מתנה כמות,Gift Code Qty,module,Amasty_GiftCard
-קודי מתנה שאינם בשימוש,Unused Gift Codes,module,Amasty_GiftCard
-תמונה ממוזערת,Image Thumbnail,module,Amasty_GiftCard
-כותרת תמונה,Image title,module,Amasty_GiftCard
-מַחלָקָה,Department,module,Mirasvit_Helpdesk
-צור כרטיס חדש,Create New Ticket,module,Mirasvit_Helpdesk
-סטָטוּס,Status,module,Mirasvit_Helpdesk
-עדיפות,Priority,module,Mirasvit_Helpdesk
-תגובות,Replies,module,Mirasvit_Helpdesk
-הצג,View,module,Mirasvit_Helpdesk
-דלפק עזרה,Help Desk,module,Mirasvit_Helpdesk
-תודה,Thank you,module,Mirasvit_Helpdesk
-צור כרטיס,Create Ticket,module,Mirasvit_Helpdesk
-הבקשה שלך נשלחה בהצלחה. בקרוב תקבל דוא&quot;ל אישור.,Your request was successfully submitted. You should receive a confirmation email shortly.,module,Mirasvit_Helpdesk
-טֵלֵפוֹן,Telephone,module,Mirasvit_Helpdesk
-שאלתך נשלחה ותוגש בהקדם האפשרי. תודה שפנית אלינו.,Your inquiry was submitted and will be responded to as soon as possible. Thank you for contacting us.,module,Mirasvit_Helpdesk
-לא ניתן לשלוח את הבקשה שלך. בבקשה נסה שוב מאוחר יותר,"Unable to submit your request. Please, try again later",module,Mirasvit_Helpdesk
-הדף לא נמצא.,Page not found.,module,Mirasvit_Helpdesk
-ההודעה שלך נשלחה בהצלחה,Your message was successfuly posted,module,Mirasvit_Helpdesk
-הכרטיס שלך פורסם בהצלחה,Your ticket was successfuly posted,module,Mirasvit_Helpdesk
-הכרטיס נסגר בהצלחה,Ticket was successfuly closed,module,Mirasvit_Helpdesk
-לא ניתן לטעון את הקובץ %1. הגודל המרבי המותר להעלאה הוא %2 MB.,Can't upload file %1 . Max allowed upload size is %2 MB.,module,Mirasvit_Helpdesk
-מאפשר רק את סוגי הקבצים הבאים: %1,Allows only this file types: %1,module,Mirasvit_Helpdesk
-ההודעה נוספה,Message added,module,Mirasvit_Helpdesk
-הערה פנימית נוספה,Internal note added,module,Mirasvit_Helpdesk
-נוספה הודעת צד שלישי,Third party message added,module,Mirasvit_Helpdesk
-הודעה פרטית של צד שלישי נוספה,Private third party message added,module,Mirasvit_Helpdesk
--- בבקשה תבחר --,-- Please Select --,module,Mirasvit_Helpdesk
-לשונית אנשי קשר,Contact Tab,module,Mirasvit_Helpdesk
-טופס יצירת קשר,Contact Form,module,Mirasvit_Helpdesk
-ב- %1 (%2) - %3, at %1 (%2) - %3,module,Mirasvit_Helpdesk
-אין לך הרשאות לקרוא את הכרטיס הזה. אנא פנה למנהל המערכת שלך.,"You don't have permissions to read this ticket. Please, contact your administrator.",module,Mirasvit_Helpdesk
-דוא&quot;ל לקוח לא חוקי,Invalid Customer Email,module,Mirasvit_Helpdesk
-לא מוכן,not set,module,Mirasvit_Helpdesk
-זמן לא ידוע,Unknown time,module,Mirasvit_Helpdesk
-לִפנֵי,ago,module,Mirasvit_Helpdesk
-מעכשיו,from now,module,Mirasvit_Helpdesk
-לפני 1 שנייה,1 sec ago,module,Mirasvit_Helpdesk
-כרטיס פתוח,Open Ticket,module,Mirasvit_Helpdesk
-כרטיסים פתוחים,Open Tickets,module,Mirasvit_Helpdesk
-! קובץ חסום -,! Blocked file - ,module,Mirasvit_Helpdesk
-השבת,Disabled,module,Mirasvit_Helpdesk
-עזרה AW,AW Helpdesk,module,Mirasvit_Helpdesk
+Template Information,מידע על תבנית,module,Amasty_GiftCard
+Image Title,כותרת תמונה,module,Amasty_GiftCard
+Inactive,לֹא פָּעִיל,module,Amasty_GiftCard
+Active,פָּעִיל,module,Amasty_GiftCard
+Upload Image,העלאת תמונה,module,Amasty_GiftCard
+"Please, specify code position","אנא, ציין מיקום קוד",module,Amasty_GiftCard
+ALL GROUPS,כל הקבוצות,module,Amasty_GiftCard
+Add Price,הוסף מחיר,module,Amasty_GiftCard
+Card Value,ערך כרטיס,module,Amasty_GiftCard
+Card Type,סוג כרטיס,module,Amasty_GiftCard
+Image Id %d,מזהה תמונה% d,module,Amasty_GiftCard
+Gift Card Image,תמונה של כרטיס מתנה,module,Amasty_GiftCard
+Gift Card Sender,כרטיס מתנה Sender,module,Amasty_GiftCard
+Gift Card Recipient,כרטיס מתנה,module,Amasty_GiftCard
+Gift Card Message,כרטיס מתנה הודעה,module,Amasty_GiftCard
+Gift Card Lifetime,כרטיס מתנה Lifetime,module,Amasty_GiftCard
+%1 days,% 1 ימים,module,Amasty_GiftCard
+Date of certificate delivery,תאריך מסירת האישור,module,Amasty_GiftCard
+Unable to create.,לא ניתן ליצור.,module,Amasty_GiftCard
+N/A,N / A,module,Amasty_GiftCard
+Gift Card Accounts,כרטיס מתנה חשבונות,module,Amasty_GiftCard
+Gift Card (%1),כרטיס מתנה (% 1),module,Amasty_GiftCard
+This Gift Code already exists,קוד מתנה זה כבר קיים,module,Amasty_GiftCard
+Gift Card has been successfully added,כרטיס מתנה נוסף בהצלחה,module,Amasty_GiftCard
+Wrong Gift Card code,כרטיס מתנה שגוי,module,Amasty_GiftCard
+Gift Cards,כרטיסי ברכה,module,Amasty_GiftCard
+Gift Card has been successfully removed,כרטיס מתנה הוסר בהצלחה,module,Amasty_GiftCard
+Gift Code Accounts,קוד מתנה חשבונות,module,Amasty_GiftCard
+The email has been sent successfully.,הודעת האימייל נשלחה בהצלחה.,module,Amasty_GiftCard
+The code account has been saved.,חשבון הקוד נשמר.,module,Amasty_GiftCard
+Something went wrong while saving the Account data. Please review the error log.,משהו השתבש בעת שמירת נתוני החשבון. עיין ביומן השגיאות.,module,Amasty_GiftCard
+Account has been deleted.,החשבון נמחק.,module,Amasty_GiftCard
+This item no longer exists.,פריט זה אינו קיים עוד.,module,Amasty_GiftCard
+Edit Gift Code Account,ערוך קוד קוד חשבון,module,Amasty_GiftCard
+A total of %1 record(s) have been deleted.,"סה""כ% 1 הרשומות נמחקו.",module,Amasty_GiftCard
+Gift Code Pools,קוד מתנה בריכות,module,Amasty_GiftCard
+Code Pool has been deleted.,קוד הבריכה נמחק.,module,Amasty_GiftCard
+Code has been deleted.,הקוד נמחק.,module,Amasty_GiftCard
+Edit Gift Code Pool,עריכת קוד מתנה,module,Amasty_GiftCard
+New Gift Code Pool,חדש קוד מתנה בריכה,module,Amasty_GiftCard
+The wrong Code Pool is specified.,הוגדר קוד השגיאה שגוי.,module,Amasty_GiftCard
+Record has been successfully saved,הרשומה נשמרה בהצלחה,module,Amasty_GiftCard
+Something went wrong while saving the Code Pool data. Please review the error log.,משהו השתבש בעת שמירת נתוני קוד הבריכה. עיין ביומן השגיאות.,module,Amasty_GiftCard
+Gift Card Images,כרטיס מתנה תמונות,module,Amasty_GiftCard
+Image has been deleted.,התמונה נמחקה.,module,Amasty_GiftCard
+Edit Gift Image,עריכת תמונת מתנה,module,Amasty_GiftCard
+New Gift Image,תמונה חדשה מתנה,module,Amasty_GiftCard
+The wrong Image is specified.,תמונה שגויה צוין.,module,Amasty_GiftCard
+Something went wrong while saving the Image data. Please review the error log.,משהו השתבש בעת שמירת נתוני התמונה. עיין ביומן השגיאות.,module,Amasty_GiftCard
+This gift card account is already in the quote.,חשבון כרטיס מתנה זה כבר מופיע בציטוט.,module,Amasty_GiftCard
+"Gift Card ""%1"" was added.","כרטיס מתנה ""% 1"" נוסף.",module,Amasty_GiftCard
+Cannot apply gift card.,לא ניתן להחיל כרטיס מתנה.,module,Amasty_GiftCard
+Gift Card was removed.,כרטיס מתנה הוסר.,module,Amasty_GiftCard
+Both Virtual and Printed,גם וירטואלית וגם מודפסת,module,Amasty_GiftCard
+Only Printed,רק מודפס,module,Amasty_GiftCard
+Only Virtual,רק וירטואלי,module,Amasty_GiftCard
+Card Value in %1,ערך כרטיס ב-% 1,module,Amasty_GiftCard
+Custom Card Value,ערך כרטיס מותאם אישית,module,Amasty_GiftCard
+Card Image,תמונת כרטיס,module,Amasty_GiftCard
+Timezone,אזור זמן,module,Amasty_GiftCard
+Message,הוֹדָעָה,module,Amasty_GiftCard
+Please correct the target currency.,אנא תקן את מטבע היעד.,module,Amasty_GiftCard
+Expired,לא בתוקף,module,Amasty_GiftCard
+No free codes,אין קודים חופשיים,module,Amasty_GiftCard
+Wrong gift card code,קוד כרטיס מתנה שגוי,module,Amasty_GiftCard
+Wrong gift card website,אתר כרטיס מתנה שגוי,module,Amasty_GiftCard
+Gift card %1 is expired.,כרטיס האשראי% 1 פג.,module,Amasty_GiftCard
+Gift card %1 is used.,נעשה שימוש בכרטיס מתנה% 1.,module,Amasty_GiftCard
+Gift card %1 is not enabled.,כרטיס מתנה% 1 אינו מופעל.,module,Amasty_GiftCard
+Gift card %1  balance does not have funds.,כרטיס מתנה% 1 מאזן אין כספים.,module,Amasty_GiftCard
+Please be aware that it is not possible to use the gift card you purchased for your own orders.,"לידיעתך, לא ניתן להשתמש בכרטיס המתנה שקנית עבור ההזמנות שלך.",module,Amasty_GiftCard
+"Please add {L} or {D} placeholders into the template ""%s""","הוסף {L} או {d} מצייני מיקום לתבנית ""% s""",module,Amasty_GiftCard
+"Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.","המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא% d, אנא עדכן את כמות השדות בהתאם.",module,Amasty_GiftCard
+"Over time, you can generate no more than %d codes.","עם הזמן, תוכל ליצור לא יותר מ-% d קודים.",module,Amasty_GiftCard
+Percent,אָחוּז,module,Amasty_GiftCard
+Fixed,תוקן,module,Amasty_GiftCard
+Virtual,וירטואלי,module,Amasty_GiftCard
+Printed,מודפס,module,Amasty_GiftCard
+Combined,מְשׁוּלָב,module,Amasty_GiftCard
+An error has occurred while preparing Gift Card.,אירעה שגיאה בעת הכנת כרטיס מתנה.,module,Amasty_GiftCard
+Please specify %1,ציין% 1,module,Amasty_GiftCard
+Please specify all the required information.,ציין את כל הפרטים הנדרשים.,module,Amasty_GiftCard
+Gift Card min amount is %1,כמות מינימום של כרטיס מתנה היא% 1,module,Amasty_GiftCard
+Gift Card max amount is %1,הסכום המקסימלי של כרטיס מתנה הוא% 1,module,Amasty_GiftCard
+Please specify Gift Card Value,נא לציין ערך כרטיס מתנה,module,Amasty_GiftCard
+All codes already exists,כל הקודים כבר קיימים,module,Amasty_GiftCard
+%1 in row %2,% 1 בשורה% 2,module,Amasty_GiftCard
+Codes already exists. Duplicate codes:<br /> %1,קודים כבר קיימים. קודים כפולים: <br />% 1,module,Amasty_GiftCard
+GiftCard,כרטיס מתנה,module,Amasty_GiftCard
+This gift card account is not active.,חשבון כרטיס מתנה זה אינו פעיל.,module,Amasty_GiftCard
+Gift Card was deleted.,כרטיס המתנה נמחק.,module,Amasty_GiftCard
+From %1,מ% 1,module,Amasty_GiftCard
+All Store Views,כל תצוגות חנות,module,Amasty_GiftCard
+Use Config Settings,השתמש בהגדרות תצורה,module,Amasty_GiftCard
+All Websites,כל אתרי האינטרנט,module,Amasty_GiftCard
+Amounts,סכומים,module,Amasty_GiftCard
+Amount,כמות,module,Amasty_GiftCard
+Drag me,גרור אותי,module,Amasty_GiftCard
+Apply,להגיש מועמדות,module,Amasty_GiftCard
+Remove Gift Cards Code,הסר כרטיסי מתנה קוד,module,Amasty_GiftCard
+Remove,לְהַסִיר,module,Amasty_GiftCard
+Status: %1,סטטוס:% 1,module,Amasty_GiftCard
+Current Balance: %1,יתרה נוכחית:% 1,module,Amasty_GiftCard
+unlimited,ללא הגבלה,module,Amasty_GiftCard
+Valid till: %1,תקף עד:% 1,module,Amasty_GiftCard
+Wrong Gift Card Code.,קוד כרטיס מתנה שגוי.,module,Amasty_GiftCard
+Apply Gift Card Code,שימוש בקוד כרטיס מתנה,module,Amasty_GiftCard
+Enter gift card code,הזן קוד כרטיס מתנה,module,Amasty_GiftCard
+Add Gift Card,הוסף כרטיס מתנה,module,Amasty_GiftCard
+Check Gift Card status,בדוק את סטטוס כרטיס המתנה,module,Amasty_GiftCard
+Specify Gift Code,ציין קוד מתנה,module,Amasty_GiftCard
+Submit,שלח,module,Amasty_GiftCard
+Gift Codes,קודי מתנה,module,Amasty_GiftCard
+Code: %1,קוד:% 1,module,Amasty_GiftCard
+Choose an Amount...,בחר סכום ...,module,Amasty_GiftCard
+Custom Amount,סכום מותאם אישית,module,Amasty_GiftCard
+Minimum: %1,מינימום:% 1,module,Amasty_GiftCard
+Maximum: %1,מקסימום:% 1,module,Amasty_GiftCard
+Choose card type,בחר סוג כרטיס,module,Amasty_GiftCard
+-- Please Select --,-- בבקשה תבחר --,module,Amasty_GiftCard
+Please be aware that printed gift card will be sent to the shipping address you specify during checkout.,"לידיעתך, כרטיס מתנה מודפס יישלח לכתובת המשלוח שתציין במהלך הקנייה.",module,Amasty_GiftCard
+Choose card Image,בחר תמונה בכרטיס,module,Amasty_GiftCard
+Please be aware that delivery date of printed certificates may be different due to post.,"לידיעתך, תאריך האספקה ​​של האישורים המודפסים עשוי להיות שונה עקב הודעה.",module,Amasty_GiftCard
+Select timezone,בחר אזור זמן,module,Amasty_GiftCard
+#Gift Card,כרטיס מתנה,module,Amasty_GiftCard
+Enabled,מאופשר,module,Amasty_GiftCard
+"Product Types, Which Can Be Bought With Gift Card","סוגי מוצרים, אשר ניתן לקנות עם כרטיס מתנה",module,Amasty_GiftCard
+Gift Card options,אפשרויות כרטיס מתנה,module,Amasty_GiftCard
+Lifetime (Days),Lifetime (ימים),module,Amasty_GiftCard
+Allow Message,אפשר הודעה,module,Amasty_GiftCard
+Allow customers to use gift cards they bought for themselves,אפשר ללקוחות להשתמש בכרטיסי מתנה שקנו לעצמם,module,Amasty_GiftCard
+Allow customers to choose delivery date for certificates,אפשר ללקוחות לבחור תאריך אספקה ​​עבור אישורים,module,Amasty_GiftCard
+Notify Customers before Certificate Expires,הודע ללקוחות לפני פקיעת האישור,module,Amasty_GiftCard
+Number of Days before Expiry,מספר הימים לפני התפוגה,module,Amasty_GiftCard
+"When set to 0 (zero), the notification is sent once the certificate expires.","כאשר מוגדר 0 (אפס), ההודעה נשלחת לאחר פקיעת האישור.",module,Amasty_GiftCard
+Email Options,"אפשרויות דוא""ל",module,Amasty_GiftCard
+Email Sender,"שולח דוא""ל",module,Amasty_GiftCard
+Email Template,"תבנית דוא""ל",module,Amasty_GiftCard
+Send copy to,שלח עותק אל,module,Amasty_GiftCard
+Separated by comma,מופרדים בפסיקים,module,Amasty_GiftCard
+Expiry Notification Email Template,"תבנית דוא""ל של הודעת תפוגה",module,Amasty_GiftCard
+Notice of the expiry of the Gift Card,הודעה על פקיעת כרטיס מתנה,module,Amasty_GiftCard
+Send confirmation to sender,שלח אישור לשולח,module,Amasty_GiftCard
+Sender Confirmation Email Template,"תבנית דוא""ל לאישור שולח",module,Amasty_GiftCard
+Order History,היסטוריית הזמנות,module,Amasty_GiftCard
+Add New,הוסף חדש,module,Amasty_GiftCard
+Delete selected items?,למחוק את הפריטים שנבחרו?,module,Amasty_GiftCard
+ID,תְעוּדַת זֶהוּת,module,Amasty_GiftCard
+Gift Code,קוד מתנה,module,Amasty_GiftCard
+Initial Value,ערך התחלתי,module,Amasty_GiftCard
+Current Value,ערך נוכחי,module,Amasty_GiftCard
+Order,להזמין,module,Amasty_GiftCard
+Gift Code Pool Title,קוד מתנה כותרת כותר,module,Amasty_GiftCard
+Code Pool Template,תבנית בריכת קוד,module,Amasty_GiftCard
+Gift Code Qty,קוד מתנה כמות,module,Amasty_GiftCard
+Unused Gift Codes,קודי מתנה שאינם בשימוש,module,Amasty_GiftCard
+Image Thumbnail,תמונה ממוזערת,module,Amasty_GiftCard
+Image title,כותרת תמונה,module,Amasty_GiftCard
+Department,מַחלָקָה,module,Mirasvit_Helpdesk
+Create New Ticket,צור כרטיס חדש,module,Mirasvit_Helpdesk
+Status,סטָטוּס,module,Mirasvit_Helpdesk
+Priority,עדיפות,module,Mirasvit_Helpdesk
+Replies,תגובות,module,Mirasvit_Helpdesk
+View,הצג,module,Mirasvit_Helpdesk
+Help Desk,דלפק עזרה,module,Mirasvit_Helpdesk
+Thank you,תודה,module,Mirasvit_Helpdesk
+Create Ticket,צור כרטיס,module,Mirasvit_Helpdesk
+Your request was successfully submitted. You should receive a confirmation email shortly.,הבקשה שלך נשלחה בהצלחה. בקרוב תקבל דוא&quot;ל אישור.,module,Mirasvit_Helpdesk
+Telephone,טֵלֵפוֹן,module,Mirasvit_Helpdesk
+Your inquiry was submitted and will be responded to as soon as possible. Thank you for contacting us.,שאלתך נשלחה ותוגש בהקדם האפשרי. תודה שפנית אלינו.,module,Mirasvit_Helpdesk
+"Unable to submit your request. Please, try again later",לא ניתן לשלוח את הבקשה שלך. בבקשה נסה שוב מאוחר יותר,module,Mirasvit_Helpdesk
+Page not found.,הדף לא נמצא.,module,Mirasvit_Helpdesk
+Your message was successfuly posted,ההודעה שלך נשלחה בהצלחה,module,Mirasvit_Helpdesk
+Your ticket was successfuly posted,הכרטיס שלך פורסם בהצלחה,module,Mirasvit_Helpdesk
+Ticket was successfuly closed,הכרטיס נסגר בהצלחה,module,Mirasvit_Helpdesk
+Can't upload file %1 . Max allowed upload size is %2 MB.,לא ניתן לטעון את הקובץ %1. הגודל המרבי המותר להעלאה הוא %2 MB.,module,Mirasvit_Helpdesk
+Allows only this file types: %1,מאפשר רק את סוגי הקבצים הבאים: %1,module,Mirasvit_Helpdesk
+Message added,ההודעה נוספה,module,Mirasvit_Helpdesk
+Internal note added,הערה פנימית נוספה,module,Mirasvit_Helpdesk
+Third party message added,נוספה הודעת צד שלישי,module,Mirasvit_Helpdesk
+Private third party message added,הודעה פרטית של צד שלישי נוספה,module,Mirasvit_Helpdesk
+-- Please Select --,-- בבקשה תבחר --,module,Mirasvit_Helpdesk
+Contact Tab,לשונית אנשי קשר,module,Mirasvit_Helpdesk
+Contact Form,טופס יצירת קשר,module,Mirasvit_Helpdesk
+ at %1 (%2) - %3,ב- %1 (%2) - %3,module,Mirasvit_Helpdesk
+"You don't have permissions to read this ticket. Please, contact your administrator.",אין לך הרשאות לקרוא את הכרטיס הזה. אנא פנה למנהל המערכת שלך.,module,Mirasvit_Helpdesk
+Invalid Customer Email,דוא&quot;ל לקוח לא חוקי,module,Mirasvit_Helpdesk
+not set,לא מוכן,module,Mirasvit_Helpdesk
+Unknown time,זמן לא ידוע,module,Mirasvit_Helpdesk
+ago,לִפנֵי,module,Mirasvit_Helpdesk
+from now,מעכשיו,module,Mirasvit_Helpdesk
+1 sec ago,לפני 1 שנייה,module,Mirasvit_Helpdesk
+Open Ticket,כרטיס פתוח,module,Mirasvit_Helpdesk
+Open Tickets,כרטיסים פתוחים,module,Mirasvit_Helpdesk
+! Blocked file - ,! קובץ חסום -,module,Mirasvit_Helpdesk
+Disabled,השבת,module,Mirasvit_Helpdesk
+AW Helpdesk,עזרה AW,module,Mirasvit_Helpdesk
 MW Helpdesk,MW Helpdesk,module,Mirasvit_Helpdesk
-מערכת קבצים,File System,module,Mirasvit_Helpdesk
-מאגר מידע,Database,module,Mirasvit_Helpdesk
-אקווה,Aqua,module,Mirasvit_Helpdesk
-אפור,Grey,module,Mirasvit_Helpdesk
-חיל הים,Navy,module,Mirasvit_Helpdesk
-כסף,Silver,module,Mirasvit_Helpdesk
-שָׁחוֹר,Black,module,Mirasvit_Helpdesk
-ירוק,Green,module,Mirasvit_Helpdesk
-זית,Olive,module,Mirasvit_Helpdesk
-ירוק כחלחל,Teal,module,Mirasvit_Helpdesk
-כָּחוֹל,Blue,module,Mirasvit_Helpdesk
-ליים,Lime,module,Mirasvit_Helpdesk
-סָגוֹל,Purple,module,Mirasvit_Helpdesk
-ורוד פוקסיה,Fuchsia,module,Mirasvit_Helpdesk
-חוּם עֲרמוֹנִי,Maroon,module,Mirasvit_Helpdesk
-אָדוֹם,Red,module,Mirasvit_Helpdesk
-תפוז,Orange,module,Mirasvit_Helpdesk
-צהוב,Yellow,module,Mirasvit_Helpdesk
-טֶקסט,Text,module,Mirasvit_Helpdesk
-תַאֲרִיך,Date,module,Mirasvit_Helpdesk
-תיבת סימון,Checkbox,module,Mirasvit_Helpdesk
-רשימה נפתחת,Drop-down list,module,Mirasvit_Helpdesk
-בדקות...,In minutes...,module,Mirasvit_Helpdesk
-בשעות ...,In hours...,module,Mirasvit_Helpdesk
-בימים...,In days...,module,Mirasvit_Helpdesk
-בשבועות ...,In weeks...,module,Mirasvit_Helpdesk
-בחודשים ...,In months...,module,Mirasvit_Helpdesk
-המותאם אישית,Custom,module,Mirasvit_Helpdesk
---בבקשה תבחר--,--Please Select--,module,Mirasvit_Helpdesk
-כרטיס חדש נוצר,New ticket created,module,Mirasvit_Helpdesk
-הַצלָחָה,Success,module,Mirasvit_Helpdesk
-צרכן,Customer,module,Mirasvit_Helpdesk
-צוות,Staff,module,Mirasvit_Helpdesk
-צד שלישי,Third party,module,Mirasvit_Helpdesk
-סָגוּר,Closed,module,Mirasvit_Helpdesk
-נפתח 24 שעות,Opened 24hr,module,Mirasvit_Helpdesk
-כרטיסי תמיכה,Helpdesk Tickets,module,Mirasvit_Helpdesk
-לא ניתן למחוק כרטיס עם מזהה %1,Cannot delete ticket with id %1,module,Mirasvit_Helpdesk
-לַעֲרוֹך,Edit,module,Mirasvit_Helpdesk
-כל המחלקות,All Departments,module,Mirasvit_Helpdesk
-חזור,Back,module,Mirasvit_Helpdesk
-24 שעות x 7 ימים,24 hrs x 7 days,module,Mirasvit_Helpdesk
-בחר ימי עבודה / שעות,Select working days/hours,module,Mirasvit_Helpdesk
-סקר שביעות רצון,Satisfaction survey,module,Mirasvit_Helpdesk
-אל %1 (צד שלישי),to %1 (third party),module,Mirasvit_Helpdesk
-%1 (צד שלישי),%1 (third party),module,Mirasvit_Helpdesk
-הוסיף %1 (%2),added %1 (%2),module,Mirasvit_Helpdesk
-סיכום כרטיסים,Ticket Summary,module,Mirasvit_Helpdesk
-מזהה כרטיס,Ticket ID,module,Mirasvit_Helpdesk
-נִמחֶה,Assignee,module,Mirasvit_Helpdesk
-מידע נוסף,Additional Info,module,Mirasvit_Helpdesk
-היסטוריית כרטיסים,Ticket History,module,Mirasvit_Helpdesk
-בוצע ע&quot;י,Done by,module,Mirasvit_Helpdesk
-שינויים,Changes,module,Mirasvit_Helpdesk
-שֵׁם,Name,module,Mirasvit_Helpdesk
-צרף קבצים,Attach files,module,Mirasvit_Helpdesk
-שלח,Submit,module,Mirasvit_Helpdesk
-שלח כרטיס,Submit Ticket,module,Mirasvit_Helpdesk
-מה השאלה שלך?,What is your question?,module,Mirasvit_Helpdesk
-מצאנו את הנושאים הבאים שעשויים להיות שימושיים:,We found the following topics that might be helpful:,module,Mirasvit_Helpdesk
-אף אחד מאלה לא עוזר - צור קשר,None of these are helpful - get in touch,module,Mirasvit_Helpdesk
-לא מצאנו נושאים שיכולים לעזור.,We have not found topics that can be helpful.,module,Mirasvit_Helpdesk
-פרטי התקשרות,Contact Information,module,Mirasvit_Helpdesk
-תגובה,Comment,module,Mirasvit_Helpdesk
-אנחנו פתוחים 24 x 7,We are open 24 x 7,module,Mirasvit_Helpdesk
-אנחנו סגורים,We are closed,module,Mirasvit_Helpdesk
-אזור זמן: %1,Timezone: %1,module,Mirasvit_Helpdesk
-הקדש שנייה כדי לדרג את תשובתי ...,Please take a second to rate my reply...,module,Mirasvit_Helpdesk
-גדול,Great,module,Mirasvit_Helpdesk
-מדהים,Awesome,module,Mirasvit_Helpdesk
-"מהיר, ידידותי, מועיל, נעים. עבודה טובה!","Fast, friendly, helpful, pleasant. Great job!",module,Mirasvit_Helpdesk
-רק בסדר,Just Okay,module,Mirasvit_Helpdesk
-"בסדר, אבל בהחלט יכול היה להיות טוב יותר.","Fine, but definitely could have been better.",module,Mirasvit_Helpdesk
-לא טוב,Not good,module,Mirasvit_Helpdesk
-"לרוע המזל, לא הייתי מרוצה ממנו כלל.","Unfortunately, I wasn't happy with it at all.",module,Mirasvit_Helpdesk
-תודה על השתתפותך בסקר שלנו!,Thank you for participating in our survey!,module,Mirasvit_Helpdesk
-"אם תרצה לספק הערות נוספות, אנא בצע את הפעולות הבאות:","If you would like to provide additional comments, please do so below:",module,Mirasvit_Helpdesk
-הוֹדָעָה,Message,module,Mirasvit_Helpdesk
-שלח הודעה,Submit Message,module,Mirasvit_Helpdesk
-תודה על המשוב שלך!,Thank you for your feedback!,module,Mirasvit_Helpdesk
-קבצים מצורפים,Attachments,module,Mirasvit_Helpdesk
-להזמין,Order,module,Mirasvit_Helpdesk
-- בחר הזמנה -,-- Select an Order --,module,Mirasvit_Helpdesk
-צור כרטיס,Create ticket,module,Mirasvit_Helpdesk
-אין לך כרטיסים פתוחים,You don't have open tickets,module,Mirasvit_Helpdesk
-פרסם תגובה,Post a Reply,module,Mirasvit_Helpdesk
-פתיחה מחדש של כרטיס,Reopen Ticket,module,Mirasvit_Helpdesk
-סגור כרטיס,Close Ticket,module,Mirasvit_Helpdesk
-הִיסטוֹרִיָה,History,module,Mirasvit_Helpdesk
-חזרה אל הכרטיסים שלי,Back to My Tickets,module,Mirasvit_Helpdesk
+File System,מערכת קבצים,module,Mirasvit_Helpdesk
+Database,מאגר מידע,module,Mirasvit_Helpdesk
+Aqua,אקווה,module,Mirasvit_Helpdesk
+Grey,אפור,module,Mirasvit_Helpdesk
+Navy,חיל הים,module,Mirasvit_Helpdesk
+Silver,כסף,module,Mirasvit_Helpdesk
+Black,שָׁחוֹר,module,Mirasvit_Helpdesk
+Green,ירוק,module,Mirasvit_Helpdesk
+Olive,זית,module,Mirasvit_Helpdesk
+Teal,ירוק כחלחל,module,Mirasvit_Helpdesk
+Blue,כָּחוֹל,module,Mirasvit_Helpdesk
+Lime,ליים,module,Mirasvit_Helpdesk
+Purple,סָגוֹל,module,Mirasvit_Helpdesk
+Fuchsia,ורוד פוקסיה,module,Mirasvit_Helpdesk
+Maroon,חוּם עֲרמוֹנִי,module,Mirasvit_Helpdesk
+Red,אָדוֹם,module,Mirasvit_Helpdesk
+Orange,תפוז,module,Mirasvit_Helpdesk
+Yellow,צהוב,module,Mirasvit_Helpdesk
+Text,טֶקסט,module,Mirasvit_Helpdesk
+Date,תַאֲרִיך,module,Mirasvit_Helpdesk
+Checkbox,תיבת סימון,module,Mirasvit_Helpdesk
+Drop-down list,רשימה נפתחת,module,Mirasvit_Helpdesk
+In minutes...,בדקות...,module,Mirasvit_Helpdesk
+In hours...,בשעות ...,module,Mirasvit_Helpdesk
+In days...,בימים...,module,Mirasvit_Helpdesk
+In weeks...,בשבועות ...,module,Mirasvit_Helpdesk
+In months...,בחודשים ...,module,Mirasvit_Helpdesk
+Custom,המותאם אישית,module,Mirasvit_Helpdesk
+--Please Select--,--בבקשה תבחר--,module,Mirasvit_Helpdesk
+New ticket created,כרטיס חדש נוצר,module,Mirasvit_Helpdesk
+Success,הַצלָחָה,module,Mirasvit_Helpdesk
+Customer,צרכן,module,Mirasvit_Helpdesk
+Staff,צוות,module,Mirasvit_Helpdesk
+Third party,צד שלישי,module,Mirasvit_Helpdesk
+Closed,סָגוּר,module,Mirasvit_Helpdesk
+Opened 24hr,נפתח 24 שעות,module,Mirasvit_Helpdesk
+Helpdesk Tickets,כרטיסי תמיכה,module,Mirasvit_Helpdesk
+Cannot delete ticket with id %1,לא ניתן למחוק כרטיס עם מזהה %1,module,Mirasvit_Helpdesk
+Edit,לַעֲרוֹך,module,Mirasvit_Helpdesk
+All Departments,כל המחלקות,module,Mirasvit_Helpdesk
+Back,חזור,module,Mirasvit_Helpdesk
+24 hrs x 7 days,24 שעות x 7 ימים,module,Mirasvit_Helpdesk
+Select working days/hours,בחר ימי עבודה / שעות,module,Mirasvit_Helpdesk
+Satisfaction survey,סקר שביעות רצון,module,Mirasvit_Helpdesk
+to %1 (third party),אל %1 (צד שלישי),module,Mirasvit_Helpdesk
+%1 (third party),%1 (צד שלישי),module,Mirasvit_Helpdesk
+added %1 (%2),הוסיף %1 (%2),module,Mirasvit_Helpdesk
+Ticket Summary,סיכום כרטיסים,module,Mirasvit_Helpdesk
+Ticket ID,מזהה כרטיס,module,Mirasvit_Helpdesk
+Assignee,נִמחֶה,module,Mirasvit_Helpdesk
+Additional Info,מידע נוסף,module,Mirasvit_Helpdesk
+Ticket History,היסטוריית כרטיסים,module,Mirasvit_Helpdesk
+Done by,בוצע ע&quot;י,module,Mirasvit_Helpdesk
+Changes,שינויים,module,Mirasvit_Helpdesk
+Name,שֵׁם,module,Mirasvit_Helpdesk
+Attach files,צרף קבצים,module,Mirasvit_Helpdesk
+Submit,שלח,module,Mirasvit_Helpdesk
+Submit Ticket,שלח כרטיס,module,Mirasvit_Helpdesk
+What is your question?,מה השאלה שלך?,module,Mirasvit_Helpdesk
+We found the following topics that might be helpful:,מצאנו את הנושאים הבאים שעשויים להיות שימושיים:,module,Mirasvit_Helpdesk
+None of these are helpful - get in touch,אף אחד מאלה לא עוזר - צור קשר,module,Mirasvit_Helpdesk
+We have not found topics that can be helpful.,לא מצאנו נושאים שיכולים לעזור.,module,Mirasvit_Helpdesk
+Contact Information,פרטי התקשרות,module,Mirasvit_Helpdesk
+Comment,תגובה,module,Mirasvit_Helpdesk
+We are open 24 x 7,אנחנו פתוחים 24 x 7,module,Mirasvit_Helpdesk
+We are closed,אנחנו סגורים,module,Mirasvit_Helpdesk
+Timezone: %1,אזור זמן: %1,module,Mirasvit_Helpdesk
+Please take a second to rate my reply...,הקדש שנייה כדי לדרג את תשובתי ...,module,Mirasvit_Helpdesk
+Great,גדול,module,Mirasvit_Helpdesk
+Awesome,מדהים,module,Mirasvit_Helpdesk
+"Fast, friendly, helpful, pleasant. Great job!","מהיר, ידידותי, מועיל, נעים. עבודה טובה!",module,Mirasvit_Helpdesk
+Just Okay,רק בסדר,module,Mirasvit_Helpdesk
+"Fine, but definitely could have been better.","בסדר, אבל בהחלט יכול היה להיות טוב יותר.",module,Mirasvit_Helpdesk
+Not good,לא טוב,module,Mirasvit_Helpdesk
+"Unfortunately, I wasn't happy with it at all.","לרוע המזל, לא הייתי מרוצה ממנו כלל.",module,Mirasvit_Helpdesk
+Thank you for participating in our survey!,תודה על השתתפותך בסקר שלנו!,module,Mirasvit_Helpdesk
+"If you would like to provide additional comments, please do so below:","אם תרצה לספק הערות נוספות, אנא בצע את הפעולות הבאות:",module,Mirasvit_Helpdesk
+Message,הוֹדָעָה,module,Mirasvit_Helpdesk
+Submit Message,שלח הודעה,module,Mirasvit_Helpdesk
+Thank you for your feedback!,תודה על המשוב שלך!,module,Mirasvit_Helpdesk
+Attachments,קבצים מצורפים,module,Mirasvit_Helpdesk
+Order,להזמין,module,Mirasvit_Helpdesk
+-- Select an Order --,- בחר הזמנה -,module,Mirasvit_Helpdesk
+Create ticket,צור כרטיס,module,Mirasvit_Helpdesk
+You don't have open tickets,אין לך כרטיסים פתוחים,module,Mirasvit_Helpdesk
+Post a Reply,פרסם תגובה,module,Mirasvit_Helpdesk
+Reopen Ticket,פתיחה מחדש של כרטיס,module,Mirasvit_Helpdesk
+Close Ticket,סגור כרטיס,module,Mirasvit_Helpdesk
+History,הִיסטוֹרִיָה,module,Mirasvit_Helpdesk
+Back to My Tickets,חזרה אל הכרטיסים שלי,module,Mirasvit_Helpdesk
 Help Desk MX,Help Desk MX,module,Mirasvit_Helpdesk
-תיצור איתנו קשר,Contact Us,module,Mirasvit_Helpdesk
-לִפְתוֹחַ,Open,module,Mirasvit_Helpdesk
-נושא,Subject,module,Mirasvit_Helpdesk
-פעילות אחרונה,Last Activity,module,Mirasvit_Helpdesk
-מזהה בקשה,Request ID,module,Mirasvit_Helpdesk
-כל המותגים,All Brands,module,Amasty_ShopbyBrand
-חיפוש מותגים,Search Brands,module,Amasty_ShopbyBrand
-חיפוש מותג,Search Brand,module,Amasty_ShopbyBrand
-"ודא כי ניתן להשתמש בתכונה ""%1"" בניווט שכבתי","Make sure that ""%1"" attribute can be used in layered navigation",module,Amasty_ShopbyBrand
-מותגים,Brands,module,Amasty_ShopbyBrand
-כל המוצרים,Shop all,module,Ubertheme_UbMegaMenu
-תוכניות שותפים,Affiliate Programs,module,Amasty_Affiliate
-הפנה חברים,Refer Friends,module,Amasty_Affiliate
-הגדרות שותפים,Affiliate Settings,module,Amasty_Affiliate
-היתרה שלי,My Balance,module,Amasty_Affiliate
-לפי רווח,Per Profit,module,Amasty_Affiliate
-עמלה לכל הזמנה #,Commission per oder #,module,Amasty_Affiliate
-משיכת,Withdrawal,module,Amasty_Affiliate
-איפוס,Reset,module,Amasty_Affiliate
-שמור והמשך עריכה,Save and Continue Edit,module,Amasty_Affiliate
-לשמור,Save,module,Amasty_Affiliate
-מחק,Delete,module,Amasty_Affiliate
-האם אתה בטוח שברצונך למחוק את זה?,Are you sure you want to delete this?,module,Amasty_Affiliate
-חשבון שותפים,Affiliate Account,module,Amasty_Affiliate
-מופעל,Enabled,module,Amasty_Affiliate
-לקבל התראות,Receive Notifications,module,Amasty_Affiliate
-"אנא צור חוק הנחת קופה עם ""יצירת קופונים אוטומטים""",Please create shopping cart price rule with 'Auto generated coupons',module,Amasty_Affiliate
-לבטל,Cancel,module,Amasty_Affiliate
-שלם,Pay,module,Amasty_Affiliate
-אתה צריך לקבל 'מסכים לתנאים והגבלות,"You should accept ""Accept Terms and Conditions",module,Amasty_Affiliate
-חשבון השותף נשמר בהצלחה,Affiliate Account has successfully saved,module,Amasty_Affiliate
-נתוני פרומו,Promo Data,module,Amasty_Affiliate
-הגדרות,Settings,module,Amasty_Affiliate
-מקורות תנועה,Traffic Sources,module,Amasty_Affiliate
-יישומון פרומו,Promo Widget,module,Amasty_Affiliate
-יישומון שותפים נשמר בהצלחה,Affiliate Widget has successfully saved,module,Amasty_Affiliate
-משיכות שלי,My Withdrawals,module,Amasty_Affiliate
-נא להזין את סכום שגדול מאפס,Please enter an amount more than zero,module,Amasty_Affiliate
-אין לך מספיק כסף זמין עבור משיכה,You have no enough funds available for the withdrawal,module,Amasty_Affiliate
-משיכה בוטלה בהצלחה.,Withdrawal was successfully canceled.,module,Amasty_Affiliate
-משיכה נוצר בהצלחה.,Withdrawal was successfully created.,module,Amasty_Affiliate
-ניהול חשבונות שותפים,Manage Affiliate Accounts,module,Amasty_Affiliate
-חשבון זה אינו קיים עוד.,This account no longer exists.,module,Amasty_Affiliate
-ניהול חשבון השותפים,Manage Affiliate Account,module,Amasty_Affiliate
-חשבון שותפים חדש,New Affiliate Account,module,Amasty_Affiliate
-חשבונות שותפים,Affiliate Accounts,module,Amasty_Affiliate
-סך של שיא% 1 (ים) נמחק.,A total of %1 record(s) have been deleted.,module,Amasty_Affiliate
-החשבון נשמר.,The account is saved.,module,Amasty_Affiliate
-ניהול באנרים שותפים,Manage Affiliate Banners,module,Amasty_Affiliate
-הבאנר נמחק.,The banner has been deleted.,module,Amasty_Affiliate
-אנחנו לא יכולים למצוא בעמוד למחוק.,We can't find a page to delete.,module,Amasty_Affiliate
-באנר זה כבר לא קיים.,This banner no longer exists.,module,Amasty_Affiliate
-ניהול באנר,Manage Banner,module,Amasty_Affiliate
-ניו באנר,New Banner,module,Amasty_Affiliate
-באנרים שותפים,Affiliate Banners,module,Amasty_Affiliate
-השתמש בכתובת אתר חוקית,Please use valid url,module,Amasty_Affiliate
-הבאנר נשמר.,The banner is saved.,module,Amasty_Affiliate
-ניהול תוכנית שותפים,Manage Affiliate Program,module,Amasty_Affiliate
-מצב עבור תוכנית עם זיהוי% 1 שונתה.,Status for Program with ID %1 has been changed.,module,Amasty_Affiliate
-התכנית נמחקה.,The program has been deleted.,module,Amasty_Affiliate
-תוכנית זו אינה קיימת עוד.,This program no longer exists.,module,Amasty_Affiliate
-תכנית שותפים חדשה,New Affiliate Program,module,Amasty_Affiliate
-התכנית נשמרה.,The program is saved.,module,Amasty_Affiliate
-נהל עסקאות שותפים,Manage Affiliate Transactions,module,Amasty_Affiliate
-עסקה זו אינה קיימת עוד.,This transaction no longer exists.,module,Amasty_Affiliate
-ניהול עסקת השותפים,Manage Affiliate Transaction,module,Amasty_Affiliate
-עסקאות שותפים,Affiliate Transactions,module,Amasty_Affiliate
-ניהול משיכות שותפים,Manage Affiliate Withdrawals,module,Amasty_Affiliate
-הנסיגה בוטלה.,The withdrawal was canceled.,module,Amasty_Affiliate
-נסיגה זו אינה קיימת עוד.,This withdrawal no longer exists.,module,Amasty_Affiliate
-ניהול משייך שותפים,Manage Affiliate Withdrawal,module,Amasty_Affiliate
-שותפים חדשים משייך,New Affiliate Withdrawal,module,Amasty_Affiliate
-משיכות שותפים,Affiliate Withdrawals,module,Amasty_Affiliate
-המשיכה כבר מעובדת,The withdrawal was already processed,module,Amasty_Affiliate
-אין בחשבון לא מספיק כספים כדי נסיגה זו,The account has not enough funds to this withdrawal,module,Amasty_Affiliate
-הנסיגה היתה בתשלום.,The withdrawal was payed.,module,Amasty_Affiliate
+Contact Us,תיצור איתנו קשר,module,Mirasvit_Helpdesk
+Open,לִפְתוֹחַ,module,Mirasvit_Helpdesk
+Subject,נושא,module,Mirasvit_Helpdesk
+Last Activity,פעילות אחרונה,module,Mirasvit_Helpdesk
+Request ID,מזהה בקשה,module,Mirasvit_Helpdesk
+All Brands,כל המותגים,module,Amasty_ShopbyBrand
+Search Brands,חיפוש מותגים,module,Amasty_ShopbyBrand
+Search Brand,חיפוש מותג,module,Amasty_ShopbyBrand
+"Make sure that ""%1"" attribute can be used in layered navigation","ודא כי ניתן להשתמש בתכונה ""%1"" בניווט שכבתי",module,Amasty_ShopbyBrand
+Brands,מותגים,module,Amasty_ShopbyBrand
+Shop all,כל המוצרים,module,Ubertheme_UbMegaMenu
+Affiliate Programs,תוכניות שותפים,module,Amasty_Affiliate
+Refer Friends,הפנה חברים,module,Amasty_Affiliate
+Affiliate Settings,הגדרות שותפים,module,Amasty_Affiliate
+My Balance,היתרה שלי,module,Amasty_Affiliate
+Per Profit,לפי רווח,module,Amasty_Affiliate
+Commission per oder #,עמלה לכל הזמנה #,module,Amasty_Affiliate
+Withdrawal,משיכת,module,Amasty_Affiliate
+Reset,איפוס,module,Amasty_Affiliate
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_Affiliate
+Save,לשמור,module,Amasty_Affiliate
+Delete,מחק,module,Amasty_Affiliate
+Are you sure you want to delete this?,האם אתה בטוח שברצונך למחוק את זה?,module,Amasty_Affiliate
+Affiliate Account,חשבון שותפים,module,Amasty_Affiliate
+Enabled,מופעל,module,Amasty_Affiliate
+Receive Notifications,לקבל התראות,module,Amasty_Affiliate
+Please create shopping cart price rule with 'Auto generated coupons',"אנא צור חוק הנחת קופה עם ""יצירת קופונים אוטומטים""",module,Amasty_Affiliate
+Cancel,לבטל,module,Amasty_Affiliate
+Pay,שלם,module,Amasty_Affiliate
+"You should accept ""Accept Terms and Conditions",אתה צריך לקבל 'מסכים לתנאים והגבלות,module,Amasty_Affiliate
+Affiliate Account has successfully saved,חשבון השותף נשמר בהצלחה,module,Amasty_Affiliate
+Promo Data,נתוני פרומו,module,Amasty_Affiliate
+Settings,הגדרות,module,Amasty_Affiliate
+Traffic Sources,מקורות תנועה,module,Amasty_Affiliate
+Promo Widget,יישומון פרומו,module,Amasty_Affiliate
+Affiliate Widget has successfully saved,יישומון שותפים נשמר בהצלחה,module,Amasty_Affiliate
+My Withdrawals,משיכות שלי,module,Amasty_Affiliate
+Please enter an amount more than zero,נא להזין את סכום שגדול מאפס,module,Amasty_Affiliate
+You have no enough funds available for the withdrawal,אין לך מספיק כסף זמין עבור משיכה,module,Amasty_Affiliate
+Withdrawal was successfully canceled.,משיכה בוטלה בהצלחה.,module,Amasty_Affiliate
+Withdrawal was successfully created.,משיכה נוצר בהצלחה.,module,Amasty_Affiliate
+Manage Affiliate Accounts,ניהול חשבונות שותפים,module,Amasty_Affiliate
+This account no longer exists.,חשבון זה אינו קיים עוד.,module,Amasty_Affiliate
+Manage Affiliate Account,ניהול חשבון השותפים,module,Amasty_Affiliate
+New Affiliate Account,חשבון שותפים חדש,module,Amasty_Affiliate
+Affiliate Accounts,חשבונות שותפים,module,Amasty_Affiliate
+A total of %1 record(s) have been deleted.,סך של שיא% 1 (ים) נמחק.,module,Amasty_Affiliate
+The account is saved.,החשבון נשמר.,module,Amasty_Affiliate
+Manage Affiliate Banners,ניהול באנרים שותפים,module,Amasty_Affiliate
+The banner has been deleted.,הבאנר נמחק.,module,Amasty_Affiliate
+We can't find a page to delete.,אנחנו לא יכולים למצוא בעמוד למחוק.,module,Amasty_Affiliate
+This banner no longer exists.,באנר זה כבר לא קיים.,module,Amasty_Affiliate
+Manage Banner,ניהול באנר,module,Amasty_Affiliate
+New Banner,ניו באנר,module,Amasty_Affiliate
+Affiliate Banners,באנרים שותפים,module,Amasty_Affiliate
+Please use valid url,השתמש בכתובת אתר חוקית,module,Amasty_Affiliate
+The banner is saved.,הבאנר נשמר.,module,Amasty_Affiliate
+Manage Affiliate Program,ניהול תוכנית שותפים,module,Amasty_Affiliate
+Status for Program with ID %1 has been changed.,מצב עבור תוכנית עם זיהוי% 1 שונתה.,module,Amasty_Affiliate
+The program has been deleted.,התכנית נמחקה.,module,Amasty_Affiliate
+This program no longer exists.,תוכנית זו אינה קיימת עוד.,module,Amasty_Affiliate
+New Affiliate Program,תכנית שותפים חדשה,module,Amasty_Affiliate
+The program is saved.,התכנית נשמרה.,module,Amasty_Affiliate
+Manage Affiliate Transactions,נהל עסקאות שותפים,module,Amasty_Affiliate
+This transaction no longer exists.,עסקה זו אינה קיימת עוד.,module,Amasty_Affiliate
+Manage Affiliate Transaction,ניהול עסקת השותפים,module,Amasty_Affiliate
+Affiliate Transactions,עסקאות שותפים,module,Amasty_Affiliate
+Manage Affiliate Withdrawals,ניהול משיכות שותפים,module,Amasty_Affiliate
+The withdrawal was canceled.,הנסיגה בוטלה.,module,Amasty_Affiliate
+This withdrawal no longer exists.,נסיגה זו אינה קיימת עוד.,module,Amasty_Affiliate
+Manage Affiliate Withdrawal,ניהול משייך שותפים,module,Amasty_Affiliate
+New Affiliate Withdrawal,שותפים חדשים משייך,module,Amasty_Affiliate
+Affiliate Withdrawals,משיכות שותפים,module,Amasty_Affiliate
+The withdrawal was already processed,המשיכה כבר מעובדת,module,Amasty_Affiliate
+The account has not enough funds to this withdrawal,אין בחשבון לא מספיק כספים כדי נסיגה זו,module,Amasty_Affiliate
+The withdrawal was payed.,הנסיגה היתה בתשלום.,module,Amasty_Affiliate
 Active,Active,module,Amasty_Affiliate
-לא פעיל,Inactive,module,Amasty_Affiliate
-לא ניתן לשמור את החשבון עם מזהה% 1. שגיאה:% 2,Unable to save account with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן לשמור את חשבון חדש. שגיאה:% 1,Unable to save new account. Error: %1,module,Amasty_Affiliate
-"חשבון עם מזהה שצוין ""% 1"" לא נמצא.","Account with specified ID ""%1"" not found.",module,Amasty_Affiliate
-ניתן להסיר את החשבון עם מזהה% 1. שגיאה:% 2,Unable to remove account with ID %1. Error: %2,module,Amasty_Affiliate
-ניתן להסיר את החשבון. שגיאה:% 1,Unable to remove account. Error: %1,module,Amasty_Affiliate
-אין ישות עם% fieldName =% fieldValue,No such entity with %fieldName = %fieldValue,module,Amasty_Affiliate
-משהו השתבש בזמן מקבל את התמונה url.,Something went wrong while getting the image url.,module,Amasty_Affiliate
-לנכים,Disabled,module,Amasty_Affiliate
-תמונה,Image,module,Amasty_Affiliate
-טקסט,Text,module,Amasty_Affiliate
-אין אפשרות לשמור באנר עם זיהוי% 1. שגיאה:% 2,Unable to save banner with ID %1. Error: %2,module,Amasty_Affiliate
-אין אפשרות לשמור הבאנר החדש. שגיאה:% 1,Unable to save new banner. Error: %1,module,Amasty_Affiliate
-"באנר עם מזהה שצוין ""% 1"" לא נמצא.","Banner with specified ID ""%1"" not found.",module,Amasty_Affiliate
-לא ניתן להסיר את הבאנר עם זיהוי% 1. שגיאה:% 2,Unable to remove banner with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן להסיר את הבאנר. שגיאה:% 1,Unable to remove banner. Error: %1,module,Amasty_Affiliate
-אין אפשרות לשמור בחיים עם זיהוי% 1. שגיאה:% 2,Unable to save lifetime with ID %1. Error: %2,module,Amasty_Affiliate
-אין אפשרות לשמור בחיים חדשים. שגיאה:% 1,Unable to save new lifetime. Error: %1,module,Amasty_Affiliate
-"חיים עם מזהה שצוין ""% 1"" לא נמצא.","Lifetime with specified ID ""%1"" not found.",module,Amasty_Affiliate
-לא ניתן להסיר את החיים עם זיהוי% 1. שגיאה:% 2,Unable to remove lifetime with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן להסיר את החיים. שגיאה:% 1,Unable to remove lifetime. Error: %1,module,Amasty_Affiliate
-לא ניתן לשמור קישורים עם זיהוי% 1. שגיאה:% 2,Unable to save links with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן לשמור קישורים חדשים. שגיאה:% 1,Unable to save new links. Error: %1,module,Amasty_Affiliate
-"קישורים עם מזהה שצוין ""% 1"" לא נמצא.","Links with specified ID ""%1"" not found.",module,Amasty_Affiliate
-לא ניתן להסיר קישורים עם זיהוי% 1. שגיאה:% 2,Unable to remove links with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן להסיר את הקישורים. שגיאה:% 1,Unable to remove links. Error: %1,module,Amasty_Affiliate
-אחוז הנחה במחיר המוצר,Percent of product price discount,module,Amasty_Affiliate
-הנחה בסכום קבוע,Fixed amount discount,module,Amasty_Affiliate
-הנחת סכום קבוע עבור עגלה,Fixed amount discount for whole cart,module,Amasty_Affiliate
-לקנות X קבל Y בחינם (סכום ההנחה היא Y),Buy X get Y free (discount amount is Y),module,Amasty_Affiliate
-אחוז,Percent,module,Amasty_Affiliate
-תוקן,Fixed,module,Amasty_Affiliate
-לפי למכירה,Per Sale,module,Amasty_Affiliate
-אין אפשרות לשמור תוכנית עם זיהוי% 1. שגיאה:% 2,Unable to save program with ID %1. Error: %2,module,Amasty_Affiliate
-אין אפשרות לשמור תוכנית חדשה. שגיאה:% 1,Unable to save new program. Error: %1,module,Amasty_Affiliate
-"תוכנית עם מזהה שצוין ""% 1"" לא נמצא.","Program with specified ID ""%1"" not found.",module,Amasty_Affiliate
-לא ניתן להסיר את התוכנית עם זיהוי% 1. שגיאה:% 2,Unable to remove program with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן להסיר את התוכנית. שגיאה:% 1,Unable to remove program. Error: %1,module,Amasty_Affiliate
-תפריט עליון,Top Menu,module,Amasty_Affiliate
-תפריט תחתון,Bottom Menu,module,Amasty_Affiliate
-קוד השותפים,Affiliate Code,module,Amasty_Affiliate
-מזהה שותפים,Affiliate ID,module,Amasty_Affiliate
-ממתין ל,Pending,module,Amasty_Affiliate
-הושלם,Completed,module,Amasty_Affiliate
-מבוטל,Canceled,module,Amasty_Affiliate
-בהמתנה,On Hold,module,Amasty_Affiliate
-אין אפשרות לשמור העסקה עם זיהוי% 1. שגיאה:% 2,Unable to save transaction with ID %1. Error: %2,module,Amasty_Affiliate
-אין אפשרות לשמור העסקה חדשה. שגיאה:% 1,Unable to save new transaction. Error: %1,module,Amasty_Affiliate
-"עסקה עם מזהה שצוין ""% 1"" לא נמצא.","Transaction with specified ID ""%1"" not found.",module,Amasty_Affiliate
-לא ניתן להסיר את העסקה עם זיהוי% 1. שגיאה:% 2,Unable to remove transaction with ID %1. Error: %2,module,Amasty_Affiliate
-לא ניתן להסיר את העסקה. שגיאה:% 1,Unable to remove transaction. Error: %1,module,Amasty_Affiliate
-"משיכה עם מזהה שצוין ""% 1"" לא נמצא.","Withdrawal with specified ID ""%1"" not found.",module,Amasty_Affiliate
-"כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
-                הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.","This shopping cart price rule is assigned to the Affiliate Program.
-                The affiliate program discount will not apply without a rule assigned.",module,Amasty_Affiliate
-שינויים לחשבון עסקי לא נשמרו: לקוח צריך לקבל הראשונה של תכנית השותפים בחשבון לקוחות.,Affiliate Account changes were not saved: customer have to accept Affiliate Program's first in Customer Account.,module,Amasty_Affiliate
-עריכה,Edit,module,Amasty_Affiliate
-אפשר,Enable,module,Amasty_Affiliate
-בטל,Disable,module,Amasty_Affiliate
-מחק $ {$. Data.name $},Delete ${ $.$data.name },module,Amasty_Affiliate
-האם אתה בטוח שאתה רוצה לבצע למחוק $ {$. $ Data.name} רשומה?,Are you sure you wan't to delete a ${ $.$data.name } record?,module,Amasty_Affiliate
-הצג,View,module,Amasty_Affiliate
-עמלה להזמנה מספר,Commission for order #,module,Amasty_Affiliate
-הזמנות,Orders,module,Amasty_Affiliate
-תכנית,Program,module,Amasty_Affiliate
-סוג,Type,module,Amasty_Affiliate
-עמלה,Commission,module,Amasty_Affiliate
-עמלה (מההזמנה השניה),Commission from 2nd order,module,Amasty_Affiliate
-סוג הנחה,Discount Type,module,Amasty_Affiliate
-הנחה,Discount,module,Amasty_Affiliate
-עמלה (מההזמנה השניה),Commission(from 2nd order),module,Amasty_Affiliate
-אין לך תוכניות.,You have no programs.,module,Amasty_Affiliate
-קודי קופון,Coupon Codes,module,Amasty_Affiliate
-תכנית שותפים,Affiliate Program,module,Amasty_Affiliate
-קוד קופון,Coupon Code,module,Amasty_Affiliate
-שם תכנית,Program Name,module,Amasty_Affiliate
-עותק,Copy,module,Amasty_Affiliate
-שתף את הקופון וקבל עמלה עבור הרכישה באמצעות קוד זה.,Share the coupon and receive a commission for the purchase using this code.,module,Amasty_Affiliate
-אין לך קופונים.,You have no coupons.,module,Amasty_Affiliate
-קישור הפניה,Referral Link,module,Amasty_Affiliate
-זן כתובת אתר מחנות זו את הטופס הבא כדי ליצור קישור הפניה חדש,Enter any URL from this store in the form below to generate a new referral link,module,Amasty_Affiliate
-"זן כתובת אתר מחנות זו
-                    את הטופס הבא כדי ליצור קישור הפניה חדש","Enter any URL from this store
-                    in the form below to generate a new referral link",module,Amasty_Affiliate
-באנרים,Banners,module,Amasty_Affiliate
-שם,Name,module,Amasty_Affiliate
-קליקים,Clicks,module,Amasty_Affiliate
-קישור,Link,module,Amasty_Affiliate
-תצוגה מקדימה,Preview,module,Amasty_Affiliate
-אין לך באנרים.,You have no banners.,module,Amasty_Affiliate
-הועתק,Copied,module,Amasty_Affiliate
-החשבון שלך הושיב על ידי מנהל חנות. אנא צור איתנו קשר לקבלת פרטים.,Your account has been disabled by store administrator. Please contact us for details.,module,Amasty_Affiliate
-* שדות חובה,* Required Fields,module,Amasty_Affiliate
-אתר המפנה,Referring Website,module,Amasty_Affiliate
-"דוא""ל (Paypal)",Paypal Email,module,Amasty_Affiliate
-"הירשם לקבלת הודעות בדוא""ל",Subscribe to Email Notifications,module,Amasty_Affiliate
-קבל תנאי שימוש,Accept Terms and Conditions,module,Amasty_Affiliate
-מקור,Source,module,Amasty_Affiliate
-לספור,Count,module,Amasty_Affiliate
-אין לך תנועה.,You have no traffic.,module,Amasty_Affiliate
-איזון:,Balance:,module,Amasty_Affiliate
-זמין:,Available:,module,Amasty_Affiliate
-בהמתנה:,On Hold:,module,Amasty_Affiliate
-לכל החיים:,Lifetime:,module,Amasty_Affiliate
-שולם:,Paid:,module,Amasty_Affiliate
-תאריך,Date,module,Amasty_Affiliate
-איזון,Balance,module,Amasty_Affiliate
-כמות,Amount,module,Amasty_Affiliate
-פרטים,Details,module,Amasty_Affiliate
-אין לך עסקאות.,You have no transactions.,module,Amasty_Affiliate
-כותרת,Title,module,Amasty_Affiliate
-מוצרי כמות,Products Qty,module,Amasty_Affiliate
-"רוחב, פיקסלים","Width, px",module,Amasty_Affiliate
-"גובה, פיקסלים","Height, px",module,Amasty_Affiliate
-רבי מכר,Bestsellers,module,Amasty_Affiliate
-מוצרים חדשים,New Products,module,Amasty_Affiliate
-שם מוצר,Product Name,module,Amasty_Affiliate
-מחיר,Price,module,Amasty_Affiliate
-תשלום מינימאלי:,Minimum Payout:,module,Amasty_Affiliate
-שלח בקשה,Submit Request,module,Amasty_Affiliate
-שלח בקשה,Send Request,module,Amasty_Affiliate
-"היתרה המינימלית ""זמינה"" לבקשת משיכה היא","The minimum ""Available"" balance to request a withdrawal is ",module,Amasty_Affiliate
+Inactive,לא פעיל,module,Amasty_Affiliate
+Unable to save account with ID %1. Error: %2,לא ניתן לשמור את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new account. Error: %1,לא ניתן לשמור את חשבון חדש. שגיאה:% 1,module,Amasty_Affiliate
+"Account with specified ID ""%1"" not found.","חשבון עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove account with ID %1. Error: %2,ניתן להסיר את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove account. Error: %1,ניתן להסיר את החשבון. שגיאה:% 1,module,Amasty_Affiliate
+No such entity with %fieldName = %fieldValue,אין ישות עם% fieldName =% fieldValue,module,Amasty_Affiliate
+Something went wrong while getting the image url.,משהו השתבש בזמן מקבל את התמונה url.,module,Amasty_Affiliate
+Disabled,לנכים,module,Amasty_Affiliate
+Image,תמונה,module,Amasty_Affiliate
+Text,טקסט,module,Amasty_Affiliate
+Unable to save banner with ID %1. Error: %2,אין אפשרות לשמור באנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new banner. Error: %1,אין אפשרות לשמור הבאנר החדש. שגיאה:% 1,module,Amasty_Affiliate
+"Banner with specified ID ""%1"" not found.","באנר עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove banner with ID %1. Error: %2,לא ניתן להסיר את הבאנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove banner. Error: %1,לא ניתן להסיר את הבאנר. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save lifetime with ID %1. Error: %2,אין אפשרות לשמור בחיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new lifetime. Error: %1,אין אפשרות לשמור בחיים חדשים. שגיאה:% 1,module,Amasty_Affiliate
+"Lifetime with specified ID ""%1"" not found.","חיים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove lifetime with ID %1. Error: %2,לא ניתן להסיר את החיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove lifetime. Error: %1,לא ניתן להסיר את החיים. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save links with ID %1. Error: %2,לא ניתן לשמור קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new links. Error: %1,לא ניתן לשמור קישורים חדשים. שגיאה:% 1,module,Amasty_Affiliate
+"Links with specified ID ""%1"" not found.","קישורים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove links with ID %1. Error: %2,לא ניתן להסיר קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove links. Error: %1,לא ניתן להסיר את הקישורים. שגיאה:% 1,module,Amasty_Affiliate
+Percent of product price discount,אחוז הנחה במחיר המוצר,module,Amasty_Affiliate
+Fixed amount discount,הנחה בסכום קבוע,module,Amasty_Affiliate
+Fixed amount discount for whole cart,הנחת סכום קבוע עבור עגלה,module,Amasty_Affiliate
+Buy X get Y free (discount amount is Y),לקנות X קבל Y בחינם (סכום ההנחה היא Y),module,Amasty_Affiliate
+Percent,אחוז,module,Amasty_Affiliate
+Fixed,תוקן,module,Amasty_Affiliate
+Per Sale,לפי למכירה,module,Amasty_Affiliate
+Unable to save program with ID %1. Error: %2,אין אפשרות לשמור תוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new program. Error: %1,אין אפשרות לשמור תוכנית חדשה. שגיאה:% 1,module,Amasty_Affiliate
+"Program with specified ID ""%1"" not found.","תוכנית עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove program with ID %1. Error: %2,לא ניתן להסיר את התוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove program. Error: %1,לא ניתן להסיר את התוכנית. שגיאה:% 1,module,Amasty_Affiliate
+Top Menu,תפריט עליון,module,Amasty_Affiliate
+Bottom Menu,תפריט תחתון,module,Amasty_Affiliate
+Affiliate Code,קוד השותפים,module,Amasty_Affiliate
+Affiliate ID,מזהה שותפים,module,Amasty_Affiliate
+Pending,ממתין ל,module,Amasty_Affiliate
+Completed,הושלם,module,Amasty_Affiliate
+Canceled,מבוטל,module,Amasty_Affiliate
+On Hold,בהמתנה,module,Amasty_Affiliate
+Unable to save transaction with ID %1. Error: %2,אין אפשרות לשמור העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to save new transaction. Error: %1,אין אפשרות לשמור העסקה חדשה. שגיאה:% 1,module,Amasty_Affiliate
+"Transaction with specified ID ""%1"" not found.","עסקה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove transaction with ID %1. Error: %2,לא ניתן להסיר את העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
+Unable to remove transaction. Error: %1,לא ניתן להסיר את העסקה. שגיאה:% 1,module,Amasty_Affiliate
+"Withdrawal with specified ID ""%1"" not found.","משיכה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+"This shopping cart price rule is assigned to the Affiliate Program.
+                The affiliate program discount will not apply without a rule assigned.","כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
+                הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.",module,Amasty_Affiliate
+Affiliate Account changes were not saved: customer have to accept Affiliate Program's first in Customer Account.,שינויים לחשבון עסקי לא נשמרו: לקוח צריך לקבל הראשונה של תכנית השותפים בחשבון לקוחות.,module,Amasty_Affiliate
+Edit,עריכה,module,Amasty_Affiliate
+Enable,אפשר,module,Amasty_Affiliate
+Disable,בטל,module,Amasty_Affiliate
+Delete ${ $.$data.name },מחק $ {$. Data.name $},module,Amasty_Affiliate
+Are you sure you wan't to delete a ${ $.$data.name } record?,האם אתה בטוח שאתה רוצה לבצע למחוק $ {$. $ Data.name} רשומה?,module,Amasty_Affiliate
+View,הצג,module,Amasty_Affiliate
+Commission for order #,עמלה להזמנה מספר,module,Amasty_Affiliate
+Orders,הזמנות,module,Amasty_Affiliate
+Program,תכנית,module,Amasty_Affiliate
+Type,סוג,module,Amasty_Affiliate
+Commission,עמלה,module,Amasty_Affiliate
+Commission from 2nd order,עמלה (מההזמנה השניה),module,Amasty_Affiliate
+Discount Type,סוג הנחה,module,Amasty_Affiliate
+Discount,הנחה,module,Amasty_Affiliate
+Commission(from 2nd order),עמלה (מההזמנה השניה),module,Amasty_Affiliate
+You have no programs.,אין לך תוכניות.,module,Amasty_Affiliate
+Coupon Codes,קודי קופון,module,Amasty_Affiliate
+Affiliate Program,תכנית שותפים,module,Amasty_Affiliate
+Coupon Code,קוד קופון,module,Amasty_Affiliate
+Program Name,שם תכנית,module,Amasty_Affiliate
+Copy,עותק,module,Amasty_Affiliate
+Share the coupon and receive a commission for the purchase using this code.,שתף את הקופון וקבל עמלה עבור הרכישה באמצעות קוד זה.,module,Amasty_Affiliate
+You have no coupons.,אין לך קופונים.,module,Amasty_Affiliate
+Referral Link,קישור הפניה,module,Amasty_Affiliate
+Enter any URL from this store in the form below to generate a new referral link,זן כתובת אתר מחנות זו את הטופס הבא כדי ליצור קישור הפניה חדש,module,Amasty_Affiliate
+"Enter any URL from this store
+                    in the form below to generate a new referral link","זן כתובת אתר מחנות זו
+                    את הטופס הבא כדי ליצור קישור הפניה חדש",module,Amasty_Affiliate
+Banners,באנרים,module,Amasty_Affiliate
+Name,שם,module,Amasty_Affiliate
+Clicks,קליקים,module,Amasty_Affiliate
+Link,קישור,module,Amasty_Affiliate
+Preview,תצוגה מקדימה,module,Amasty_Affiliate
+You have no banners.,אין לך באנרים.,module,Amasty_Affiliate
+Copied,הועתק,module,Amasty_Affiliate
+Your account has been disabled by store administrator. Please contact us for details.,החשבון שלך הושיב על ידי מנהל חנות. אנא צור איתנו קשר לקבלת פרטים.,module,Amasty_Affiliate
+* Required Fields,* שדות חובה,module,Amasty_Affiliate
+Referring Website,אתר המפנה,module,Amasty_Affiliate
+Paypal Email,"דוא""ל (Paypal)",module,Amasty_Affiliate
+Subscribe to Email Notifications,"הירשם לקבלת הודעות בדוא""ל",module,Amasty_Affiliate
+Accept Terms and Conditions,קבל תנאי שימוש,module,Amasty_Affiliate
+Source,מקור,module,Amasty_Affiliate
+Count,לספור,module,Amasty_Affiliate
+You have no traffic.,אין לך תנועה.,module,Amasty_Affiliate
+Balance:,איזון:,module,Amasty_Affiliate
+Available:,זמין:,module,Amasty_Affiliate
+On Hold:,בהמתנה:,module,Amasty_Affiliate
+Lifetime:,לכל החיים:,module,Amasty_Affiliate
+Paid:,שולם:,module,Amasty_Affiliate
+Date,תאריך,module,Amasty_Affiliate
+Balance,איזון,module,Amasty_Affiliate
+Amount,כמות,module,Amasty_Affiliate
+Details,פרטים,module,Amasty_Affiliate
+You have no transactions.,אין לך עסקאות.,module,Amasty_Affiliate
+Title,כותרת,module,Amasty_Affiliate
+Products Qty,מוצרי כמות,module,Amasty_Affiliate
+"Width, px","רוחב, פיקסלים",module,Amasty_Affiliate
+"Height, px","גובה, פיקסלים",module,Amasty_Affiliate
+Bestsellers,רבי מכר,module,Amasty_Affiliate
+New Products,מוצרים חדשים,module,Amasty_Affiliate
+Product Name,שם מוצר,module,Amasty_Affiliate
+Price,מחיר,module,Amasty_Affiliate
+Minimum Payout:,תשלום מינימאלי:,module,Amasty_Affiliate
+Submit Request,שלח בקשה,module,Amasty_Affiliate
+Send Request,שלח בקשה,module,Amasty_Affiliate
+"The minimum ""Available"" balance to request a withdrawal is ","היתרה המינימלית ""זמינה"" לבקשת משיכה היא",module,Amasty_Affiliate
 #,#,module,Amasty_Affiliate
-מצב,Status,module,Amasty_Affiliate
-פעולה,Action,module,Amasty_Affiliate
-פעולות,Actions,module,Amasty_Affiliate
-חזור,Repeat,module,Amasty_Affiliate
-אין לך משיכות.,You have no withdrawals.,module,Amasty_Affiliate
-שותפים,Affiliate,module,Amasty_Affiliate
-ניהול תוכניות,Manage Programs,module,Amasty_Affiliate
-ניהול חשבונות,Manage Accounts,module,Amasty_Affiliate
-ניהול באנרים,Manage Banners,module,Amasty_Affiliate
-נהל עסקאות,Manage Transactions,module,Amasty_Affiliate
-ניהול משיכות,Manage Withdrawals,module,Amasty_Affiliate
-הגדרות כלליות,General Settings,module,Amasty_Affiliate
-הוסף קישור שותפים כדי תחתון,Add Affiliate Link to Footer,module,Amasty_Affiliate
-קובץ cookie פג (ימים),Cookie Expiration (Days),module,Amasty_Affiliate
-"מספר ימים המערכת מאחסנת עוגיות עבור תוכנית השותפים. ברירת מחדל: 365 (ימים). אם מבקר שהופנה מגיע
-                        האתר באמצעות קישור שותפים ומשלים בכל סדר בתוך 365 ימים, הוא (היא) יקבל הנחה ואת השותפים יקבלו עמלה. לאחר תקופה זו השותפים לא ירוויחו
-                        כל עמלה, לקוח המכונה לא תקבל הנחה.","The number of days the system stores cookies for the affiliate program. Default: 365 (Days). If a referred visitor comes to
+Status,מצב,module,Amasty_Affiliate
+Action,פעולה,module,Amasty_Affiliate
+Actions,פעולות,module,Amasty_Affiliate
+Repeat,חזור,module,Amasty_Affiliate
+You have no withdrawals.,אין לך משיכות.,module,Amasty_Affiliate
+Affiliate,שותפים,module,Amasty_Affiliate
+Manage Programs,ניהול תוכניות,module,Amasty_Affiliate
+Manage Accounts,ניהול חשבונות,module,Amasty_Affiliate
+Manage Banners,ניהול באנרים,module,Amasty_Affiliate
+Manage Transactions,נהל עסקאות,module,Amasty_Affiliate
+Manage Withdrawals,ניהול משיכות,module,Amasty_Affiliate
+General Settings,הגדרות כלליות,module,Amasty_Affiliate
+Add Affiliate Link to Footer,הוסף קישור שותפים כדי תחתון,module,Amasty_Affiliate
+Cookie Expiration (Days),קובץ cookie פג (ימים),module,Amasty_Affiliate
+"The number of days the system stores cookies for the affiliate program. Default: 365 (Days). If a referred visitor comes to
                         your site using an affiliate link and completes any order within 365 days, he (she) will receive a discount and the affiliate will get a commission. After this period the affiliate won't earn
-                        any commission, a referred customer won't get a discount.",module,Amasty_Affiliate
-חשבון,Account,module,Amasty_Affiliate
-"בדקו ""הודעות דוא""ל"" כברירת מחדל","Checked ""Email Notifications"" by Default",module,Amasty_Affiliate
-"אם ""כן"", ""הודעות דוא""ל"" המנוי ייבדק אוטומטי בחשבון השותפים.","If ""Yes"", the ""Email notifications"" subscription will be auto checked in the affiliate account.",module,Amasty_Affiliate
-כתובת אתר שותפים,Affiliate URL,module,Amasty_Affiliate
-כתובת אתר שותפים כללי,Affiliate General URL,module,Amasty_Affiliate
+                        any commission, a referred customer won't get a discount.","מספר ימים המערכת מאחסנת עוגיות עבור תוכנית השותפים. ברירת מחדל: 365 (ימים). אם מבקר שהופנה מגיע
+                        האתר באמצעות קישור שותפים ומשלים בכל סדר בתוך 365 ימים, הוא (היא) יקבל הנחה ואת השותפים יקבלו עמלה. לאחר תקופה זו השותפים לא ירוויחו
+                        כל עמלה, לקוח המכונה לא תקבל הנחה.",module,Amasty_Affiliate
+Account,חשבון,module,Amasty_Affiliate
+"Checked ""Email Notifications"" by Default","בדקו ""הודעות דוא""ל"" כברירת מחדל",module,Amasty_Affiliate
+"If ""Yes"", the ""Email notifications"" subscription will be auto checked in the affiliate account.","אם ""כן"", ""הודעות דוא""ל"" המנוי ייבדק אוטומטי בחשבון השותפים.",module,Amasty_Affiliate
+Affiliate URL,כתובת אתר שותפים,module,Amasty_Affiliate
+Affiliate General URL,כתובת אתר שותפים כללי,module,Amasty_Affiliate
 This text replace amasty_affiliate in next url: {donmain}/amasty_affiliate/account/setting.,This text replace amasty_affiliate in next url: {donmain}/amasty_affiliate/account/setting.,module,Amasty_Affiliate
-פרמטר לקוחות,Customer Parameter,module,Amasty_Affiliate
-זה ישמש כתובות כגון:? C = 123,It will be used in URLs such as: ?c=123,module,Amasty_Affiliate
-אורך קוד השותפים,Affiliate code length,module,Amasty_Affiliate
-"הקוד צריך להכיל מ 4 כדי 31 סימנים. ""10"" מוגדר כברירת מחדל.",The code should contain from 4 to 31 symbols. '10' is set by default.,module,Amasty_Affiliate
-זרימת העבודה של העמלה,Commission Workflow,module,Amasty_Affiliate
-להוסיף עמלה כאשר התקבלה הזמנה,Add Commission When Order Obtained Status,module,Amasty_Affiliate
-להפחית עמלה כאשר התקבלה הזמנה,Subtract Commission When Order Obtained Status,module,Amasty_Affiliate
-זה עובד עבור Pay per תוכניות מכירה בלבד.,It works for the Pay per Sale programs only.,module,Amasty_Affiliate
-חיסור עמלה כאשר זיכוי נוצר,Subtract Commission When Creditmemo is Created,module,Amasty_Affiliate
-עמלת תקופת החזקה (ימים),Commission Holding Period (Days),module,Amasty_Affiliate
-תצורת משיכת,Withdrawal Configuration,module,Amasty_Affiliate
-כמות משיכת מינימום,Minimum Withdrawal Amount,module,Amasty_Affiliate
-"המינימום ""הזמין"" מאזן לבקש את הוצאתם","The Minimum ""Available"" Balance to Request Withdrawal",module,Amasty_Affiliate
-"הודעות דוא""ל",Email Notifications,module,Amasty_Affiliate
-כללי,General,module,Amasty_Affiliate
-לשלוח מיילים,Send Emails To,module,Amasty_Affiliate
-אי-מייל,Email Sender,module,Amasty_Affiliate
-להשתייך,To Affiliate,module,Amasty_Affiliate
-"דוא""ל ברוכים הבאים לאחר הרשם",Welcome Email After Sign Up,module,Amasty_Affiliate
-תבנית,Template,module,Amasty_Affiliate
-שינוי מצב חשבון,Account Status Change,module,Amasty_Affiliate
-עסקה חדשה נוצרת,New Transaction is Created,module,Amasty_Affiliate
-סטטוס טרנזקציה משתנה,Transaction Status is Changed,module,Amasty_Affiliate
-מצב המשיכה משתנה,Withdrawal Status is Changed,module,Amasty_Affiliate
-כדי Admin,To Admin,module,Amasty_Affiliate
-ניו בקשת משיכה,New Withdrawal Request,module,Amasty_Affiliate
-השותפים החדשים סינג Up,New Affiliate Sing Up,module,Amasty_Affiliate
-AddThis חשבון ID,AddThis Account ID,module,Amasty_Affiliate
-"AddThis החשבון מזהה RA-5968d339b0751a2f הציבורי משמש למטרת בדיקה. לחץ <a href=""https://www.addthis.com"" target=""_blank""> כאן </a> כדי לקבל את זיהוי חשבון AddThis משלך.","Public AddThis Account ID ra-5968d339b0751a2f is used for testing purpose. Please click <a href=""https://www.addthis.com"" target=""_blank"">here</a> to get your own AddThis Account ID.",module,Amasty_Affiliate
-עיין תוכן דף החברים,Refer Friends Page Content,module,Amasty_Affiliate
-תוכן תנועת דף המקורות,Traffic Sources Page Content,module,Amasty_Affiliate
-אפשר פרטי מוצר העמוד,Enable on Product Listing Page,module,Amasty_Affiliate
-אפשר על מוצרי פרטי עמוד,Enable on Product Details Page,module,Amasty_Affiliate
-אפשר על תפריט החשבון / השותפים שלי,Enable on My Account / Affiliate menu,module,Amasty_Affiliate
-תנאים,Terms and Conditions,module,Amasty_Affiliate
-טקסט תיבת סימון,Checkbox Text,module,Amasty_Affiliate
-תיבת סימון מסומנת כברירת מחדל,Checkbox is Checked by Default,module,Amasty_Affiliate
-קופון,Coupon,module,Amasty_Affiliate
-חזור,Back,module,Amasty_Affiliate
-מידע כללי,General Information,module,Amasty_Affiliate
-שם פרטי,First Name,module,Amasty_Affiliate
-שם משפחה,Last Name,module,Amasty_Affiliate
-"כתובת דוא""ל",Email Address,module,Amasty_Affiliate
-לקבל הודעות דואל,Receive Notification Emails,module,Amasty_Affiliate
-כן,Yes,module,Amasty_Affiliate
-לא,No,module,Amasty_Affiliate
-פרטי תשלום,Payment Information,module,Amasty_Affiliate
-"כתובת דוא""ל של Paypal",PayPal Email Address,module,Amasty_Affiliate
-"עמלה סה""כ",Total Commission,module,Amasty_Affiliate
-עמלה שולמה,Commission Paid,module,Amasty_Affiliate
-קופונים,Coupons,module,Amasty_Affiliate
-עסקאות,Transactions,module,Amasty_Affiliate
-משייך,Withdrawals,module,Amasty_Affiliate
-הוסף חשבון,Add Account,module,Amasty_Affiliate
-מחק פריטים,Delete items,module,Amasty_Affiliate
-האם אתה בטוח שברצונך למחוק את חשבונות שנבחרו?,Are you sure to delete selected accounts?,module,Amasty_Affiliate
-מזהה,ID,module,Amasty_Affiliate
-אימייל,Email,module,Amasty_Affiliate
-סך הכל שולם,Total Paid,module,Amasty_Affiliate
-תאריך עדכון,Date Updated,module,Amasty_Affiliate
-הודעה,Message,module,Amasty_Affiliate
-באנר שותפים,Affiliate Banner,module,Amasty_Affiliate
-יחסי Nofollow,Rel Nofollow,module,Amasty_Affiliate
-הוספת באנר,Add Banner,module,Amasty_Affiliate
-האם אתה בטוח שברצונך למחוק באנרים שנבחרו?,Are you sure to delete selected banners?,module,Amasty_Affiliate
-כלל מחיר סל קניות,Shopping Cart Price Rule,module,Amasty_Affiliate
-ועדת תצורה,Commission Configuration,module,Amasty_Affiliate
+Customer Parameter,פרמטר לקוחות,module,Amasty_Affiliate
+It will be used in URLs such as: ?c=123,זה ישמש כתובות כגון:? C = 123,module,Amasty_Affiliate
+Affiliate code length,אורך קוד השותפים,module,Amasty_Affiliate
+The code should contain from 4 to 31 symbols. '10' is set by default.,"הקוד צריך להכיל מ 4 כדי 31 סימנים. ""10"" מוגדר כברירת מחדל.",module,Amasty_Affiliate
+Commission Workflow,זרימת העבודה של העמלה,module,Amasty_Affiliate
+Add Commission When Order Obtained Status,להוסיף עמלה כאשר התקבלה הזמנה,module,Amasty_Affiliate
+Subtract Commission When Order Obtained Status,להפחית עמלה כאשר התקבלה הזמנה,module,Amasty_Affiliate
+It works for the Pay per Sale programs only.,זה עובד עבור Pay per תוכניות מכירה בלבד.,module,Amasty_Affiliate
+Subtract Commission When Creditmemo is Created,חיסור עמלה כאשר זיכוי נוצר,module,Amasty_Affiliate
+Commission Holding Period (Days),עמלת תקופת החזקה (ימים),module,Amasty_Affiliate
+Withdrawal Configuration,תצורת משיכת,module,Amasty_Affiliate
+Minimum Withdrawal Amount,כמות משיכת מינימום,module,Amasty_Affiliate
+"The Minimum ""Available"" Balance to Request Withdrawal","המינימום ""הזמין"" מאזן לבקש את הוצאתם",module,Amasty_Affiliate
+Email Notifications,"הודעות דוא""ל",module,Amasty_Affiliate
+General,כללי,module,Amasty_Affiliate
+Send Emails To,לשלוח מיילים,module,Amasty_Affiliate
+Email Sender,אי-מייל,module,Amasty_Affiliate
+To Affiliate,להשתייך,module,Amasty_Affiliate
+Welcome Email After Sign Up,"דוא""ל ברוכים הבאים לאחר הרשם",module,Amasty_Affiliate
+Template,תבנית,module,Amasty_Affiliate
+Account Status Change,שינוי מצב חשבון,module,Amasty_Affiliate
+New Transaction is Created,עסקה חדשה נוצרת,module,Amasty_Affiliate
+Transaction Status is Changed,סטטוס טרנזקציה משתנה,module,Amasty_Affiliate
+Withdrawal Status is Changed,מצב המשיכה משתנה,module,Amasty_Affiliate
+To Admin,כדי Admin,module,Amasty_Affiliate
+New Withdrawal Request,ניו בקשת משיכה,module,Amasty_Affiliate
+New Affiliate Sing Up,השותפים החדשים סינג Up,module,Amasty_Affiliate
+AddThis Account ID,AddThis חשבון ID,module,Amasty_Affiliate
+"Public AddThis Account ID ra-5968d339b0751a2f is used for testing purpose. Please click <a href=""https://www.addthis.com"" target=""_blank"">here</a> to get your own AddThis Account ID.","AddThis החשבון מזהה RA-5968d339b0751a2f הציבורי משמש למטרת בדיקה. לחץ <a href=""https://www.addthis.com"" target=""_blank""> כאן </a> כדי לקבל את זיהוי חשבון AddThis משלך.",module,Amasty_Affiliate
+Refer Friends Page Content,עיין תוכן דף החברים,module,Amasty_Affiliate
+Traffic Sources Page Content,תוכן תנועת דף המקורות,module,Amasty_Affiliate
+Enable on Product Listing Page,אפשר פרטי מוצר העמוד,module,Amasty_Affiliate
+Enable on Product Details Page,אפשר על מוצרי פרטי עמוד,module,Amasty_Affiliate
+Enable on My Account / Affiliate menu,אפשר על תפריט החשבון / השותפים שלי,module,Amasty_Affiliate
+Terms and Conditions,תנאים,module,Amasty_Affiliate
+Checkbox Text,טקסט תיבת סימון,module,Amasty_Affiliate
+Checkbox is Checked by Default,תיבת סימון מסומנת כברירת מחדל,module,Amasty_Affiliate
+Coupon,קופון,module,Amasty_Affiliate
+Back,חזור,module,Amasty_Affiliate
+General Information,מידע כללי,module,Amasty_Affiliate
+First Name,שם פרטי,module,Amasty_Affiliate
+Last Name,שם משפחה,module,Amasty_Affiliate
+Email Address,"כתובת דוא""ל",module,Amasty_Affiliate
+Receive Notification Emails,לקבל הודעות דואל,module,Amasty_Affiliate
+Yes,כן,module,Amasty_Affiliate
+No,לא,module,Amasty_Affiliate
+Payment Information,פרטי תשלום,module,Amasty_Affiliate
+PayPal Email Address,"כתובת דוא""ל של Paypal",module,Amasty_Affiliate
+Total Commission,"עמלה סה""כ",module,Amasty_Affiliate
+Commission Paid,עמלה שולמה,module,Amasty_Affiliate
+Coupons,קופונים,module,Amasty_Affiliate
+Transactions,עסקאות,module,Amasty_Affiliate
+Withdrawals,משייך,module,Amasty_Affiliate
+Add Account,הוסף חשבון,module,Amasty_Affiliate
+Delete items,מחק פריטים,module,Amasty_Affiliate
+Are you sure to delete selected accounts?,האם אתה בטוח שברצונך למחוק את חשבונות שנבחרו?,module,Amasty_Affiliate
+ID,מזהה,module,Amasty_Affiliate
+Email,אימייל,module,Amasty_Affiliate
+Total Paid,סך הכל שולם,module,Amasty_Affiliate
+Date Updated,תאריך עדכון,module,Amasty_Affiliate
+Message,הודעה,module,Amasty_Affiliate
+Affiliate Banner,באנר שותפים,module,Amasty_Affiliate
+Rel Nofollow,יחסי Nofollow,module,Amasty_Affiliate
+Add Banner,הוספת באנר,module,Amasty_Affiliate
+Are you sure to delete selected banners?,האם אתה בטוח שברצונך למחוק באנרים שנבחרו?,module,Amasty_Affiliate
+Shopping Cart Price Rule,כלל מחיר סל קניות,module,Amasty_Affiliate
+Commission Configuration,ועדת תצורה,module,Amasty_Affiliate
 "
-אם סוג עמלה הוא אחוז, הערך שלו הוא דינמי המבוסס על שולי רווח החנות (סכום ההזמנות לאחר הנחה, לפני מסים). </ Br>
-אם סוג העמלה קבוע, הערך שלו הוא תמיד סטטי.
-                    ","
 If the commission type is percent, its value is dynamic and based on the store profit margin (order total after discount, before taxes).</br>
 If the commission type is fixed, its value is always static.
-                    ",module,Amasty_Affiliate
-ועדת Pay,Pay Commission,module,Amasty_Affiliate
-לשלם לכל מכירה,Pay per Sale,module,Amasty_Affiliate
-Pay Per רווח,Pay Per Profit,module,Amasty_Affiliate
-סכום לתשלום עמלה,Amount to Pay Commission,module,Amasty_Affiliate
-סוג הנציבות,Commission Type,module,Amasty_Affiliate
-נציבות ערך,Commission Value,module,Amasty_Affiliate
-השתמש עמלה שונה סדר ה -2 של לקוחות.,Use different commission from 2nd order of a Customer.,module,Amasty_Affiliate
-"""לא"" בחר ליישם את העמלה מעל לכל ההזמנות.","Select ""No"" to apply the above commission to all orders.",module,Amasty_Affiliate
-סוג הנציבות (מהזמנה 2),Commission Type (from 2nd order),module,Amasty_Affiliate
-נציבות ערך (מהזמנה 2),Commission Value (from 2nd order),module,Amasty_Affiliate
-שמור עמלות לשלם לחברת הכלולה הראשונה,Keep paying commissions to the first affiliate,module,Amasty_Affiliate
-"אם ""כן"": כאשר לקוח רוכש הראשונה מוצרים דרך לינק השותפים, אך מאוחר יותר הופך רכישות באמצעות הקישורים של B, העסקה עדיין תיספר עבור א השותפים","If 'Yes': When a customer first buys products through the affiliate A's link, but later makes purchases using B's links, the transaction will still be counted for the affiliate A.",module,Amasty_Affiliate
+                    ","
+אם סוג עמלה הוא אחוז, הערך שלו הוא דינמי המבוסס על שולי רווח החנות (סכום ההזמנות לאחר הנחה, לפני מסים). </ Br>
+אם סוג העמלה קבוע, הערך שלו הוא תמיד סטטי.
+                    ",module,Amasty_Affiliate
+Pay Commission,ועדת Pay,module,Amasty_Affiliate
+Pay per Sale,לשלם לכל מכירה,module,Amasty_Affiliate
+Pay Per Profit,Pay Per רווח,module,Amasty_Affiliate
+Amount to Pay Commission,סכום לתשלום עמלה,module,Amasty_Affiliate
+Commission Type,סוג הנציבות,module,Amasty_Affiliate
+Commission Value,נציבות ערך,module,Amasty_Affiliate
+Use different commission from 2nd order of a Customer.,השתמש עמלה שונה סדר ה -2 של לקוחות.,module,Amasty_Affiliate
+"Select ""No"" to apply the above commission to all orders.","""לא"" בחר ליישם את העמלה מעל לכל ההזמנות.",module,Amasty_Affiliate
+Commission Type (from 2nd order),סוג הנציבות (מהזמנה 2),module,Amasty_Affiliate
+Commission Value (from 2nd order),נציבות ערך (מהזמנה 2),module,Amasty_Affiliate
+Keep paying commissions to the first affiliate,שמור עמלות לשלם לחברת הכלולה הראשונה,module,Amasty_Affiliate
+"If 'Yes': When a customer first buys products through the affiliate A's link, but later makes purchases using B's links, the transaction will still be counted for the affiliate A.","אם ""כן"": כאשר לקוח רוכש הראשונה מוצרים דרך לינק השותפים, אך מאוחר יותר הופך רכישות באמצעות הקישורים של B, העסקה עדיין תיספר עבור א השותפים",module,Amasty_Affiliate
 Add New Program,Add New Program,module,Amasty_Affiliate
-האם אתה בטוח שברצונך למחוק תוכניות שנבחרו?,Are you sure to delete selected programs?,module,Amasty_Affiliate
-כמות ההנחה,Discount Amount,module,Amasty_Affiliate
-"סכום המכירות סה""כ",Total Sales Amount,module,Amasty_Affiliate
-עסקת שותפים,Affiliate Transaction,module,Amasty_Affiliate
-סכום ביניים להזמנה,Order Subtotal,module,Amasty_Affiliate
-"דוא""ל שותפים",Affiliate Email,module,Amasty_Affiliate
-"דוא""ל של לקוחות",Customer Email,module,Amasty_Affiliate
-מספר הזמנה,Order ID,module,Amasty_Affiliate
-תצוגה בחנות,Store View,module,Amasty_Affiliate
-משיכת שותפים,Affiliate Withdrawal,module,Amasty_Affiliate
-מידע משייך,Withdrawal Information,module,Amasty_Affiliate
-%1 נוסף לעגלת הקניות.,"You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
-Installed,,module,Amasty_Cart
-Not Installed,,module,Amasty_Cart
-Please update Amasty Base module. Re-upload it and replace all the files.,,module,Amasty_Cart
-We can't add this item to your shopping cart right now. Please reload the page.,,module,Amasty_Cart
-We can't add this item to your shopping cart right now.,,module,Amasty_Cart
-%1 has been added to your cart,%1 התווסף לסל הקניות שלך,module,Amasty_Cart
-Please specify the quantity of product(s).,נא לבחור את מספר היחידות עבור על מוצר,module,Amasty_Cart
-You need to choose options for your item.,אתה צריך לבחור אפשרויות עבור הפריט שלך.,module,Amasty_Cart
-Continue shopping,המשך בקניות,module,Amasty_Cart
-Cancel,לבטל,module,Amasty_Cart
-Set options,הגדרת אפשרויות,module,Amasty_Cart
-Add to cart,הוסף לעגלה,module,Amasty_Cart
-There is,יש,module,Amasty_Cart
- item, פריט,module,Amasty_Cart
-There are,יש,module,Amasty_Cart
- items, פריטים,module,Amasty_Cart
-View Cart,לצפייה בסל,module,Amasty_Cart
- in your cart., בסל הקניות שלך.,module,Amasty_Cart
-Cart Subtotal:,סך ביניים:,module,Amasty_Cart
-Information,מידע,module,Amasty_Cart
-Continue,המשך,module,Amasty_Cart
-Go to Checkout,מעבר לתשלום,module,Amasty_Cart
-%1 has been added to your cart.,%1 התווסף לסל הקניות שלך.,module,Amasty_Cart
-We can't add this item to your shopping cart.,,module,Amasty_Cart
-We can't find the quote item.,,module,Amasty_Cart
-%1 was updated in your shopping cart.,,module,Amasty_Cart
-We can't update the item right now.,,module,Amasty_Cart
-This product(s) is out of stock.,,module,Amasty_Cart
-We can't add the item to the cart right now.,,module,Amasty_Cart
-in your cart,בסל הקניות שלך,module,Amasty_Cart
-More Choices:,,module,Amasty_Cart
-You may be interested in the following items,,module,Amasty_Cart
-Center,,module,Amasty_Cart
-Top,,module,Amasty_Cart
-Top Left,,module,Amasty_Cart
-Top Right,,module,Amasty_Cart
-Left,,module,Amasty_Cart
-Right,,module,Amasty_Cart
-None,,module,Amasty_Cart
-Related,,module,Amasty_Cart
-Cross-sell,,module,Amasty_Cart
-Stay on Current Page,,module,Amasty_Cart
-Go to Category Page,,module,Amasty_Cart
-Parent Configurable Product Image,,module,Amasty_Cart
-Child Simple Product Image,,module,Amasty_Cart
-Mini Product Page,,module,Amasty_Cart
-Custom Options & Product Qty,,module,Amasty_Cart
-Product Image,,module,Amasty_Cart
-Product Quantity Field,,module,Amasty_Cart
-Number of Products in Cart,,module,Amasty_Cart
-Cart Subtotal,סך ביניים,module,Amasty_Cart
-Go to Checkout Button,,module,Amasty_Cart
-Show Only if There Are Required Options,,module,Amasty_Cart
-Always Show All Custom Options,,module,Amasty_Cart
-has been added to your cart,,module,Amasty_Cart
-%1 has been added to your Wish List.,,module,Amasty_Cart
-Add to Wish List,הוסף לרשימת המשאלות,module,Amasty_Cart
-Add to Compare,הוסף להשוואה,module,Amasty_Cart
-Add to Cart,הוסף לסל,module,Amasty_Cart
-In stock,,module,Amasty_Cart
-Out of stock,,module,Amasty_Cart
-Please choose the options for your item,,module,Amasty_Cart
-Qty,כמות,module,Amasty_Cart
-Update,עדכון,module,Amasty_Cart
-Close,סגירה,module,Amasty_Cart
-Ajax Shopping Cart,,module,Amasty_Cart
-General,,module,Amasty_Cart
-Enable Ajax Shopping Cart,,module,Amasty_Cart
-Enable Flying Image Effect,,module,Amasty_Cart
-Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,,module,Amasty_Cart
-Show the Product Qty Added to the Cart on the Product Listing,,module,Amasty_Cart
-Add Products to Compare with AJAX,,module,Amasty_Cart
-Add Products to Wish List with AJAX,,module,Amasty_Cart
-Show a Mini Cart once Item is Added,,module,Amasty_Cart
-Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,,module,Amasty_Cart
-Dialog Pop-up,,module,Amasty_Cart
-Redirect to the Product Page,,module,Amasty_Cart
-Display Custom Options,,module,Amasty_Cart
-"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",,module,Amasty_Cart
-Pop-up for Composite Products,,module,Amasty_Cart
-QTY Instant Change,,module,Amasty_Cart
-"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",,module,Amasty_Cart
-Confirmation Pop-up,,module,Amasty_Cart
-Dialog Close Delay (in seconds),,module,Amasty_Cart
-"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",,module,Amasty_Cart
-Enable a Confirmation Pop-up on a Product Page,,module,Amasty_Cart
-Continue Button Action on a Product Page,,module,Amasty_Cart
-Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,,module,Amasty_Cart
-Confirmation Pop-up Display,,module,Amasty_Cart
-Align Pop-up,,module,Amasty_Cart
-"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",,module,Amasty_Cart
-Image Display for Configurable Products,,module,Amasty_Cart
-Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,,module,Amasty_Cart
-Display in Pop-up,,module,Amasty_Cart
-Choose what to display in the Confirmation Pup-up,,module,Amasty_Cart
-Selling Options,,module,Amasty_Cart
-Product Block Type Displayed in the Confirmation Pop-up,,module,Amasty_Cart
-Title,,module,Amasty_Cart
-Subtitle,,module,Amasty_Cart
-Products Qty Limit,,module,Amasty_Cart
-If more than 2 then slider is activated,,module,Amasty_Cart
-Visual Options,,module,Amasty_Cart
-Background Color,,module,Amasty_Cart
-Product Name Color,,module,Amasty_Cart
-Text Color,,module,Amasty_Cart
-Button Text Color,,module,Amasty_Cart
-Continue Button Color,,module,Amasty_Cart
-View Cart Button Color,,module,Amasty_Cart
-Automatic Related Products,,module,Amasty_Cart
-Status,,module,Amasty_Cart
-"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",,module,Amasty_Cart
+Are you sure to delete selected programs?,האם אתה בטוח שברצונך למחוק תוכניות שנבחרו?,module,Amasty_Affiliate
+Discount Amount,כמות ההנחה,module,Amasty_Affiliate
+Total Sales Amount,"סכום המכירות סה""כ",module,Amasty_Affiliate
+Affiliate Transaction,עסקת שותפים,module,Amasty_Affiliate
+Order Subtotal,סכום ביניים להזמנה,module,Amasty_Affiliate
+Affiliate Email,"דוא""ל שותפים",module,Amasty_Affiliate
+Customer Email,"דוא""ל של לקוחות",module,Amasty_Affiliate
+Order ID,מספר הזמנה,module,Amasty_Affiliate
+Store View,תצוגה בחנות,module,Amasty_Affiliate
+Affiliate Withdrawal,משיכת שותפים,module,Amasty_Affiliate
+Withdrawal Information,מידע משייך,module,Amasty_Affiliate
+"You added %1 to your <a href=""%2"">shopping cart</a>.",%1 נוסף לעגלת הקניות.,module,Magento_Checkout
+,Installed,module,Amasty_Cart
+,Not Installed,module,Amasty_Cart
+,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Cart
+,We can't add this item to your shopping cart right now. Please reload the page.,module,Amasty_Cart
+,We can't add this item to your shopping cart right now.,module,Amasty_Cart
+%1 התווסף לסל הקניות שלך,%1 has been added to your cart,module,Amasty_Cart
+נא לבחור את מספר היחידות עבור על מוצר,Please specify the quantity of product(s).,module,Amasty_Cart
+אתה צריך לבחור אפשרויות עבור הפריט שלך.,You need to choose options for your item.,module,Amasty_Cart
+המשך בקניות,Continue shopping,module,Amasty_Cart
+לבטל,Cancel,module,Amasty_Cart
+הגדרת אפשרויות,Set options,module,Amasty_Cart
+הוסף לעגלה,Add to cart,module,Amasty_Cart
+יש,There is,module,Amasty_Cart
+ פריט, item,module,Amasty_Cart
+יש,There are,module,Amasty_Cart
+ פריטים, items,module,Amasty_Cart
+לצפייה בסל,View Cart,module,Amasty_Cart
+ בסל הקניות שלך., in your cart.,module,Amasty_Cart
+סך ביניים:,Cart Subtotal:,module,Amasty_Cart
+מידע,Information,module,Amasty_Cart
+המשך,Continue,module,Amasty_Cart
+מעבר לתשלום,Go to Checkout,module,Amasty_Cart
+%1 התווסף לסל הקניות שלך.,%1 has been added to your cart.,module,Amasty_Cart
+,We can't add this item to your shopping cart.,module,Amasty_Cart
+,We can't find the quote item.,module,Amasty_Cart
+,%1 was updated in your shopping cart.,module,Amasty_Cart
+,We can't update the item right now.,module,Amasty_Cart
+,This product(s) is out of stock.,module,Amasty_Cart
+,We can't add the item to the cart right now.,module,Amasty_Cart
+בסל הקניות שלך,in your cart,module,Amasty_Cart
+,More Choices:,module,Amasty_Cart
+,You may be interested in the following items,module,Amasty_Cart
+,Center,module,Amasty_Cart
+,Top,module,Amasty_Cart
+,Top Left,module,Amasty_Cart
+,Top Right,module,Amasty_Cart
+,Left,module,Amasty_Cart
+,Right,module,Amasty_Cart
+,None,module,Amasty_Cart
+,Related,module,Amasty_Cart
+,Cross-sell,module,Amasty_Cart
+,Stay on Current Page,module,Amasty_Cart
+,Go to Category Page,module,Amasty_Cart
+,Parent Configurable Product Image,module,Amasty_Cart
+,Child Simple Product Image,module,Amasty_Cart
+,Mini Product Page,module,Amasty_Cart
+,Custom Options & Product Qty,module,Amasty_Cart
+,Product Image,module,Amasty_Cart
+,Product Quantity Field,module,Amasty_Cart
+,Number of Products in Cart,module,Amasty_Cart
+סך ביניים,Cart Subtotal,module,Amasty_Cart
+,Go to Checkout Button,module,Amasty_Cart
+,Show Only if There Are Required Options,module,Amasty_Cart
+,Always Show All Custom Options,module,Amasty_Cart
+,has been added to your cart,module,Amasty_Cart
+,%1 has been added to your Wish List.,module,Amasty_Cart
+הוסף לרשימת המשאלות,Add to Wish List,module,Amasty_Cart
+הוסף להשוואה,Add to Compare,module,Amasty_Cart
+הוסף לסל,Add to Cart,module,Amasty_Cart
+במלאי,In stock,module,Amasty_Cart
+לא במלאי,Out of stock,module,Amasty_Cart
+,Please choose the options for your item,module,Amasty_Cart
+כמות,Qty,module,Amasty_Cart
+עדכון,Update,module,Amasty_Cart
+סגירה,Close,module,Amasty_Cart
+,Ajax Shopping Cart,module,Amasty_Cart
+,General,module,Amasty_Cart
+,Enable Ajax Shopping Cart,module,Amasty_Cart
+,Enable Flying Image Effect,module,Amasty_Cart
+,Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,module,Amasty_Cart
+,Show the Product Qty Added to the Cart on the Product Listing,module,Amasty_Cart
+,Add Products to Compare with AJAX,module,Amasty_Cart
+,Add Products to Wish List with AJAX,module,Amasty_Cart
+,Show a Mini Cart once Item is Added,module,Amasty_Cart
+,Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,module,Amasty_Cart
+,Dialog Pop-up,module,Amasty_Cart
+,Redirect to the Product Page,module,Amasty_Cart
+,Display Custom Options,module,Amasty_Cart
+,"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",module,Amasty_Cart
+,Pop-up for Composite Products,module,Amasty_Cart
+,QTY Instant Change,module,Amasty_Cart
+,"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",module,Amasty_Cart
+,Confirmation Pop-up,module,Amasty_Cart
+,Dialog Close Delay (in seconds),module,Amasty_Cart
+,"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",module,Amasty_Cart
+,Enable a Confirmation Pop-up on a Product Page,module,Amasty_Cart
+,Continue Button Action on a Product Page,module,Amasty_Cart
+,Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,module,Amasty_Cart
+,Confirmation Pop-up Display,module,Amasty_Cart
+,Align Pop-up,module,Amasty_Cart
+,"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",module,Amasty_Cart
+,Image Display for Configurable Products,module,Amasty_Cart
+,Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,module,Amasty_Cart
+,Display in Pop-up,module,Amasty_Cart
+,Choose what to display in the Confirmation Pup-up,module,Amasty_Cart
+,Selling Options,module,Amasty_Cart
+,Product Block Type Displayed in the Confirmation Pop-up,module,Amasty_Cart
+כותרת,Title,module,Amasty_Cart
+סך ביניים,Subtitle,module,Amasty_Cart
+,Products Qty Limit,module,Amasty_Cart
+,If more than 2 then slider is activated,module,Amasty_Cart
+,Visual Options,module,Amasty_Cart
+,Background Color,module,Amasty_Cart
+,Product Name Color,module,Amasty_Cart
+,Text Color,module,Amasty_Cart
+,Button Text Color,module,Amasty_Cart
+,Continue Button Color,module,Amasty_Cart
+,View Cart Button Color,module,Amasty_Cart
+,Automatic Related Products,module,Amasty_Cart
+סטטוס,Status,module,Amasty_Cart
+,"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",module,Amasty_Cart
