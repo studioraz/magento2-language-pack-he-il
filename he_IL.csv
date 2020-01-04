@@ -1033,114 +1033,114 @@ Store View,תצוגה בחנות,module,Amasty_Affiliate
 Affiliate Withdrawal,משיכת שותפים,module,Amasty_Affiliate
 Withdrawal Information,מידע משייך,module,Amasty_Affiliate
 "You added %1 to your <a href=""%2"">shopping cart</a>.",%1 נוסף לעגלת הקניות.,module,Magento_Checkout
-,Installed,module,Amasty_Cart
-,Not Installed,module,Amasty_Cart
-,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Cart
-,We can't add this item to your shopping cart right now. Please reload the page.,module,Amasty_Cart
-,We can't add this item to your shopping cart right now.,module,Amasty_Cart
-%1 התווסף לסל הקניות שלך,%1 has been added to your cart,module,Amasty_Cart
-נא לבחור את מספר היחידות עבור על מוצר,Please specify the quantity of product(s).,module,Amasty_Cart
-אתה צריך לבחור אפשרויות עבור הפריט שלך.,You need to choose options for your item.,module,Amasty_Cart
-המשך בקניות,Continue shopping,module,Amasty_Cart
-לבטל,Cancel,module,Amasty_Cart
-הגדרת אפשרויות,Set options,module,Amasty_Cart
-הוסף לעגלה,Add to cart,module,Amasty_Cart
-יש,There is,module,Amasty_Cart
- פריט, item,module,Amasty_Cart
-יש,There are,module,Amasty_Cart
- פריטים, items,module,Amasty_Cart
-לצפייה בסל,View Cart,module,Amasty_Cart
- בסל הקניות שלך., in your cart.,module,Amasty_Cart
-סך ביניים:,Cart Subtotal:,module,Amasty_Cart
-מידע,Information,module,Amasty_Cart
-המשך,Continue,module,Amasty_Cart
-מעבר לתשלום,Go to Checkout,module,Amasty_Cart
-%1 התווסף לסל הקניות שלך.,%1 has been added to your cart.,module,Amasty_Cart
-,We can't add this item to your shopping cart.,module,Amasty_Cart
-,We can't find the quote item.,module,Amasty_Cart
-,%1 was updated in your shopping cart.,module,Amasty_Cart
-,We can't update the item right now.,module,Amasty_Cart
-,This product(s) is out of stock.,module,Amasty_Cart
-,We can't add the item to the cart right now.,module,Amasty_Cart
-בסל הקניות שלך,in your cart,module,Amasty_Cart
-,More Choices:,module,Amasty_Cart
-,You may be interested in the following items,module,Amasty_Cart
-,Center,module,Amasty_Cart
-,Top,module,Amasty_Cart
-,Top Left,module,Amasty_Cart
-,Top Right,module,Amasty_Cart
-,Left,module,Amasty_Cart
-,Right,module,Amasty_Cart
-,None,module,Amasty_Cart
-,Related,module,Amasty_Cart
-,Cross-sell,module,Amasty_Cart
-,Stay on Current Page,module,Amasty_Cart
-,Go to Category Page,module,Amasty_Cart
-,Parent Configurable Product Image,module,Amasty_Cart
-,Child Simple Product Image,module,Amasty_Cart
-,Mini Product Page,module,Amasty_Cart
-,Custom Options & Product Qty,module,Amasty_Cart
-,Product Image,module,Amasty_Cart
-,Product Quantity Field,module,Amasty_Cart
-,Number of Products in Cart,module,Amasty_Cart
-סך ביניים,Cart Subtotal,module,Amasty_Cart
-,Go to Checkout Button,module,Amasty_Cart
-,Show Only if There Are Required Options,module,Amasty_Cart
-,Always Show All Custom Options,module,Amasty_Cart
-,has been added to your cart,module,Amasty_Cart
-,%1 has been added to your Wish List.,module,Amasty_Cart
-הוסף לרשימת המשאלות,Add to Wish List,module,Amasty_Cart
-הוסף להשוואה,Add to Compare,module,Amasty_Cart
-הוסף לסל,Add to Cart,module,Amasty_Cart
-במלאי,In stock,module,Amasty_Cart
-לא במלאי,Out of stock,module,Amasty_Cart
-,Please choose the options for your item,module,Amasty_Cart
-כמות,Qty,module,Amasty_Cart
-עדכון,Update,module,Amasty_Cart
-סגירה,Close,module,Amasty_Cart
-,Ajax Shopping Cart,module,Amasty_Cart
-,General,module,Amasty_Cart
-,Enable Ajax Shopping Cart,module,Amasty_Cart
-,Enable Flying Image Effect,module,Amasty_Cart
-,Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,module,Amasty_Cart
-,Show the Product Qty Added to the Cart on the Product Listing,module,Amasty_Cart
-,Add Products to Compare with AJAX,module,Amasty_Cart
-,Add Products to Wish List with AJAX,module,Amasty_Cart
-,Show a Mini Cart once Item is Added,module,Amasty_Cart
-,Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,module,Amasty_Cart
-,Dialog Pop-up,module,Amasty_Cart
-,Redirect to the Product Page,module,Amasty_Cart
-,Display Custom Options,module,Amasty_Cart
-,"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",module,Amasty_Cart
-,Pop-up for Composite Products,module,Amasty_Cart
-,QTY Instant Change,module,Amasty_Cart
-,"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",module,Amasty_Cart
-,Confirmation Pop-up,module,Amasty_Cart
-,Dialog Close Delay (in seconds),module,Amasty_Cart
-,"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",module,Amasty_Cart
-,Enable a Confirmation Pop-up on a Product Page,module,Amasty_Cart
-,Continue Button Action on a Product Page,module,Amasty_Cart
-,Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,module,Amasty_Cart
-,Confirmation Pop-up Display,module,Amasty_Cart
-,Align Pop-up,module,Amasty_Cart
-,"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",module,Amasty_Cart
-,Image Display for Configurable Products,module,Amasty_Cart
-,Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,module,Amasty_Cart
-,Display in Pop-up,module,Amasty_Cart
-,Choose what to display in the Confirmation Pup-up,module,Amasty_Cart
-,Selling Options,module,Amasty_Cart
-,Product Block Type Displayed in the Confirmation Pop-up,module,Amasty_Cart
-כותרת,Title,module,Amasty_Cart
-סך ביניים,Subtitle,module,Amasty_Cart
-,Products Qty Limit,module,Amasty_Cart
-,If more than 2 then slider is activated,module,Amasty_Cart
-,Visual Options,module,Amasty_Cart
-,Background Color,module,Amasty_Cart
-,Product Name Color,module,Amasty_Cart
-,Text Color,module,Amasty_Cart
-,Button Text Color,module,Amasty_Cart
-,Continue Button Color,module,Amasty_Cart
-,View Cart Button Color,module,Amasty_Cart
-,Automatic Related Products,module,Amasty_Cart
-סטטוס,Status,module,Amasty_Cart
-,"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",module,Amasty_Cart
+Installed,,module,Amasty_Cart
+Not Installed,,module,Amasty_Cart
+Please update Amasty Base module. Re-upload it and replace all the files.,,module,Amasty_Cart
+We can't add this item to your shopping cart right now. Please reload the page.,,module,Amasty_Cart
+We can't add this item to your shopping cart right now.,,module,Amasty_Cart
+%1 has been added to your cart,%1 התווסף לסל הקניות שלך,module,Amasty_Cart
+Please specify the quantity of product(s).,נא לבחור את מספר היחידות עבור על מוצר,module,Amasty_Cart
+You need to choose options for your item.,אתה צריך לבחור אפשרויות עבור הפריט שלך.,module,Amasty_Cart
+Continue shopping,המשך בקניות,module,Amasty_Cart
+Cancel,לבטל,module,Amasty_Cart
+Set options,הגדרת אפשרויות,module,Amasty_Cart
+Add to cart,הוסף לעגלה,module,Amasty_Cart
+There is,יש,module,Amasty_Cart
+ item, פריט,module,Amasty_Cart
+There are,יש,module,Amasty_Cart
+ items, פריטים,module,Amasty_Cart
+View Cart,לצפייה בסל,module,Amasty_Cart
+ in your cart., בסל הקניות שלך.,module,Amasty_Cart
+Cart Subtotal:,סך ביניים:,module,Amasty_Cart
+Information,מידע,module,Amasty_Cart
+Continue,המשך,module,Amasty_Cart
+Go to Checkout,מעבר לתשלום,module,Amasty_Cart
+%1 has been added to your cart.,%1 התווסף לסל הקניות שלך.,module,Amasty_Cart
+We can't add this item to your shopping cart.,,module,Amasty_Cart
+We can't find the quote item.,,module,Amasty_Cart
+%1 was updated in your shopping cart.,,module,Amasty_Cart
+We can't update the item right now.,,module,Amasty_Cart
+This product(s) is out of stock.,,module,Amasty_Cart
+We can't add the item to the cart right now.,,module,Amasty_Cart
+in your cart,בסל הקניות שלך,module,Amasty_Cart
+More Choices:,,module,Amasty_Cart
+You may be interested in the following items,,module,Amasty_Cart
+Center,,module,Amasty_Cart
+Top,,module,Amasty_Cart
+Top Left,,module,Amasty_Cart
+Top Right,,module,Amasty_Cart
+Left,,module,Amasty_Cart
+Right,,module,Amasty_Cart
+None,,module,Amasty_Cart
+Related,,module,Amasty_Cart
+Cross-sell,,module,Amasty_Cart
+Stay on Current Page,,module,Amasty_Cart
+Go to Category Page,,module,Amasty_Cart
+Parent Configurable Product Image,,module,Amasty_Cart
+Child Simple Product Image,,module,Amasty_Cart
+Mini Product Page,,module,Amasty_Cart
+Custom Options & Product Qty,,module,Amasty_Cart
+Product Image,,module,Amasty_Cart
+Product Quantity Field,,module,Amasty_Cart
+Number of Products in Cart,,module,Amasty_Cart
+Cart Subtotal,סך ביניים,module,Amasty_Cart
+Go to Checkout Button,,module,Amasty_Cart
+Show Only if There Are Required Options,,module,Amasty_Cart
+Always Show All Custom Options,,module,Amasty_Cart
+has been added to your cart,,module,Amasty_Cart
+%1 has been added to your Wish List.,,module,Amasty_Cart
+Add to Wish List,הוסף לרשימת המשאלות,module,Amasty_Cart
+Add to Compare,הוסף להשוואה,module,Amasty_Cart
+Add to Cart,הוסף לסל,module,Amasty_Cart
+In stock,במלאי,module,Amasty_Cart
+Out of stock,לא במלאי,module,Amasty_Cart
+Please choose the options for your item,,module,Amasty_Cart
+Qty,כמות,module,Amasty_Cart
+Update,עדכון,module,Amasty_Cart
+Close,סגירה,module,Amasty_Cart
+Ajax Shopping Cart,,module,Amasty_Cart
+General,,module,Amasty_Cart
+Enable Ajax Shopping Cart,,module,Amasty_Cart
+Enable Flying Image Effect,,module,Amasty_Cart
+Set to ‘Yes' for a nice-looking visual effect. The product image 'flies' to the 'Top Cart' block in the top menu.,,module,Amasty_Cart
+Show the Product Qty Added to the Cart on the Product Listing,,module,Amasty_Cart
+Add Products to Compare with AJAX,,module,Amasty_Cart
+Add Products to Wish List with AJAX,,module,Amasty_Cart
+Show a Mini Cart once Item is Added,,module,Amasty_Cart
+Set 'Yes' to Show a Mini Cart instead of Confirmation Pop-up once an item is added to the cart.,,module,Amasty_Cart
+Dialog Pop-up,,module,Amasty_Cart
+Redirect to the Product Page,,module,Amasty_Cart
+Display Custom Options,,module,Amasty_Cart
+"Customers can select configurable products and custom options right on the category page. If the 'Show Only If There Are Required Options' is enabled and a product has at least one required option, all custom options including the required ones are shown.",,module,Amasty_Cart
+Pop-up for Composite Products,,module,Amasty_Cart
+QTY Instant Change,,module,Amasty_Cart
+"Choose yes, if you want to change the qty in the cart immediately after changing the qty in the dialog pop-up",,module,Amasty_Cart
+Confirmation Pop-up,,module,Amasty_Cart
+Dialog Close Delay (in seconds),,module,Amasty_Cart
+"Set a timer for the Continue button. When the preset period expires, the dialog box disappears. If set to 0, dialog won’t be hidden automatically.",,module,Amasty_Cart
+Enable a Confirmation Pop-up on a Product Page,,module,Amasty_Cart
+Continue Button Action on a Product Page,,module,Amasty_Cart
+Choose whether the Continue button on a product view page should link to the category page or remain on the product page.,,module,Amasty_Cart
+Confirmation Pop-up Display,,module,Amasty_Cart
+Align Pop-up,,module,Amasty_Cart
+"Choose where to locate the cart pop-up - Center, Top, Top left, Top right, Left, Right.",,module,Amasty_Cart
+Image Display for Configurable Products,,module,Amasty_Cart
+Choose to display a Parent Configurable Product Image or a Child Simple Product Image.,,module,Amasty_Cart
+Display in Pop-up,,module,Amasty_Cart
+Choose what to display in the Confirmation Pup-up,,module,Amasty_Cart
+Selling Options,,module,Amasty_Cart
+Product Block Type Displayed in the Confirmation Pop-up,,module,Amasty_Cart
+Title,כותרת,module,Amasty_Cart
+Subtitle,סך ביניים,module,Amasty_Cart
+Products Qty Limit,,module,Amasty_Cart
+If more than 2 then slider is activated,,module,Amasty_Cart
+Visual Options,,module,Amasty_Cart
+Background Color,,module,Amasty_Cart
+Product Name Color,,module,Amasty_Cart
+Text Color,,module,Amasty_Cart
+Button Text Color,,module,Amasty_Cart
+Continue Button Color,,module,Amasty_Cart
+View Cart Button Color,,module,Amasty_Cart
+Automatic Related Products,,module,Amasty_Cart
+Status,סטטוס,module,Amasty_Cart
+"Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",,module,Amasty_Cart
