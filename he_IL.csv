@@ -368,7 +368,7 @@ Rule,Rule,module,Amasty_Acart
 Create New Campaign,Create New Campaign,module,Amasty_Acart
 Delete rules,Delete rules,module,Amasty_Acart
 You will be charged for,אתם תחויבו בסכום של,module,Magento_Tax
-Save & Send Email,שמור & שלח דוא''ל,module,Amasty_GiftCard
+Save & Send Email,"שמור & שלח דוא''ל",module,Amasty_GiftCard
 Edit,לערוך,module,Amasty_GiftCard
 General Infomation,אינפומציה כללית,module,Amasty_GiftCard
 Information,מידע,module,Amasty_GiftCard
@@ -436,12 +436,12 @@ Gift Card Sender,כרטיס מתנה Sender,module,Amasty_GiftCard
 Gift Card Recipient,כרטיס מתנה,module,Amasty_GiftCard
 Gift Card Message,כרטיס מתנה הודעה,module,Amasty_GiftCard
 Gift Card Lifetime,כרטיס מתנה Lifetime,module,Amasty_GiftCard
-%1 days,% 1 ימים,module,Amasty_GiftCard
+%1 days, %1 ימים,module,Amasty_GiftCard
 Date of certificate delivery,תאריך מסירת האישור,module,Amasty_GiftCard
 Unable to create.,לא ניתן ליצור.,module,Amasty_GiftCard
 N/A,N / A,module,Amasty_GiftCard
 Gift Card Accounts,כרטיס מתנה חשבונות,module,Amasty_GiftCard
-Gift Card (%1),כרטיס מתנה (% 1),module,Amasty_GiftCard
+Gift Card (%1),כרטיס מתנה ( %1),module,Amasty_GiftCard
 This Gift Code already exists,קוד מתנה זה כבר קיים,module,Amasty_GiftCard
 Gift Card has been successfully added,כרטיס מתנה נוסף בהצלחה,module,Amasty_GiftCard
 Wrong Gift Card code,כרטיס מתנה שגוי,module,Amasty_GiftCard
@@ -454,7 +454,7 @@ Something went wrong while saving the Account data. Please review the error log.
 Account has been deleted.,החשבון נמחק.,module,Amasty_GiftCard
 This item no longer exists.,פריט זה אינו קיים עוד.,module,Amasty_GiftCard
 Edit Gift Code Account,ערוך קוד קוד חשבון,module,Amasty_GiftCard
-A total of %1 record(s) have been deleted.,"סה""כ% 1 הרשומות נמחקו.",module,Amasty_GiftCard
+A total of %1 record(s) have been deleted.,"סה""כ %1 הרשומות נמחקו.",module,Amasty_GiftCard
 Gift Code Pools,קוד מתנה בריכות,module,Amasty_GiftCard
 Code Pool has been deleted.,קוד הבריכה נמחק.,module,Amasty_GiftCard
 Code has been deleted.,הקוד נמחק.,module,Amasty_GiftCard
@@ -470,13 +470,13 @@ New Gift Image,תמונה חדשה מתנה,module,Amasty_GiftCard
 The wrong Image is specified.,תמונה שגויה צוין.,module,Amasty_GiftCard
 Something went wrong while saving the Image data. Please review the error log.,משהו השתבש בעת שמירת נתוני התמונה. עיין ביומן השגיאות.,module,Amasty_GiftCard
 This gift card account is already in the quote.,חשבון כרטיס מתנה זה כבר מופיע בציטוט.,module,Amasty_GiftCard
-"Gift Card ""%1"" was added.","כרטיס מתנה ""% 1"" נוסף.",module,Amasty_GiftCard
+"Gift Card ""%1"" was added.","כרטיס מתנה "" %1"" נוסף.",module,Amasty_GiftCard
 Cannot apply gift card.,לא ניתן להחיל כרטיס מתנה.,module,Amasty_GiftCard
 Gift Card was removed.,כרטיס מתנה הוסר.,module,Amasty_GiftCard
 Both Virtual and Printed,גם וירטואלית וגם מודפסת,module,Amasty_GiftCard
 Only Printed,רק מודפס,module,Amasty_GiftCard
 Only Virtual,רק וירטואלי,module,Amasty_GiftCard
-Card Value in %1,ערך כרטיס ב-% 1,module,Amasty_GiftCard
+Card Value in %1,ערך כרטיס ב- %1,module,Amasty_GiftCard
 Custom Card Value,ערך כרטיס מותאם אישית,module,Amasty_GiftCard
 Card Image,תמונת כרטיס,module,Amasty_GiftCard
 Timezone,אזור זמן,module,Amasty_GiftCard
@@ -486,10 +486,10 @@ Expired,לא בתוקף,module,Amasty_GiftCard
 No free codes,אין קודים חופשיים,module,Amasty_GiftCard
 Wrong gift card code,קוד כרטיס מתנה שגוי,module,Amasty_GiftCard
 Wrong gift card website,אתר כרטיס מתנה שגוי,module,Amasty_GiftCard
-Gift card %1 is expired.,כרטיס האשראי% 1 פג.,module,Amasty_GiftCard
-Gift card %1 is used.,נעשה שימוש בכרטיס מתנה% 1.,module,Amasty_GiftCard
-Gift card %1 is not enabled.,כרטיס מתנה% 1 אינו מופעל.,module,Amasty_GiftCard
-Gift card %1  balance does not have funds.,כרטיס מתנה% 1 מאזן אין כספים.,module,Amasty_GiftCard
+Gift card %1 is expired.,כרטיס האשראי %1 פג.,module,Amasty_GiftCard
+Gift card %1 is used.,נעשה שימוש בכרטיס מתנה %1.,module,Amasty_GiftCard
+Gift card %1 is not enabled.,כרטיס מתנה %1 אינו מופעל.,module,Amasty_GiftCard
+Gift card %1  balance does not have funds.,כרטיס מתנה %1 מאזן אין כספים.,module,Amasty_GiftCard
 Please be aware that it is not possible to use the gift card you purchased for your own orders.,"לידיעתך, לא ניתן להשתמש בכרטיס המתנה שקנית עבור ההזמנות שלך.",module,Amasty_GiftCard
 "Please add {L} or {D} placeholders into the template ""%s""","הוסף {L} או {d} מצייני מיקום לתבנית ""% s""",module,Amasty_GiftCard
 "Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.","המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא% d, אנא עדכן את כמות השדות בהתאם.",module,Amasty_GiftCard
@@ -500,18 +500,18 @@ Virtual,וירטואלי,module,Amasty_GiftCard
 Printed,מודפס,module,Amasty_GiftCard
 Combined,מְשׁוּלָב,module,Amasty_GiftCard
 An error has occurred while preparing Gift Card.,אירעה שגיאה בעת הכנת כרטיס מתנה.,module,Amasty_GiftCard
-Please specify %1,ציין% 1,module,Amasty_GiftCard
+Please specify %1,ציין %1,module,Amasty_GiftCard
 Please specify all the required information.,ציין את כל הפרטים הנדרשים.,module,Amasty_GiftCard
-Gift Card min amount is %1,כמות מינימום של כרטיס מתנה היא% 1,module,Amasty_GiftCard
-Gift Card max amount is %1,הסכום המקסימלי של כרטיס מתנה הוא% 1,module,Amasty_GiftCard
+Gift Card min amount is %1,כמות מינימום של כרטיס מתנה היא %1,module,Amasty_GiftCard
+Gift Card max amount is %1,הסכום המקסימלי של כרטיס מתנה הוא %1,module,Amasty_GiftCard
 Please specify Gift Card Value,נא לציין ערך כרטיס מתנה,module,Amasty_GiftCard
 All codes already exists,כל הקודים כבר קיימים,module,Amasty_GiftCard
-%1 in row %2,% 1 בשורה% 2,module,Amasty_GiftCard
-Codes already exists. Duplicate codes:<br /> %1,קודים כבר קיימים. קודים כפולים: <br />% 1,module,Amasty_GiftCard
+%1 in row %2 , %1 בשורה% 2,module,Amasty_GiftCard
+Codes already exists. Duplicate codes:<br /> %1,קודים כבר קיימים. קודים כפולים: <br /> %1,module,Amasty_GiftCard
 GiftCard,כרטיס מתנה,module,Amasty_GiftCard
 This gift card account is not active.,חשבון כרטיס מתנה זה אינו פעיל.,module,Amasty_GiftCard
 Gift Card was deleted.,כרטיס המתנה נמחק.,module,Amasty_GiftCard
-From %1,מ% 1,module,Amasty_GiftCard
+From %1,מ %1,module,Amasty_GiftCard
 All Store Views,כל תצוגות חנות,module,Amasty_GiftCard
 Use Config Settings,השתמש בהגדרות תצורה,module,Amasty_GiftCard
 All Websites,כל אתרי האינטרנט,module,Amasty_GiftCard
@@ -521,10 +521,10 @@ Drag me,גרור אותי,module,Amasty_GiftCard
 Apply,להגיש מועמדות,module,Amasty_GiftCard
 Remove Gift Cards Code,הסר כרטיסי מתנה קוד,module,Amasty_GiftCard
 Remove,לְהַסִיר,module,Amasty_GiftCard
-Status: %1,סטטוס:% 1,module,Amasty_GiftCard
-Current Balance: %1,יתרה נוכחית:% 1,module,Amasty_GiftCard
+Status: %1,סטטוס: %1,module,Amasty_GiftCard
+Current Balance: %1,יתרה נוכחית: %1,module,Amasty_GiftCard
 unlimited,ללא הגבלה,module,Amasty_GiftCard
-Valid till: %1,תקף עד:% 1,module,Amasty_GiftCard
+Valid till: %1,תקף עד: %1,module,Amasty_GiftCard
 Wrong Gift Card Code.,קוד כרטיס מתנה שגוי.,module,Amasty_GiftCard
 Apply Gift Card Code,שימוש בקוד כרטיס מתנה,module,Amasty_GiftCard
 Enter gift card code,הזן קוד כרטיס מתנה,module,Amasty_GiftCard
@@ -533,11 +533,11 @@ Check Gift Card status,בדוק את סטטוס כרטיס המתנה,module,Ama
 Specify Gift Code,ציין קוד מתנה,module,Amasty_GiftCard
 Submit,שלח,module,Amasty_GiftCard
 Gift Codes,קודי מתנה,module,Amasty_GiftCard
-Code: %1,קוד:% 1,module,Amasty_GiftCard
+Code: %1,קוד: %1,module,Amasty_GiftCard
 Choose an Amount...,בחר סכום ...,module,Amasty_GiftCard
 Custom Amount,סכום מותאם אישית,module,Amasty_GiftCard
-Minimum: %1,מינימום:% 1,module,Amasty_GiftCard
-Maximum: %1,מקסימום:% 1,module,Amasty_GiftCard
+Minimum: %1,מינימום: %1,module,Amasty_GiftCard
+Maximum: %1,מקסימום: %1,module,Amasty_GiftCard
 Choose card type,בחר סוג כרטיס,module,Amasty_GiftCard
 -- Please Select --,-- בבקשה תבחר --,module,Amasty_GiftCard
 Please be aware that printed gift card will be sent to the shipping address you specify during checkout.,"לידיעתך, כרטיס מתנה מודפס יישלח לכתובת המשלוח שתציין במהלך הקנייה.",module,Amasty_GiftCard
