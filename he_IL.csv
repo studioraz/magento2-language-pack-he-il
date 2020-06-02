@@ -1,8 +1,11 @@
 Shipping Methods,שיטות המשלוח,module,Magento_Checkout
-Enter discount code,הזינו קוד הנחה,module,Magento_Checkout
+Enter discount code,הזינו קוד קופון,module,Magento_Checkout
 Continue Shopping,המשך בקניות,module,Magento_Checkout
 Proceed to Checkout,המשך לתשלום,module,Magento_Checkout
-Enter discount code,הזינו קוד הנחה,module,Magento_SalesRule
+Summary,סל קניות,module,Magento_Checkout
+Enter discount code,הזינו קוד קופון,module,Magento_SalesRule
+Apply Discount Code,יש לי קוד קופון,module,Magento_SalesRule
+Apply Discount Code,יש לי קוד קופון,module,Magento_Checkout
 Forgot Your Password,שכחת סיסמה,module,Magento_Customer
 This is a required field.,שדה זה הוא חובה.,module,Magento_Ui
 Sign Up for Our Newsletter,הירשם לניוזלטר שלנו,module,Amasty_Checkout
@@ -11,7 +14,7 @@ Items in Cart,פריטים בסל,module,Amasty_Checkout
 I have read and accept the privacy policy,קראתי ואני מאשר/ת את תקנון האתר,module,Amasty_Gdpr
 Privacy Policy,מדיניות הפרטיות,module,Amasty_Gdpr
 I have read and accept,קראתי והסכמתי,module,Amasty_Gdpr
- in , ב,module,Mirasvit_SearchAutocomplete
+in,ב,module,Mirasvit_SearchAutocomplete
 Add to Cart,הוסף לעגלה,module,Mirasvit_SearchAutocomplete
 Registrant: %1,Registrant: %1,module,Mirasvit_SearchAutocomplete
 Products,מוצרים,module,Mirasvit_SearchAutocomplete
@@ -45,7 +48,7 @@ Show Hot Searches,הצג חיפושים חמים,module,Mirasvit_SearchAutocompl
 Search queries,הצג שאילתות חיפוש,module,Mirasvit_SearchAutocomplete
 Comma separated search queries. Leave empty for show most popular queries.,שאילתות חיפוש מופרדות בפסיקים. השאר ריק להצגת השאילתות הנפוצות ביותר.,module,Mirasvit_SearchAutocomplete
 Ignored words,להתעלם מהמילות,module,Mirasvit_SearchAutocomplete
-"Comma separated words. Ignore query, if search query contains any of these word."," מילים מופרדות בפסיקים. התעלם מהחיפוש, אם שאילתת החיפוש מכילה כל מילה מאלו.",module,Mirasvit_SearchAutocomplete
+"Comma separated words. Ignore query, if search query contains any of these word.","מילים מופרדות בפסיקים. התעלם מהחיפוש, אם שאילתת החיפוש מכילה כל מילה מאלו.",module,Mirasvit_SearchAutocomplete
 Max Number of queries,מספר שאילתות מקסימלי,module,Mirasvit_SearchAutocomplete
 Dictionary successfully processed.,מילון תהליכים שעברו בהצלחה.,module,Mirasvit_SearchAutocomplete
 Products in categories,מוצרים בקטגוריות,module,Mirasvit_SearchAutocomplete
@@ -368,7 +371,7 @@ Rule,Rule,module,Amasty_Acart
 Create New Campaign,Create New Campaign,module,Amasty_Acart
 Delete rules,Delete rules,module,Amasty_Acart
 You will be charged for,אתם תחויבו בסכום של,module,Magento_Tax
-Save & Send Email,"שמור & שלח דוא''ל",module,Amasty_GiftCard
+Save & Send Email,שמור & שלח דוא''ל,module,Amasty_GiftCard
 Edit,לערוך,module,Amasty_GiftCard
 General Infomation,אינפומציה כללית,module,Amasty_GiftCard
 Information,מידע,module,Amasty_GiftCard
@@ -380,7 +383,7 @@ Initial code value,ערך קוד התחלתי,module,Amasty_GiftCard
 Current Balance,יתרה נוכחית,module,Amasty_GiftCard
 Expiry Date,תאריך תפוגה,module,Amasty_GiftCard
 Comment,תגובה,module,Amasty_GiftCard
-Order #,להזמין #,module,Amasty_GiftCard
+Order #,מספר הזמנה,module,Amasty_GiftCard
 Purchased On,רכש ב,module,Amasty_GiftCard
 Bill to Name,ביל אל השם,module,Amasty_GiftCard
 Shipped to Name,נשלח אל השם,module,Amasty_GiftCard
@@ -436,7 +439,7 @@ Gift Card Sender,כרטיס מתנה Sender,module,Amasty_GiftCard
 Gift Card Recipient,כרטיס מתנה,module,Amasty_GiftCard
 Gift Card Message,כרטיס מתנה הודעה,module,Amasty_GiftCard
 Gift Card Lifetime,כרטיס מתנה Lifetime,module,Amasty_GiftCard
-%1 days, %1 ימים,module,Amasty_GiftCard
+%1 days,%1 ימים,module,Amasty_GiftCard
 Date of certificate delivery,תאריך מסירת האישור,module,Amasty_GiftCard
 Unable to create.,לא ניתן ליצור.,module,Amasty_GiftCard
 N/A,N / A,module,Amasty_GiftCard
@@ -489,7 +492,7 @@ Wrong gift card website,אתר כרטיס מתנה שגוי,module,Amasty_GiftCa
 Gift card %1 is expired.,כרטיס האשראי %1 פג.,module,Amasty_GiftCard
 Gift card %1 is used.,נעשה שימוש בכרטיס מתנה %1.,module,Amasty_GiftCard
 Gift card %1 is not enabled.,כרטיס מתנה %1 אינו מופעל.,module,Amasty_GiftCard
-Gift card %1  balance does not have funds.,כרטיס מתנה %1 מאזן אין כספים.,module,Amasty_GiftCard
+Gift card %1 balance does not have funds.,כרטיס מתנה %1 מאזן אין כספים.,module,Amasty_GiftCard
 Please be aware that it is not possible to use the gift card you purchased for your own orders.,"לידיעתך, לא ניתן להשתמש בכרטיס המתנה שקנית עבור ההזמנות שלך.",module,Amasty_GiftCard
 "Please add {L} or {D} placeholders into the template ""%s""","הוסף {L} או {d} מצייני מיקום לתבנית ""% s""",module,Amasty_GiftCard
 "Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.","המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא% d, אנא עדכן את כמות השדות בהתאם.",module,Amasty_GiftCard
@@ -506,7 +509,7 @@ Gift Card min amount is %1,כמות מינימום של כרטיס מתנה הי
 Gift Card max amount is %1,הסכום המקסימלי של כרטיס מתנה הוא %1,module,Amasty_GiftCard
 Please specify Gift Card Value,נא לציין ערך כרטיס מתנה,module,Amasty_GiftCard
 All codes already exists,כל הקודים כבר קיימים,module,Amasty_GiftCard
-%1 in row %2 , %1 בשורה% 2,module,Amasty_GiftCard
+%1 in row %2,%1 בשורה% 2,module,Amasty_GiftCard
 Codes already exists. Duplicate codes:<br /> %1,קודים כבר קיימים. קודים כפולים: <br /> %1,module,Amasty_GiftCard
 GiftCard,כרטיס מתנה,module,Amasty_GiftCard
 This gift card account is not active.,חשבון כרטיס מתנה זה אינו פעיל.,module,Amasty_GiftCard
@@ -526,10 +529,10 @@ Current Balance: %1,יתרה נוכחית: %1,module,Amasty_GiftCard
 unlimited,ללא הגבלה,module,Amasty_GiftCard
 Valid till: %1,תקף עד: %1,module,Amasty_GiftCard
 Wrong Gift Card Code.,קוד כרטיס מתנה שגוי.,module,Amasty_GiftCard
-Apply Gift Card Code,שימוש בקוד כרטיס מתנה,module,Amasty_GiftCard
+Apply Gift Card Code,יש לי גיפט קארד,module,Amasty_GiftCard
 Enter gift card code,הזן קוד כרטיס מתנה,module,Amasty_GiftCard
-Add Gift Card,הוסף כרטיס מתנה,module,Amasty_GiftCard
-Check Gift Card status,בדוק את סטטוס כרטיס המתנה,module,Amasty_GiftCard
+Add Gift Card,ממש,module,Amasty_GiftCard
+Check Gift Card status,בדיקת סטטוס הגיפט קארד שלך,module,Amasty_GiftCard
 Specify Gift Code,ציין קוד מתנה,module,Amasty_GiftCard
 Submit,שלח,module,Amasty_GiftCard
 Gift Codes,קודי מתנה,module,Amasty_GiftCard
@@ -604,7 +607,7 @@ Private third party message added,הודעה פרטית של צד שלישי נ�
 -- Please Select --,-- בבקשה תבחר --,module,Mirasvit_Helpdesk
 Contact Tab,לשונית אנשי קשר,module,Mirasvit_Helpdesk
 Contact Form,טופס יצירת קשר,module,Mirasvit_Helpdesk
- at %1 (%2) - %3,ב- %1 (%2) - %3,module,Mirasvit_Helpdesk
+at %1 (%2) - %3,ב- %1 (%2) - %3,module,Mirasvit_Helpdesk
 "You don't have permissions to read this ticket. Please, contact your administrator.",אין לך הרשאות לקרוא את הכרטיס הזה. אנא פנה למנהל המערכת שלך.,module,Mirasvit_Helpdesk
 Invalid Customer Email,דוא&quot;ל לקוח לא חוקי,module,Mirasvit_Helpdesk
 not set,לא מוכן,module,Mirasvit_Helpdesk
@@ -614,7 +617,7 @@ from now,מעכשיו,module,Mirasvit_Helpdesk
 1 sec ago,לפני 1 שנייה,module,Mirasvit_Helpdesk
 Open Ticket,כרטיס פתוח,module,Mirasvit_Helpdesk
 Open Tickets,כרטיסים פתוחים,module,Mirasvit_Helpdesk
-! Blocked file - ,! קובץ חסום -,module,Mirasvit_Helpdesk
+! Blocked file -,! קובץ חסום -,module,Mirasvit_Helpdesk
 Disabled,השבת,module,Mirasvit_Helpdesk
 AW Helpdesk,עזרה AW,module,Mirasvit_Helpdesk
 MW Helpdesk,MW Helpdesk,module,Mirasvit_Helpdesk
@@ -768,6 +771,7 @@ Please use valid url,השתמש בכתובת אתר חוקית,module,Amasty_Aff
 The banner is saved.,הבאנר נשמר.,module,Amasty_Affiliate
 Manage Affiliate Program,ניהול תוכנית שותפים,module,Amasty_Affiliate
 Status for Program with ID %1 has been changed.,מצב עבור תוכנית עם זיהוי% 1 שונתה.,module,Amasty_Affiliate
+My Wish List,wish list,module,Magento_Wishlist
 The program has been deleted.,התכנית נמחקה.,module,Amasty_Affiliate
 This program no longer exists.,תוכנית זו אינה קיימת עוד.,module,Amasty_Affiliate
 New Affiliate Program,תכנית שותפים חדשה,module,Amasty_Affiliate
@@ -839,8 +843,8 @@ Unable to remove transaction with ID %1. Error: %2,לא ניתן להסיר את
 Unable to remove transaction. Error: %1,לא ניתן להסיר את העסקה. שגיאה:% 1,module,Amasty_Affiliate
 "Withdrawal with specified ID ""%1"" not found.","משיכה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
 "This shopping cart price rule is assigned to the Affiliate Program.
-                The affiliate program discount will not apply without a rule assigned.","כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
-                הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.",module,Amasty_Affiliate
+ The affiliate program discount will not apply without a rule assigned.","כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
+ הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.",module,Amasty_Affiliate
 Affiliate Account changes were not saved: customer have to accept Affiliate Program's first in Customer Account.,שינויים לחשבון עסקי לא נשמרו: לקוח צריך לקבל הראשונה של תכנית השותפים בחשבון לקוחות.,module,Amasty_Affiliate
 Edit,עריכה,module,Amasty_Affiliate
 Enable,אפשר,module,Amasty_Affiliate
@@ -868,8 +872,8 @@ You have no coupons.,אין לך קופונים.,module,Amasty_Affiliate
 Referral Link,קישור הפניה,module,Amasty_Affiliate
 Enter any URL from this store in the form below to generate a new referral link,זן כתובת אתר מחנות זו את הטופס הבא כדי ליצור קישור הפניה חדש,module,Amasty_Affiliate
 "Enter any URL from this store
-                    in the form below to generate a new referral link","זן כתובת אתר מחנות זו
-                    את הטופס הבא כדי ליצור קישור הפניה חדש",module,Amasty_Affiliate
+ in the form below to generate a new referral link","זן כתובת אתר מחנות זו
+ את הטופס הבא כדי ליצור קישור הפניה חדש",module,Amasty_Affiliate
 Banners,באנרים,module,Amasty_Affiliate
 Name,שם,module,Amasty_Affiliate
 Clicks,קליקים,module,Amasty_Affiliate
@@ -907,9 +911,9 @@ Price,מחיר,module,Amasty_Affiliate
 Minimum Payout:,תשלום מינימאלי:,module,Amasty_Affiliate
 Submit Request,שלח בקשה,module,Amasty_Affiliate
 Send Request,שלח בקשה,module,Amasty_Affiliate
-"The minimum ""Available"" balance to request a withdrawal is ","היתרה המינימלית ""זמינה"" לבקשת משיכה היא",module,Amasty_Affiliate
+"The minimum ""Available"" balance to request a withdrawal is","היתרה המינימלית ""זמינה"" לבקשת משיכה היא",module,Amasty_Affiliate
 #,#,module,Amasty_Affiliate
-Status,מצב,module,Amasty_Affiliate
+Status,סטטוס,module,Amasty_Affiliate
 Action,פעולה,module,Amasty_Affiliate
 Actions,פעולות,module,Amasty_Affiliate
 Repeat,חזור,module,Amasty_Affiliate
@@ -924,10 +928,10 @@ General Settings,הגדרות כלליות,module,Amasty_Affiliate
 Add Affiliate Link to Footer,הוסף קישור שותפים כדי תחתון,module,Amasty_Affiliate
 Cookie Expiration (Days),קובץ cookie פג (ימים),module,Amasty_Affiliate
 "The number of days the system stores cookies for the affiliate program. Default: 365 (Days). If a referred visitor comes to
-                        your site using an affiliate link and completes any order within 365 days, he (she) will receive a discount and the affiliate will get a commission. After this period the affiliate won't earn
-                        any commission, a referred customer won't get a discount.","מספר ימים המערכת מאחסנת עוגיות עבור תוכנית השותפים. ברירת מחדל: 365 (ימים). אם מבקר שהופנה מגיע
-                        האתר באמצעות קישור שותפים ומשלים בכל סדר בתוך 365 ימים, הוא (היא) יקבל הנחה ואת השותפים יקבלו עמלה. לאחר תקופה זו השותפים לא ירוויחו
-                        כל עמלה, לקוח המכונה לא תקבל הנחה.",module,Amasty_Affiliate
+ your site using an affiliate link and completes any order within 365 days, he (she) will receive a discount and the affiliate will get a commission. After this period the affiliate won't earn
+ any commission, a referred customer won't get a discount.","מספר ימים המערכת מאחסנת עוגיות עבור תוכנית השותפים. ברירת מחדל: 365 (ימים). אם מבקר שהופנה מגיע
+ האתר באמצעות קישור שותפים ומשלים בכל סדר בתוך 365 ימים, הוא (היא) יקבל הנחה ואת השותפים יקבלו עמלה. לאחר תקופה זו השותפים לא ירוויחו
+ כל עמלה, לקוח המכונה לא תקבל הנחה.",module,Amasty_Affiliate
 Account,חשבון,module,Amasty_Affiliate
 "Checked ""Email Notifications"" by Default","בדקו ""הודעות דוא""ל"" כברירת מחדל",module,Amasty_Affiliate
 "If ""Yes"", the ""Email notifications"" subscription will be auto checked in the affiliate account.","אם ""כן"", ""הודעות דוא""ל"" המנוי ייבדק אוטומטי בחשבון השותפים.",module,Amasty_Affiliate
@@ -962,7 +966,7 @@ To Admin,כדי Admin,module,Amasty_Affiliate
 New Withdrawal Request,ניו בקשת משיכה,module,Amasty_Affiliate
 New Affiliate Sing Up,השותפים החדשים סינג Up,module,Amasty_Affiliate
 AddThis Account ID,AddThis חשבון ID,module,Amasty_Affiliate
-"Public AddThis Account ID ra-5968d339b0751a2f is used for testing purpose. Please click <a href=""https://www.addthis.com"" target=""_blank"">here</a> to get your own AddThis Account ID.","AddThis החשבון מזהה RA-5968d339b0751a2f הציבורי משמש למטרת בדיקה. לחץ <a href=""https://www.addthis.com"" target=""_blank""> כאן </a> כדי לקבל את זיהוי חשבון AddThis משלך.",module,Amasty_Affiliate
+"Public AddThis Account ID ra-5968d339b0751a2f is used for testing purpose. Please click <a href=""https://www.addthis.com"" target=""_blank"">here</a> to get your own AddThis Account ID.","AddThis החשבון מזהה RA-5968d339b0751a2f הציבורי משמש למטרת בדיקה. לחץ <a href=""https://www.addthis.com"" target=""_blank""> כאן </a> כדי לקבל את זיהוי חשבון AddThis משלך.",module,Amasty_Affiliate
 Refer Friends Page Content,עיין תוכן דף החברים,module,Amasty_Affiliate
 Traffic Sources Page Content,תוכן תנועת דף המקורות,module,Amasty_Affiliate
 Enable on Product Listing Page,אפשר פרטי מוצר העמוד,module,Amasty_Affiliate
@@ -1001,13 +1005,9 @@ Add Banner,הוספת באנר,module,Amasty_Affiliate
 Are you sure to delete selected banners?,האם אתה בטוח שברצונך למחוק באנרים שנבחרו?,module,Amasty_Affiliate
 Shopping Cart Price Rule,כלל מחיר סל קניות,module,Amasty_Affiliate
 Commission Configuration,ועדת תצורה,module,Amasty_Affiliate
-"
-If the commission type is percent, its value is dynamic and based on the store profit margin (order total after discount, before taxes).</br>
-If the commission type is fixed, its value is always static.
-                    ","
-אם סוג עמלה הוא אחוז, הערך שלו הוא דינמי המבוסס על שולי רווח החנות (סכום ההזמנות לאחר הנחה, לפני מסים). </ Br>
-אם סוג העמלה קבוע, הערך שלו הוא תמיד סטטי.
-                    ",module,Amasty_Affiliate
+"If the commission type is percent, its value is dynamic and based on the store profit margin (order total after discount, before taxes).</br>
+If the commission type is fixed, its value is always static.","אם סוג עמלה הוא אחוז, הערך שלו הוא דינמי המבוסס על שולי רווח החנות (סכום ההזמנות לאחר הנחה, לפני מסים). </ Br>
+אם סוג העמלה קבוע, הערך שלו הוא תמיד סטטי.",module,Amasty_Affiliate
 Pay Commission,ועדת Pay,module,Amasty_Affiliate
 Pay per Sale,לשלם לכל מכירה,module,Amasty_Affiliate
 Pay Per Profit,Pay Per רווח,module,Amasty_Affiliate
@@ -1046,11 +1046,11 @@ Cancel,לבטל,module,Amasty_Cart
 Set options,הגדרת אפשרויות,module,Amasty_Cart
 Add to cart,הוסף לעגלה,module,Amasty_Cart
 There is,יש,module,Amasty_Cart
- item, פריט,module,Amasty_Cart
+item,פריט,module,Amasty_Cart
 There are,יש,module,Amasty_Cart
- items, פריטים,module,Amasty_Cart
+items,פריטים,module,Amasty_Cart
 View Cart,לצפייה בסל,module,Amasty_Cart
- in your cart., בסל הקניות שלך.,module,Amasty_Cart
+in your cart.,בסל הקניות שלך.,module,Amasty_Cart
 Cart Subtotal:,סך ביניים:,module,Amasty_Cart
 Information,מידע,module,Amasty_Cart
 Continue,המשך,module,Amasty_Cart
@@ -1144,455 +1144,547 @@ View Cart Button Color,,module,Amasty_Cart
 Automatic Related Products,,module,Amasty_Cart
 Status,סטטוס,module,Amasty_Cart
 "Power it with the Automatic Related Products Extension. See more details <a target=""_blank"" href=""https://amasty.com/automatic-related-products-for-magento-2.html?utm_source=extension&utm_medium=backend&utm_campaign=cart_mostviewed_m2"">here</a>.",,module,Amasty_Cart
-My Reward Points,נקודות התגמול שלי, module,Mirasvit_Rewards
-Reward Points,נקודות תגמול, module,Mirasvit_Rewards
-Rewards Information,מידע על תגמולים, module,Mirasvit_Rewards
-Available Points Balance,יתרת נקודות זמינות, module,Mirasvit_Rewards
-Change Balance,שינוי יתרה, module,Mirasvit_Rewards
-Enter positive or negative number of points. E.g. 10 or -10,הזן מספר נקודות חיובי או שלילי. דוגמא: 10 או 10-, module,Mirasvit_Rewards
-Message in the rewards history,הודעה בהיסטוריית התגמולים, module,Mirasvit_Rewards
-Customer will see this in his account,הלקוח יראה זאת בחשבונו, module,Mirasvit_Rewards
-No Records Found,לא נמצאו רישומים, module,Mirasvit_Rewards
-ID,מזהה, module,Mirasvit_Rewards
-Balance Change,שינוי היתרה, module,Mirasvit_Rewards
-Comment,תגובה, module,Mirasvit_Rewards
-Created At,נוצר ב, module,Mirasvit_Rewards
-Expires At,פוקע ב, module,Mirasvit_Rewards
-Apply the rule only to cart items matching the following conditions (leave blank for all items),החל את הכלל רק על פריטי עגלה התואמים את התנאים הבאים (השאר ריק לכל הפריטים), module,Mirasvit_Rewards
-Apply To,החל על, module,Mirasvit_Rewards
-Apply the rule only if the following conditions are met (leave blank for all products),החל את הכלל רק אם מתקיימים התנאים הבאים (השאר ריק לכל המוצרים), module,Mirasvit_Rewards
-Conditions,תנאים, module,Mirasvit_Rewards
-Earning Rules,כללי צבירה, module,Mirasvit_Rewards
-Spending Rules,כללי ההוצאה, module,Mirasvit_Rewards
-Notification Rules,כללי הודעה, module,Mirasvit_Rewards
-Transactions,עסקאות, module,Mirasvit_Rewards
-Customer Referrals,הפניות של לקוחות, module,Mirasvit_Rewards
-Reports,דיווחים, module,Mirasvit_Rewards
-Refresh Statistics,רענן סטטיסטיקות, module,Mirasvit_Rewards
-Settings,הגדרות, module,Mirasvit_Rewards
-Save,שמור, module,Mirasvit_Rewards
-Delete,מחק, module,Mirasvit_Rewards
-Save And Continue Edit,שמור והמשך לערוך, module,Mirasvit_Rewards
-Edit Referral ' %1 ',ערוך הפנייה ' %1 ', module,Mirasvit_Rewards
-Create New Referral,צור הפנייה חדשה, module,Mirasvit_Rewards
-Customer Name,שם לקוח, module,Mirasvit_Rewards
-Customer Email,"דוא""ל של הלקוח", module,Mirasvit_Rewards
-Customer Group,קבוצת לקוח, module,Mirasvit_Rewards
-Action,פעולה, module,Mirasvit_Rewards
-Code,קוד, module,Mirasvit_Rewards
-Is expired,פג תוקפו, module,Mirasvit_Rewards
-Is sent,נשלח, module,Mirasvit_Rewards
-Amount Used,הסכום המשומש, module,Mirasvit_Rewards
-Are you sure?,האם אתה בטוח?, module,Mirasvit_Rewards
-Checkout now and earn <b> %1 </b> for this order.,לעבור לקופה עכשיו ולהרוויח <b> %1 </ b> עבור הזמנה זו., module,Mirasvit_Rewards
-"Applies only to registered customers, may vary when logged in.","חל רק על לקוחות רשומים, עשוי להשתנות כאשר אתה מחובר.", module,Mirasvit_Rewards
-Possible discount  %1 %2,הנחה אפשרית%1%, module,Mirasvit_Rewards
-Earn  %1 %2,להרוויח %2  %1 , module,Mirasvit_Rewards
-Grid,גריד (רשת), module,Mirasvit_Rewards
-List,רשימה, module,Mirasvit_Rewards
-All,את הכל, module,Mirasvit_Rewards
-Referral  %1 ,הפניה  %1 , module,Mirasvit_Rewards
-Something went wrong while saving your subscription.,משהו השתבש כששמרת את המנוי שלך., module,Mirasvit_Rewards
-We removed your subscription on expiring points notification.,הסרנו את המנוי שלך בתוקף התראה על נקודות., module,Mirasvit_Rewards
-New Earning Rule,כלל צבירה חדש, module,Mirasvit_Rewards
-Earning Rule was successfully deleted,כלל צבירה נמחק בהצלחה, module,Mirasvit_Rewards
-Edit Earning Rule ' %1 ',"ערוך כלל צבירה "" %1 """, module,Mirasvit_Rewards
-The Earning Rule does not exist.,כלל צבירה אינו קיים., module,Mirasvit_Rewards
-Total of  %1 record(s) were successfully updated,סך רשומות  %1 עודכנו בהצלחה, module,Mirasvit_Rewards
-Please select Earning Rule(s),אנא בחר כלל(י) צבירה, module,Mirasvit_Rewards
-Total of  %1 record(s) were successfully deleted,סך שיא %1 (ים) נמחקו בהצלחה, module,Mirasvit_Rewards
-Earning Rule was successfully saved,כלל הצבירה נשמר בהצלחה, module,Mirasvit_Rewards
-Unable to find Earning Rule to save,לא ניתן למצוא כלל צבירה לשמירה, module,Mirasvit_Rewards
-New Notification Rule,כלל התראה חדש, module,Mirasvit_Rewards
-Notification Rule was successfully deleted,כלל התראה נמחק בהצלחה, module,Mirasvit_Rewards
-Edit Notification Rule ' %1 ',"ערוך כלל התראות "" %1 """, module,Mirasvit_Rewards
-The Notification Rule does not exist.,כלל שליחת התראות אינו קיים., module,Mirasvit_Rewards
-Please select Notification Rule(s),אנא בחר כלל התראה (ות), module,Mirasvit_Rewards
-Notification Rule was successfully saved,כלל התראות נשמר בהצלחה, module,Mirasvit_Rewards
-Unable to find Notification Rule to save,לא ניתן למצוא כלל התראות כדי לשמור, module,Mirasvit_Rewards
-Please select Referral(s),אנא בחר פנייה (ות), module,Mirasvit_Rewards
-Statistics was successfully updated,הסטטיסטיקה עודכנה בהצלחה, module,Mirasvit_Rewards
-Database error. Please contact developers.,שגיאה במסד נתונים. אנא צור קשר עם המפתח., module,Mirasvit_Rewards
-Rewards,תגמולים, module,Mirasvit_Rewards
-You have not any statistic. Please refresh statistic.,אין לך שום נתון. אנא רענן נתונים., module,Mirasvit_Rewards
-New Spending Rule,כלל הוצאה חדש, module,Mirasvit_Rewards
-Spending Rule was successfully deleted,כלל ההוצאה נמחק בהצלחה, module,Mirasvit_Rewards
-Edit Spending Rule ' %1 '," ערוך כלל הוצאה "" %1 """, module,Mirasvit_Rewards
-The Spending Rule does not exist.,כלל ההוצאה אינו קיים., module,Mirasvit_Rewards
-Please select Spending Rule(s),אנא בחר כלל(י) הוצאה, module,Mirasvit_Rewards
-Field 'Spend maximum' can not be less or equal then field 'Spend minimum',שדה 'הוצאה מקסימלית' לא יכול להיות פחות או שווה משדה 'הוצאה מינימלית', module,Mirasvit_Rewards
-Spending Rule was successfully saved,כלל ההוצאה נשמרה בהצלחה, module,Mirasvit_Rewards
-Unable to find Spending Rule to save,לא ניתן למצוא כלל(י) הוצאות לשמירה, module,Mirasvit_Rewards
-New Transaction,עסקה חדשה, module,Mirasvit_Rewards
-Transaction was successfully deleted,העסקה נמחקה בהצלחה, module,Mirasvit_Rewards
-Please select Transaction(s),אנא בחר עסקה, module,Mirasvit_Rewards
-Transaction was successfully saved,העסקה נשמרה בהצלחה, module,Mirasvit_Rewards
-Unable to find Transaction to save,לא ניתן למצוא עסקה לשמירה, module,Mirasvit_Rewards
-Cannot apply points.,לא ניתן להחיל נקודות., module,Mirasvit_Rewards
-You've earned  %1 for Facebook Like!,הרווחת %1 עבור לייק בפייסבוק!, module,Mirasvit_Rewards
-You've earned  %1 for Facebook Share!,הרווחת %1 עבור שיתוף פייסבוק!, module,Mirasvit_Rewards
-Facebook Like Points has been canceled,בוטלו הנקודות מלייק בפייסבוק , module,Mirasvit_Rewards
-You've earned  %1 for Google+!,רווח %1 עבור Google+!, module,Mirasvit_Rewards
-G+1 Points has been canceled,G + 1 נקודות בוטלו, module,Mirasvit_Rewards
-You've earned  %1 for Pin!,הרווחת %1 עבור Pin!, module,Mirasvit_Rewards
-Invalid form key. Try again,מפתח טופס לא חוקי. נסה שוב, module,Mirasvit_Rewards
-Customer with email  %1 has been already invited to our store,לקוחות עם אימייל %1 הוזמנו כבר לחנות שלנו, module,Mirasvit_Rewards
-Your invitations were sent. Thanks!,ההזמנות שלך נשלחו. תודה!, module,Mirasvit_Rewards
-You've earned  %1 for Tweet!,רווח %1 עבור ציוץ!, module,Mirasvit_Rewards
-You received  %1 for signing up,תקבל %1 שנרשם, module,Mirasvit_Rewards
-You received  %1 for sending this product,תקבל %1 לשליחת מוצר זה, module,Mirasvit_Rewards
-You received  %1 for sign up for newsletter,תקבל %1 עבור הרשמה לניוזלטר, module,Mirasvit_Rewards
-You received  %1 for sign up for push notifications,תקבל %1 עבור הרשמה בשביל העברת הודעות בדחיפה, module,Mirasvit_Rewards
-You will receive  %1 after approving of this tag,אתה תקבל %1 לאחר אישור של תג זה, module,Mirasvit_Rewards
-You will receive  %1 after approving of this review,אתה תקבל %1 לאחר אישור של סקירה זו, module,Mirasvit_Rewards
-You received  %1 for sign up of referral customer.,תקבל %1 עבור הרשמה של לקוח הפניה., module,Mirasvit_Rewards
-You received  %1 for order of referral customer.,תקבל %1 עבור סדר לקוח הפניה., module,Mirasvit_Rewards
-Happy birthday! You received  %1 .,יום הולדת שמח! תקבל %1., module,Mirasvit_Rewards
-You received  %1 for joining the affiliate program.,תקבל %1 להצטרפות לתכנית השותפים., module,Mirasvit_Rewards
- %1 were applied., %1 הוחל., module,Mirasvit_Rewards
-Minimum number is  %1 .,מספר המינימום הוא %1., module,Mirasvit_Rewards
-Maximum number is  %1 .,מספר מרבי הוא %1., module,Mirasvit_Rewards
- %1 was canceled., %1 בוטלו., module,Mirasvit_Rewards
-Cannot apply  %1 .,לא ניתן להחיל %1., module,Mirasvit_Rewards
-You can use the following variables:,אתה יכול להשתמש במשתנים הבאים:, module,Mirasvit_Rewards
-Pattern,תבנית, module,Mirasvit_Rewards
-Attribute Value,ערך תכונה, module,Mirasvit_Rewards
-Default,ברירת מחדל, module,Mirasvit_Rewards
-Integer,מספר שלם, module,Mirasvit_Rewards
-Price,מחיר, module,Mirasvit_Rewards
-Strip Tags,רצועת תגיות, module,Mirasvit_Rewards
-Primary Attributes,תכונות ראשיות, module,Mirasvit_Rewards
-Stock Attributes,תכונות מלאי, module,Mirasvit_Rewards
-Prices & Taxes,מחירים & מסים, module,Mirasvit_Rewards
-Images,תמונות, module,Mirasvit_Rewards
-Custom Attributes,מאפיינים מותאמים, module,Mirasvit_Rewards
-Mapping,מיפוי, module,Mirasvit_Rewards
-Category,קטגוריה, module,Mirasvit_Rewards
-Amasty Meta Tags,תגיות מטא Amasty, module,Mirasvit_Rewards
-Others Attributes,תכונות אחרות, module,Mirasvit_Rewards
-Flexible,גמיש, module,Mirasvit_Rewards
-Fixed,קבוע, module,Mirasvit_Rewards
-Customer signs up in store,הלקוח נרשם לחנות, module,Mirasvit_Rewards
-Customer places order,הלקוח מבצע הזמנה, module,Mirasvit_Rewards
-Customer refer a friend,הלקוח מפנה חבר, module,Mirasvit_Rewards
-Customer adds tag to a product,הלקוח מוסיף תג למוצר, module,Mirasvit_Rewards
-Customer writes a product review,הלקוח כותב ביקורת מוצר, module,Mirasvit_Rewards
-Customer has a birthday,ללקוח יש יום הולדת, module,Mirasvit_Rewards
-Customer is inactive for long time,הלקוח אינו פעיל במשך זמן רב, module,Mirasvit_Rewards
-Newsletter sign up,הרשמה לניוזלטר, module,Mirasvit_Rewards
-Facebook Share,שיתוף בפייסבוק, module,Mirasvit_Rewards
-Facebook Like,פייסבוק לייק, module,Mirasvit_Rewards
-Twitter Tweet,ציוץ טוויטר, module,Mirasvit_Rewards
-Google+ Like,לייק Google+, module,Mirasvit_Rewards
-Pinterest Pin,Pinterest Pin, module,Mirasvit_Rewards
-Customer joins the affiliate program,הלקוח מצטרף לתוכנית השותפים, module,Mirasvit_Rewards
-Push Notifications sign up,הרשמה להתראות, module,Mirasvit_Rewards
-Referred customer signs up in store,לקוחות שהופנו נרשמים לחנות, module,Mirasvit_Rewards
-Order from referred customer,הזמנה מהלקוח שהופנה, module,Mirasvit_Rewards
-Points to Currency,מנקודות למטבע, module,Mirasvit_Rewards
-Currency to Points,ממטבע לנקודות, module,Mirasvit_Rewards
-Customer Account > My Reward Points,חשבון לקוח > נקודות התגמול שלי, module,Mirasvit_Rewards
-Customer Account > My Referrals,חשבון לקוח > הפניות שלי, module,Mirasvit_Rewards
-Cart Page,עמוד סל הקניות, module,Mirasvit_Rewards
-Message Sent,הודעה נשלחה, module,Mirasvit_Rewards
-Signed Up,נרשם, module,Mirasvit_Rewards
-Made Order,עשה הזמנה, module,Mirasvit_Rewards
-Visited by Referral Link,ביקר בקישור הפניה, module,Mirasvit_Rewards
-Subtotal + Tax,סיכום ביניים + מס, module,Mirasvit_Rewards
-Subtotal + Tax + Shipping,סיכום ביניים + מס + משלוח, module,Mirasvit_Rewards
-Product Rule,חוק מוצר, module,Mirasvit_Rewards
-Cart Rule,כלל סל הקניות, module,Mirasvit_Rewards
-Behavior Rule,כלל התנהגות, module,Mirasvit_Rewards
-Transaction # %1 is expired,#עסקת %1 פג תוקפה, module,Mirasvit_Rewards
-Update the Product,לעדכן את המוצר, module,Mirasvit_Rewards
-Is Rewards Points used,האם משתמשים בנקודות תגמולים, module,Mirasvit_Rewards
-Coupon Used,השתמש בקופון, module,Mirasvit_Rewards
-Coupon Code,קוד קופון, module,Mirasvit_Rewards
-No,לא, module,Mirasvit_Rewards
-Yes,כן, module,Mirasvit_Rewards
-Conditions Combination,שילוב תנאים, module,Mirasvit_Rewards
-Product attribute combination,שילוב מאפייני המוצר, module,Mirasvit_Rewards
-Products subselection,תת-בחירת מוצרים, module,Mirasvit_Rewards
-Conditions combination,שילוב תנאים, module,Mirasvit_Rewards
-Cart Attribute,תכונת סל הקניות, module,Mirasvit_Rewards
-Customer,צרכן, module,Mirasvit_Rewards
-Last 7-days Clicks,קליקים ב 7 הימים האחרונים, module,Mirasvit_Rewards
-Last 7-days Orders,הזמנות ב 7 הימים האחרונים, module,Mirasvit_Rewards
-Last 7-days Revenue,הכנסות ב 7 ימים אחרונים, module,Mirasvit_Rewards
-Is Referee,הוא שופט, module,Mirasvit_Rewards
-Is Referral,הוא הפניה, module,Mirasvit_Rewards
-Email,אימייל, module,Mirasvit_Rewards
-Group,קבוצה, module,Mirasvit_Rewards
-Lifetime Sales,מכירות לכל החיים, module,Mirasvit_Rewards
-Lifetime Spent Points,נקודות בחיים לכל החיים, module,Mirasvit_Rewards
-Number of Orders,מספר ההזמנות, module,Mirasvit_Rewards
-Is subscriber of newsletter,האם הוא מנוי של הניוזלטר, module,Mirasvit_Rewards
-Number of reviews,מספר ביקורות, module,Mirasvit_Rewards
-Number of referred friends signups,מספר ההרשמות לחברים שהופנו, module,Mirasvit_Rewards
-Number of referred friends orders,מספר הזמנות החברים שהופנו, module,Mirasvit_Rewards
-Sum of referred friends orders,סכום הזמנות החברים שהופנו, module,Mirasvit_Rewards
-Number of referrals who ordered at least once,מספר הפניות שהזמינו לפחות פעם אחת, module,Mirasvit_Rewards
-Not registered,לא רשום, module,Mirasvit_Rewards
-Attribute Set,סט תכונות, module,Mirasvit_Rewards
-Quantity,כמות, module,Mirasvit_Rewards
-Product Type,סוג המוצר, module,Mirasvit_Rewards
-Base Image,תמונת בסיס, module,Mirasvit_Rewards
-Thumbnail,תמונה ממוזערת, module,Mirasvit_Rewards
-Small Image,תמונה קטנה, module,Mirasvit_Rewards
-Base Image Size (bytes),גודל תמונה בסיסית (בתים), module,Mirasvit_Rewards
-Thumbnail Size (bytes),גודל תמונה ממוזערת (בתים), module,Mirasvit_Rewards
-Small Image Size (bytes),גודל תמונה קטנה (בתים), module,Mirasvit_Rewards
-PHP Condition,תנאי PHP, module,Mirasvit_Rewards
-Base Price,מחיר בסיסי, module,Mirasvit_Rewards
-Final Price,מחיר אחרון, module,Mirasvit_Rewards
-Special Price,מחיר מיוחד, module,Mirasvit_Rewards
-Open Chooser,בוחר פתוח, module,Mirasvit_Rewards
-Referred: Group,הפניות: קבוצה, module,Mirasvit_Rewards
-Referred: Lifetime Sales,הפניות: מכירות לכל החיים, module,Mirasvit_Rewards
-Referred: Number of Orders,הפניות: מספר ההזמנות, module,Mirasvit_Rewards
-Referred: Is subscriber of newsletter,הפניות: האם מנוי של הניוזלטר, module,Mirasvit_Rewards
-Referred: Number of reviews,הפניות: מספר ביקורות, module,Mirasvit_Rewards
-Please specify a website.,ציין אתר אינטרנט., module,Mirasvit_Rewards
-Please specify a customer email.,"אנא ציין דוא""ל לקוח.", module,Mirasvit_Rewards
-We found an invalid value in a website column.,מצאנו ערך לא חוקי בעמודת אתר., module,Mirasvit_Rewards
-Please enter a valid email.,נא להזין כתובת דואר אלקטרוני תקינה., module,Mirasvit_Rewards
-"Please make sure attribute "" %1 "" is not empty.",אנא וודא שהתכונה '%1' אינה ריקה., module,Mirasvit_Rewards
-We can't find a customer who matches this email and website code.,"איננו יכולים למצוא לקוח שמתאים לדוא""ל וקוד אתר זה.", module,Mirasvit_Rewards
--- Please Select --,-- תבחר בבקשה --, module,Mirasvit_Rewards
-Discount Used,הנחה בשימוש, module,Mirasvit_Rewards
-Custom Product Attributes,תכונות מוצר מותאמות אישית, module,Mirasvit_Rewards
-- Disable these emails -,- השבת את האימיילים האלה -, module,Mirasvit_Rewards
-Give X points to customer,תן נקודות X ללקוח, module,Mirasvit_Rewards
-Give X points for every spent Y,תן X נקודות עבור כל Y שהוצא, module,Mirasvit_Rewards
-Give X points for every Z quantity,תן X נקודות לכל כמות Z, module,Mirasvit_Rewards
-"For every Y, give X points","עבור כל Y, תן X נקודות", module,Mirasvit_Rewards
-Pending,ממתין ל, module,Mirasvit_Rewards
-Approved,אושר, module,Mirasvit_Rewards
-Discarded,מושלך, module,Mirasvit_Rewards
-You do not have permissions to create transactions. Please contact your site administrator.,אין לך הרשאות ליצור עסקאות. אנא צור קשר עם מנהל האתר שלך., module,Mirasvit_Rewards
- %1 has been added., %1 נוספו., module,Mirasvit_Rewards
- %1 has been deducted., %1 נוכו., module,Mirasvit_Rewards
-You earned  %1 and spent %2 for this order.,צברת %1 ומימשת %2 עבור הזמנה זו., module,Mirasvit_Rewards
-You spent  %1 for this order.,אתה מימשת %1 עבור הזמנה זו., module,Mirasvit_Rewards
-You earned  %1 for this order.,צברת %1 עבור הזמנה זו., module,Mirasvit_Rewards
-Earned points will be enrolled to your account after we finish processing your order.,נקודות שרווחת תהיינה רשומות על חשבונך לאחר שנסיים לעבד את ההזמנה שלך., module,Mirasvit_Rewards
-Rewards error occurred on the server. Please try to place the order again.,שגיאת תגמולים התרחשה בשרת. אנא נסה לבצע את ההזמנה שוב., module,Mirasvit_Rewards
-Earn at least  %1 %2,להרוויח לפחות %1 %2, module,Mirasvit_Rewards
-Edit,עריכה, module,Mirasvit_Rewards
-Back,חזור, module,Mirasvit_Rewards
-Are you sure you want to do this?,האם אתה בטוח שאתה רוצה לעשות את זה?, module,Mirasvit_Rewards
-Reset,איפוס, module,Mirasvit_Rewards
-Save and Continue Edit,שמור והמשך עריכה, module,Mirasvit_Rewards
-"Delete the record with ID ""${ $.$data.transaction_id }""","מחק את הרשומה עם המזהה ""${ $.$data.transaction_id }""", module,Mirasvit_Rewards
-"Are you sure you wan't to delete the record with ID ""${ $.$data.transaction_id }""?","האם אתה בטוח שלא תרצה למחוק את הרשומה עם המזהה ""$ {$. $ Data.transaction_id}""?", module,Mirasvit_Rewards
-Use Reward Points,השתמש בנקודות תגמול, module,Mirasvit_Rewards
- %1 have <b>%2</b> available.,ל-%1 יש <b>%2</b> זמינים., module,Mirasvit_Rewards
-Enter amount of points to spend:,הזן את כמות הנקודות שתוציא:, module,Mirasvit_Rewards
-Apply Points,החל נקודות, module,Mirasvit_Rewards
-Cancel Points,לבטל נקודות, module,Mirasvit_Rewards
-Use maximum  %1 ,השתמש במקסימום %1, module,Mirasvit_Rewards
-Points Summary,סיכום נקודות, module,Mirasvit_Rewards
-To unsubscribe from points expiring notification click  %1 ,כדי לבטל את מנוי נקודות שפגו תוקפם לחץ על %1 בהתראה, module,Mirasvit_Rewards
-You have <b> %1 </b> in your account.,יש לך <b>%1 </b> בחשבונך., module,Mirasvit_Rewards
-Transactions History,היסטורית עסקות, module,Mirasvit_Rewards
-Points,נקודות, module,Mirasvit_Rewards
-Created,נוצר, module,Mirasvit_Rewards
-Expires,פג תוקף, module,Mirasvit_Rewards
-There are no Transactions.,אין עסקאות., module,Mirasvit_Rewards
-Pending Transactions,עסקאות בהמתנה, module,Mirasvit_Rewards
-Order,להזמין, module,Mirasvit_Rewards
-Status,מצב, module,Mirasvit_Rewards
-Your points balance will expire in  %1 days.,יתרת הנקודות שלך תפוג בעוד%1 ימים., module,Mirasvit_Rewards
-Visit My Reward Points Section,בקר באזור נקודות התגמול שלי, module,Mirasvit_Rewards
-Login to earn  %1 for sharing!,התחבר כדי להרוויח %1 לשיתוף!, module,Mirasvit_Rewards
-Earn  %1 for sharing!,להרוויח %1 לשיתוף!, module,Mirasvit_Rewards
-Like this page and earn  %1 ,תלחץ על אהבתי לדף הזה ותרוויח %1, module,Mirasvit_Rewards
-Share,שתף, module,Mirasvit_Rewards
-Share this page and earn  %1 ,שתף דף זה ותרוויח %1, module,Mirasvit_Rewards
-Plus this page and earn  %1 ,פלוס בדף זה ותרוויח %1, module,Mirasvit_Rewards
-Pin this page and earn  %1 ,לחץ על הצמד (Pin) לדף זה ותרוויח %1, module,Mirasvit_Rewards
-Refer Friends,הפנה חברים, module,Mirasvit_Rewards
-Refer friend and earn  %1 . More friends more points!,הפנה חבר ותרוויח %1. עוד חברים יותר נקודות!, module,Mirasvit_Rewards
-Tweet,צִיוּץ, module,Mirasvit_Rewards
-Tweet this page and earn  %1 ,צייץ דף זה ותרוויח %1, module,Mirasvit_Rewards
-Check this out!,בדוק את זה!, module,Mirasvit_Rewards
-You have <b> %1 </b> available.,יש לך <b> %1 </ b> זמין., module,Mirasvit_Rewards
-Apply,החל, module,Mirasvit_Rewards
-Cancel,בטל, module,Mirasvit_Rewards
-Use  %1 ,השתמש ב %1, module,Mirasvit_Rewards
-You Earn,אתה מרוויח, module,Mirasvit_Rewards
-You Spend,אתה מוציא, module,Mirasvit_Rewards
-Discount amount,כמות ההנחה, module,Mirasvit_Rewards
-This is a required field,זהו שדה נדרש, module,Mirasvit_Rewards
-Subscription to Points Expiration Notification,הרשמה להודעת פקיעת נקודות, module,Mirasvit_Rewards
-Earning  %1 ,מרוויח %1, module,Mirasvit_Rewards
-Buy to earn  %1 ,קנה כדי להרוויח %1, module,Mirasvit_Rewards
-You'll earn  %1 for this item,אתה תרוויח %1 עבור פריט זה, module,Mirasvit_Rewards
-Share with Friends,לשתף עם חברים, module,Mirasvit_Rewards
-Share the referral link in the social media and get points!,שתפו את קישור ההפניה במדיה החברתית וקבלו נקודות!, module,Mirasvit_Rewards
-Tweet on Twitter,ציוץ בטוויטר, module,Mirasvit_Rewards
-Your referral link:,קישור ההפניה שלך:, module,Mirasvit_Rewards
-Send Invitations,לשלוח הזמנות, module,Mirasvit_Rewards
-Enter contacts of your friends to invite them.,הכנס אנשי קשר של חבריך כדי להזמין אותם., module,Mirasvit_Rewards
-Name,שם, module,Mirasvit_Rewards
-Message,הודעה, module,Mirasvit_Rewards
-Referrals,הפניות, module,Mirasvit_Rewards
-Referred by link,מופנה בקישור, module,Mirasvit_Rewards
-There are no Referrals,אין הפניות, module,Mirasvit_Rewards
-You have,יש לך, module,Mirasvit_Rewards
-available.,זמין., module,Mirasvit_Rewards
-Use maximum,השתמש במקסימום, module,Mirasvit_Rewards
-Enter amount of points to spend,הזן סכום של נקודות להוציא, module,Mirasvit_Rewards
-Use,להשתמש, module,Mirasvit_Rewards
-Point Unit Name,שם יחידת הנקודה, module,Mirasvit_Rewards
-"Reward points expire after, days",נקודות תגמול פוגות לאחר ימים, module,Mirasvit_Rewards
-Approve earned points on invoice,אשר נקודות שנצברו בחשבונית, module,Mirasvit_Rewards
-Approve earned points on shipment,אשר נקודות שנצברו במשלוח, module,Mirasvit_Rewards
-Approve earned points if order has status,אשר נקודות שהרווחת אם להזמנה יש מעמד, module,Mirasvit_Rewards
-Cancel earned points after order refunding,בטל נקודות שהושגו לאחר החזר ההזמנה, module,Mirasvit_Rewards
-Restore spent points after order refunding,שחזר נקודות שהוצאו לאחר החזר ההזמנה, module,Mirasvit_Rewards
-Include discount for Earning rules,כלול הנחה לכללי הצבירה, module,Mirasvit_Rewards
-Include tax for Earning rules,כולל מס עבור כללי צבירה, module,Mirasvit_Rewards
-Include tax for Spending rules,כלול מס עבור כללי ההוצאה, module,Mirasvit_Rewards
-Allow to earn points from shipping charges,אפשר להרוויח נקודות מדמי משלוח, module,Mirasvit_Rewards
-Allow to spend points for shipping charges,אפשר להוציא נקודות עבור דמי משלוח, module,Mirasvit_Rewards
-Allow to place orders with grand total = 0,אפשר לבצע הזמנות בסך הכל = 0, module,Mirasvit_Rewards
-Allow to display product points as currency equivalent,אפשר להציג נקודות מוצר כשוות מטבע, module,Mirasvit_Rewards
-Allow to display maximum amount of possible points for configurable product,אפשר להציג את הכמות המרבית של נקודות אפשריות עבור מוצר מורכב, module,Mirasvit_Rewards
-Email Sender,"שולח דוא""ל", module,Mirasvit_Rewards
-Balance update Email,"דוא""ל עדכון יתרה", module,Mirasvit_Rewards
-Points expire Email," דוא""ל לתפוגת הנקודות", module,Mirasvit_Rewards
-Send notification before points expiring (in days),שלח התראה לפני שפג תוקפן של הנקודות (ימים), module,Mirasvit_Rewards
-Enable Referral System,אפשר הפניית מערכת, module,Mirasvit_Rewards
-Invitation Email Template,"תבנית הזמנה לדוא""ל", module,Mirasvit_Rewards
-Show rewards points menu on frontend,הצג תפריט נקודות תגמול באתר, module,Mirasvit_Rewards
-Show rewards points on category page,הצג נקודות תגמול בדף הקטגוריה, module,Mirasvit_Rewards
-Show number of points on the product page,הצג את מספר הנקודות בעמוד המוצר, module,Mirasvit_Rewards
-Show pending transactions in customer account,הצג עסקאות ממתינות בחשבון הלקוח, module,Mirasvit_Rewards
-Round earning points down,נקודות הרווח עגולות כלפי מטה, module,Mirasvit_Rewards
-Custom Behavior Events,אירועי התנהגות מותאם אישית, module,Mirasvit_Rewards
-Force to apply styles,הכרח להחיל סגנונות, module,Mirasvit_Rewards
-Social Networks Settings,הגדרות רשתות חברתיות, module,Mirasvit_Rewards
-Facebook App ID,מזהה אפליקציית פייסבוק, module,Mirasvit_Rewards
-Show Facebook Like button,הצג כפתור 'אהבתי' בפייסבוק, module,Mirasvit_Rewards
-Show Facebook Share button,הצג כפתור שתף בפייסבוק, module,Mirasvit_Rewards
-Show Twitter Follow button,הצג כפתור עקוב אחר הטוויטר, module,Mirasvit_Rewards
-Show Google Plus +1 button,הצג את כפתור 1+ של גוגל פלוס, module,Mirasvit_Rewards
-Show Pinterest pin button,הצג כפתור Pin של Pinterest, module,Mirasvit_Rewards
-Show AddThis,AddThis הצג, module,Mirasvit_Rewards
-AddThis Code,קוד AddThis, module,Mirasvit_Rewards
-Notification Rules' messages,הודעות כללי התראות, module,Mirasvit_Rewards
-Template,תבנית, module,Mirasvit_Rewards
-Notification Rule Template,תבנית של כלל ההתראות, module,Mirasvit_Rewards
-Phone,טלפון, module,Mirasvit_Rewards
-ZIP,מיקוד, module,Mirasvit_Rewards
-Country,מדינה, module,Mirasvit_Rewards
-State/Province,מדינה / מחוז, module,Mirasvit_Rewards
-Customer Since,לקוח מאז, module,Mirasvit_Rewards
-Web Site,אתר אינטרנט, module,Mirasvit_Rewards
-General Information,מידע כללי, module,Mirasvit_Rewards
-Rule Name,שם החוק, module,Mirasvit_Rewards
-Type,סוג, module,Mirasvit_Rewards
-Is Active,האם פעיל, module,Mirasvit_Rewards
-Active From,פעיל מ, module,Mirasvit_Rewards
-Active To,פעיל עד, module,Mirasvit_Rewards
-Websites,אתרים, module,Mirasvit_Rewards
-Stop further rules processing,הפסק עיבוד כללים נוספים, module,Mirasvit_Rewards
-Priority,עדיפות, module,Mirasvit_Rewards
-Arranged in the ascending order. 0 is the highest.,מסודר בסדר עולה. 0 הוא הגבוה ביותר., module,Mirasvit_Rewards
-Number of Inactive Days,מספר ימים פעילים, module,Mirasvit_Rewards
-Actions,פעולות, module,Mirasvit_Rewards
-Number of points to give (X),מספר הנקודות שצריך לתת (X), module,Mirasvit_Rewards
-Step (Y),שלב (Y), module,Mirasvit_Rewards
-In base currency,במטבע הבסיס, module,Mirasvit_Rewards
-Quantity Step (Z),שלב כמות (Z), module,Mirasvit_Rewards
-Maximum number of earned points for one customer per day,המספר המרבי של נקודות שנצברו עבור לקוח אחד ליום, module,Mirasvit_Rewards
-Assign customer to Group,הקצה לקוח לקבוצה, module,Mirasvit_Rewards
-Notification,התראה, module,Mirasvit_Rewards
-Message for customer notification email,הודעה ללקוח להתראת דואר אלקטרוני , module,Mirasvit_Rewards
-Customer Earning Style,סגנון רווחי לקוח, module,Mirasvit_Rewards
-Number of Points (X),מספר נקודות (X), module,Mirasvit_Rewards
-Earn Maximum,רווח מקסימלי, module,Mirasvit_Rewards
-Add New,הוסף חדש, module,Mirasvit_Rewards
-Delete items, מחק פריטים, module,Mirasvit_Rewards
-Delete selected items?,למחוק את הפריטים שנבחרו?, module,Mirasvit_Rewards
-Change status,לשנות סטטוס, module,Mirasvit_Rewards
-Enable,אפשר, module,Mirasvit_Rewards
-Disable,בטל, module,Mirasvit_Rewards
-Number of points to earn,מספר הנקודות שצריך להרוויח, module,Mirasvit_Rewards
-Website,אתר אינטרנט, module,Mirasvit_Rewards
-Maximum Distributed Points,מקסימום נקודות מופצות, module,Mirasvit_Rewards
-Show message on,הצג הודעה על, module,Mirasvit_Rewards
-Affiliate Customer,לקוח שותף, module,Mirasvit_Rewards
-Referral Customer,הפניית לקוח, module,Mirasvit_Rewards
-Referral Email,"הפניית דוא""ל", module,Mirasvit_Rewards
-Referral Name,הפניית שם, module,Mirasvit_Rewards
-Store,חנות, module,Mirasvit_Rewards
-For each spent X points,עבור כל X נקודות שהוצאו, module,Mirasvit_Rewards
-Customer receive Y discount,הלקוח מקבל הנחה Y, module,Mirasvit_Rewards
-You can enter amount in base currency or percent. e.g. 100 or 5%.,אתה יכול להזין סכום במטבע בסיס או באחוזים. למשל 100 או 5%., module,Mirasvit_Rewards
-Spend minimum,הוצאה מינימלית, module,Mirasvit_Rewards
-Spend maximum,הוצאה מקסימלית, module,Mirasvit_Rewards
-Discount,הנחה, module,Mirasvit_Rewards
-Points Balance Change,שינוי יתרת נקודות, module,Mirasvit_Rewards
-CSV,CSV, module,Mirasvit_Rewards
-Excel XML,XML Excel, module,Mirasvit_Rewards
-Referrals List,רשימת הפניות, module,Mirasvit_Rewards
-today,היום, module,Mirasvit_Rewards
-ago,לפני, module,Mirasvit_Rewards
-in  %1 %2,ב %1 %2, module,Mirasvit_Rewards
-in  %1 days,ב %1 ימים, module,Mirasvit_Rewards
-in  %1 day,ב %1 יום, module,Mirasvit_Rewards
- %1 %2 ago,%1 %2 לפני, module,Mirasvit_Rewards
- %1 days ago,לפני %1 ימים, module,Mirasvit_Rewards
- %1 day ago,לפני %1 יום, module,Mirasvit_Rewards
-Will expire  %1 ,יפוג ב %1, module,Mirasvit_Rewards
-Will be ready for use  %1 ,יהיה מוכן לשימוש %1, module,Mirasvit_Rewards
-Expires,פג תוקף, module,Mirasvit_Rewards
-How to earn points,איך לצבור נקודות, module,Mirasvit_Rewards
-You have invited  %1 friends,הזמנת %1 חברים, module,Mirasvit_Rewards
-Share the referral link in the social media,שתפו את קישור ההפניה במדיה החברתית, module,Mirasvit_Rewards
-Check this out!,בדוק את זה!, module,Mirasvit_Rewards
-Tweet on Twitter,ציוץ בטוויטר, module,Mirasvit_Rewards
-You may send this link in your messages to anyone,אתה יכול לשלוח קישור זה בהודעות שלך לכל אחד, module,Mirasvit_Rewards
-Page not found.,הדף לא נמצא., module,Mirasvit_Rewards
-Customer tier up,שכבת לקוח, module,Mirasvit_Rewards
-Customer tier down,שכבת לקוח למטה, module,Mirasvit_Rewards
-sum of earned points,למטה, module,Mirasvit_Rewards
-sum of spent  %1 ,סכום ההוצאה של %1, module,Mirasvit_Rewards
-Customer does not assign to website,הלקוח אינו משויך לאתר, module,Mirasvit_Rewards
-Payment Method,שיטת תשלום, module,Mirasvit_Rewards
-This tier is assign to  %1 customer(s). Please reassign customer(s) to other tier.,נדבך זה מוקצה ללקוח(ות) %1. אנא הקצה מחדש לקוח(ות) לרמה אחרת., module,Mirasvit_Rewards
-You Spend Points,אתה מוציא נקודות, module,Mirasvit_Rewards
-Spend Amount,הוצא סכום, module,Mirasvit_Rewards
-Spend Minimum Points,להוציא נקודות מינימום, module,Mirasvit_Rewards
-Spend Maximum Points,להוציא נקודות מקסימליים, module,Mirasvit_Rewards
-Cannot delete tier with id  %1 ,אי אפשר למחוק רשומה עם מזהה %1, module,Mirasvit_Rewards
-Cannot delete transaction with id  %1 ,אי אפשר למחוק את העסקה עם מזהה %1, module,Mirasvit_Rewards
-"Unable to find tier for customer "" %1 "". Please check tier configuration.","לא ניתן למצוא tier עבור הלקוח ""%1"". אנא בדוק את הגדרות tier.", module,Mirasvit_Rewards
-Set 0 to disable limit,גדר 0 כדי להגביל להשבית, module,Mirasvit_Rewards
-Do not change,אל תשנה, module,Mirasvit_Rewards
-You can enter amount of points or percent. Leave empty to disable.,אתה יכול להזין סכום של נקודות או אחוזים. השאר ריק כדי להשבית., module,Mirasvit_Rewards
-Tiers,שכבות\רשומות, module,Mirasvit_Rewards
- %1 for each $%2, %1 עבור כל $ %2, module,Mirasvit_Rewards
-All Groups,כל הקבוצות, module,Mirasvit_Rewards
-Points spending style,סגנון הוצאות נקודות, module,Mirasvit_Rewards
-Number of points.,מספר הנקודות., module,Mirasvit_Rewards
-You can enter amount of points or percent. e.g. 100 or 5%. Leave empty to disable.,אתה יכול להזין סכום של נקודות או אחוזים. למשל 100 או 5%. השאר ריק כדי להשבית., module,Mirasvit_Rewards
-Minimum sum of spent  %1 ,הסכום המינימלי של הוצאת %1, module,Mirasvit_Rewards
-Minimum points number to reach the tier,מספר נקודות מינימלי כדי להגיע לשכבה\רשומה, module,Mirasvit_Rewards
-"Delete the record with ID "" %1 ""","מחק את הרשומה עם מזהה ""%1""", module,Mirasvit_Rewards
-"Are you sure you wan't to delete the record with ID "" %1 ""?","האם אתה בטוח שאתה רוצה לבצע למחוק את הרשומה עם מזהה ""%1""?", module,Mirasvit_Rewards
-Spend points and receive discounts,לבזבז נקודות ולקבל הנחות, module,Mirasvit_Rewards
-Anonymous visitor,מבקר אנונימי, module,Mirasvit_Rewards
-Or you may send this link in your messages to anyone,או שתוכל לשלוח קישור זה בהודעות שלך לכל אחד, module,Mirasvit_Rewards
-Your Transactions,העסקאות שלך, module,Mirasvit_Rewards
-My Points,הנקודות שלי, module,Mirasvit_Rewards
-Share & Save,שתף ושמור, module,Mirasvit_Rewards
-My Referrals,הפניות שלי, module,Mirasvit_Rewards
-Earned  %1 for the order #%2.,צבור %1 עבור הזמנה מס # %2., module,Mirasvit_Rewards
-Spent  %1 for the order #%2.,הוצא %1 להזמנה מס # %2., module,Mirasvit_Rewards
-Restore spent  %1 for the order #%2.,שחזור הוצאה %1 עבור הזמנה מס # %2., module,Mirasvit_Rewards
-Cancel earned  %1 for the order #%2.,בטל צבירה %1 עבור הזמנה מס # %2., module,Mirasvit_Rewards
-"Refunded  %1 (creditmemo #%2, order #%3).","זיכוי עבור %1 (# CreditMemo% 2, הזמנה# %3).", module,Mirasvit_Rewards
-History,ההיסטוריה, module,Mirasvit_Rewards
+My Reward Points,נקודות התגמול שלי,module,Mirasvit_Rewards
+Reward Points,נקודות תגמול,module,Mirasvit_Rewards
+Rewards Information,מידע על תגמולים,module,Mirasvit_Rewards
+Available Points Balance,יתרת נקודות זמינות,module,Mirasvit_Rewards
+Change Balance,שינוי יתרה,module,Mirasvit_Rewards
+Enter positive or negative number of points. E.g. 10 or -10,הזן מספר נקודות חיובי או שלילי. דוגמא: 10 או 10-,module,Mirasvit_Rewards
+Message in the rewards history,הודעה בהיסטוריית התגמולים,module,Mirasvit_Rewards
+Customer will see this in his account,הלקוח יראה זאת בחשבונו,module,Mirasvit_Rewards
+No Records Found,לא נמצאו רישומים,module,Mirasvit_Rewards
+ID,מזהה,module,Mirasvit_Rewards
+Balance Change,שינוי היתרה,module,Mirasvit_Rewards
+Comment,תגובה,module,Mirasvit_Rewards
+Created At,נוצר ב,module,Mirasvit_Rewards
+Expires At,פוקע ב,module,Mirasvit_Rewards
+Apply the rule only to cart items matching the following conditions (leave blank for all items),החל את הכלל רק על פריטי עגלה התואמים את התנאים הבאים (השאר ריק לכל הפריטים),module,Mirasvit_Rewards
+Apply To,החל על,module,Mirasvit_Rewards
+Apply the rule only if the following conditions are met (leave blank for all products),החל את הכלל רק אם מתקיימים התנאים הבאים (השאר ריק לכל המוצרים),module,Mirasvit_Rewards
+Conditions,תנאים,module,Mirasvit_Rewards
+Earning Rules,כללי צבירה,module,Mirasvit_Rewards
+Spending Rules,כללי ההוצאה,module,Mirasvit_Rewards
+Notification Rules,כללי הודעה,module,Mirasvit_Rewards
+Transactions,עסקאות,module,Mirasvit_Rewards
+Customer Referrals,הפניות של לקוחות,module,Mirasvit_Rewards
+Reports,דיווחים,module,Mirasvit_Rewards
+Refresh Statistics,רענן סטטיסטיקות,module,Mirasvit_Rewards
+Settings,הגדרות,module,Mirasvit_Rewards
+Save,שמור,module,Mirasvit_Rewards
+Delete,מחק,module,Mirasvit_Rewards
+Save And Continue Edit,שמור והמשך לערוך,module,Mirasvit_Rewards
+Edit Referral ' %1 ',ערוך הפנייה ' %1 ',module,Mirasvit_Rewards
+Create New Referral,צור הפנייה חדשה,module,Mirasvit_Rewards
+Customer Name,שם לקוח,module,Mirasvit_Rewards
+Customer Email,"דוא""ל של הלקוח",module,Mirasvit_Rewards
+Customer Group,קבוצת לקוח,module,Mirasvit_Rewards
+Action,פעולה,module,Mirasvit_Rewards
+Code,קוד,module,Mirasvit_Rewards
+Is expired,פג תוקפו,module,Mirasvit_Rewards
+Is sent,נשלח,module,Mirasvit_Rewards
+Amount Used,הסכום המשומש,module,Mirasvit_Rewards
+Are you sure?,האם אתה בטוח?,module,Mirasvit_Rewards
+Checkout now and earn <b> %1 </b> for this order.,הזמינו עכשיו ותרוויחו <b> %1 </ b> נקודות חבר מועדון,module,Mirasvit_Rewards
+"Applies only to registered customers, may vary when logged in.","נקודות חבר מועדון קיימות עבור לקוחות רשומים בלבד, עלייך להתחבר או ליצור חשבון",module,Mirasvit_Rewards
+Possible discount %1 %2,הנחה אפשרית%1%,module,Mirasvit_Rewards
+Earn %1 %2,להרוויח %2 %1,module,Mirasvit_Rewards
+Grid,גריד (רשת),module,Mirasvit_Rewards
+List,רשימה,module,Mirasvit_Rewards
+All,את הכל,module,Mirasvit_Rewards
+Referral %1,הפניה %1,module,Mirasvit_Rewards
+Something went wrong while saving your subscription.,משהו השתבש כששמרת את המנוי שלך.,module,Mirasvit_Rewards
+We removed your subscription on expiring points notification.,הסרנו את המנוי שלך בתוקף התראה על נקודות.,module,Mirasvit_Rewards
+New Earning Rule,כלל צבירה חדש,module,Mirasvit_Rewards
+Earning Rule was successfully deleted,כלל צבירה נמחק בהצלחה,module,Mirasvit_Rewards
+Edit Earning Rule ' %1 ',"ערוך כלל צבירה "" %1 """,module,Mirasvit_Rewards
+The Earning Rule does not exist.,כלל צבירה אינו קיים.,module,Mirasvit_Rewards
+Total of %1 record(s) were successfully updated,סך רשומות %1 עודכנו בהצלחה,module,Mirasvit_Rewards
+Please select Earning Rule(s),אנא בחר כלל(י) צבירה,module,Mirasvit_Rewards
+Total of %1 record(s) were successfully deleted,סך שיא %1 (ים) נמחקו בהצלחה,module,Mirasvit_Rewards
+Earning Rule was successfully saved,כלל הצבירה נשמר בהצלחה,module,Mirasvit_Rewards
+Unable to find Earning Rule to save,לא ניתן למצוא כלל צבירה לשמירה,module,Mirasvit_Rewards
+New Notification Rule,כלל התראה חדש,module,Mirasvit_Rewards
+Notification Rule was successfully deleted,כלל התראה נמחק בהצלחה,module,Mirasvit_Rewards
+Edit Notification Rule ' %1 ',"ערוך כלל התראות "" %1 """,module,Mirasvit_Rewards
+The Notification Rule does not exist.,כלל שליחת התראות אינו קיים.,module,Mirasvit_Rewards
+Please select Notification Rule(s),אנא בחר כלל התראה (ות),module,Mirasvit_Rewards
+Notification Rule was successfully saved,כלל התראות נשמר בהצלחה,module,Mirasvit_Rewards
+Unable to find Notification Rule to save,לא ניתן למצוא כלל התראות כדי לשמור,module,Mirasvit_Rewards
+Please select Referral(s),אנא בחר פנייה (ות),module,Mirasvit_Rewards
+Statistics was successfully updated,הסטטיסטיקה עודכנה בהצלחה,module,Mirasvit_Rewards
+Database error. Please contact developers.,שגיאה במסד נתונים. אנא צור קשר עם המפתח.,module,Mirasvit_Rewards
+Rewards,תגמולים,module,Mirasvit_Rewards
+You have not any statistic. Please refresh statistic.,אין לך שום נתון. אנא רענן נתונים.,module,Mirasvit_Rewards
+New Spending Rule,כלל הוצאה חדש,module,Mirasvit_Rewards
+Spending Rule was successfully deleted,כלל ההוצאה נמחק בהצלחה,module,Mirasvit_Rewards
+Edit Spending Rule ' %1 ',"ערוך כלל הוצאה "" %1 """,module,Mirasvit_Rewards
+The Spending Rule does not exist.,כלל ההוצאה אינו קיים.,module,Mirasvit_Rewards
+Please select Spending Rule(s),אנא בחר כלל(י) הוצאה,module,Mirasvit_Rewards
+Field 'Spend maximum' can not be less or equal then field 'Spend minimum',שדה 'הוצאה מקסימלית' לא יכול להיות פחות או שווה משדה 'הוצאה מינימלית',module,Mirasvit_Rewards
+Spending Rule was successfully saved,כלל ההוצאה נשמרה בהצלחה,module,Mirasvit_Rewards
+Unable to find Spending Rule to save,לא ניתן למצוא כלל(י) הוצאות לשמירה,module,Mirasvit_Rewards
+New Transaction,עסקה חדשה,module,Mirasvit_Rewards
+Transaction was successfully deleted,העסקה נמחקה בהצלחה,module,Mirasvit_Rewards
+Please select Transaction(s),אנא בחר עסקה,module,Mirasvit_Rewards
+Transaction was successfully saved,העסקה נשמרה בהצלחה,module,Mirasvit_Rewards
+Unable to find Transaction to save,לא ניתן למצוא עסקה לשמירה,module,Mirasvit_Rewards
+Cannot apply points.,לא ניתן להחיל נקודות.,module,Mirasvit_Rewards
+You've earned %1 for Facebook Like!,הרווחת %1 עבור לייק בפייסבוק!,module,Mirasvit_Rewards
+You've earned %1 for Facebook Share!,הרווחת %1 עבור שיתוף פייסבוק!,module,Mirasvit_Rewards
+Facebook Like Points has been canceled,בוטלו הנקודות מלייק בפייסבוק,module,Mirasvit_Rewards
+You've earned %1 for Google+!,רווח %1 עבור Google+!,module,Mirasvit_Rewards
+G+1 Points has been canceled,G + 1 נקודות בוטלו,module,Mirasvit_Rewards
+You've earned %1 for Pin!,הרווחת %1 עבור Pin!,module,Mirasvit_Rewards
+Invalid form key. Try again,מפתח טופס לא חוקי. נסה שוב,module,Mirasvit_Rewards
+Customer with email %1 has been already invited to our store,לקוחות עם אימייל %1 הוזמנו כבר לחנות שלנו,module,Mirasvit_Rewards
+Your invitations were sent. Thanks!,ההזמנות שלך נשלחו. תודה!,module,Mirasvit_Rewards
+You've earned %1 for Tweet!,רווח %1 עבור ציוץ!,module,Mirasvit_Rewards
+You received %1 for signing up,תקבל %1 שנרשם,module,Mirasvit_Rewards
+You received %1 for sending this product,תקבל %1 לשליחת מוצר זה,module,Mirasvit_Rewards
+You received %1 for sign up for newsletter,תקבל %1 עבור הרשמה לניוזלטר,module,Mirasvit_Rewards
+You received %1 for sign up for push notifications,תקבל %1 עבור הרשמה בשביל העברת הודעות בדחיפה,module,Mirasvit_Rewards
+You will receive %1 after approving of this tag,אתה תקבל %1 לאחר אישור של תג זה,module,Mirasvit_Rewards
+You will receive %1 after approving of this review,אתה תקבל %1 לאחר אישור של סקירה זו,module,Mirasvit_Rewards
+You received %1 for sign up of referral customer.,תקבל %1 עבור הרשמה של לקוח הפניה.,module,Mirasvit_Rewards
+You received %1 for order of referral customer.,תקבל %1 עבור סדר לקוח הפניה.,module,Mirasvit_Rewards
+Happy birthday! You received %1 .,יום הולדת שמח! תקבל %1.,module,Mirasvit_Rewards
+You received %1 for joining the affiliate program.,תקבל %1 להצטרפות לתכנית השותפים.,module,Mirasvit_Rewards
+%1 were applied.,%1 הוחל.,module,Mirasvit_Rewards
+Minimum number is %1 .,מספר המינימום הוא %1.,module,Mirasvit_Rewards
+Maximum number is %1 .,מספר מרבי הוא %1.,module,Mirasvit_Rewards
+%1 was canceled.,%1 בוטלו.,module,Mirasvit_Rewards
+Cannot apply %1 .,לא ניתן להחיל %1.,module,Mirasvit_Rewards
+You can use the following variables:,אתה יכול להשתמש במשתנים הבאים:,module,Mirasvit_Rewards
+Pattern,תבנית,module,Mirasvit_Rewards
+Attribute Value,ערך תכונה,module,Mirasvit_Rewards
+Default,ברירת מחדל,module,Mirasvit_Rewards
+Integer,מספר שלם,module,Mirasvit_Rewards
+Price,מחיר,module,Mirasvit_Rewards
+Strip Tags,רצועת תגיות,module,Mirasvit_Rewards
+Primary Attributes,תכונות ראשיות,module,Mirasvit_Rewards
+Stock Attributes,תכונות מלאי,module,Mirasvit_Rewards
+Prices & Taxes,מחירים & מסים,module,Mirasvit_Rewards
+Images,תמונות,module,Mirasvit_Rewards
+Custom Attributes,מאפיינים מותאמים,module,Mirasvit_Rewards
+Mapping,מיפוי,module,Mirasvit_Rewards
+Category,קטגוריה,module,Mirasvit_Rewards
+Amasty Meta Tags,תגיות מטא Amasty,module,Mirasvit_Rewards
+Others Attributes,תכונות אחרות,module,Mirasvit_Rewards
+Flexible,גמיש,module,Mirasvit_Rewards
+Fixed,קבוע,module,Mirasvit_Rewards
+Customer signs up in store,הלקוח נרשם לחנות,module,Mirasvit_Rewards
+Customer places order,הלקוח מבצע הזמנה,module,Mirasvit_Rewards
+Customer refer a friend,הלקוח מפנה חבר,module,Mirasvit_Rewards
+Customer adds tag to a product,הלקוח מוסיף תג למוצר,module,Mirasvit_Rewards
+Customer writes a product review,הלקוח כותב ביקורת מוצר,module,Mirasvit_Rewards
+Customer has a birthday,ללקוח יש יום הולדת,module,Mirasvit_Rewards
+Customer is inactive for long time,הלקוח אינו פעיל במשך זמן רב,module,Mirasvit_Rewards
+Newsletter sign up,הרשמה לניוזלטר,module,Mirasvit_Rewards
+Facebook Share,שיתוף בפייסבוק,module,Mirasvit_Rewards
+Facebook Like,פייסבוק לייק,module,Mirasvit_Rewards
+Twitter Tweet,ציוץ טוויטר,module,Mirasvit_Rewards
+Google+ Like,לייק Google+,module,Mirasvit_Rewards
+Pinterest Pin,Pinterest Pin,module,Mirasvit_Rewards
+Customer joins the affiliate program,הלקוח מצטרף לתוכנית השותפים,module,Mirasvit_Rewards
+Push Notifications sign up,הרשמה להתראות,module,Mirasvit_Rewards
+Referred customer signs up in store,לקוחות שהופנו נרשמים לחנות,module,Mirasvit_Rewards
+Order from referred customer,הזמנה מהלקוח שהופנה,module,Mirasvit_Rewards
+Points to Currency,מנקודות למטבע,module,Mirasvit_Rewards
+Currency to Points,ממטבע לנקודות,module,Mirasvit_Rewards
+Customer Account > My Reward Points,חשבון לקוח > נקודות התגמול שלי,module,Mirasvit_Rewards
+Customer Account > My Referrals,חשבון לקוח > הפניות שלי,module,Mirasvit_Rewards
+Cart Page,עמוד סל הקניות,module,Mirasvit_Rewards
+Message Sent,הודעה נשלחה,module,Mirasvit_Rewards
+Signed Up,נרשם,module,Mirasvit_Rewards
+Made Order,עשה הזמנה,module,Mirasvit_Rewards
+Visited by Referral Link,ביקר בקישור הפניה,module,Mirasvit_Rewards
+Subtotal + Tax,סיכום ביניים + מס,module,Mirasvit_Rewards
+Subtotal + Tax + Shipping,סיכום ביניים + מס + משלוח,module,Mirasvit_Rewards
+Product Rule,חוק מוצר,module,Mirasvit_Rewards
+Cart Rule,כלל סל הקניות,module,Mirasvit_Rewards
+Behavior Rule,כלל התנהגות,module,Mirasvit_Rewards
+Transaction # %1 is expired,#עסקת %1 פג תוקפה,module,Mirasvit_Rewards
+Update the Product,לעדכן את המוצר,module,Mirasvit_Rewards
+Is Rewards Points used,האם משתמשים בנקודות תגמולים,module,Mirasvit_Rewards
+Coupon Used,השתמש בקופון,module,Mirasvit_Rewards
+Coupon Code,קוד קופון,module,Mirasvit_Rewards
+No,לא,module,Mirasvit_Rewards
+Yes,כן,module,Mirasvit_Rewards
+Conditions Combination,שילוב תנאים,module,Mirasvit_Rewards
+Product attribute combination,שילוב מאפייני המוצר,module,Mirasvit_Rewards
+Products subselection,תת-בחירת מוצרים,module,Mirasvit_Rewards
+Conditions combination,שילוב תנאים,module,Mirasvit_Rewards
+Cart Attribute,תכונת סל הקניות,module,Mirasvit_Rewards
+Customer,צרכן,module,Mirasvit_Rewards
+Last 7-days Clicks,קליקים ב 7 הימים האחרונים,module,Mirasvit_Rewards
+Last 7-days Orders,הזמנות ב 7 הימים האחרונים,module,Mirasvit_Rewards
+Last 7-days Revenue,הכנסות ב 7 ימים אחרונים,module,Mirasvit_Rewards
+Is Referee,הוא שופט,module,Mirasvit_Rewards
+Is Referral,הוא הפניה,module,Mirasvit_Rewards
+Email,אימייל,module,Mirasvit_Rewards
+Group,קבוצה,module,Mirasvit_Rewards
+Lifetime Sales,מכירות לכל החיים,module,Mirasvit_Rewards
+Lifetime Spent Points,נקודות בחיים לכל החיים,module,Mirasvit_Rewards
+Number of Orders,מספר ההזמנות,module,Mirasvit_Rewards
+Is subscriber of newsletter,האם הוא מנוי של הניוזלטר,module,Mirasvit_Rewards
+Number of reviews,מספר ביקורות,module,Mirasvit_Rewards
+Number of referred friends signups,מספר ההרשמות לחברים שהופנו,module,Mirasvit_Rewards
+Number of referred friends orders,מספר הזמנות החברים שהופנו,module,Mirasvit_Rewards
+Sum of referred friends orders,סכום הזמנות החברים שהופנו,module,Mirasvit_Rewards
+Number of referrals who ordered at least once,מספר הפניות שהזמינו לפחות פעם אחת,module,Mirasvit_Rewards
+Not registered,לא רשום,module,Mirasvit_Rewards
+Attribute Set,סט תכונות,module,Mirasvit_Rewards
+Quantity,כמות,module,Mirasvit_Rewards
+Product Type,סוג המוצר,module,Mirasvit_Rewards
+Base Image,תמונת בסיס,module,Mirasvit_Rewards
+Thumbnail,תמונה ממוזערת,module,Mirasvit_Rewards
+Small Image,תמונה קטנה,module,Mirasvit_Rewards
+Base Image Size (bytes),גודל תמונה בסיסית (בתים),module,Mirasvit_Rewards
+Thumbnail Size (bytes),גודל תמונה ממוזערת (בתים),module,Mirasvit_Rewards
+Small Image Size (bytes),גודל תמונה קטנה (בתים),module,Mirasvit_Rewards
+PHP Condition,תנאי PHP,module,Mirasvit_Rewards
+Base Price,מחיר בסיסי,module,Mirasvit_Rewards
+Final Price,מחיר אחרון,module,Mirasvit_Rewards
+Special Price,מחיר מיוחד,module,Mirasvit_Rewards
+Open Chooser,בוחר פתוח,module,Mirasvit_Rewards
+Referred: Group,הפניות: קבוצה,module,Mirasvit_Rewards
+Referred: Lifetime Sales,הפניות: מכירות לכל החיים,module,Mirasvit_Rewards
+Referred: Number of Orders,הפניות: מספר ההזמנות,module,Mirasvit_Rewards
+Referred: Is subscriber of newsletter,הפניות: האם מנוי של הניוזלטר,module,Mirasvit_Rewards
+Referred: Number of reviews,הפניות: מספר ביקורות,module,Mirasvit_Rewards
+Please specify a website.,ציין אתר אינטרנט.,module,Mirasvit_Rewards
+Please specify a customer email.,"אנא ציין דוא""ל לקוח.",module,Mirasvit_Rewards
+We found an invalid value in a website column.,מצאנו ערך לא חוקי בעמודת אתר.,module,Mirasvit_Rewards
+Please enter a valid email.,נא להזין כתובת דואר אלקטרוני תקינה.,module,Mirasvit_Rewards
+"Please make sure attribute "" %1 "" is not empty.",אנא וודא שהתכונה '%1' אינה ריקה.,module,Mirasvit_Rewards
+We can't find a customer who matches this email and website code.,"איננו יכולים למצוא לקוח שמתאים לדוא""ל וקוד אתר זה.",module,Mirasvit_Rewards
+-- Please Select --,-- תבחר בבקשה --,module,Mirasvit_Rewards
+Discount Used,הנחה בשימוש,module,Mirasvit_Rewards
+Custom Product Attributes,תכונות מוצר מותאמות אישית,module,Mirasvit_Rewards
+- Disable these emails -,- השבת את האימיילים האלה -,module,Mirasvit_Rewards
+Give X points to customer,תן נקודות X ללקוח,module,Mirasvit_Rewards
+Give X points for every spent Y,תן X נקודות עבור כל Y שהוצא,module,Mirasvit_Rewards
+Give X points for every Z quantity,תן X נקודות לכל כמות Z,module,Mirasvit_Rewards
+"For every Y, give X points","עבור כל Y, תן X נקודות",module,Mirasvit_Rewards
+Pending,ממתין ל,module,Mirasvit_Rewards
+Approved,אושר,module,Mirasvit_Rewards
+Discarded,מושלך,module,Mirasvit_Rewards
+You do not have permissions to create transactions. Please contact your site administrator.,אין לך הרשאות ליצור עסקאות. אנא צור קשר עם מנהל האתר שלך.,module,Mirasvit_Rewards
+%1 has been added.,%1 נוספו.,module,Mirasvit_Rewards
+%1 has been deducted.,%1 נוכו.,module,Mirasvit_Rewards
+You earned %1 and spent %2 for this order.,צברת %1 ומימשת %2 עבור הזמנה זו.,module,Mirasvit_Rewards
+You spent %1 for this order.,אתה מימשת %1 עבור הזמנה זו.,module,Mirasvit_Rewards
+You earned %1 for this order.,צברת %1 עבור הזמנה זו.,module,Mirasvit_Rewards
+Earned points will be enrolled to your account after we finish processing your order.,נקודות שרווחת תהיינה רשומות על חשבונך לאחר שנסיים לעבד את ההזמנה שלך.,module,Mirasvit_Rewards
+Rewards error occurred on the server. Please try to place the order again.,שגיאת תגמולים התרחשה בשרת. אנא נסה לבצע את ההזמנה שוב.,module,Mirasvit_Rewards
+Earn at least %1 %2,להרוויח לפחות %1 %2,module,Mirasvit_Rewards
+Edit,עריכה,module,Mirasvit_Rewards
+Back,חזור,module,Mirasvit_Rewards
+Are you sure you want to do this?,האם אתה בטוח שאתה רוצה לעשות את זה?,module,Mirasvit_Rewards
+Reset,איפוס,module,Mirasvit_Rewards
+Save and Continue Edit,שמור והמשך עריכה,module,Mirasvit_Rewards
+"Delete the record with ID ""${ $.$data.transaction_id }""","מחק את הרשומה עם המזהה ""${ $.$data.transaction_id }""",module,Mirasvit_Rewards
+"Are you sure you wan't to delete the record with ID ""${ $.$data.transaction_id }""?","האם אתה בטוח שלא תרצה למחוק את הרשומה עם המזהה ""$ {$. $ Data.transaction_id}""?",module,Mirasvit_Rewards
+Use Reward Points,השתמש בנקודות תגמול,module,Mirasvit_Rewards
+%1 have <b>%2</b> available.,ל-%1 יש <b>%2</b> זמינים.,module,Mirasvit_Rewards
+Enter amount of points to spend:,הזן את כמות הנקודות שתוציא:,module,Mirasvit_Rewards
+Apply Points,ממש נקודות,module,Mirasvit_Rewards
+Cancel Points,בטל מימוש נקודות,module,Mirasvit_Rewards
+Use maximum %1,השתמש בכל %1,module,Mirasvit_Rewards
+Points Summary,סיכום נקודות,module,Mirasvit_Rewards
+To unsubscribe from points expiring notification click %1,כדי לבטל את מנוי נקודות שפגו תוקפם לחץ על %1 בהתראה,module,Mirasvit_Rewards
+You have <b> %1 </b> in your account.,יש לך <b>%1 </b> בחשבונך.,module,Mirasvit_Rewards
+Transactions History,היסטורית עסקות,module,Mirasvit_Rewards
+Points,נקודות,module,Mirasvit_Rewards
+Created,תאריך,module,Mirasvit_Rewards
+Expires,פג תוקף,module,Mirasvit_Rewards
+There are no Transactions.,אין עסקאות.,module,Mirasvit_Rewards
+Pending Transactions,עסקאות בהמתנה,module,Mirasvit_Rewards
+Order,להזמין,module,Mirasvit_Rewards
+Status,סטטוס,module,Mirasvit_Rewards
+Your points balance will expire in %1 days.,יתרת הנקודות שלך תפוג בעוד%1 ימים.,module,Mirasvit_Rewards
+Visit My Reward Points Section,בקר באזור נקודות התגמול שלי,module,Mirasvit_Rewards
+Login to earn %1 for sharing!,התחבר כדי להרוויח %1 לשיתוף!,module,Mirasvit_Rewards
+Earn %1 for sharing!,להרוויח %1 לשיתוף!,module,Mirasvit_Rewards
+Like this page and earn %1,תלחץ על אהבתי לדף הזה ותרוויח %1,module,Mirasvit_Rewards
+Share,שתף,module,Mirasvit_Rewards
+Share this page and earn %1,שתף דף זה ותרוויח %1,module,Mirasvit_Rewards
+Plus this page and earn %1,פלוס בדף זה ותרוויח %1,module,Mirasvit_Rewards
+Pin this page and earn %1,לחץ על הצמד (Pin) לדף זה ותרוויח %1,module,Mirasvit_Rewards
+Refer Friends,הפנה חברים,module,Mirasvit_Rewards
+Refer friend and earn %1 . More friends more points!,הפנה חבר ותרוויח %1. עוד חברים יותר נקודות!,module,Mirasvit_Rewards
+Tweet,צִיוּץ,module,Mirasvit_Rewards
+Tweet this page and earn %1,צייץ דף זה ותרוויח %1,module,Mirasvit_Rewards
+Check this out!,בדוק את זה!,module,Mirasvit_Rewards
+You have <b> %1 </b> available.,יש לך <b> %1 </ b>,module,Mirasvit_Rewards
+Apply,החל,module,Mirasvit_Rewards
+Cancel,בטל,module,Mirasvit_Rewards
+Use %1,השתמש ב%1,module,Mirasvit_Rewards
+You Earn,נקודות שתרוויח בהזמנה זו,module,Mirasvit_Rewards
+You Spend,מימוש נקודות:,module,Mirasvit_Rewards
+Discount amount,כמות ההנחה,module,Mirasvit_Rewards
+This is a required field,זהו שדה נדרש,module,Mirasvit_Rewards
+Subscription to Points Expiration Notification,הרשמה להודעת פקיעת נקודות,module,Mirasvit_Rewards
+Earning %1,מרוויח %1,module,Mirasvit_Rewards
+Buy to earn %1,קנה כדי להרוויח %1,module,Mirasvit_Rewards
+You'll earn %1 for this item,אתה תרוויח %1 עבור פריט זה,module,Mirasvit_Rewards
+Share with Friends,לשתף עם חברים,module,Mirasvit_Rewards
+Share the referral link in the social media and get points!,שתפו את קישור ההפניה במדיה החברתית וקבלו נקודות!,module,Mirasvit_Rewards
+Tweet on Twitter,ציוץ בטוויטר,module,Mirasvit_Rewards
+Your referral link:,קישור ההפניה שלך:,module,Mirasvit_Rewards
+Send Invitations,לשלוח הזמנות,module,Mirasvit_Rewards
+Enter contacts of your friends to invite them.,הכנס אנשי קשר של חבריך כדי להזמין אותם.,module,Mirasvit_Rewards
+Name,שם,module,Mirasvit_Rewards
+Message,הודעה,module,Mirasvit_Rewards
+Referrals,הפניות,module,Mirasvit_Rewards
+Referred by link,מופנה בקישור,module,Mirasvit_Rewards
+There are no Referrals,אין הפניות,module,Mirasvit_Rewards
+You have,יש לך,module,Mirasvit_Rewards
+available.,זמין.,module,Mirasvit_Rewards
+Use maximum,השתמש במקסימום,module,Mirasvit_Rewards
+Enter amount of points to spend,הזן סכום של נקודות להוציא,module,Mirasvit_Rewards
+Use,להשתמש,module,Mirasvit_Rewards
+Point Unit Name,שם יחידת הנקודה,module,Mirasvit_Rewards
+"Reward points expire after, days",נקודות תגמול פוגות לאחר ימים,module,Mirasvit_Rewards
+Approve earned points on invoice,אשר נקודות שנצברו בחשבונית,module,Mirasvit_Rewards
+Approve earned points on shipment,אשר נקודות שנצברו במשלוח,module,Mirasvit_Rewards
+Approve earned points if order has status,אשר נקודות שהרווחת אם להזמנה יש מעמד,module,Mirasvit_Rewards
+Cancel earned points after order refunding,בטל נקודות שהושגו לאחר החזר ההזמנה,module,Mirasvit_Rewards
+Restore spent points after order refunding,שחזר נקודות שהוצאו לאחר החזר ההזמנה,module,Mirasvit_Rewards
+Include discount for Earning rules,כלול הנחה לכללי הצבירה,module,Mirasvit_Rewards
+Include tax for Earning rules,כולל מס עבור כללי צבירה,module,Mirasvit_Rewards
+Include tax for Spending rules,כלול מס עבור כללי ההוצאה,module,Mirasvit_Rewards
+Allow to earn points from shipping charges,אפשר להרוויח נקודות מדמי משלוח,module,Mirasvit_Rewards
+Allow to spend points for shipping charges,אפשר להוציא נקודות עבור דמי משלוח,module,Mirasvit_Rewards
+Allow to place orders with grand total = 0,אפשר לבצע הזמנות בסך הכל = 0,module,Mirasvit_Rewards
+Allow to display product points as currency equivalent,אפשר להציג נקודות מוצר כשוות מטבע,module,Mirasvit_Rewards
+Allow to display maximum amount of possible points for configurable product,אפשר להציג את הכמות המרבית של נקודות אפשריות עבור מוצר מורכב,module,Mirasvit_Rewards
+Email Sender,"שולח דוא""ל",module,Mirasvit_Rewards
+Balance update Email,"דוא""ל עדכון יתרה",module,Mirasvit_Rewards
+Points expire Email,"דוא""ל לתפוגת הנקודות",module,Mirasvit_Rewards
+Send notification before points expiring (in days),שלח התראה לפני שפג תוקפן של הנקודות (ימים),module,Mirasvit_Rewards
+Enable Referral System,אפשר הפניית מערכת,module,Mirasvit_Rewards
+Invitation Email Template,"תבנית הזמנה לדוא""ל",module,Mirasvit_Rewards
+Show rewards points menu on frontend,הצג תפריט נקודות תגמול באתר,module,Mirasvit_Rewards
+Show rewards points on category page,הצג נקודות תגמול בדף הקטגוריה,module,Mirasvit_Rewards
+Show number of points on the product page,הצג את מספר הנקודות בעמוד המוצר,module,Mirasvit_Rewards
+Show pending transactions in customer account,הצג עסקאות ממתינות בחשבון הלקוח,module,Mirasvit_Rewards
+Round earning points down,נקודות הרווח עגולות כלפי מטה,module,Mirasvit_Rewards
+Custom Behavior Events,אירועי התנהגות מותאם אישית,module,Mirasvit_Rewards
+Force to apply styles,הכרח להחיל סגנונות,module,Mirasvit_Rewards
+Social Networks Settings,הגדרות רשתות חברתיות,module,Mirasvit_Rewards
+Facebook App ID,מזהה אפליקציית פייסבוק,module,Mirasvit_Rewards
+Show Facebook Like button,הצג כפתור 'אהבתי' בפייסבוק,module,Mirasvit_Rewards
+Show Facebook Share button,הצג כפתור שתף בפייסבוק,module,Mirasvit_Rewards
+Show Twitter Follow button,הצג כפתור עקוב אחר הטוויטר,module,Mirasvit_Rewards
+Show Google Plus +1 button,הצג את כפתור 1+ של גוגל פלוס,module,Mirasvit_Rewards
+Show Pinterest pin button,הצג כפתור Pin של Pinterest,module,Mirasvit_Rewards
+Show AddThis,AddThis הצג,module,Mirasvit_Rewards
+AddThis Code,קוד AddThis,module,Mirasvit_Rewards
+Notification Rules' messages,הודעות כללי התראות,module,Mirasvit_Rewards
+Template,תבנית,module,Mirasvit_Rewards
+Notification Rule Template,תבנית של כלל ההתראות,module,Mirasvit_Rewards
+Phone,טלפון,module,Mirasvit_Rewards
+ZIP,מיקוד,module,Mirasvit_Rewards
+Country,מדינה,module,Mirasvit_Rewards
+State/Province,מדינה / מחוז,module,Mirasvit_Rewards
+Customer Since,לקוח מאז,module,Mirasvit_Rewards
+Web Site,אתר אינטרנט,module,Mirasvit_Rewards
+General Information,מידע כללי,module,Mirasvit_Rewards
+Rule Name,שם החוק,module,Mirasvit_Rewards
+Type,סוג,module,Mirasvit_Rewards
+Is Active,האם פעיל,module,Mirasvit_Rewards
+Active From,פעיל מ,module,Mirasvit_Rewards
+Active To,פעיל עד,module,Mirasvit_Rewards
+Websites,אתרים,module,Mirasvit_Rewards
+Stop further rules processing,הפסק עיבוד כללים נוספים,module,Mirasvit_Rewards
+Priority,עדיפות,module,Mirasvit_Rewards
+Arranged in the ascending order. 0 is the highest.,מסודר בסדר עולה. 0 הוא הגבוה ביותר.,module,Mirasvit_Rewards
+Number of Inactive Days,מספר ימים פעילים,module,Mirasvit_Rewards
+Actions,פעולות,module,Mirasvit_Rewards
+Number of points to give (X),מספר הנקודות שצריך לתת (X),module,Mirasvit_Rewards
+Step (Y),שלב (Y),module,Mirasvit_Rewards
+In base currency,במטבע הבסיס,module,Mirasvit_Rewards
+Quantity Step (Z),שלב כמות (Z),module,Mirasvit_Rewards
+Maximum number of earned points for one customer per day,המספר המרבי של נקודות שנצברו עבור לקוח אחד ליום,module,Mirasvit_Rewards
+Assign customer to Group,הקצה לקוח לקבוצה,module,Mirasvit_Rewards
+Notification,התראה,module,Mirasvit_Rewards
+Message for customer notification email,הודעה ללקוח להתראת דואר אלקטרוני,module,Mirasvit_Rewards
+Customer Earning Style,סגנון רווחי לקוח,module,Mirasvit_Rewards
+Number of Points (X),מספר נקודות (X),module,Mirasvit_Rewards
+Earn Maximum,רווח מקסימלי,module,Mirasvit_Rewards
+Add New,הוסף חדש,module,Mirasvit_Rewards
+Delete items,מחק פריטים,module,Mirasvit_Rewards
+Delete selected items?,למחוק את הפריטים שנבחרו?,module,Mirasvit_Rewards
+Change status,לשנות סטטוס,module,Mirasvit_Rewards
+Enable,אפשר,module,Mirasvit_Rewards
+Disable,בטל,module,Mirasvit_Rewards
+Number of points to earn,מספר הנקודות שצריך להרוויח,module,Mirasvit_Rewards
+Website,אתר אינטרנט,module,Mirasvit_Rewards
+Maximum Distributed Points,מקסימום נקודות מופצות,module,Mirasvit_Rewards
+Show message on,הצג הודעה על,module,Mirasvit_Rewards
+Affiliate Customer,לקוח שותף,module,Mirasvit_Rewards
+Referral Customer,הפניית לקוח,module,Mirasvit_Rewards
+Referral Email,"הפניית דוא""ל",module,Mirasvit_Rewards
+Referral Name,הפניית שם,module,Mirasvit_Rewards
+Store,חנות,module,Mirasvit_Rewards
+For each spent X points,עבור כל X נקודות שהוצאו,module,Mirasvit_Rewards
+Customer receive Y discount,הלקוח מקבל הנחה Y,module,Mirasvit_Rewards
+You can enter amount in base currency or percent. e.g. 100 or 5%.,אתה יכול להזין סכום במטבע בסיס או באחוזים. למשל 100 או 5%.,module,Mirasvit_Rewards
+Spend minimum,הוצאה מינימלית,module,Mirasvit_Rewards
+Spend maximum,הוצאה מקסימלית,module,Mirasvit_Rewards
+Discount,הנחה,module,Mirasvit_Rewards
+Points Balance Change,שינוי יתרת נקודות,module,Mirasvit_Rewards
+CSV,CSV,module,Mirasvit_Rewards
+Excel XML,XML Excel,module,Mirasvit_Rewards
+Referrals List,רשימת הפניות,module,Mirasvit_Rewards
+today,היום,module,Mirasvit_Rewards
+ago,לפני,module,Mirasvit_Rewards
+in %1 %2,ב %1 %2,module,Mirasvit_Rewards
+in %1 days,ב %1 ימים,module,Mirasvit_Rewards
+in %1 day,ב %1 יום,module,Mirasvit_Rewards
+%1 %2 ago,%1 %2 לפני,module,Mirasvit_Rewards
+%1 days ago,לפני %1 ימים,module,Mirasvit_Rewards
+%1 day ago,לפני %1 יום,module,Mirasvit_Rewards
+Will expire %1,יפוג ב %1,module,Mirasvit_Rewards
+Will be ready for use %1,יהיה מוכן לשימוש %1,module,Mirasvit_Rewards
+Expires,פג תוקף,module,Mirasvit_Rewards
+How to earn points,איך לצבור נקודות,module,Mirasvit_Rewards
+You have invited %1 friends,הזמנת %1 חברים,module,Mirasvit_Rewards
+Share the referral link in the social media,שתפו את קישור ההפניה במדיה החברתית,module,Mirasvit_Rewards
+Check this out!,בדוק את זה!,module,Mirasvit_Rewards
+Tweet on Twitter,ציוץ בטוויטר,module,Mirasvit_Rewards
+You may send this link in your messages to anyone,אתה יכול לשלוח קישור זה בהודעות שלך לכל אחד,module,Mirasvit_Rewards
+Page not found.,הדף לא נמצא.,module,Mirasvit_Rewards
+Customer tier up,שכבת לקוח,module,Mirasvit_Rewards
+Customer tier down,שכבת לקוח למטה,module,Mirasvit_Rewards
+sum of earned points,למטה,module,Mirasvit_Rewards
+sum of spent %1,סכום ההוצאה של %1,module,Mirasvit_Rewards
+Customer does not assign to website,הלקוח אינו משויך לאתר,module,Mirasvit_Rewards
+Payment Method,שיטת תשלום,module,Mirasvit_Rewards
+This tier is assign to %1 customer(s). Please reassign customer(s) to other tier.,נדבך זה מוקצה ללקוח(ות) %1. אנא הקצה מחדש לקוח(ות) לרמה אחרת.,module,Mirasvit_Rewards
+You Spend Points,אתה מוציא נקודות,module,Mirasvit_Rewards
+Spend Amount,הוצא סכום,module,Mirasvit_Rewards
+Spend Minimum Points,להוציא נקודות מינימום,module,Mirasvit_Rewards
+Spend Maximum Points,להוציא נקודות מקסימליים,module,Mirasvit_Rewards
+Cannot delete tier with id %1,אי אפשר למחוק רשומה עם מזהה %1,module,Mirasvit_Rewards
+Cannot delete transaction with id %1,אי אפשר למחוק את העסקה עם מזהה %1,module,Mirasvit_Rewards
+"Unable to find tier for customer "" %1 "". Please check tier configuration.","לא ניתן למצוא tier עבור הלקוח ""%1"". אנא בדוק את הגדרות tier.",module,Mirasvit_Rewards
+Set 0 to disable limit,גדר 0 כדי להגביל להשבית,module,Mirasvit_Rewards
+Do not change,אל תשנה,module,Mirasvit_Rewards
+You can enter amount of points or percent. Leave empty to disable.,אתה יכול להזין סכום של נקודות או אחוזים. השאר ריק כדי להשבית.,module,Mirasvit_Rewards
+Tiers,שכבות\רשומות,module,Mirasvit_Rewards
+%1 for each $%2,%1 עבור כל $ %2,module,Mirasvit_Rewards
+All Groups,כל הקבוצות,module,Mirasvit_Rewards
+Points spending style,סגנון הוצאות נקודות,module,Mirasvit_Rewards
+Number of points.,מספר הנקודות.,module,Mirasvit_Rewards
+You can enter amount of points or percent. e.g. 100 or 5%. Leave empty to disable.,אתה יכול להזין סכום של נקודות או אחוזים. למשל 100 או 5%. השאר ריק כדי להשבית.,module,Mirasvit_Rewards
+Minimum sum of spent %1,הסכום המינימלי של הוצאת %1,module,Mirasvit_Rewards
+Minimum points number to reach the tier,מספר נקודות מינימלי כדי להגיע לשכבה\רשומה,module,Mirasvit_Rewards
+"Delete the record with ID "" %1 ""","מחק את הרשומה עם מזהה ""%1""",module,Mirasvit_Rewards
+"Are you sure you wan't to delete the record with ID "" %1 ""?","האם אתה בטוח שאתה רוצה לבצע למחוק את הרשומה עם מזהה ""%1""?",module,Mirasvit_Rewards
+Spend points and receive discounts,לבזבז נקודות ולקבל הנחות,module,Mirasvit_Rewards
+Anonymous visitor,מבקר אנונימי,module,Mirasvit_Rewards
+Or you may send this link in your messages to anyone,או שתוכל לשלוח קישור זה בהודעות שלך לכל אחד,module,Mirasvit_Rewards
+Your Transactions,העסקאות שלך,module,Mirasvit_Rewards
+My Points,הנקודות שלי,module,Mirasvit_Rewards
+Share & Save,שתף ושמור,module,Mirasvit_Rewards
+My Referrals,הפניות שלי,module,Mirasvit_Rewards
+Earned %1 for the order #%2.,צבור %1 עבור הזמנה מספר %2.,module,Mirasvit_Rewards
+Spent %1 for the order #%2.,הוצא %1 להזמנה מספר %2.,module,Mirasvit_Rewards
+Restore spent %1 for the order #%2.,שחזור הוצאה %1 עבור הזמנה מספר %2.,module,Mirasvit_Rewards
+Cancel earned %1 for the order #%2.,בטל צבירה %1 עבור הזמנה מספר %2.,module,Mirasvit_Rewards
+"Refunded %1 (creditmemo #%2, order #%3).","זיכוי עבור %1 (# CreditMemo% 2, הזמנה# %3).",module,Mirasvit_Rewards
+History,היסטוריה,module,Mirasvit_Rewards
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Sorting
+"Enable improved-sorting-graphql module to activate GraphQl and Sorting. Please, run the following command in the SSH: composer require amasty/improved-sorting-graphql","Enable improved-sorting-graphql module to activate GraphQl and Sorting. Please, run the following command in the SSH: composer require amasty/improved-sorting-graphql",module,Amasty_Sorting
+"Enable amasty/yotpo module to activate Yotpo and Sorting. Please, run the following command in the SSH: composer require amasty/yotpo","Enable amasty/yotpo module to activate Yotpo and Sorting. Please, run the following command in the SSH: composer require amasty/yotpo",module,Amasty_Sorting
+Could not rebuild index for empty products array,Could not rebuild index for empty products array,module,Amasty_Sorting
+We can't rebuild the index for an undefined product.,We can't rebuild the index for an undefined product.,module,Amasty_Sorting
+Method object ' . . ' must be implemented by Amasty\Sorting\Api\MethodInterface,Method object ' . . ' must be implemented by Amasty\Sorting\Api\MethodInterface,module,Amasty_Sorting
+$methodObject is not object,$methodObject is not object,module,Amasty_Sorting
+Error while clear index amasty sorting method: ,Error while clear index amasty sorting method: ,module,Amasty_Sorting
+No,No,module,Amasty_Sorting
+Yes,Yes,module,Amasty_Sorting
+"Yes for Catalog, No for Search","Yes for Catalog, No for Search",module,Amasty_Sorting
+--Please Select--,--Please Select--,module,Amasty_Sorting
+Minimal Price,Minimal Price,module,Amasty_Sorting
+Price,Price,module,Amasty_Sorting
+Final Price,Final Price,module,Amasty_Sorting
+Relevance,Relevance,module,Amasty_Sorting
+DESC,DESC,module,Amasty_Sorting
+ASC,ASC,module,Amasty_Sorting
+Sorting Order,Sorting Order,module,Amasty_Sorting
+Drag and drop sorting options in the order you want them to appear for the customers.,Drag and drop sorting options in the order you want them to appear for the customers.,module,Amasty_Sorting
+Add to Cart,Add to Cart,module,Amasty_Sorting
+In stock,In stock,module,Amasty_Sorting
+Out of stock,Out of stock,module,Amasty_Sorting
+Add to Wish List,Add to Wish List,module,Amasty_Sorting
+Add to Compare,Add to Compare,module,Amasty_Sorting
+Availability,Availability,module,Amasty_Sorting
+Improved Sorting,Improved Sorting,module,Amasty_Sorting
+Information,Information,module,Amasty_Sorting
+General,General,module,Amasty_Sorting
+Disable Sorting By,Disable Sorting By,module,Amasty_Sorting
+"Press CTRL+mouse to select multiple values. Bestsellers, Most Viewed &amp; Wishlists use Index. Click <a href=""category_edit_url"" target=""_blank"">here</a> to configure category specific sorting options, select category and open the 'Display Settings'.","Press CTRL+mouse to select multiple values. Bestsellers, Most Viewed &amp; Wishlists use Index. Click <a href=""category_edit_url"" target=""_blank"">here</a> to configure category specific sorting options, select category and open the 'Display Settings'.",module,Amasty_Sorting
+Sort Order,Sort Order,module,Amasty_Sorting
+Sort Attributes Descending by Default,Sort Attributes Descending by Default,module,Amasty_Sorting
+Show Products without Images Last,Show Products without Images Last,module,Amasty_Sorting
+"If it is not important, select `No` to optimize server resources usage.","If it is not important, select `No` to optimize server resources usage.",module,Amasty_Sorting
+Show `Out of Stock` Products Last,Show `Out of Stock` Products Last,module,Amasty_Sorting
+Use qty to determine if the product is `Out of Stock`,Use qty to determine if the product is `Out of Stock`,module,Amasty_Sorting
+Products with the qty < 1 will be shown last regardless of the stock label.,Products with the qty < 1 will be shown last regardless of the stock label.,module,Amasty_Sorting
+Enable debug mode,Enable debug mode,module,Amasty_Sorting
+Sorting by Default,Sorting by Default,module,Amasty_Sorting
+Default Sorting on Search Pages,Default Sorting on Search Pages,module,Amasty_Sorting
+First Sort by,First Sort by,module,Amasty_Sorting
+Then by,Then by,module,Amasty_Sorting
+Default Sorting on Category Pages,Default Sorting on Category Pages,module,Amasty_Sorting
+Synced with Configuration -> Catalog -> Catalog -> Storefront -> Product Listing Sort by,Synced with Configuration -> Catalog -> Catalog -> Storefront -> Product Listing Sort by,module,Amasty_Sorting
+Newest,Newest,module,Amasty_Sorting
+Label,Label,module,Amasty_Sorting
+Attribute Code for the Newest Sorting,Attribute Code for the Newest Sorting,module,Amasty_Sorting
+"Leave empty to use product creation date. If you indicate a custom attribute, make sure `Used in Product Listing` for the attribute is set to `Yes`.","Leave empty to use product creation date. If you indicate a custom attribute, make sure `Used in Product Listing` for the attribute is set to `Yes`.",module,Amasty_Sorting
+Bestsellers,Bestsellers,module,Amasty_Sorting
+Rename sorting option to match your own vision.,Rename sorting option to match your own vision.,module,Amasty_Sorting
+Bestsellers Period (days),Bestsellers Period (days),module,Amasty_Sorting
+Leave empty for life-time statistics.,Leave empty for life-time statistics.,module,Amasty_Sorting
+Custom Bestsellers Attribute,Custom Bestsellers Attribute,module,Amasty_Sorting
+Use to artificially move some products up in the real best sellers list. Leave empty to show real data.,Use to artificially move some products up in the real best sellers list. Leave empty to show real data.,module,Amasty_Sorting
+Exclude Orders Status,Exclude Orders Status,module,Amasty_Sorting
+Products from orders with selected states will not be used in the Bestsellers.,Products from orders with selected states will not be used in the Bestsellers.,module,Amasty_Sorting
+Most viewed,Most viewed,module,Amasty_Sorting
+Most Viewed Period (days),Most Viewed Period (days),module,Amasty_Sorting
+Custom Most Viewed Attribute,Custom Most Viewed Attribute,module,Amasty_Sorting
+Use to artificially move some products up in the real most viewed list. Leave empty to show real data.,Use to artificially move some products up in the real most viewed list. Leave empty to show real data.,module,Amasty_Sorting
+Biggest Saving,Biggest Saving,module,Amasty_Sorting
+Use Percentage for Biggest Saving Sorting,Use Percentage for Biggest Saving Sorting,module,Amasty_Sorting
+Now in Wishlists,Now in Wishlists,module,Amasty_Sorting
+Added to wishlist Period (days),Added to wishlist Period (days),module,Amasty_Sorting
+Top Rated,Top Rated,module,Amasty_Sorting
+Use Yotpo Reviews instead of Magento Reviews,Use Yotpo Reviews instead of Magento Reviews,module,Amasty_Sorting
+Reviews Count,Reviews Count,module,Amasty_Sorting
+Price: high to low,מהזול ליקר,module,Amasty_Sorting
+Price: low to high,מהיקר לזול,module,Amasty_Sorting
+Amasty Improved Sorting - Bestsellers,Amasty Improved Sorting - Bestsellers,module,Amasty_Sorting
+Index Bestsellers. 'Update on Save' - to execute once a day by cron,Index Bestsellers. 'Update on Save' - to execute once a day by cron,module,Amasty_Sorting
+Amasty Improved Sorting - Most Viewed,Amasty Improved Sorting - Most Viewed,module,Amasty_Sorting
+Index Product Views. 'Update on Save' - to execute once a day by cron,Index Product Views. 'Update on Save' - to execute once a day by cron,module,Amasty_Sorting
+Amasty Improved Sorting - Wishlists,Amasty Improved Sorting - Wishlists,module,Amasty_Sorting
+Index Wishlists. 'Update on Save' - to execute once a day by cron,Index Wishlists. 'Update on Save' - to execute once a day by cron,module,Amasty_Sorting
+Amasty Sorting Featured Products,Amasty Sorting Featured Products,module,Amasty_Sorting
+List of Featured Products. Links lead to Product Pages.,List of Featured Products. Links lead to Product Pages.,module,Amasty_Sorting
+Header,Header,module,Amasty_Sorting
+Display Page Control,Display Page Control,module,Amasty_Sorting
+Number of Products per Page,Number of Products per Page,module,Amasty_Sorting
+Sort By,Sort By,module,Amasty_Sorting
+Number of Products to Display,Number of Products to Display,module,Amasty_Sorting
+The number of products is set to 10 by default.,The number of products is set to 10 by default.,module,Amasty_Sorting
+Template,Template,module,Amasty_Sorting
+Products Grid Template,Products Grid Template,module,Amasty_Sorting
+Products Images and Names Template (vert.),Products Images and Names Template (vert.),module,Amasty_Sorting
+Products Names Only Template (vert.),Products Names Only Template (vert.),module,Amasty_Sorting
+Products Images Only Template (vert.),Products Images Only Template (vert.),module,Amasty_Sorting
+Cache Lifetime (Seconds),Cache Lifetime (Seconds),module,Amasty_Sorting
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Amasty_Sorting
+Conditions,Conditions,module,Amasty_Sorting

@@ -8,6 +8,7 @@
 - Amasty_Extrafee
 - Amasty_Gdpr
 - Amasty_GiftCard
+- Amasty_Sorting
 - Amasty_ShopbyBrand
 - Magento_Checkout
 - Magento_Customer
@@ -15,6 +16,7 @@
 - Magento_Tax
 - Magento_Ui
 - Mirasvit_Helpdesk
+- Mirasvit_RewardPoints
 - Mirasvit_SearchAutocomplete
 - Ubertheme_UbMegaMenu
 
