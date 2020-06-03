@@ -1616,12 +1616,12 @@ DESC,DESC,module,Amasty_Sorting
 ASC,ASC,module,Amasty_Sorting
 Sorting Order,Sorting Order,module,Amasty_Sorting
 Drag and drop sorting options in the order you want them to appear for the customers.,Drag and drop sorting options in the order you want them to appear for the customers.,module,Amasty_Sorting
-Add to Cart,Add to Cart,module,Amasty_Sorting
-In stock,In stock,module,Amasty_Sorting
-Out of stock,Out of stock,module,Amasty_Sorting
-Add to Wish List,Add to Wish List,module,Amasty_Sorting
-Add to Compare,Add to Compare,module,Amasty_Sorting
-Availability,Availability,module,Amasty_Sorting
+Add to Cart,הוסף לסל,module,Amasty_Sorting
+In stock,במלאי,module,Amasty_Sorting
+Out of stock,לא במלאי,module,Amasty_Sorting
+Add to Wish List,הוסף ל-wishlist,module,Amasty_Sorting
+Add to Compare,הוסף להשוואה,module,Amasty_Sorting
+Availability,זמינות,module,Amasty_Sorting
 Improved Sorting,Improved Sorting,module,Amasty_Sorting
 Information,Information,module,Amasty_Sorting
 General,General,module,Amasty_Sorting
