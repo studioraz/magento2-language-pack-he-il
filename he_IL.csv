@@ -1184,7 +1184,7 @@ Is expired,פג תוקפו,module,Mirasvit_Rewards
 Is sent,נשלח,module,Mirasvit_Rewards
 Amount Used,הסכום המשומש,module,Mirasvit_Rewards
 Are you sure?,האם אתה בטוח?,module,Mirasvit_Rewards
-Checkout now and earn <b> %1 </b> for this order.,הזמינו עכשיו ותרוויחו <b> %1 </ b> נקודות חבר מועדון,module,Mirasvit_Rewards
+"Checkout now and earn <b class=""message-earn-points-label"">%1</b> for this order.","עבור הזמנה זו תרוויח <b class=""message-earn-points-label"">%1</b>.",module,Mirasvit_Rewards
 "Applies only to registered customers, may vary when logged in.","נקודות חבר מועדון קיימות עבור לקוחות רשומים בלבד, עלייך להתחבר או ליצור חשבון",module,Mirasvit_Rewards
 Possible discount %1 %2,הנחה אפשרית%1%,module,Mirasvit_Rewards
 Earn %1 %2,להרוויח %2 %1,module,Mirasvit_Rewards
@@ -1664,8 +1664,8 @@ Added to wishlist Period (days),Added to wishlist Period (days),module,Amasty_So
 Top Rated,Top Rated,module,Amasty_Sorting
 Use Yotpo Reviews instead of Magento Reviews,Use Yotpo Reviews instead of Magento Reviews,module,Amasty_Sorting
 Reviews Count,Reviews Count,module,Amasty_Sorting
-Price: high to low,מהזול ליקר,module,Amasty_Sorting
-Price: low to high,מהיקר לזול,module,Amasty_Sorting
+Price: high to low,מהיקר לזול,module,Amasty_Sorting
+Price: low to high,מהזול ליקר,module,Amasty_Sorting
 Amasty Improved Sorting - Bestsellers,Amasty Improved Sorting - Bestsellers,module,Amasty_Sorting
 Index Bestsellers. 'Update on Save' - to execute once a day by cron,Index Bestsellers. 'Update on Save' - to execute once a day by cron,module,Amasty_Sorting
 Amasty Improved Sorting - Most Viewed,Amasty Improved Sorting - Most Viewed,module,Amasty_Sorting
@@ -1688,3 +1688,30 @@ Products Images Only Template (vert.),Products Images Only Template (vert.),modu
 Cache Lifetime (Seconds),Cache Lifetime (Seconds),module,Amasty_Sorting
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.",module,Amasty_Sorting
 Conditions,Conditions,module,Amasty_Sorting
+Can't check requested quantity for products without Source Items support.,Can't check requested quantity for products without Source Items support.,module,Magento_InventorySales
+No linked stock found,No linked stock found,module,Magento_InventorySales
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","We don't have as many quantity as you requested, but we'll back order the remaining %1.",module,Magento_InventorySales
+"Parameter ""object"" must be present.","Parameter ""object"" must be present.",module,Magento_InventorySales
+"Parameter ""sort_order"" must be present for unrequired conditions.","Parameter ""sort_order"" must be present for unrequired conditions.",module,Magento_InventorySales
+Condition have to implement IsProductSalableInterface.,Condition have to implement IsProductSalableInterface.,module,Magento_InventorySales
+Backorders are disabled,Backorders are disabled,module,Magento_InventorySales
+The fewest you may purchase is %1,The fewest you may purchase is %1,module,Magento_InventorySales
+The requested qty exceeds the maximum qty allowed in shopping cart,The requested qty exceeds the maximum qty allowed in shopping cart,module,Magento_InventorySales
+You can buy this product only in quantities of %1 at a time.,You can buy this product only in quantities of %1 at a time.,module,Magento_InventorySales
+You cannot use decimal quantity for this product.,You cannot use decimal quantity for this product.,module,Magento_InventorySales
+"Parameter ""sort_order"" must be present for urequired conditions.","Parameter ""sort_order"" must be present for urequired conditions.",module,Magento_InventorySales
+Condition have to implement IsProductSalableForRequestedQtyInterface.,Condition have to implement IsProductSalableForRequestedQtyInterface.,module,Magento_InventorySales
+The requested sku is not assigned to given stock.,The requested sku is not assigned to given stock.,module,Magento_InventorySales
+The requested sku is not assigned to given stock,The requested sku is not assigned to given stock,module,Magento_InventorySales
+The requested qty is not available,הכמות שבחרת אינה זמינה במלאי,module,Magento_InventorySales
+Manage stock is enabled,Manage stock is enabled,module,Magento_InventorySales
+Condition must implement %1,Condition must implement %1,module,Magento_InventorySales
+"""%field"" can not be empty.","""%field"" can not be empty.",module,Magento_InventorySales
+"The website with code ""%code"" does not exist.","The website with code ""%code"" does not exist.",module,Magento_InventorySales
+$scopeId is required,$scopeId is required,module,Magento_InventorySales
+$websiteId parameter is required,$websiteId parameter is required,module,Magento_InventorySales
+Could not load Sales Channels for Stock,Could not load Sales Channels for Stock,module,Magento_InventorySales
+Stock has at least one sale channel and could not be deleted.,Stock has at least one sale channel and could not be deleted.,module,Magento_InventorySales
+Could not replace Sales Channels for Stock,Could not replace Sales Channels for Stock,module,Magento_InventorySales
+Wrong condition.,Wrong condition.,module,Magento_InventorySales
+There are no source items with the in stock status,There are no source items with the in stock status,module,Magento_InventorySales
