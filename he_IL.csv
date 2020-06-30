@@ -712,7 +712,6 @@ Close Ticket,סגור כרטיס,module,Mirasvit_Helpdesk
 History,הִיסטוֹרִיָה,module,Mirasvit_Helpdesk
 Back to My Tickets,חזרה אל הכרטיסים שלי,module,Mirasvit_Helpdesk
 Help Desk MX,Help Desk MX,module,Mirasvit_Helpdesk
-Contact Us,צור קשר,module,Mirasvit_Helpdesk
 Open,לִפְתוֹחַ,module,Mirasvit_Helpdesk
 Subject,נושא,module,Mirasvit_Helpdesk
 Last Activity,פעילות אחרונה,module,Mirasvit_Helpdesk
@@ -1715,3 +1714,6 @@ Stock has at least one sale channel and could not be deleted.,Stock has at least
 Could not replace Sales Channels for Stock,Could not replace Sales Channels for Stock,module,Magento_InventorySales
 Wrong condition.,Wrong condition.,module,Magento_InventorySales
 There are no source items with the in stock status,There are no source items with the in stock status,module,Magento_InventorySales
+Contact Us,צרו קשר,module,Mirasvit_Helpdesk
+"You must login or register to add items to your wishlist.","עליך להתחבר או להירשם כדי להוסיף פריטים לרשימת המשאלות שלך."
+"The coupon code isn't valid. Verify the code and try again.","קוד השובר אינו תקף. אמת את הקוד ונסה שוב.",module,Magento_Quote
