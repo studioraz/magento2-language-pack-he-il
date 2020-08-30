@@ -7,6 +7,14 @@
     "AFL-3.0"
   ],
   "type": "magento2-language",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Studio Raz",
+      "email": "support@studioraz.co.il"
+    }
+  ],
   "autoload": {
     "files": [
       "registration.php"
