@@ -1717,3 +1717,150 @@ There are no source items with the in stock status,There are no source items wit
 Contact Us,צרו קשר,module,Mirasvit_Helpdesk
 "You must login or register to add items to your wishlist.","עליך להתחבר או להירשם כדי להוסיף פריטים לרשימת המשאלות שלך."
 "The coupon code isn't valid. Verify the code and try again.","קוד השובר אינו תקף. אמת את הקוד ונסה שוב.",module,Magento_Quote
+Delete,מחק,module,Amasty_GiftWrap
+Are you sure you want to delete this?,בטוח שתרצה למחוק?,module,Amasty_GiftWrap
+Save and Continue Edit,שמור והמשך עריכה,module,Amasty_GiftWrap
+Save,שמור,module,Amasty_GiftWrap
+No,לא,module,Amasty_GiftWrap
+Yes,כן,module,Amasty_GiftWrap
+Gift Wrap,עטיפת מתנה,module,Amasty_GiftWrap
+Gift Message Card,טקסט לברכה,module,Amasty_GiftWrap
+Card Message,כרטיס ברכה,module,Amasty_GiftWrap
+Hidden Prices on Receipt,אני רוצה להסתיר את המחירים על החשבונית,module,Amasty_GiftWrap
+Total,סך הכל,module,Amasty_GiftWrap
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_GiftWrap
+FREE,חינם!,module,Amasty_GiftWrap
+We can't change item right now. Please review the log and try again.,We can't change item right now. Please review the log and try again.,module,Amasty_GiftWrap
+A total of %1 record(s) have been changed.,A total of %1 record(s) have been changed.,module,Amasty_GiftWrap
+No records have been changed.,No records have been changed.,module,Amasty_GiftWrap
+The message card have been deleted.,הטקסט לברכה נמחק,module,Amasty_GiftWrap
+Can't delete message card right now. Please review the log and try again.,לא ניתן למחוק את הטקסט לברכה בשלב הזה,module,Amasty_GiftWrap
+The message card have been duplicated.,הטקסט לברכה שוכפל,module,Amasty_GiftWrap
+Can't duplicate message card right now. Please review the log and try again.,Can't duplicate message card right now. Please review the log and try again.,module,Amasty_GiftWrap
+This Gift Message Card no longer exists.,This Gift Message Card no longer exists.,module,Amasty_GiftWrap
+Manage Gift Message Cards,ערוך את הטקסט לברכה שלך,module,Amasty_GiftWrap
+Edit Gift Message Card # %1,Edit Gift Message Card # %1,module,Amasty_GiftWrap
+New Gift Message Card,New Gift Message Card,module,Amasty_GiftWrap
+Gift Wraps,Gift Wraps,module,Amasty_GiftWrap
+Gift Message Cards,Gift Message Cards,module,Amasty_GiftWrap
+We can't delete item right now. Please review the log and try again.,We can't delete item right now. Please review the log and try again.,module,Amasty_GiftWrap
+A total of %1 record(s) have been deleted.,A total of %1 record(s) have been deleted.,module,Amasty_GiftWrap
+No records have been deleted.,No records have been deleted.,module,Amasty_GiftWrap
+We can't duplicate item right now. Please review the log and try again.,We can't duplicate item right now. Please review the log and try again.,module,Amasty_GiftWrap
+A total of %1 record(s) have been duplicated.,A total of %1 record(s) have been duplicated.,module,Amasty_GiftWrap
+No records have been duplicated.,No records have been duplicated.,module,Amasty_GiftWrap
+The Gift Message Card was successfully saved.,The Gift Message Card was successfully saved.,module,Amasty_GiftWrap
+Something went wrong while saving the gift message card data. Please review the error log.,Something went wrong while saving the gift message card data. Please review the error log.,module,Amasty_GiftWrap
+The wrap have been deleted.,The wrap have been deleted.,module,Amasty_GiftWrap
+Can't delete wrap right now. Please review the log and try again.,Can't delete wrap right now. Please review the log and try again.,module,Amasty_GiftWrap
+The wrap have been duplicated.,The wrap have been duplicated.,module,Amasty_GiftWrap
+Can't duplicate wrap right now. Please review the log and try again.,Can't duplicate wrap right now. Please review the log and try again.,module,Amasty_GiftWrap
+This Wrap no longer exists.,This Wrap no longer exists.,module,Amasty_GiftWrap
+Manage Gift Wraps,Manage Gift Wraps,module,Amasty_GiftWrap
+Edit Gift Wrap # %1,Edit Gift Wrap # %1,module,Amasty_GiftWrap
+New Gift Wrap,New Gift Wrap,module,Amasty_GiftWrap
+The Gift Wrap was successfully saved.,The Gift Wrap was successfully saved.,module,Amasty_GiftWrap
+Something went wrong while saving the gift wrap data. Please review the error log.,Something went wrong while saving the gift wrap data. Please review the error log.,module,Amasty_GiftWrap
+System exception,System exception,module,Amasty_GiftWrap
+Something went wrong while saving the file(s).,Something went wrong while saving the file(s).,module,Amasty_GiftWrap
+Unable to save message card with ID %1. Error: %2,Unable to save message card with ID %1. Error: %2,module,Amasty_GiftWrap
+Unable to save new message card. Error: %1,Unable to save new message card. Error: %1,module,Amasty_GiftWrap
+"Message Card with specified ID ""%1"" not found.","Message Card with specified ID ""%1"" not found.",module,Amasty_GiftWrap
+Unable to remove message card with ID %1. Error: %2,Unable to remove message card with ID %1. Error: %2,module,Amasty_GiftWrap
+Unable to remove  message card. Error: %1,Unable to remove  message card. Error: %1,module,Amasty_GiftWrap
+There are not all store view data. Please create item with store = 0 before.,There are not all store view data. Please create item with store = 0 before.,module,Amasty_GiftWrap
+Copy of ,Copy of ,module,Amasty_GiftWrap
+Product Page,Product Page,module,Amasty_GiftWrap
+Shopping Cart Page,Shopping Cart Page,module,Amasty_GiftWrap
+Checkout Page,Checkout Page,module,Amasty_GiftWrap
+Disabled,Disabled,module,Amasty_GiftWrap
+Enabled,Enabled,module,Amasty_GiftWrap
+None,None,module,Amasty_GiftWrap
+Excluding Tax,Excluding Tax,module,Amasty_GiftWrap
+Including Tax,Including Tax,module,Amasty_GiftWrap
+Including and Excluding Tax,Including and Excluding Tax,module,Amasty_GiftWrap
+Unable to save wrap with ID %1. Error: %2,Unable to save wrap with ID %1. Error: %2,module,Amasty_GiftWrap
+Unable to save new wrap. Error: %1,Unable to save new wrap. Error: %1,module,Amasty_GiftWrap
+"Wrap with specified ID ""%1"" not found.","Wrap with specified ID ""%1"" not found.",module,Amasty_GiftWrap
+Unable to remove wrap with ID %1. Error: %2,Unable to remove wrap with ID %1. Error: %2,module,Amasty_GiftWrap
+Unable to remove wrap. Error: %1,Unable to remove wrap. Error: %1,module,Amasty_GiftWrap
+Need input repository type,Need input repository type,module,Amasty_GiftWrap
+Gift Wrapping,Gift Wrapping,module,Amasty_GiftWrap
+Can't add product %1 for this wrap,Can't add product %1 for this wrap,module,Amasty_GiftWrap
+Kindly note: %1 is not available for wrapping and therefore won't be wrapped.,Kindly note: %1 is not available for wrapping and therefore won't be wrapped.,module,Amasty_GiftWrap
+Kindly note: %1 are not available for wrapping and therefore won't be wrapped.,Kindly note: %1 are not available for wrapping and therefore won't be wrapped.,module,Amasty_GiftWrap
+Available for Wrapping,Available for Wrapping,module,Amasty_GiftWrap
+Edit,Edit,module,Amasty_GiftWrap
+Duplicate,Duplicate,module,Amasty_GiftWrap
+Delete %1,Delete %1,module,Amasty_GiftWrap
+"Are you sure you wan't to delete ""%1"" gift message card?","Are you sure you wan't to delete ""%1"" gift message card?",module,Amasty_GiftWrap
+"Are you sure you wan't to delete ""%1"" gift wrap?","Are you sure you wan't to delete ""%1"" gift wrap?",module,Amasty_GiftWrap
+Most Wanted Wraps,Most Wanted Wraps,module,Amasty_GiftWrap
+Name,Name,module,Amasty_GiftWrap
+Qty Sold,Qty Sold,module,Amasty_GiftWrap
+Revenue,Revenue,module,Amasty_GiftWrap
+Overview,Overview,module,Amasty_GiftWrap
+Add Gift Wrap,הוסף מתנה לחבר,module,Amasty_GiftWrap
+Gift Options,Gift Options,module,Amasty_GiftWrap
+Add,Add,module,Amasty_GiftWrap
+Next,Next,module,Amasty_GiftWrap
+Added Gift Wrap(s),Added Gift Wrap(s),module,Amasty_GiftWrap
+Gift Card,Gift Card,module,Amasty_GiftWrap
+Gift Message,Gift Message,module,Amasty_GiftWrap
+Gift Wrap Option,Gift Wrap Option,module,Amasty_GiftWrap
+Wrap All Available Items,Wrap All Available Items,module,Amasty_GiftWrap
+Choose Items for Wrapping,Choose Items for Wrapping,module,Amasty_GiftWrap
+"Item(s) will be sent packaged in a gift box.
+         Please remember, once enclosed you will be unable to see the contents of the package. ","Item(s) will be sent packaged in a gift box.
+         Please remember, once enclosed you will be unable to see the contents of the package. ",module,Amasty_GiftWrap
+Back,Back,module,Amasty_GiftWrap
+Finish,Finish,module,Amasty_GiftWrap
+New Wrap,New Wrap,module,Amasty_GiftWrap
+Make It a Gift,Make It a Gift,module,Amasty_GiftWrap
+Hidden prices on the recipient’s receipt,Hidden prices on the recipient’s receipt,module,Amasty_GiftWrap
+Choose the Gift Wrap,Choose the Gift Wrap,module,Amasty_GiftWrap
+Qty,Qty,module,Amasty_GiftWrap
+Items Ordered,Items Ordered,module,Amasty_GiftWrap
+No Items Available,No Items Available,module,Amasty_GiftWrap
+Want to Add Gift Message Card? (optional),Want to Add Gift Message Card? (optional),module,Amasty_GiftWrap
+Add Gift Message,Add Gift Message,module,Amasty_GiftWrap
+Please check and confirm the chosen wrapping,Please check and confirm the chosen wrapping,module,Amasty_GiftWrap
+View and Edit Cart,View and Edit Cart,module,Amasty_GiftWrap
+View Details,View Details,module,Amasty_GiftWrap
+Products,Products,module,Amasty_GiftWrap
+Product(s) was added successfully,Product(s) was added successfully,module,Amasty_GiftWrap
+%1 was added successfully,%1 was added successfully,module,Amasty_GiftWrap
+Amasty Gift Wrap,Amasty Gift Wrap,module,Amasty_GiftWrap
+Information,Information,module,Amasty_GiftWrap
+General,General,module,Amasty_GiftWrap
+"Please enable the corresponding setting on per-product level. Click <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:gift-wrap"">here</a> for more information.","Please enable the corresponding setting on per-product level. Click <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:gift-wrap"">here</a> for more information.",module,Amasty_GiftWrap
+Allow to Add Wrap on,Allow to Add Wrap on,module,Amasty_GiftWrap
+Admin's Note for Customers,Admin's Note for Customers,module,Amasty_GiftWrap
+"Here you can greet your customers, tell them more about wrapping peculiarities, encourage to beautifully wrap their purchases, etc. The message will be shown during the whole wrapping process on the storefront.","Here you can greet your customers, tell them more about wrapping peculiarities, encourage to beautifully wrap their purchases, etc. The message will be shown during the whole wrapping process on the storefront.",module,Amasty_GiftWrap
+Enable Dependency of Gift Message on Gift Message Card,Enable Dependency of Gift Message on Gift Message Card,module,Amasty_GiftWrap
+"If set to 'Yes', gift messages will be available for customers only after Gift Card choosing.","If set to 'Yes', gift messages will be available for customers only after Gift Card choosing.",module,Amasty_GiftWrap
+Gift Message Placeholder,Gift Message Placeholder,module,Amasty_GiftWrap
+Leave empty if placeholder is not needed.,Leave empty if placeholder is not needed.,module,Amasty_GiftWrap
+Tax,Tax,module,Amasty_GiftWrap
+Wrap Tax Class Id,Wrap Tax Class Id,module,Amasty_GiftWrap
+Message Card Tax Class Id,Message Card Tax Class Id,module,Amasty_GiftWrap
+Display Wrap Price in Order Total,Display Wrap Price in Order Total,module,Amasty_GiftWrap
+Status,Status,module,Amasty_GiftWrap
+Price,Price,module,Amasty_GiftWrap
+"If left empty or set to '0’, wrap will be marked as FREE on frontend","If left empty or set to '0’, wrap will be marked as FREE on frontend",module,Amasty_GiftWrap
+Sort Order,Sort Order,module,Amasty_GiftWrap
+Add New Gift Message Card,Add New Gift Message Card,module,Amasty_GiftWrap
+Delete items,Delete items,module,Amasty_GiftWrap
+Are you sure to delete selected cards?,Are you sure to delete selected cards?,module,Amasty_GiftWrap
+Duplicate items,Duplicate items,module,Amasty_GiftWrap
+Are you sure to duplicate selected cards?,Are you sure to duplicate selected cards?,module,Amasty_GiftWrap
+ID,ID,module,Amasty_GiftWrap
+Thumbnail,Thumbnail,module,Amasty_GiftWrap
+Message Card Name,טקסט לברכה,module,Amasty_GiftWrap
+Description,תיאור,module,Amasty_GiftWrap
+You can tell customers about the wrapping they will receive. Note: this text is visible on storefront.,You can tell customers about the wrapping they will receive. Note: this text is visible on storefront.,module,Amasty_GiftWrap
+"If left empty or set to '0’, wrap will be marked as FREE on frontend.","If left empty or set to '0’, wrap will be marked as FREE on frontend.",module,Amasty_GiftWrap
+Add New Gift Wrap,הוספת עטיפת מתנה,module,Amasty_GiftWrap
+Are you sure to delete selected items?,בטוח שתרצה למחוק את המוצרים שנבחרו?,module,Amasty_GiftWrap
+Are you sure to duplicate selected items?,בטוח שתרצה שלכפל את המוצר?,module,Amasty_GiftWrap
+Wrap Name,סוג עטיפה,module,Amasty_GiftWrap
