@@ -10,6 +10,7 @@
 - Amasty_GiftCard
 - Amasty_Sorting
 - Amasty_ShopbyBrand
+- Amasty_GiftWrap
 - Magento_Checkout
 - Magento_Customer
 - Magento_SalesRule
