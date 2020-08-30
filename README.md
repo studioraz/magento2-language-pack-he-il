@@ -1,4 +1,4 @@
-# Hebrew language pack for Magento 3rd party module
+# Hebrew language pack for Magento 3rd party modules
 
 ## Included module:
 - Amasty_Acart
