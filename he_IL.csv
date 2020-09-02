@@ -1802,34 +1802,33 @@ Revenue,Revenue,module,Amasty_GiftWrap
 Overview,Overview,module,Amasty_GiftWrap
 Add Gift Wrap,הוסף מתנה לחבר,module,Amasty_GiftWrap
 Gift Options,Gift Options,module,Amasty_GiftWrap
-Add,Add,module,Amasty_GiftWrap
-Next,Next,module,Amasty_GiftWrap
-Added Gift Wrap(s),Added Gift Wrap(s),module,Amasty_GiftWrap
-Gift Card,Gift Card,module,Amasty_GiftWrap
-Gift Message,Gift Message,module,Amasty_GiftWrap
+Add,הוסף,module,Amasty_GiftWrap
+Next,הבא,module,Amasty_GiftWrap
+Added Gift Wrap(s),הוסף עטיפות,module,Amasty_GiftWrap
+Gift Card,גיפט קארד,module,Amasty_GiftWrap
+Gift Message,ברכה,module,Amasty_GiftWrap
 Gift Wrap Option,Gift Wrap Option,module,Amasty_GiftWrap
-Wrap All Available Items,Wrap All Available Items,module,Amasty_GiftWrap
+Wrap All Available Items,עטיפות לבחירתך:,module,Amasty_GiftWrap
 Choose Items for Wrapping,Choose Items for Wrapping,module,Amasty_GiftWrap
 "Item(s) will be sent packaged in a gift box.
-         Please remember, once enclosed you will be unable to see the contents of the package. ","Item(s) will be sent packaged in a gift box.
-         Please remember, once enclosed you will be unable to see the contents of the package. ",module,Amasty_GiftWrap
-Back,Back,module,Amasty_GiftWrap
-Finish,Finish,module,Amasty_GiftWrap
-New Wrap,New Wrap,module,Amasty_GiftWrap
-Make It a Gift,Make It a Gift,module,Amasty_GiftWrap
-Hidden prices on the recipient’s receipt,Hidden prices on the recipient’s receipt,module,Amasty_GiftWrap
-Choose the Gift Wrap,Choose the Gift Wrap,module,Amasty_GiftWrap
-Qty,Qty,module,Amasty_GiftWrap
-Items Ordered,Items Ordered,module,Amasty_GiftWrap
+         Please remember, once enclosed you will be unable to see the contents of the package. ",המוצרים שבחרת ישלחו באריזת מתנה.,module,Amasty_GiftWrap
+Back,חזור,module,Amasty_GiftWrap
+Finish,סיים,module,Amasty_GiftWrap
+New Wrap,עטיפה חדשה,module,Amasty_GiftWrap
+Make It a Gift,המר למתנה,module,Amasty_GiftWrap
+Hidden prices on the recipient’s receipt,לא לשלוח חשבונית עם ההזמנה (החשבונית תישלח במייל),module,Amasty_GiftWrap
+Choose the Gift Wrap,בחר עטיפה,module,Amasty_GiftWrap
+Qty,כמות,module,Amasty_GiftWrap
+Items Ordered,פריטים שהוזמנו,module,Amasty_GiftWrap
 No Items Available,No Items Available,module,Amasty_GiftWrap
-Want to Add Gift Message Card? (optional),Want to Add Gift Message Card? (optional),module,Amasty_GiftWrap
-Add Gift Message,Add Gift Message,module,Amasty_GiftWrap
-Please check and confirm the chosen wrapping,Please check and confirm the chosen wrapping,module,Amasty_GiftWrap
-View and Edit Cart,View and Edit Cart,module,Amasty_GiftWrap
-View Details,View Details,module,Amasty_GiftWrap
-Products,Products,module,Amasty_GiftWrap
-Product(s) was added successfully,Product(s) was added successfully,module,Amasty_GiftWrap
-%1 was added successfully,%1 was added successfully,module,Amasty_GiftWrap
+Want to Add Gift Message Card? (optional),הוספת כרטיס ברכה (אופציונאלי),module,Amasty_GiftWrap
+Add Gift Message,הוספת טקסט לברכה,module,Amasty_GiftWrap
+Please check and confirm the chosen wrapping,אנא בדוק את בחירתך,module,Amasty_GiftWrap
+View and Edit Cart,לצפייה ועריכה של סל קניות,module,Amasty_GiftWrap
+View Details,צפה בפרטים,module,Amasty_GiftWrap
+Products,מוצרים,module,Amasty_GiftWrap
+Product(s) was added successfully,המוצר(ים) נוספו בהצלחה,module,Amasty_GiftWrap
+%1 was added successfully,%1 נוסף בהצלחה,module,Amasty_GiftWrap
 Amasty Gift Wrap,Amasty Gift Wrap,module,Amasty_GiftWrap
 Information,Information,module,Amasty_GiftWrap
 General,General,module,Amasty_GiftWrap
@@ -1845,11 +1844,11 @@ Tax,Tax,module,Amasty_GiftWrap
 Wrap Tax Class Id,Wrap Tax Class Id,module,Amasty_GiftWrap
 Message Card Tax Class Id,Message Card Tax Class Id,module,Amasty_GiftWrap
 Display Wrap Price in Order Total,Display Wrap Price in Order Total,module,Amasty_GiftWrap
-Status,Status,module,Amasty_GiftWrap
-Price,Price,module,Amasty_GiftWrap
+Status,סטטוס,module,Amasty_GiftWrap
+Price,מחיר,module,Amasty_GiftWrap
 "If left empty or set to '0’, wrap will be marked as FREE on frontend","If left empty or set to '0’, wrap will be marked as FREE on frontend",module,Amasty_GiftWrap
 Sort Order,Sort Order,module,Amasty_GiftWrap
-Add New Gift Message Card,Add New Gift Message Card,module,Amasty_GiftWrap
+Add New Gift Message Card,הוסף ברכה חדשה,module,Amasty_GiftWrap
 Delete items,Delete items,module,Amasty_GiftWrap
 Are you sure to delete selected cards?,Are you sure to delete selected cards?,module,Amasty_GiftWrap
 Duplicate items,Duplicate items,module,Amasty_GiftWrap
