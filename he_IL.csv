@@ -1863,3 +1863,5 @@ Add New Gift Wrap,הוספת עטיפת מתנה,module,Amasty_GiftWrap
 Are you sure to delete selected items?,בטוח שתרצה למחוק את המוצרים שנבחרו?,module,Amasty_GiftWrap
 Are you sure to duplicate selected items?,בטוח שתרצה שלכפל את המוצר?,module,Amasty_GiftWrap
 Wrap Name,סוג עטיפה,module,Amasty_GiftWrap
+"We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").","We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").",module,Amasty_GiftWrap,MageWorx_OptionInventory
+
