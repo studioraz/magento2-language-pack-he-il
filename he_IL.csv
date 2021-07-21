@@ -509,7 +509,7 @@ Gift Card min amount is %1,כמות מינימום של כרטיס מתנה הי
 Gift Card max amount is %1,הסכום המקסימלי של כרטיס מתנה הוא %1,module,Amasty_GiftCard
 Please specify Gift Card Value,נא לציין ערך כרטיס מתנה,module,Amasty_GiftCard
 All codes already exists,כל הקודים כבר קיימים,module,Amasty_GiftCard
-%1 in row %2,%1 בשורה% 2,module,Amasty_GiftCard
+%1 in row %2,%1 בשורה %2,module,Amasty_GiftCard
 Codes already exists. Duplicate codes:<br /> %1,קודים כבר קיימים. קודים כפולים: <br /> %1,module,Amasty_GiftCard
 GiftCard,כרטיס מתנה,module,Amasty_GiftCard
 This gift card account is not active.,חשבון כרטיס מתנה זה אינו פעיל.,module,Amasty_GiftCard
@@ -757,7 +757,7 @@ This account no longer exists.,חשבון זה אינו קיים עוד.,module,
 Manage Affiliate Account,ניהול חשבון השותפים,module,Amasty_Affiliate
 New Affiliate Account,חשבון שותפים חדש,module,Amasty_Affiliate
 Affiliate Accounts,חשבונות שותפים,module,Amasty_Affiliate
-A total of %1 record(s) have been deleted.,סך של שיא% 1 (ים) נמחק.,module,Amasty_Affiliate
+A total of %1 record(s) have been deleted.,סך של שיא %1 (ים) נמחק.,module,Amasty_Affiliate
 The account is saved.,החשבון נשמר.,module,Amasty_Affiliate
 Manage Affiliate Banners,ניהול באנרים שותפים,module,Amasty_Affiliate
 The banner has been deleted.,הבאנר נמחק.,module,Amasty_Affiliate
@@ -769,7 +769,7 @@ Affiliate Banners,באנרים שותפים,module,Amasty_Affiliate
 Please use valid url,השתמש בכתובת אתר חוקית,module,Amasty_Affiliate
 The banner is saved.,הבאנר נשמר.,module,Amasty_Affiliate
 Manage Affiliate Program,ניהול תוכנית שותפים,module,Amasty_Affiliate
-Status for Program with ID %1 has been changed.,מצב עבור תוכנית עם זיהוי% 1 שונתה.,module,Amasty_Affiliate
+Status for Program with ID %1 has been changed.,מצב עבור תוכנית עם זיהוי%1 שונתה.,module,Amasty_Affiliate
 My Wish List,wish list,module,Magento_Wishlist
 The program has been deleted.,התכנית נמחקה.,module,Amasty_Affiliate
 This program no longer exists.,תוכנית זו אינה קיימת עוד.,module,Amasty_Affiliate
@@ -790,31 +790,31 @@ The account has not enough funds to this withdrawal,אין בחשבון לא מ�
 The withdrawal was payed.,הנסיגה היתה בתשלום.,module,Amasty_Affiliate
 Active,Active,module,Amasty_Affiliate
 Inactive,לא פעיל,module,Amasty_Affiliate
-Unable to save account with ID %1. Error: %2,לא ניתן לשמור את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new account. Error: %1,לא ניתן לשמור את חשבון חדש. שגיאה:% 1,module,Amasty_Affiliate
-"Account with specified ID ""%1"" not found.","חשבון עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove account with ID %1. Error: %2,ניתן להסיר את החשבון עם מזהה% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove account. Error: %1,ניתן להסיר את החשבון. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save account with ID %1. Error: %2,לא ניתן לשמור את החשבון עם מזהה%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new account. Error: %1,לא ניתן לשמור את חשבון חדש. שגיאה:%1,module,Amasty_Affiliate
+"Account with specified ID ""%1"" not found.","חשבון עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove account with ID %1. Error: %2,ניתן להסיר את החשבון עם מזהה%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove account. Error: %1,ניתן להסיר את החשבון. שגיאה:%1,module,Amasty_Affiliate
 No such entity with %fieldName = %fieldValue,אין ישות עם% fieldName =% fieldValue,module,Amasty_Affiliate
 Something went wrong while getting the image url.,משהו השתבש בזמן מקבל את התמונה url.,module,Amasty_Affiliate
 Disabled,לנכים,module,Amasty_Affiliate
 Image,תמונה,module,Amasty_Affiliate
 Text,טקסט,module,Amasty_Affiliate
-Unable to save banner with ID %1. Error: %2,אין אפשרות לשמור באנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new banner. Error: %1,אין אפשרות לשמור הבאנר החדש. שגיאה:% 1,module,Amasty_Affiliate
-"Banner with specified ID ""%1"" not found.","באנר עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove banner with ID %1. Error: %2,לא ניתן להסיר את הבאנר עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove banner. Error: %1,לא ניתן להסיר את הבאנר. שגיאה:% 1,module,Amasty_Affiliate
-Unable to save lifetime with ID %1. Error: %2,אין אפשרות לשמור בחיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new lifetime. Error: %1,אין אפשרות לשמור בחיים חדשים. שגיאה:% 1,module,Amasty_Affiliate
-"Lifetime with specified ID ""%1"" not found.","חיים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove lifetime with ID %1. Error: %2,לא ניתן להסיר את החיים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove lifetime. Error: %1,לא ניתן להסיר את החיים. שגיאה:% 1,module,Amasty_Affiliate
-Unable to save links with ID %1. Error: %2,לא ניתן לשמור קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new links. Error: %1,לא ניתן לשמור קישורים חדשים. שגיאה:% 1,module,Amasty_Affiliate
-"Links with specified ID ""%1"" not found.","קישורים עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove links with ID %1. Error: %2,לא ניתן להסיר קישורים עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove links. Error: %1,לא ניתן להסיר את הקישורים. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save banner with ID %1. Error: %2,אין אפשרות לשמור באנר עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new banner. Error: %1,אין אפשרות לשמור הבאנר החדש. שגיאה:%1,module,Amasty_Affiliate
+"Banner with specified ID ""%1"" not found.","באנר עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove banner with ID %1. Error: %2,לא ניתן להסיר את הבאנר עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove banner. Error: %1,לא ניתן להסיר את הבאנר. שגיאה:%1,module,Amasty_Affiliate
+Unable to save lifetime with ID %1. Error: %2,אין אפשרות לשמור בחיים עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new lifetime. Error: %1,אין אפשרות לשמור בחיים חדשים. שגיאה:%1,module,Amasty_Affiliate
+"Lifetime with specified ID ""%1"" not found.","חיים עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove lifetime with ID %1. Error: %2,לא ניתן להסיר את החיים עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove lifetime. Error: %1,לא ניתן להסיר את החיים. שגיאה:%1,module,Amasty_Affiliate
+Unable to save links with ID %1. Error: %2,לא ניתן לשמור קישורים עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new links. Error: %1,לא ניתן לשמור קישורים חדשים. שגיאה:%1,module,Amasty_Affiliate
+"Links with specified ID ""%1"" not found.","קישורים עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove links with ID %1. Error: %2,לא ניתן להסיר קישורים עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove links. Error: %1,לא ניתן להסיר את הקישורים. שגיאה:%1,module,Amasty_Affiliate
 Percent of product price discount,אחוז הנחה במחיר המוצר,module,Amasty_Affiliate
 Fixed amount discount,הנחה בסכום קבוע,module,Amasty_Affiliate
 Fixed amount discount for whole cart,הנחת סכום קבוע עבור עגלה,module,Amasty_Affiliate
@@ -822,11 +822,11 @@ Buy X get Y free (discount amount is Y),לקנות X קבל Y בחינם (סכו
 Percent,אחוז,module,Amasty_Affiliate
 Fixed,תוקן,module,Amasty_Affiliate
 Per Sale,לפי למכירה,module,Amasty_Affiliate
-Unable to save program with ID %1. Error: %2,אין אפשרות לשמור תוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new program. Error: %1,אין אפשרות לשמור תוכנית חדשה. שגיאה:% 1,module,Amasty_Affiliate
-"Program with specified ID ""%1"" not found.","תוכנית עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove program with ID %1. Error: %2,לא ניתן להסיר את התוכנית עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove program. Error: %1,לא ניתן להסיר את התוכנית. שגיאה:% 1,module,Amasty_Affiliate
+Unable to save program with ID %1. Error: %2,אין אפשרות לשמור תוכנית עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new program. Error: %1,אין אפשרות לשמור תוכנית חדשה. שגיאה:%1,module,Amasty_Affiliate
+"Program with specified ID ""%1"" not found.","תוכנית עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove program with ID %1. Error: %2,לא ניתן להסיר את התוכנית עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove program. Error: %1,לא ניתן להסיר את התוכנית. שגיאה:%1,module,Amasty_Affiliate
 Top Menu,תפריט עליון,module,Amasty_Affiliate
 Bottom Menu,תפריט תחתון,module,Amasty_Affiliate
 Affiliate Code,קוד השותפים,module,Amasty_Affiliate
@@ -835,12 +835,12 @@ Pending,ממתין ל,module,Amasty_Affiliate
 Completed,הושלם,module,Amasty_Affiliate
 Canceled,מבוטל,module,Amasty_Affiliate
 On Hold,בהמתנה,module,Amasty_Affiliate
-Unable to save transaction with ID %1. Error: %2,אין אפשרות לשמור העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to save new transaction. Error: %1,אין אפשרות לשמור העסקה חדשה. שגיאה:% 1,module,Amasty_Affiliate
-"Transaction with specified ID ""%1"" not found.","עסקה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
-Unable to remove transaction with ID %1. Error: %2,לא ניתן להסיר את העסקה עם זיהוי% 1. שגיאה:% 2,module,Amasty_Affiliate
-Unable to remove transaction. Error: %1,לא ניתן להסיר את העסקה. שגיאה:% 1,module,Amasty_Affiliate
-"Withdrawal with specified ID ""%1"" not found.","משיכה עם מזהה שצוין ""% 1"" לא נמצא.",module,Amasty_Affiliate
+Unable to save transaction with ID %1. Error: %2,אין אפשרות לשמור העסקה עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to save new transaction. Error: %1,אין אפשרות לשמור העסקה חדשה. שגיאה:%1,module,Amasty_Affiliate
+"Transaction with specified ID ""%1"" not found.","עסקה עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
+Unable to remove transaction with ID %1. Error: %2,לא ניתן להסיר את העסקה עם זיהוי%1. שגיאה: %2,module,Amasty_Affiliate
+Unable to remove transaction. Error: %1,לא ניתן להסיר את העסקה. שגיאה:%1,module,Amasty_Affiliate
+"Withdrawal with specified ID ""%1"" not found.","משיכה עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Affiliate
 "This shopping cart price rule is assigned to the Affiliate Program.
  The affiliate program discount will not apply without a rule assigned.","כלל עגלת קניות מחיר זה מוקצה לתכנית השותפים.
  הנחת תכנית השותפים לא תחול ללא שלטון המוקצה.",module,Amasty_Affiliate
@@ -1593,7 +1593,7 @@ Earned %1 for the order #%2.,צבור %1 עבור הזמנה מספר %2.,module
 Spent %1 for the order #%2.,הוצא %1 להזמנה מספר %2.,module,Mirasvit_Rewards
 Restore spent %1 for the order #%2.,שחזור הוצאה %1 עבור הזמנה מספר %2.,module,Mirasvit_Rewards
 Cancel earned %1 for the order #%2.,בטל צבירה %1 עבור הזמנה מספר %2.,module,Mirasvit_Rewards
-"Refunded %1 (creditmemo #%2, order #%3).","זיכוי עבור %1 (# CreditMemo% 2, הזמנה# %3).",module,Mirasvit_Rewards
+"Refunded %1 (creditmemo #%2, order #%3).","זיכוי עבור %1 (# CreditMemo %2, הזמנה# %3).",module,Mirasvit_Rewards
 History,היסטוריה,module,Mirasvit_Rewards
 Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Sorting
 "Enable improved-sorting-graphql module to activate GraphQl and Sorting. Please, run the following command in the SSH: composer require amasty/improved-sorting-graphql","Enable improved-sorting-graphql module to activate GraphQl and Sorting. Please, run the following command in the SSH: composer require amasty/improved-sorting-graphql",module,Amasty_Sorting
@@ -1602,7 +1602,7 @@ Could not rebuild index for empty products array,Could not rebuild index for emp
 We can't rebuild the index for an undefined product.,We can't rebuild the index for an undefined product.,module,Amasty_Sorting
 Method object ' . . ' must be implemented by Amasty\Sorting\Api\MethodInterface,Method object ' . . ' must be implemented by Amasty\Sorting\Api\MethodInterface,module,Amasty_Sorting
 $methodObject is not object,$methodObject is not object,module,Amasty_Sorting
-Error while clear index amasty sorting method: ,Error while clear index amasty sorting method: ,module,Amasty_Sorting
+Error while clear index amasty sorting method:,Error while clear index amasty sorting method:,module,Amasty_Sorting
 No,No,module,Amasty_Sorting
 Yes,Yes,module,Amasty_Sorting
 "Yes for Catalog, No for Search","Yes for Catalog, No for Search",module,Amasty_Sorting
@@ -1715,8 +1715,8 @@ Could not replace Sales Channels for Stock,Could not replace Sales Channels for 
 Wrong condition.,Wrong condition.,module,Magento_InventorySales
 There are no source items with the in stock status,There are no source items with the in stock status,module,Magento_InventorySales
 Contact Us,צרו קשר,module,Mirasvit_Helpdesk
-"You must login or register to add items to your wishlist.","עליך להתחבר או להירשם כדי להוסיף פריטים לרשימת המשאלות שלך."
-"The coupon code isn't valid. Verify the code and try again.","קוד השובר אינו תקף. אמת את הקוד ונסה שוב.",module,Magento_Quote
+You must login or register to add items to your wishlist.,עליך להתחבר או להירשם כדי להוסיף פריטים לרשימת המשאלות שלך.,,
+The coupon code isn't valid. Verify the code and try again.,קוד השובר אינו תקף. אמת את הקוד ונסה שוב.,module,Magento_Quote
 Delete,מחק,module,Amasty_GiftWrap
 Are you sure you want to delete this?,בטוח שתרצה למחוק?,module,Amasty_GiftWrap
 Save and Continue Edit,שמור והמשך עריכה,module,Amasty_GiftWrap
@@ -1769,7 +1769,7 @@ Unable to save new message card. Error: %1,Unable to save new message card. Erro
 Unable to remove message card with ID %1. Error: %2,Unable to remove message card with ID %1. Error: %2,module,Amasty_GiftWrap
 Unable to remove  message card. Error: %1,Unable to remove  message card. Error: %1,module,Amasty_GiftWrap
 There are not all store view data. Please create item with store = 0 before.,There are not all store view data. Please create item with store = 0 before.,module,Amasty_GiftWrap
-Copy of ,Copy of ,module,Amasty_GiftWrap
+Copy of,Copy of,module,Amasty_GiftWrap
 Product Page,Product Page,module,Amasty_GiftWrap
 Shopping Cart Page,Shopping Cart Page,module,Amasty_GiftWrap
 Checkout Page,Checkout Page,module,Amasty_GiftWrap
@@ -1863,7 +1863,7 @@ Add New Gift Wrap,הוספת עטיפת מתנה,module,Amasty_GiftWrap
 Are you sure to delete selected items?,בטוח שתרצה למחוק את המוצרים שנבחרו?,module,Amasty_GiftWrap
 Are you sure to duplicate selected items?,בטוח שתרצה שלכפל את המוצר?,module,Amasty_GiftWrap
 Wrap Name,סוג עטיפה,module,Amasty_GiftWrap
-"We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").","We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").",module,Amasty_GiftWrap,MageWorx_OptionInventory
+"We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").","We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").",module,Amasty_GiftWrap
 In Stock,במלאי,module,Amasty_Xnotif
 Out of Stock,אזל במלאי,module,Amasty_Xnotif
 Received on %1,שהתקבל על %1,module,Amasty_Xnotif
@@ -1909,7 +1909,6 @@ Price Alerts,התראות מחיר,module,Amasty_Xnotif
 An error occurred while deleting the item from Subscriptions.,ארעה שגיאה בזמן מחיקת פריט מההרשמה.,module,Amasty_Xnotif
 The item has been deleted from Subscriptions.,הפריט נמחק מההרשמה.,module,Amasty_Xnotif
 Stock Alerts,התראות במלאי,module,Amasty_Xnotif
-Stock Alerts ,התראות במלאי,module,Amasty_Xnotif
 Please select the item(s).,אנא בחר את הפריט (ים).,module,Amasty_Xnotif
 Test notification has been successfully sent.,הודעת מבחן נשלחה בהצלחה.,module,Amasty_Xnotif
 We can't change item right now. Please review the log and try again.,אנחנו לא יכולים לשנות תקין פריט עכשיו. עיין ביומן ונסה שוב.,module,Amasty_Xnotif
@@ -2037,3 +2036,71 @@ Status,סטָטוּס,module,Amasty_Xnotif
 Price Subscriptions,מחיר הרשמה,module,Amasty_Xnotif
 Back in Stock Subscriptions,חזרה ב הרשמות למלאי,module,Amasty_Xnotif
 Card Value in,בחרו סכום,module,Amasty_GiftCard
+Store Credit,זיכוי בחנות,module,Amasty_StoreCredit
+Current Balance,מאזן הנוכחי.,module,Amasty_StoreCredit
+Add or substract a credit value %1,הוספה או הפחתה של %1 מיתרת הנקודות ,module,Amasty_StoreCredit
+"You can add or substract an amount from customer's balance by entering a number. For example, enter ""99.5"" to add %199.5 and ""-99.5"" to subtract %199.5","ניתן להוסיף או להפחית סכום מיתרת הלקוח. לדוגמה, הזן ""99.5"" כדי להוסיף או ״-99.5״ כדי להפחית",module,Amasty_StoreCredit
+Comment,תגובה,module,Amasty_StoreCredit
+Store Credit & Refunds,יתרת קרדיט והחזרים,module,Amasty_StoreCredit
+ Store Credit & Refunds,יתרת קרדיט והחזרים,module,Amasty_StoreCredit
+Added by Admin,נוסף על ידי מנהל,module,Amasty_StoreCredit
+Removed by Admin,הופחת על ידי מנהל,module,Amasty_StoreCredit
+Refunded,הוחזר,module,Amasty_StoreCredit
+Order Paid,ההזמנה שולמה,module,Amasty_StoreCredit
+Order Canceled,ההזמנה בוטלה,module,Amasty_StoreCredit
+Unable to save store credit history with ID %1. Error: %2,לא ניתן לשמור את היסטוריית הקרדיט בעל המזהה %1. שגיאה: %2,module,Amasty_StoreCredit
+Unable to save new store credit history. Error: %1,לא ניתן לשמור את היסטוריית הקרדיט. שגיאה: %1,module,Amasty_StoreCredit
+"Store Credit History with specified ID ""%1"" not found.","היסטוריית קרדיט עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_StoreCredit
+Unable to remove store credit history with ID %1. Error: %2,לא ניתן להסיר את היסטוריית קרדיט בחנות עם זיהוי %1. שגיאה: %2,module,Amasty_StoreCredit
+Unable to remove store credit history. Error: %1,לא ניתן להסיר את היסטוריית קרדיט בחנות. שגיאה: %1,module,Amasty_StoreCredit
+Administrator add %1 store credits to your balance,Administrator הוסף %1 חנות קרדיטים למאזן שלך,module,Amasty_StoreCredit
+Administrator remove %1 store credits from your balance,מנהל הפחית %1 מהקרדיט שלך,module,Amasty_StoreCredit
+You order %1 was refunded on %2,הוחזר סכום של  %2 עבור ההזמנה %1,module,Amasty_StoreCredit
+Order %1 was payed by %2 store credits,ההזמנה %1 שולמה באמצעות %2 קרדיט,module,Amasty_StoreCredit
+Changed By Admin,השתנה על ידי Admin,module,Amasty_StoreCredit
+Refunded #%3,זוכה #%3,module,Amasty_StoreCredit
+Order Paid #%3,ההזמנה שולמה #%3,module,Amasty_StoreCredit
+On Administrator add store credits to balance,On Administrator add store credits to balance,module,Amasty_StoreCredit
+On Administrator remove store credits to balance,On Administrator remove store credits to balance,module,Amasty_StoreCredit
+On order refund,On order refund,module,Amasty_StoreCredit
+On Order payed by store credits,On Order payed by store credits,module,Amasty_StoreCredit
+Store Credit couldn't be less than zero.,Store Credit couldn't be less than zero.,module,Amasty_StoreCredit
+Unable to save store credit. Error: %1,Unable to save store credit. Error: %1,module,Amasty_StoreCredit
+Unable to save store credit history. Error: %1,Unable to save store credit history. Error: %1,module,Amasty_StoreCredit
+Store Credit Refund couldn't be less than zero.,קרדיט לא יכול להיות מתחת לאפס,module,Amasty_StoreCredit
+Store Credit Max,מקסימום קרדיט,module,Amasty_StoreCredit
+Refund to Store Credit,Refund to Store Credit,module,Amasty_StoreCredit
+Use Store Credit,שימוש בקרדיט,module,Amasty_StoreCredit
+Store Credit Balance:,יתרת קרדיט:,module,Amasty_StoreCredit
+Transaction Id,מזהה עסקה,module,Amasty_StoreCredit
+Date,תאריך,module,Amasty_StoreCredit
+Change,שינוי,module,Amasty_StoreCredit
+New Balance,יתרה חדשה,module,Amasty_StoreCredit
+Action,פעולה,module,Amasty_StoreCredit
+Administrator's comment:,תגובת מנהל: ,module,Amasty_StoreCredit
+You have no store credit history.,אין לך היסטוריית קרדיט.,module,Amasty_StoreCredit
+"Hello %name,","שלום %name, ",module,Amasty_StoreCredit
+Thank you for being our loyal customer.,תודה על היותך לקוח/ה נאמנ/ה שלנו,module,Amasty_StoreCredit
+You can use it for purchasing items in our online store right away.,ניתן להשתמש בקרדיט על מנת לרכוש מוצרים באתר עכשיו.,module,Amasty_StoreCredit
+Apply Store Credit,מימוש קרדיט,module,Amasty_StoreCredit
+You have ,יש לך,module,Amasty_StoreCredit
+ on your Store Credit account, בקרדיט שלך ,module,Amasty_StoreCredit
+Applied store credit amount is ,הסכום שמומש הוא ,module,Amasty_StoreCredit
+Cancel Store Credit,ביטול קרדיט,module,Amasty_StoreCredit
+Your store credit was successfully applied,הקרדיט שלך מומש בהצלחה,module,Amasty_StoreCredit
+General,כללי,module,Amasty_StoreCredit
+Enable Module,הפעל מודול,module,Amasty_StoreCredit
+Refund Store Credit Automatically,Refund Store Credit Automatically,module,Amasty_StoreCredit
+Allow applying Store Credit on Tax,Allow applying Store Credit on Tax,module,Amasty_StoreCredit
+Allow applying Store Credit on Shipping,Allow applying Store Credit on Shipping,module,Amasty_StoreCredit
+Email Notification,Email Notification,module,Amasty_StoreCredit
+Enable Store Credit Balance Update Email,Enable Store Credit Balance Update Email,module,Amasty_StoreCredit
+Send Email Actions,Send Email Actions,module,Amasty_StoreCredit
+Store Credit Update Email Sender,Store Credit Update Email Sender,module,Amasty_StoreCredit
+Store Credit Reply To,Store Credit Reply To,module,Amasty_StoreCredit
+Email Template,Email Template,module,Amasty_StoreCredit
+Store Credit Total Refunded,Store Credit Total Refunded,module,Amasty_StoreCredit
+No Items Found,No Items Found,module,Amasty_StoreCredit
+Customer Transaction ID,Customer Transaction ID,module,Amasty_StoreCredit
+Balance Change,Balance Change,module,Amasty_StoreCredit
+Transaction Date,Transaction Date,module,Amasty_StoreCredit

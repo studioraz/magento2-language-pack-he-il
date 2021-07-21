@@ -6,6 +6,7 @@
 - Amasty_Cart
 - Amasty_Checkout
 - Amasty_Extrafee
+- Amasty_StoreCredit
 - Amasty_Gdpr
 - Amasty_GiftCard
 - Amasty_Sorting
