@@ -1898,7 +1898,7 @@ Test notification will be sent to the following email address: %1,"ההודעה 
 Are you sure you want to do this?,האם אתה בטוח שאתה רוצה לעשות את זה?,module,Amasty_Xnotif
 Delete,לִמְחוֹק,module,Amasty_Xnotif
 Save and Continue Edit,ערוך שמור והמשך,module,Amasty_Xnotif
-Save,להציל,module,Amasty_Xnotif
+Save,שמור,module,Amasty_Xnotif
 Please update Amasty Base module. Re-upload it and replace all the files.,עדכן את מודול בסיס Amasty. להעלות אותו מחדש ולהחליף את כל הקבצים.,module,Amasty_Xnotif
 An error occurred while deleting the item from Subscriptions: %s,ארעה שגיאה בזמן מחיקת פריט מההרשמה: s%,module,Amasty_Xnotif
 "No cron job ""amasty_xnotif_product_alert"" found. Please check your cron configuration.","אין עבודת cron ""amasty_xnotif_product_alert"" מצא. אנא בדוק את ההגדרות שלך cron.",module,Amasty_Xnotif
