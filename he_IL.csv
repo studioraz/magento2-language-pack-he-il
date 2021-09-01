@@ -2038,11 +2038,11 @@ Back in Stock Subscriptions,חזרה ב הרשמות למלאי,module,Amasty_Xn
 Card Value in,בחרו סכום,module,Amasty_GiftCard
 Store Credit,זיכוי בחנות,module,Amasty_StoreCredit
 Current Balance,מאזן הנוכחי.,module,Amasty_StoreCredit
-Add or substract a credit value %1,הוספה או הפחתה של %1 מיתרת הנקודות ,module,Amasty_StoreCredit
+Add or substract a credit value %1,הוספה או הפחתה של %1 מיתרת הנקודות,module,Amasty_StoreCredit
 "You can add or substract an amount from customer's balance by entering a number. For example, enter ""99.5"" to add %199.5 and ""-99.5"" to subtract %199.5","ניתן להוסיף או להפחית סכום מיתרת הלקוח. לדוגמה, הזן ""99.5"" כדי להוסיף או ״-99.5״ כדי להפחית",module,Amasty_StoreCredit
 Comment,תגובה,module,Amasty_StoreCredit
 Store Credit & Refunds,יתרת קרדיט והחזרים,module,Amasty_StoreCredit
- Store Credit & Refunds,יתרת קרדיט והחזרים,module,Amasty_StoreCredit
+Store Credit & Refunds,יתרת קרדיט והחזרים,module,Amasty_StoreCredit
 Added by Admin,נוסף על ידי מנהל,module,Amasty_StoreCredit
 Removed by Admin,הופחת על ידי מנהל,module,Amasty_StoreCredit
 Refunded,הוחזר,module,Amasty_StoreCredit
@@ -2077,15 +2077,15 @@ Date,תאריך,module,Amasty_StoreCredit
 Change,שינוי,module,Amasty_StoreCredit
 New Balance,יתרה חדשה,module,Amasty_StoreCredit
 Action,פעולה,module,Amasty_StoreCredit
-Administrator's comment:,תגובת מנהל: ,module,Amasty_StoreCredit
+Administrator's comment:,תגובת מנהל:,module,Amasty_StoreCredit
 You have no store credit history.,אין לך היסטוריית קרדיט.,module,Amasty_StoreCredit
 "Hello %name,","שלום %name, ",module,Amasty_StoreCredit
 Thank you for being our loyal customer.,תודה על היותך לקוח/ה נאמנ/ה שלנו,module,Amasty_StoreCredit
 You can use it for purchasing items in our online store right away.,ניתן להשתמש בקרדיט על מנת לרכוש מוצרים באתר עכשיו.,module,Amasty_StoreCredit
 Apply Store Credit,מימוש קרדיט,module,Amasty_StoreCredit
-You have ,יש לך,module,Amasty_StoreCredit
- on your Store Credit account, בקרדיט שלך ,module,Amasty_StoreCredit
-Applied store credit amount is ,הסכום שמומש הוא ,module,Amasty_StoreCredit
+You have,יש לך,module,Amasty_StoreCredit
+on your Store Credit account,בקרדיט שלך,module,Amasty_StoreCredit
+Applied store credit amount is,הסכום שמומש הוא,module,Amasty_StoreCredit
 Cancel Store Credit,ביטול קרדיט,module,Amasty_StoreCredit
 Your store credit was successfully applied,הקרדיט שלך מומש בהצלחה,module,Amasty_StoreCredit
 General,כללי,module,Amasty_StoreCredit
@@ -2104,3 +2104,164 @@ No Items Found,No Items Found,module,Amasty_StoreCredit
 Customer Transaction ID,Customer Transaction ID,module,Amasty_StoreCredit
 Balance Change,Balance Change,module,Amasty_StoreCredit
 Transaction Date,Transaction Date,module,Amasty_StoreCredit
+List Sharing,List Sharing,module,Amasty_MWishlist
+My Wish List,רשימת המשאלות שלי,module,Amasty_MWishlist
+Wish List,רשימת משאלות,module,Amasty_MWishlist
+You have no Wish Lists.,"אין לך רשימות משאלות, אבל זה ממש פשוט ליצור אותן",module,Amasty_MWishlist
+You have no Requisition Lists.,"אין לך רשימות קנייה, אבל זה ממש פשוט ליצור אותן.",module,Amasty_MWishlist
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_MWishlist
+My Wish Lists,רשימות המשאלות שלי,module,Amasty_MWishlist
+Page not found.,Page not found.,module,Amasty_MWishlist
+Most Wanted Items in Lists,המוצרים המבוקשים ביותר ברשימות ,module,Amasty_MWishlist
+Most Purchased Items from Lists,המוצרים הנרכשים ביותר ברשימות,module,Amasty_MWishlist
+The Wish List item can't load at this time. Please try again later.,The Wish List item can't load at this time. Please try again later.,module,Amasty_MWishlist
+We can't configure the product right now.,We can't configure the product right now.,module,Amasty_MWishlist
+Can't load wishlist.,Can't load wishlist.,module,Amasty_MWishlist
+We can't find %1 items.,We can't find %1 items.,module,Amasty_MWishlist
+%1 items are already present in %2: %3.,%1 items are already present in %2: %3.,module,Amasty_MWishlist
+We can't specify a product.,We can't specify a product.,module,Amasty_MWishlist
+We can't add the item to Wish List right now: %1.,We can't add the item to Wish List right now: %1.,module,Amasty_MWishlist
+We can't add the item to Wish List right now.,We can't add the item to Wish List right now.,module,Amasty_MWishlist
+%s items cannot be copied: %s.,%s items cannot be copied: %s.,module,Amasty_MWishlist
+We can't copy %s items.,We can't copy %s items.,module,Amasty_MWishlist
+"%s got copied to <a href=""%s"">%s</a> successfully.","%s got copied to <a href=""%s"">%s</a> successfully.",module,Amasty_MWishlist
+We can't specify a wishlist.,We can't specify a wishlist.,module,Amasty_MWishlist
+The cart item doesn't exist.,The cart item doesn't exist.,module,Amasty_MWishlist
+We can't move the item to the wish list.,We can't move the item to the wish list.,module,Amasty_MWishlist
+%s items cannot be moved: %s.,%s items cannot be moved: %s.,module,Amasty_MWishlist
+We can't move %s items.,We can't move %s items.,module,Amasty_MWishlist
+"%s got moved to <a href=""%s"">%s</a> successfully.","%s got moved to <a href=""%s"">%s</a> successfully.",module,Amasty_MWishlist
+We can't find item.,We can't find item.,module,Amasty_MWishlist
+Something is wrong.,Something is wrong.,module,Amasty_MWishlist
+We can't delete the item from Wish List right now because of an error: %1.,We can't delete the item from Wish List right now because of an error: %1.,module,Amasty_MWishlist
+We can't delete the item from the Wish List right now.,We can't delete the item from the Wish List right now.,module,Amasty_MWishlist
+Can't load item.,Can't load item.,module,Amasty_MWishlist
+You added %1 to your shopping cart.,You added %1 to your shopping cart.,module,Amasty_MWishlist
+This product(s) is out of stock.,This product(s) is out of stock.,module,Amasty_MWishlist
+We can't add the item to the cart right now.,We can't add the item to the cart right now.,module,Amasty_MWishlist
+You will no longer receive wishlist price alerts.,You will no longer receive wishlist price alerts.,module,Amasty_MWishlist
+Unable to update the wishlist price alert subscription.,Unable to update the wishlist price alert subscription.,module,Amasty_MWishlist
+Something wrong,Something wrong,module,Amasty_MWishlist
+We can't delete the default Wish List.,We can't delete the default Wish List.,module,Amasty_MWishlist
+We can't delete the Wish List right now: %1.,We can't delete the Wish List right now: %1.,module,Amasty_MWishlist
+%1 has been deleted.,%1 has been deleted.,module,Amasty_MWishlist
+We can't delete item from Wish List right now.,We can't delete item from Wish List right now.,module,Amasty_MWishlist
+%1 has been updated in your Wish List.,%1 has been updated in your Wish List.,module,Amasty_MWishlist
+Can't save description %1,Can't save description %2,module,Amasty_MWishlist
+Wish list has been updated.,Wish list has been updated.,module,Amasty_MWishlist
+Can't update wish list,Can't update wish list,module,Amasty_MWishlist
+A list with the same name already exist.,A list with the same name already exist.,module,Amasty_MWishlist
+We can't create the Wish List right now.,We can't create the Wish List right now.,module,Amasty_MWishlist
+The requested Wish List doesn't exist.,The requested Wish List doesn't exist.,module,Amasty_MWishlist
+We can't save the cron expression.,We can't save the cron expression.,module,Amasty_MWishlist
+Maximum Search query length is %1,Maximum Search query length is %2,module,Amasty_MWishlist
+Minimum Search query length is %1,Minimum Search query length is %2,module,Amasty_MWishlist
+Unable to save wishlist with ID %1. Error: %2,Unable to save wishlist with ID %1. Error: %3,module,Amasty_MWishlist
+Unable to save new wishlist. Error: %1,Unable to save new wishlist. Error: %2,module,Amasty_MWishlist
+"Wishlist with specified ID ""%1"" not found.","Wishlist with specified ID ""%1"" not found.",module,Amasty_MWishlist
+"Wishlist with specified Customer ID ""%1"" not found.","Wishlist with specified Customer ID ""%1"" not found.",module,Amasty_MWishlist
+Unable to remove wishlist with ID %1. Error: %2,Unable to remove wishlist with ID %1. Error: %3,module,Amasty_MWishlist
+Unable to remove wishlist. Error: %1,Unable to remove wishlist. Error: %2,module,Amasty_MWishlist
+Default Stock,Default Stock,module,Amasty_MWishlist
+%1 (Default),%1 (Default),module,Amasty_MWishlist
+Wish Lists,רשימות משאלות,module,Amasty_MWishlist
+Requisition Lists,רשימות רכישה,module,Amasty_MWishlist
+Twitter,Twitter,module,Amasty_MWishlist
+Facebook,Facebook,module,Amasty_MWishlist
+Wish,Wish,module,Amasty_MWishlist
+Requisition,רשימת רכישה,module,Amasty_MWishlist
+Sign in to edit wish lists.,יש להתחברת לחשבונך על מנת לערוך את רשימת המשאלות,module,Amasty_MWishlist
+The wish list is not assigned to your account and can't be edited.,The wish list is not assigned to your account and can't be edited.,module,Amasty_MWishlist
+Provide the wish list name.,הענק שם לרשימת המשאלות ,module,Amasty_MWishlist
+"Wish list ""%1"" already exists.","רשימת משאלות ""%1"" כבר קיימת.",module,Amasty_MWishlist
+Product Name,שם מוצר,module,Amasty_MWishlist
+SKU,SKU,module,Amasty_MWishlist
+Orders Placed from Lists,Orders Placed from Lists,module,Amasty_MWishlist
+Qty Purchased from Lists,Qty Purchased from Lists,module,Amasty_MWishlist
+View more,ראה עוד,module,Amasty_MWishlist
+Open,Open,module,Amasty_MWishlist
+"%1 has been added to <a href=""%2"">%3</a>.","%1 התווסף אל <a href=""%2"">%3</a>.",module,Amasty_MWishlist
+"<a href=""%1"">%2</a> has been created.","<a href=""%1"">%2</a> נוצרה.",module,Amasty_MWishlist
+"%1 has been moved to <a href=""%2"">%3</a>.","%1 הועברה <a href=""%2"">%3</a>.",module,Amasty_MWishlist
+Delete Wish List,מחק את רשימת המשאלות,module,Amasty_MWishlist
+Qty,כמות,module,Amasty_MWishlist
+Add to Cart,הוסף לסל,module,Amasty_MWishlist
+Availability,זמינות,module,Amasty_MWishlist
+In stock,במלאי,module,Amasty_MWishlist
+Out of stock,אזל מהמלאי ,module,Amasty_MWishlist
+Copy Item,העתק פריט,module,Amasty_MWishlist
+Copy,העתק ,module,Amasty_MWishlist
+Edit,עריכה,module,Amasty_MWishlist
+Move Item,העבר פריט,module,Amasty_MWishlist
+Move,העבר ,module,Amasty_MWishlist
+Delete Item,מחק פריט,module,Amasty_MWishlist
+Delete,מחק,module,Amasty_MWishlist
+This Wish List has no Items,הרשימה ריקה :( כדאי להוסיף מוצרים,module,Amasty_MWishlist
+Go to wishlist page,עבור לעמוד רשימת המשאלות,module,Amasty_MWishlist
+The folder is empty,הרשימה ריקה :( כדאי להוסיף מוצרים,module,Amasty_MWishlist
+Product Image,תמונת מוצר,module,Amasty_MWishlist
+Open list of actions,Open list of actions,module,Amasty_MWishlist
+View wishlist,צפייה ברשימת המשאלות,module,Amasty_MWishlist
+View,צפייה ,module,Amasty_MWishlist
+Delete wishlist,מחק את רשימת המשאלות,module,Amasty_MWishlist
+Create New List,צרו רשימה חדשה,module,Amasty_MWishlist
+,,module,Amasty_MWishlist
+Name List,הוסף שם לרשימה,module,Amasty_MWishlist
+Add,הוסף ,module,Amasty_MWishlist
+* Required Fields,שדות חובה,module,Amasty_MWishlist
+Sharing Information,Sharing Information,module,Amasty_MWishlist
+"Email addresses, separated by commas","Email addresses, separated by commas",module,Amasty_MWishlist
+Message,Message,module,Amasty_MWishlist
+Check here to link an RSS feed to your List.,Check here to link an RSS feed to your List.,module,Amasty_MWishlist
+Share List,שתף רשימה,module,Amasty_MWishlist
+Back,חזור,module,Amasty_MWishlist
+You have no items in your wish list.,הרשימה ריקה :( כדאי להוסיף מוצרים,module,Amasty_MWishlist
+No manage stock,No manage stock,module,Amasty_MWishlist
+"Hello, %customer_name","Hello, %customer_name",module,Amasty_MWishlist
+Some products in your wishlists have changed their prices recently. Please find the new prices below:,Some products in your wishlists have changed their prices recently. Please find the new prices below:,module,Amasty_MWishlist
+Do not want to receive our newsletter anymore?,Do not want to receive our newsletter anymore?,module,Amasty_MWishlist
+You can unsubscribe,You can unsubscribe,module,Amasty_MWishlist
+here,here,module,Amasty_MWishlist
+Take a look at %customer_name's List,Take a look at %customer_name's List,module,Amasty_MWishlist
+%customer_name wants to share this List from %store_name with you:,%customer_name wants to share this List from %store_name with you:,module,Amasty_MWishlist
+View all List items,צפה ברשימת המשאלות שלך,module,Amasty_MWishlist
+Recently Updated Lists,רשימות שעודכנו לאחרונה,module,Amasty_MWishlist
+Save,שמור,module,Amasty_MWishlist
+Update List,עדכן רשימה,module,Amasty_MWishlist
+Delete List,מחק רשימה,module,Amasty_MWishlist
+Add New Products,הוסף פריט חדש לרשימה,module,Amasty_MWishlist
+Your search returned no products.,Your search returned no products.,module,Amasty_MWishlist
+Max value is,Max value is,module,Amasty_MWishlist
+Min value is,Min value is,module,Amasty_MWishlist
+Are you sure? This action can't be undone.,Are you sure? This action can't be undone.,module,Amasty_MWishlist
+Choose the list for selected product,לאיזו רשימה להוסיף פריט זה?,module,Amasty_MWishlist
+Add to List,הוסיפו לרשימה,module,Amasty_MWishlist
+Unselect all,בטל בחירה של הכל,module,Amasty_MWishlist
+Select all,בחר הכל,module,Amasty_MWishlist
+Please choose a List,בבקשה בחר רשימה,module,Amasty_MWishlist
+Amasty Multiple Wishlist,Amasty Multiple Wishlist,module,Amasty_MWishlist
+Multiple Wishlist,Multiple Wishlist,module,Amasty_MWishlist
+Information,Information,module,Amasty_MWishlist
+General,General,module,Amasty_MWishlist
+Enabled,Enabled,module,Amasty_MWishlist
+Allow List Sharing via,Allow List Sharing via,module,Amasty_MWishlist
+Customer Notifications,Customer Notifications,module,Amasty_MWishlist
+Send Price Alerts,Send Price Alerts,module,Amasty_MWishlist
+"If enabled, customers will get notified about changes of product prices in their Wish and Requisition lists.","If enabled, customers will get notified about changes of product prices in their Wish and Requisition lists.",module,Amasty_MWishlist
+Frequency,Frequency,module,Amasty_MWishlist
+Start Time,Start Time,module,Amasty_MWishlist
+Email Sender,Email Sender,module,Amasty_MWishlist
+Email Template,Email Template,module,Amasty_MWishlist
+Select the appropriate template for the email notifications.,Select the appropriate template for the email notifications.,module,Amasty_MWishlist
+List Name,List Name,module,Amasty_MWishlist
+List Type,List Type,module,Amasty_MWishlist
+Comment,Comment,module,Amasty_MWishlist
+ID,ID,module,Amasty_MWishlist
+Thumbnail,Thumbnail,module,Amasty_MWishlist
+Total number of Lists the item is present in,Total number of Lists the item is present in,module,Amasty_MWishlist
+Number of Wish Lists,Number of Wish Lists,module,Amasty_MWishlist
+Number of Requisition Lists,Number of Requisition Lists,module,Amasty_MWishlist
+Last time added on,Last time added on,module,Amasty_MWishlist
+Stock Qty,Stock Qty,module,Amasty_MWishlist
+Product Details and Comment,Product Details and Comment,module,Amasty_MWishlist
+Search by SKU or Product Name,Search by SKU or Product Name,module,Amasty_MWishlist
