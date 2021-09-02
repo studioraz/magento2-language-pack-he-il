@@ -2130,7 +2130,7 @@ The cart item doesn't exist.,The cart item doesn't exist.,module,Amasty_MWishlis
 We can't move the item to the wish list.,We can't move the item to the wish list.,module,Amasty_MWishlist
 %s items cannot be moved: %s.,%s items cannot be moved: %s.,module,Amasty_MWishlist
 We can't move %s items.,We can't move %s items.,module,Amasty_MWishlist
-"%s got moved to <a href=""%s"">%s</a> successfully.","%s got moved to <a href=""%s"">%s</a> successfully.",module,Amasty_MWishlist
+"%s got moved to <a href=""%s"">%s</a> successfully.","%s עבר אל <a href=""%s"">%s</a> בהצלחה.",module,Amasty_MWishlist
 We can't find item.,We can't find item.,module,Amasty_MWishlist
 Something is wrong.,Something is wrong.,module,Amasty_MWishlist
 We can't delete the item from Wish List right now because of an error: %1.,We can't delete the item from Wish List right now because of an error: %1.,module,Amasty_MWishlist
@@ -2265,3 +2265,6 @@ Last time added on,Last time added on,module,Amasty_MWishlist
 Stock Qty,Stock Qty,module,Amasty_MWishlist
 Product Details and Comment,Product Details and Comment,module,Amasty_MWishlist
 Search by SKU or Product Name,Search by SKU or Product Name,module,Amasty_MWishlist
+Move Selected,העבר פריטים נבחרים,module,Amasty_MWishlist
+Copy Selected,העתק פריטים נבחרים,module,Amasty_MWishlist
+Requisitions List,רשימת קניות,module,Amasty_MWishlist
