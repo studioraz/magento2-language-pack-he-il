@@ -9,6 +9,7 @@
 - Amasty_StoreCredit
 - Amasty_Gdpr
 - Amasty_GiftCard
+- Amasty_SocialLogin
 - Amasty_Sorting
 - Amasty_ShopbyBrand
 - Amasty_GiftWrap
