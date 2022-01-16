@@ -6,6 +6,8 @@ Summary,סל קניות,module,Magento_Checkout
 Enter discount code,הזינו קוד קופון,module,Magento_SalesRule
 Apply Discount Code,יש לי קוד קופון,module,Magento_SalesRule
 Apply Discount Code,יש לי קוד קופון,module,Magento_Checkout
+Create New Customer Account,יצירת חשבון לקוח,module,Magento_Customer
+The password needs at least %1 characters. Create a new password and try again.,יש ליצור סיסמה עם מינימום %1 תווים. נא להזין סיסמה חדשה.,module,Magento_Customer
 Forgot Your Password,שכחת סיסמה,module,Magento_Customer
 This is a required field.,שדה זה הוא חובה.,module,Magento_Ui
 Sign Up for Our Newsletter,הירשם לניוזלטר שלנו,module,Amasty_Checkout
@@ -15,7 +17,7 @@ I have read and accept the privacy policy,קראתי ואני מאשר/ת את �
 Privacy Policy,מדיניות הפרטיות,module,Amasty_Gdpr
 I have read and accept,קראתי והסכמתי,module,Amasty_Gdpr
 in,ב,module,Mirasvit_SearchAutocomplete
-Add to Cart,הוסף לעגלה,module,Mirasvit_SearchAutocomplete
+Add to Cart,הוסף לסל,module,Mirasvit_SearchAutocomplete
 Registrant: %1,Registrant: %1,module,Mirasvit_SearchAutocomplete
 Products,מוצרים,module,Mirasvit_SearchAutocomplete
 Popular suggestions,הצעות פופולריות,module,Mirasvit_SearchAutocomplete
@@ -1039,11 +1041,11 @@ We can't add this item to your shopping cart right now. Please reload the page.,
 We can't add this item to your shopping cart right now.,,module,Amasty_Cart
 %1 has been added to your cart,%1 התווסף לסל הקניות שלך,module,Amasty_Cart
 Please specify the quantity of product(s).,נא לבחור את מספר היחידות עבור על מוצר,module,Amasty_Cart
-You need to choose options for your item.,אתה צריך לבחור אפשרויות עבור הפריט שלך.,module,Amasty_Cart
+You need to choose options for your item.,יש לבחור ערכים לאפשרויות המוצר.,module,Amasty_Cart
 Continue shopping,המשך בקניות,module,Amasty_Cart
 Cancel,לבטל,module,Amasty_Cart
 Set options,הגדרת אפשרויות,module,Amasty_Cart
-Add to cart,הוסף לעגלה,module,Amasty_Cart
+Add to cart,הוסף לסל,module,Amasty_Cart
 There is,יש,module,Amasty_Cart
 item,פריט,module,Amasty_Cart
 There are,יש,module,Amasty_Cart
@@ -1057,7 +1059,7 @@ Go to Checkout,מעבר לתשלום,module,Amasty_Cart
 %1 has been added to your cart.,%1 התווסף לסל הקניות שלך.,module,Amasty_Cart
 We can't add this item to your shopping cart.,,module,Amasty_Cart
 We can't find the quote item.,,module,Amasty_Cart
-%1 was updated in your shopping cart.,,module,Amasty_Cart
+%1 was updated in your shopping cart.,%1 התווסף לסל הקניות שלך.,module,Amasty_Cart
 We can't update the item right now.,,module,Amasty_Cart
 This product(s) is out of stock.,,module,Amasty_Cart
 We can't add the item to the cart right now.,,module,Amasty_Cart
@@ -2112,7 +2114,7 @@ You have no Requisition Lists.,"אין לך רשימות קנייה, אבל זה
 Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_MWishlist
 My Wish Lists,רשימות המשאלות שלי,module,Amasty_MWishlist
 Page not found.,Page not found.,module,Amasty_MWishlist
-Most Wanted Items in Lists,המוצרים המבוקשים ביותר ברשימות ,module,Amasty_MWishlist
+Most Wanted Items in Lists,המוצרים המבוקשים ביותר ברשימות,module,Amasty_MWishlist
 Most Purchased Items from Lists,המוצרים הנרכשים ביותר ברשימות,module,Amasty_MWishlist
 The Wish List item can't load at this time. Please try again later.,The Wish List item can't load at this time. Please try again later.,module,Amasty_MWishlist
 We can't configure the product right now.,We can't configure the product right now.,module,Amasty_MWishlist
@@ -2136,7 +2138,7 @@ Something is wrong.,Something is wrong.,module,Amasty_MWishlist
 We can't delete the item from Wish List right now because of an error: %1.,We can't delete the item from Wish List right now because of an error: %1.,module,Amasty_MWishlist
 We can't delete the item from the Wish List right now.,We can't delete the item from the Wish List right now.,module,Amasty_MWishlist
 Can't load item.,Can't load item.,module,Amasty_MWishlist
-You added %1 to your shopping cart.,You added %1 to your shopping cart.,module,Amasty_MWishlist
+You added %1 to your shopping cart.,%1 נוסף לסל הקניות שלך.,module,Amasty_MWishlist
 This product(s) is out of stock.,This product(s) is out of stock.,module,Amasty_MWishlist
 We can't add the item to the cart right now.,We can't add the item to the cart right now.,module,Amasty_MWishlist
 You will no longer receive wishlist price alerts.,You will no longer receive wishlist price alerts.,module,Amasty_MWishlist
@@ -2172,7 +2174,7 @@ Wish,רשימת משאלות,module,Amasty_MWishlist
 Requisition,רשימת קניות,module,Amasty_MWishlist
 Sign in to edit wish lists.,יש להתחברת לחשבונך על מנת לערוך את רשימת המשאלות,module,Amasty_MWishlist
 The wish list is not assigned to your account and can't be edited.,The wish list is not assigned to your account and can't be edited.,module,Amasty_MWishlist
-Provide the wish list name.,הענק שם לרשימת המשאלות ,module,Amasty_MWishlist
+Provide the wish list name.,הענק שם לרשימת המשאלות,module,Amasty_MWishlist
 "Wish list ""%1"" already exists.","רשימת משאלות ""%1"" כבר קיימת.",module,Amasty_MWishlist
 Product Name,שם מוצר,module,Amasty_MWishlist
 SKU,SKU,module,Amasty_MWishlist
@@ -2188,12 +2190,12 @@ Qty,כמות,module,Amasty_MWishlist
 Add to Cart,הוסף לסל,module,Amasty_MWishlist
 Availability,זמינות,module,Amasty_MWishlist
 In stock,במלאי,module,Amasty_MWishlist
-Out of stock,אזל מהמלאי ,module,Amasty_MWishlist
+Out of stock,אזל מהמלאי,module,Amasty_MWishlist
 Copy Item,העתק פריט,module,Amasty_MWishlist
-Copy,העתק ,module,Amasty_MWishlist
+Copy,העתק,module,Amasty_MWishlist
 Edit,עריכה,module,Amasty_MWishlist
 Move Item,העבר פריט,module,Amasty_MWishlist
-Move,העבר ,module,Amasty_MWishlist
+Move,העבר,module,Amasty_MWishlist
 Delete Item,מחק פריט,module,Amasty_MWishlist
 Delete,מחק,module,Amasty_MWishlist
 This Wish List has no Items,הרשימה ריקה :( כדאי להוסיף מוצרים,module,Amasty_MWishlist
@@ -2202,12 +2204,12 @@ The folder is empty,הרשימה ריקה :( כדאי להוסיף מוצרים,
 Product Image,תמונת מוצר,module,Amasty_MWishlist
 Open list of actions,Open list of actions,module,Amasty_MWishlist
 View wishlist,צפייה ברשימת המשאלות,module,Amasty_MWishlist
-View,צפייה ,module,Amasty_MWishlist
+View,צפייה,module,Amasty_MWishlist
 Delete wishlist,מחק את רשימת המשאלות,module,Amasty_MWishlist
 Create New List,צרו רשימה חדשה,module,Amasty_MWishlist
 ,,module,Amasty_MWishlist
 Name List,הוסף שם לרשימה,module,Amasty_MWishlist
-Add,הוסף ,module,Amasty_MWishlist
+Add,הוסף,module,Amasty_MWishlist
 * Required Fields,שדות חובה,module,Amasty_MWishlist
 Sharing Information,Sharing Information,module,Amasty_MWishlist
 "Email addresses, separated by commas","Email addresses, separated by commas",module,Amasty_MWishlist
@@ -2268,3 +2270,124 @@ Search by SKU or Product Name,Search by SKU or Product Name,module,Amasty_MWishl
 Move Selected,העבר פריטים נבחרים,module,Amasty_MWishlist
 Copy Selected,העתק פריטים נבחרים,module,Amasty_MWishlist
 Requisitions List,רשימת קניות,module,Amasty_MWishlist
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_SocialLogin
+Please kindly keep in mind that Apple guidelines require rectangular shape of the sign-in button. We strongly recommend to make the appropriate changes in Login Buttons Shape setting.,Please kindly keep in mind that Apple guidelines require rectangular shape of the sign-in button. We strongly recommend to make the appropriate changes in Login Buttons Shape setting.,module,Amasty_SocialLogin
+"Additional Social Login package is not installed or need to be updated. Please, run the following command in the SSH: composer require hybridauth/hybridauth:~3.3","Additional Social Login package is not installed or need to be updated. Please, run the following command in the SSH: composer require hybridauth/hybridauth:~3.3",module,Amasty_SocialLogin
+The Key used for Apple ID authorization has expired. Please timely update all necessary API credentials to guarantee proper further functioning.,The Key used for Apple ID authorization has expired. Please timely update all necessary API credentials to guarantee proper further functioning.,module,Amasty_SocialLogin
+The Key used for Apple ID authorization expires %1. Please timely update all necessary API credentials to guarantee proper further functioning.,The Key used for Apple ID authorization expires %1. Please timely update all necessary API credentials to guarantee proper further functioning.,module,Amasty_SocialLogin
+You are now logged out.,התנתקת מהחשבון,module,Amasty_SocialLogin
+My Social Accounts,My Social Accounts,module,Amasty_SocialLogin
+Your site is configured to use HTTP connection and Facebook API does not allow it for login. Please configure HTTPS connection for your site.,Your site is configured to use HTTP connection and Facebook API does not allow it for login. Please configure HTTPS connection for your site.,module,Amasty_SocialLogin
+Popup Registration Form,Popup Registration Form,module,Amasty_SocialLogin
+Social Login,Social Login,module,Amasty_SocialLogin
+Sorry. We cannot find social type. Please try again later.,Sorry. We cannot find social type. Please try again later.,module,Amasty_SocialLogin
+Sorry. We cannot find your email. Please enter email in your %1 profile.,Sorry. We cannot find your email. Please enter email in your %1 profile.,module,Amasty_SocialLogin
+Sorry. We cannot connect to this social profile. It is used for another site account.,Sorry. We cannot connect to this social profile. It is used for another site account.,module,Amasty_SocialLogin
+You have successfully logged in using your %1 account.,You have successfully logged in using your %1 account.,module,Amasty_SocialLogin
+Please check Callback Url in social app configuration,Please check Callback Url in social app configuration,module,Amasty_SocialLogin
+An unspecified error occurred. Please try again later.,אירעה שגיאה. נא לנסות שוב.,module,Amasty_SocialLogin
+"Sorry. We cannot find your email. Please sign in, enter My Account ->
+                        My Social Accounts tab and link your %1 Social Account.","Sorry. We cannot find your email. Please sign in, enter My Account ->
+                        My Social Accounts tab and link your %1 Social Account.",module,Amasty_SocialLogin
+We can`t get customer email from your social account.,לא הצלחנו לקבל את כתובת האימייל שלך מהחשבון שלך,module,Amasty_SocialLogin
+The account is locked.,החשבון נעול,module,Amasty_SocialLogin
+"You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Amasty_SocialLogin
+We have created new store account using your email address.,חשבון לקוח חדש נוצר עובר כתובת האימייל שלך,module,Amasty_SocialLogin
+The registration process is almost completed! Please kindly fill out a few more fields to finish it.,The registration process is almost completed! Please kindly fill out a few more fields to finish it.,module,Amasty_SocialLogin
+An unspecified error occurred during creating new customer.,אירעה שגיאה במהלך יצירת החשבון. נא לנסות שוב.,module,Amasty_SocialLogin
+Please read and accept the privacy policy,Please read and accept the privacy policy,module,Amasty_SocialLogin
+Unable to save sales with ID %1. Error: %2,Unable to save sales with ID %1. Error: %2,module,Amasty_SocialLogin
+Unable to save new sales. Error: %1,Unable to save new sales. Error: %1,module,Amasty_SocialLogin
+"Sales with specified ID ""%1"" not found.","Sales with specified ID ""%1"" not found.",module,Amasty_SocialLogin
+Unable to remove sales with ID %1. Error: %2,Unable to remove sales with ID %1. Error: %2,module,Amasty_SocialLogin
+Unable to remove sales. Error: %1,Unable to remove sales. Error: %1,module,Amasty_SocialLogin
+Unable to save social data with ID %1. Error: %2,Unable to save social data with ID %1. Error: %2,module,Amasty_SocialLogin
+Unable to save new social sata item. Error: %1,Unable to save new social sata item. Error: %1,module,Amasty_SocialLogin
+"Social item with specified ID ""%1"" not found.","Social item with specified ID ""%1"" not found.",module,Amasty_SocialLogin
+Unable to remove social item with ID %1. Error: %2,Unable to remove social item with ID %1. Error: %2,module,Amasty_SocialLogin
+Unable to remove social item. Error: %1,Unable to remove social item. Error: %1,module,Amasty_SocialLogin
+New User,New User,module,Amasty_SocialLogin
+Top,Top,module,Amasty_SocialLogin
+Bottom,Bottom,module,Amasty_SocialLogin
+Right,Right,module,Amasty_SocialLogin
+Left,Left,module,Amasty_SocialLogin
+Login Popup,Login Popup,module,Amasty_SocialLogin
+Above customer login form,Above customer login form,module,Amasty_SocialLogin
+Below customer login form,Below customer login form,module,Amasty_SocialLogin
+Above customer registration form,Above customer registration form,module,Amasty_SocialLogin
+Below customer registration form,Below customer registration form,module,Amasty_SocialLogin
+Shopping cart page,Shopping cart page,module,Amasty_SocialLogin
+Stay on the current page,Stay on the current page,module,Amasty_SocialLogin
+To Custom Url,To Custom Url,module,Amasty_SocialLogin
+Refresh Current Page,Refresh Current Page,module,Amasty_SocialLogin
+Round Buttons,Round Buttons,module,Amasty_SocialLogin
+Rectangular Buttons,Rectangular Buttons,module,Amasty_SocialLogin
+Square Buttons,Square Buttons,module,Amasty_SocialLogin
+Your account was successfully unlinked.,Your account was successfully unlinked.,module,Amasty_SocialLogin
+Sorry. We can`t find information about your account.,Sorry. We can`t find information about your account.,module,Amasty_SocialLogin
+Top Social Login,Top Social Login,module,Amasty_SocialLogin
+Users:,Users:,module,Amasty_SocialLogin
+Purchased Items:,Purchased Items:,module,Amasty_SocialLogin
+Amount:,Amount:,module,Amasty_SocialLogin
+Other connections,Other connections,module,Amasty_SocialLogin
+Users,Users,module,Amasty_SocialLogin
+Purchased Items,Purchased Items,module,Amasty_SocialLogin
+Amount,Amount,module,Amasty_SocialLogin
+Social Login Chart,Social Login Chart,module,Amasty_SocialLogin
+Linked accounts,Linked accounts,module,Amasty_SocialLogin
+Unlink,Unlink,module,Amasty_SocialLogin
+Link new accounts,Link new accounts,module,Amasty_SocialLogin
+Link,Link,module,Amasty_SocialLogin
+Link  %1,Link  %1,module,Amasty_SocialLogin
+Login,התחברות,module,Amasty_SocialLogin
+Register,הרשמה,module,Amasty_SocialLogin
+Forgot Your Password?,שכחת סיסמה?,module,Amasty_SocialLogin
+or,or,module,Amasty_SocialLogin
+Login with Your Social Profile,Login with Your Social Profile,module,Amasty_SocialLogin
+Login with,Login with,module,Amasty_SocialLogin
+Sign in with %1,Sign in with %1,module,Amasty_SocialLogin
+Continue with %1,Continue with %1,module,Amasty_SocialLogin
+You have successfully logged in.,You have successfully logged in.,module,Amasty_SocialLogin
+Thank you for registering with us.,Thank you for registering with us.,module,Amasty_SocialLogin
+Email,דואר אלקטרוני,module,Amasty_SocialLogin
+Password,סיסמה,module,Amasty_SocialLogin
+"Sorry, an unspecified error occurred. Please try again.",אירעה שגיאה נא לנסות שוב.,module,Amasty_SocialLogin
+Show More,Show More,module,Amasty_SocialLogin
+Information,Information,module,Amasty_SocialLogin
+General Settings,General Settings,module,Amasty_SocialLogin
+Enable Social Login,Enable Social Login,module,Amasty_SocialLogin
+Set 'Yes' to allow login via social networks. Set 'No' to disable social login buttons. Note that the AJAX Pop-up can still be applied for standard login and registration.,Set 'Yes' to allow login via social networks. Set 'No' to disable social login buttons. Note that the AJAX Pop-up can still be applied for standard login and registration.,module,Amasty_SocialLogin
+Add Social Login to,Add Social Login to,module,Amasty_SocialLogin
+Choose where to place the social login.,Choose where to place the social login.,module,Amasty_SocialLogin
+Login Buttons Shape,Login Buttons Shape,module,Amasty_SocialLogin
+Enable Ajax Popup,Enable Ajax Popup,module,Amasty_SocialLogin
+Set 'Yes' to activate AJAX Pop-up for the registration and login.,Set 'Yes' to activate AJAX Pop-up for the registration and login.,module,Amasty_SocialLogin
+Login Buttons Position,Login Buttons Position,module,Amasty_SocialLogin
+Please configure the Social Login Buttons position in the Ajax pop-up. Note that the bottom position is the only available option for the registration pop-up.,Please configure the Social Login Buttons position in the Ajax pop-up. Note that the bottom position is the only available option for the registration pop-up.,module,Amasty_SocialLogin
+Redirect after Login,Redirect after Login,module,Amasty_SocialLogin
+Redirect Url after Login,Redirect Url after Login,module,Amasty_SocialLogin
+Select the behavior and the page to direct customers after their social login.,Select the behavior and the page to direct customers after their social login.,module,Amasty_SocialLogin
+Use New Redirect URI,Use New Redirect URI,module,Amasty_SocialLogin
+Redirect URI will soon be replaced by New Redirect URI. To avoid functioning downtime we strongly recommend to switch to new url before next extension’s update.,Redirect URI will soon be replaced by New Redirect URI. To avoid functioning downtime we strongly recommend to switch to new url before next extension’s update.,module,Amasty_SocialLogin
+New Redirect URL,New Redirect URL,module,Amasty_SocialLogin
+Google,Google,module,Amasty_SocialLogin
+Enabled,Enabled,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#google"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#google"">here</a>.",module,Amasty_SocialLogin
+Consumer Key (API Key),Consumer Key (API Key),module,Amasty_SocialLogin
+Consumer Secret (API Secret),Consumer Secret (API Secret),module,Amasty_SocialLogin
+Valid Callback URL (Deprecated),Valid Callback URL (Deprecated),module,Amasty_SocialLogin
+Sort Order,Sort Order,module,Amasty_SocialLogin
+Facebook,Facebook,module,Amasty_SocialLogin
+Twitter,Twitter,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitter"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitter"">here</a>.",module,Amasty_SocialLogin
+Instagram,Instagram,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#instagram"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#instagram"">here</a>.",module,Amasty_SocialLogin
+LinkedIn,LinkedIn,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#linkedin"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#linkedin"">here</a>.",module,Amasty_SocialLogin
+Amazon,Amazon,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#amazon"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#amazon"">here</a>.",module,Amasty_SocialLogin
+Paypal,Paypal,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#paypal"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#paypal"">here</a>.",module,Amasty_SocialLogin
+Twitch,Twitch,module,Amasty_SocialLogin
+"See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.",module,Amasty_SocialLogin
+Login type,Login type,module,Amasty_SocialLogin
