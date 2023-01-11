@@ -2391,3 +2391,11 @@ Paypal,Paypal,module,Amasty_SocialLogin
 Twitch,Twitch,module,Amasty_SocialLogin
 "See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.",module,Amasty_SocialLogin
 Login type,Login type,module,Amasty_SocialLogin
+"Delivery Date Info:","מידע על תאריך אספקה:"
+"Delivery Time Interval","טווח שעות לאספקה"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","צרו קשר בטלפון <a href=""tel:%store_phone"">%store_phone</a>"
+"Our hours are <span class=""no-link"">%store_hours</span>.","השעות שלנו הן <span class=""no-link"">%store_hours</span>."
+"SKU","מק"ט"
+"Shipping Info","פרטי משלוח"
+"Delivery Date:","תאריך אספקה:"
+"Delivery Time Interval:","טווח שעות לאספקה:"
