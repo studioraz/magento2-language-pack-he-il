@@ -2399,3 +2399,310 @@ Login type,Login type,module,Amasty_SocialLogin
 "Shipping Info","פרטי משלוח"
 "Delivery Date:","תאריך אספקה:"
 "Delivery Time Interval:","טווח שעות לאספקה:"
+Description,תיאור,module,ParadoxLabs_Subscriptions
+Subscription Status,סטטוס מנוי,module,ParadoxLabs_Subscriptions
+Purchased,נרכש,module,ParadoxLabs_Subscriptions
+Last Run,ריצה אחרונה,module,ParadoxLabs_Subscriptions
+Next Run,הריצה הבאה,module,ParadoxLabs_Subscriptions
+Subtotal,סך הכל,module,ParadoxLabs_Subscriptions
+Subscriptions,מנויים,module,ParadoxLabs_Subscriptions
+Save Subscription,שמירת המנוי,module,ParadoxLabs_Subscriptions
+Edit Subscription,עריכת מנוי,module,ParadoxLabs_Subscriptions
+Save and Continue Edit,שמור והמשך לערוך,module,ParadoxLabs_Subscriptions
+Bill Now,חייב עכשיו,module,ParadoxLabs_Subscriptions
+Reactivate,חידוש מנוי,module,ParadoxLabs_Subscriptions
+Pause,הקפאת מנוי,module,ParadoxLabs_Subscriptions
+Cancel,ביטול מנוי,module,ParadoxLabs_Subscriptions
+History,היסטוריה,module,ParadoxLabs_Subscriptions
+Date,תאריך,module,ParadoxLabs_Subscriptions
+Order #,מספר הזמנה,module,ParadoxLabs_Subscriptions
+Agent,Agent,module,ParadoxLabs_Subscriptions
+Details,פרטים,module,ParadoxLabs_Subscriptions
+Subscription Details,פרטי מנוי,module,ParadoxLabs_Subscriptions
+%3 x %1 (SKU: %2)<br />,%3 x %1 ( מקט: %2)<br />,module,ParadoxLabs_Subscriptions
+Product(s) could not be loaded: %1,לא ניתן היה לטעון מוצרים: %1,module,ParadoxLabs_Subscriptions
+Product(s),מוצרים,module,ParadoxLabs_Subscriptions
+Status,סטטוס,module,ParadoxLabs_Subscriptions
+Started,התחיל,module,ParadoxLabs_Subscriptions
+Last run,ריצה אחרונה,module,ParadoxLabs_Subscriptions
+Next run,הריצה הבאה,module,ParadoxLabs_Subscriptions
+Number of times billed,מספר הפעמים שחויב,module,ParadoxLabs_Subscriptions
+Length,משך המנוי,module,ParadoxLabs_Subscriptions
+Number of cycles the subscription should run. 0 for indefinite.,מספר המחזורים שהמנוי צריך לרוץ. 0 עבור בלתי מוגדר.,module,ParadoxLabs_Subscriptions
+Customer,לקוח,module,ParadoxLabs_Subscriptions
+"<a href=""%1"">%2 %3</a> (%4)","<a href=""%1"">%2%3 </a> (%4)",module,ParadoxLabs_Subscriptions
+Notes,הערות,module,ParadoxLabs_Subscriptions
+Purchase Point,נקודת רכישה,module,ParadoxLabs_Subscriptions
+"Note: Subtotals do not include shipping, tax, or other possible surcharges. Actual order totals may vary over time.",סכום לתשלום אינו כולל משלוח ותשלומים נוספים אחרים.,module,ParadoxLabs_Subscriptions
+Note: Subtotals do not include shipping or other possible surcharges. Actual order totals may vary over time.,סכום לתשלום אינו כולל משלוח ותשלומים נוספים אחרים.,module,ParadoxLabs_Subscriptions
+Frequency,תדירות,module,ParadoxLabs_Subscriptions
+Custom (enter below),מותאם אישית (יש להזין למטה),module,ParadoxLabs_Subscriptions
+Frequency: Every,תדירות: כל,module,ParadoxLabs_Subscriptions
+Frequency Unit,יחידת תדרים,module,ParadoxLabs_Subscriptions
+%1: %2,%1: %2,module,ParadoxLabs_Subscriptions
+Payment,תשלום,module,ParadoxLabs_Subscriptions
+Payment Information,פרטי תשלום,module,ParadoxLabs_Subscriptions
+"This payment record will be used for future payments. <b>Any changes will take effect on the next billing.</b><br />To modify payment options, please go to the <a href=""%1"" target=""_blank"">customer profile</a>.","This payment record will be used for future payments. <b>Any changes will take effect on the next billing.</b><br />To modify payment options, please go to the <a href=""%1"" target=""_blank"">customer profile</a>.",module,ParadoxLabs_Subscriptions
+This subscription has no assigned payment account. Please choose a payment account below and save to prevent interruption.,למנוי זה אין חשבון תשלום שהוקצה. אנא בחר חשבון תשלום למטה ושמור כדי למנוע הפרעה.,module,ParadoxLabs_Subscriptions
+Payment Account,חשבון תשלום,module,ParadoxLabs_Subscriptions
+Billing Address,כתובת לחיוב,module,ParadoxLabs_Subscriptions
+Address corresponding to %1.,Address corresponding to %1.,module,ParadoxLabs_Subscriptions
+Shipping,משלוח,module,ParadoxLabs_Subscriptions
+Subscription,מנוי,module,ParadoxLabs_Subscriptions
+Every %1,כל %1,module,ParadoxLabs_Subscriptions
+Every %1 %2,כל %1 %2,module,ParadoxLabs_Subscriptions
+%1 %2,%1 %2,module,ParadoxLabs_Subscriptions
+The module is not enabled. Aborting.,המודול אינו מופעל. הפלה.,module,ParadoxLabs_Subscriptions
+Running any outstanding subscriptions.,הפעלת מנויים מצטיינים.,module,ParadoxLabs_Subscriptions
+Total runtime: %1 sec.,זמן ריצה כולל: %1 שניות.,module,ParadoxLabs_Subscriptions
+The module or billing notices are disabled. Aborting.,מודול או הודעות החיוב מושבתות. הפלה.,module,ParadoxLabs_Subscriptions
+Notifying any upcoming subscriptions within the threshold.,הודעה על כל מנויים הקרובים בסף.,module,ParadoxLabs_Subscriptions
+<success>Upcoming subscriptions:</success>,<הצלחה> מנויים קרובים: </הצלחה>,module,ParadoxLabs_Subscriptions
+Subscription billed successfully.,החיוב בוצע בהצלחה,module,ParadoxLabs_Subscriptions
+Subscription failed to bill. Please see history for more info.,המנוי לא הצליח לחייב. אנא עיין בהיסטוריה למידע נוסף.,module,ParadoxLabs_Subscriptions
+"Subscription status changed to ""%1"".","מצב המנוי השתנה ל ""%1"".",module,ParadoxLabs_Subscriptions
+ERROR: %1,שגיאה: %1,module,ParadoxLabs_Subscriptions
+Manage Subscriptions,נהל מנויים,module,ParadoxLabs_Subscriptions
+Subscription Logs,יומני מנוי,module,ParadoxLabs_Subscriptions
+%1 subscription(s) cannot be billed.,לא ניתן לחייב מנוי,module,ParadoxLabs_Subscriptions
+You cannot bill the selected subscription(s).,אינך יכול לחייב את המנויים שנבחרו.,module,ParadoxLabs_Subscriptions
+We billed %1 subscription(s) successfully. %2 failed.,We billed %1 subscription(s) successfully. %2 failed.,module,ParadoxLabs_Subscriptions
+Changed %1 subscription(s) to %2 successfully.,Changed %1 subscription(s) to %2 successfully.,module,ParadoxLabs_Subscriptions
+%1 subscription(s) already had status %2.,%1 subscription(s) already had status %2.,module,ParadoxLabs_Subscriptions
+Could not change %1 subscription(s) to %2. That change is not allowed.,Could not change %1 subscription(s) to %2. That change is not allowed.,module,ParadoxLabs_Subscriptions
+Subscription # %1 saved.,Subscription # %1 saved.,module,ParadoxLabs_Subscriptions
+Could not load the requested subscription.,לא ניתן להציג את המנוי המבוקש,module,ParadoxLabs_Subscriptions
+Subscription # %1,Subscription # %1,module,ParadoxLabs_Subscriptions
+Could not load the subscription customer (ID %1).,Could not load the subscription customer (ID %1).,module,ParadoxLabs_Subscriptions
+Invalid status request.,Invalid status request.,module,ParadoxLabs_Subscriptions
+My Subscriptions,המנויים שלי,module,ParadoxLabs_Subscriptions
+Edit,עריכה,module,ParadoxLabs_Subscriptions
+PayPal: %1,PayPal: %1,module,ParadoxLabs_Subscriptions
+%1 XXXX-%2,%1 XXXX-%2,module,ParadoxLabs_Subscriptions
+The public TokenBase API is not enabled.,The public TokenBase API is not enabled.,module,ParadoxLabs_Subscriptions
+You do not have permission for this action.,You do not have permission for this action.,module,ParadoxLabs_Subscriptions
+The subscriptions API is not enabled.,The subscriptions API is not enabled.,module,ParadoxLabs_Subscriptions
+"Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1""",module,ParadoxLabs_Subscriptions
+"Cannot change the status to ""%1"".","Cannot change the status to ""%1"".",module,ParadoxLabs_Subscriptions
+"""%1"" value must be specified","""%1"" value must be specified",module,ParadoxLabs_Subscriptions
+"""input"" value must be specified","""input"" value must be specified",module,ParadoxLabs_Subscriptions
+"""entity_id"" value must be specified","""entity_id"" value must be specified",module,ParadoxLabs_Subscriptions
+"Attribute ""%1"" contains invalid interval ""%2"". Please only enter positive numbers.","Attribute ""%1"" contains invalid interval ""%2"". Please only enter positive numbers.",module,ParadoxLabs_Subscriptions
+"To create subscription-enabled bundle products, please change setting Admin > Stores > Configuration > Catalog > Adaptive Subscriptions > ""Always add product option"" to ""No"".","To create subscription-enabled bundle products, please change setting Admin > Stores > Configuration > Catalog > Adaptive Subscriptions > ""Always add product option"" to ""No"".",module,ParadoxLabs_Subscriptions
+Bundle products may not have more than one subscription interval (because they do not support custom options). Please change the intervals to one value.,Bundle products may not have more than one subscription interval (because they do not support custom options). Please change the intervals to one value.,module,ParadoxLabs_Subscriptions
+"Updated %1 custom option values from ""%2"" to ""%3"".","Updated %1 custom option values from ""%2"" to ""%3"".",module,ParadoxLabs_Subscriptions
+"Updated %1 custom option labels from ""%2"" to ""%3"".","Updated %1 custom option labels from ""%2"" to ""%3"".",module,ParadoxLabs_Subscriptions
+Keep existing -- Bill Jan 15; next run Feb 1,Keep existing -- Bill Jan 15; next run Feb 1,module,ParadoxLabs_Subscriptions
+Reset schedule -- Bill Jan 15; next run Feb 15,Reset schedule -- Bill Jan 15; next run Feb 15,module,ParadoxLabs_Subscriptions
+Recalculate -- Do not bill Jan 15; next run Feb 1,Recalculate -- Do not bill Jan 15; next run Feb 1,module,ParadoxLabs_Subscriptions
+Unknown (could not read composer.json),Unknown (could not read composer.json),module,ParadoxLabs_Subscriptions
+CRON-single: Running %1 subscriptions.,CRON-single: Running %1 subscriptions.,module,ParadoxLabs_Subscriptions
+CRON-single: Subscription %1 failed. Error: %2,CRON-single: Subscription %1 failed. Error: %2,module,ParadoxLabs_Subscriptions
+"CRON-single: Ran subscriptions; %1 billed, %2 failed.","CRON-single: Ran subscriptions; %1 billed, %2 failed.",module,ParadoxLabs_Subscriptions
+CRON-multi: Checking %1 subscriptions.,CRON-multi: Checking %1 subscriptions.,module,ParadoxLabs_Subscriptions
+"CRON-multi: Ran subscriptions; %1 billed, %2 failed.","CRON-multi: Ran subscriptions; %1 billed, %2 failed.",module,ParadoxLabs_Subscriptions
+CRON-multi: Group [%1] failed. Error: %2,CRON-multi: Group [%1] failed. Error: %2,module,ParadoxLabs_Subscriptions
+CRON-notify: Emailing %1 subscriptions.,CRON-notify: Emailing %1 subscriptions.,module,ParadoxLabs_Subscriptions
+CRON-notify: Subscription %1 failed. Error: %2,CRON-notify: Subscription %1 failed. Error: %2,module,ParadoxLabs_Subscriptions
+"CRON-notify: Completed; %1 notified, %2 failed.","CRON-notify: Completed; %1 notified, %2 failed.",module,ParadoxLabs_Subscriptions
+\n<info>%1</info> [<comment>%2</comment>] for customer ID %3\n<comment>Last installment:</comment> %4\n<comment>Next scheduled:</comment>   %5\n<comment>Subtotal:</comment>         %6,\n<info>%1</info> [<comment>%2</comment>] for customer ID %3\n<comment>Last installment:</comment> %4\n<comment>Next scheduled:</comment>   %5\n<comment>Subtotal:</comment>         %6,module,ParadoxLabs_Subscriptions
+"Invalid frequency unit ""%1""","Invalid frequency unit ""%1""",module,ParadoxLabs_Subscriptions
+"Subscription with id ""%1"" does not exist.","Subscription with id ""%1"" does not exist.",module,ParadoxLabs_Subscriptions
+"Invalid status ""%1""","Invalid status ""%1""",module,ParadoxLabs_Subscriptions
+One Time,פעם אחת,module,ParadoxLabs_Subscriptions
+Every %1 for %2 %3,Every %1 for %2 %3,module,ParadoxLabs_Subscriptions
+Every %1 %2 for %3 %4,Every %1 %2 for %3 %4,module,ParadoxLabs_Subscriptions
+"Could not find new value matching label ""%1"" when duplicating product %2; skipping.","Could not find new value matching label ""%1"" when duplicating product %2; skipping.",module,ParadoxLabs_Subscriptions
+Could not find old option label for value %1 when duplicating product %2; skipping.,Could not find old option label for value %1 when duplicating product %2; skipping.,module,ParadoxLabs_Subscriptions
+Did not find expected ProductIntervalInterface for product ' . . ' / value ' .,Did not find expected ProductIntervalInterface for product ' . . ' / value ' .,module,ParadoxLabs_Subscriptions
+label,label,module,ParadoxLabs_Subscriptions
+"Could not load card with hash ""%1"".","Could not load card with hash ""%1"".",module,ParadoxLabs_Subscriptions
+"Could not load card for quote with id ""%1"".","Could not load card for quote with id ""%1"".",module,ParadoxLabs_Subscriptions
+%1 - %2,%1 - %2,module,ParadoxLabs_Subscriptions
+Payment method changed to %1.,Payment method changed to %1.,module,ParadoxLabs_Subscriptions
+Invalid payment ID.,Invalid payment ID.,module,ParadoxLabs_Subscriptions
+Unable to load subscription customer.,Unable to load subscription customer.,module,ParadoxLabs_Subscriptions
+Please choose a valid address.,Please choose a valid address.,module,ParadoxLabs_Subscriptions
+. ' address changed.',הכתובת שונתה,module,ParadoxLabs_Subscriptions
+Shipping method changed to %1 - %2.,Shipping method changed to %1 - %2.,module,ParadoxLabs_Subscriptions
+Please choose a valid shipping method.,Please choose a valid shipping method.,module,ParadoxLabs_Subscriptions
+Subscription does not contain any items to bill.,לא נבחרו פריטים לחיוב,module,ParadoxLabs_Subscriptions
+Placing generateOrderInternal([%1]),Placing generateOrderInternal([%1]),module,ParadoxLabs_Subscriptions
+Failed to place order.,ביצוע הזמנה נכשל,module,ParadoxLabs_Subscriptions
+Subscription billed. Order total: %1,Subscription billed. Order total: %1,module,ParadoxLabs_Subscriptions
+Item is not currently available for purchase.,Item is not currently available for purchase.,module,ParadoxLabs_Subscriptions
+Error on generateOrder([%1]): %2,Error on generateOrder([%1]): %2,module,ParadoxLabs_Subscriptions
+"Error while handling ""%1"": %2","Error while handling ""%1"": %2",module,ParadoxLabs_Subscriptions
+Subscriptions may only be billed in the '%1' status. #%2 has status '%3'.,Subscriptions may only be billed in the '%1' status. #%2 has status '%3'.,module,ParadoxLabs_Subscriptions
+Frequency changed from %1 to %2,Frequency changed from %1 to %2,module,ParadoxLabs_Subscriptions
+Frequency unit changed from %1 to %2,Frequency unit changed from %1 to %2,module,ParadoxLabs_Subscriptions
+Length changed from %1 to %2,Length changed from %1 to %2,module,ParadoxLabs_Subscriptions
+Status changed to '%1',Status changed to '%1',module,ParadoxLabs_Subscriptions
+Subscription frequency must be set to calculate schedule.,Subscription frequency must be set to calculate schedule.,module,ParadoxLabs_Subscriptions
+Please provide a valid date for the next scheduled run.,Please provide a valid date for the next scheduled run.,module,ParadoxLabs_Subscriptions
+Next run date changed to %1,Next run date changed to %1,module,ParadoxLabs_Subscriptions
+Please provide a valid date for last run.,אנא ספק תאריך תקף לריצה האחרונה.,module,ParadoxLabs_Subscriptions
+Please provide a valid date for last notified.,אנא ספק תאריך תקף להודעה אחרונה.,module,ParadoxLabs_Subscriptions
+Subscription must have a valid quote in order to save.,המנוי חייב להיות בעל הצעת מחיר תקפה כדי לחסוך.,module,ParadoxLabs_Subscriptions
+Subscription created. Initial order total: %1,מנוי נוצר. סך ההזמנה הראשונית: %1,module,ParadoxLabs_Subscriptions
+Could not find product for item %1 (%2),לא הצליח למצוא מוצר עבור פריט %1 ( %2),module,ParadoxLabs_Subscriptions
+Could not find payment card.,כרטיס תשלום לא הוזן,module,ParadoxLabs_Subscriptions
+subscription %1,מנוי %1,module,ParadoxLabs_Subscriptions
+subscriptions %1 and %2,מנויים %1 ו- %2,module,ParadoxLabs_Subscriptions
+subscriptions %1,מנויים %1,module,ParadoxLabs_Subscriptions
+"Unable to remove %1: This payment is being used for %2. Please update the subscription payment details, then try again.",לא ניתן להסיר %1: תשלום זה משמש עבור %2. אנא עדכן את פרטי תשלום המנוי ואז נסה שוב.,module,ParadoxLabs_Subscriptions
+Subscription Interval,מרווח מנוי,module,ParadoxLabs_Subscriptions
+Subscription Installment Number,מספר תשלומים,module,ParadoxLabs_Subscriptions
+Please Confirm,אישור,module,ParadoxLabs_Subscriptions
+Change subscription status to '%1'?,לשנות את סטטוס המנוי ל- '%1'?,module,ParadoxLabs_Subscriptions
+Add Subscription Option,הוסף אפשרות מנוי,module,ParadoxLabs_Subscriptions
+"If there is only one option, the product will always be a subscription (no dropdown).","אם יש רק אפשרות אחת, המוצר תמיד יהיה מנוי (אין נפתח).",module,ParadoxLabs_Subscriptions
+Leave <b>length</b> empty to run until canceled.,השאירו <b> אורך </b> ריק לרוץ עד לביטול.,module,ParadoxLabs_Subscriptions
+Leave <b>prices</b> empty to use normal product pricing.,השאירו <b> מחירים </b> ריקים לשימוש בתמחור מוצר רגיל.,module,ParadoxLabs_Subscriptions
+<b>Adjustment Price</b> can be used to raise or lower the initial purchase price.,ניתן להשתמש במחיר התאמה <b> </b> כדי להעלות או להוריד את מחיר הרכישה הראשוני.,module,ParadoxLabs_Subscriptions
+Subscription Options,אפשרויות מנוי,module,ParadoxLabs_Subscriptions
+Every,כל,module,ParadoxLabs_Subscriptions
+for,עבור,module,ParadoxLabs_Subscriptions
+Installment Price,מחיר תשלומים,module,ParadoxLabs_Subscriptions
+of %1,של %1,module,ParadoxLabs_Subscriptions
+Adjustment Price,מחיר התאמה,module,ParadoxLabs_Subscriptions
+plus %1,פלוס %1,module,ParadoxLabs_Subscriptions
+upfront,מראש,module,ParadoxLabs_Subscriptions
+Enter below,הזן למטה,module,ParadoxLabs_Subscriptions
+First Name,שם פרטי,module,ParadoxLabs_Subscriptions
+Last Name,שם משפחה,module,ParadoxLabs_Subscriptions
+Company,חברה,module,ParadoxLabs_Subscriptions
+Phone Number,מספר טלפון,module,ParadoxLabs_Subscriptions
+Fax Number,מספר פקס,module,ParadoxLabs_Subscriptions
+Street,רחוב,module,ParadoxLabs_Subscriptions
+Street Address,כתובת רחוב,module,ParadoxLabs_Subscriptions
+Street Address %1,כתובת רחוב 1,module,ParadoxLabs_Subscriptions
+City,עיר,module,ParadoxLabs_Subscriptions
+State/Province,מדינה/מחוז,module,ParadoxLabs_Subscriptions
+"Please select a region, state or province.","אנא בחר אזור, מדינה או מחוז.",module,ParadoxLabs_Subscriptions
+Zip/Postal Code,מיקוד,module,ParadoxLabs_Subscriptions
+Country,מדינה,module,ParadoxLabs_Subscriptions
+Shipping Information,פרטי משלוח,module,ParadoxLabs_Subscriptions
+"This subscription is virtual, so there's no need to set a shipping address.","המנוי הזה הוא וירטואלי, כך שאין צורך להגדיר כתובת משלוח.",module,ParadoxLabs_Subscriptions
+This subscription does not have a valid shipping method assigned. Please choose a shipping method below and save to prevent interruption.,למנוי זה אין שיטת משלוח תקפה. אנא בחר שיטת משלוח למטה ושמור כדי למנוע הפרעה.,module,ParadoxLabs_Subscriptions
+Shipping Method,שיטת משלוח,module,ParadoxLabs_Subscriptions
+ASSIGNED: %1,מוקצה: %1,module,ParadoxLabs_Subscriptions
+%1 - %2 (%3),%1 - %2 ( %3),module,ParadoxLabs_Subscriptions
+"Rate costs are estimated, and may vary over time.",עלויות השיעור מוערכות ועשויות להשתנות לאורך זמן.,module,ParadoxLabs_Subscriptions
+Shipping Address,כתובת למשלוח,module,ParadoxLabs_Subscriptions
+Available shipping methods may change after saving an address change.,שיטות המשלוח הזמינות יתעדכנו לאחר הזנת הכתובת למשלוח,module,ParadoxLabs_Subscriptions
+Any changes to the settings below will take effect with the next billing.,השינויים שבוצעו יכנסו לתוקף בחיוב הבא,module,ParadoxLabs_Subscriptions
+* Required Fields,שדות חובה,module,ParadoxLabs_Subscriptions
+Go back,חזרה,module,ParadoxLabs_Subscriptions
+Fax,פַקס,module,ParadoxLabs_Subscriptions
+VAT Number,"מע""מ",module,ParadoxLabs_Subscriptions
+"To change your payment options, please go to",שינוי אפשרות התשלום,module,ParadoxLabs_Subscriptions
+My Payment Data,נתוני התשלום שלי,module,ParadoxLabs_Subscriptions
+"To manage your payment options, please go to",עריכת פרטי תשלום,module,ParadoxLabs_Subscriptions
+Stored Payment Methods,שיטות תשלום שמורות,module,ParadoxLabs_Subscriptions
+My Payment Options,אפשרויות התשלום שלי,module,ParadoxLabs_Subscriptions
+Ref #,Ref #,module,ParadoxLabs_Subscriptions
+-,-,module,ParadoxLabs_Subscriptions
+Actions,פעולות,module,ParadoxLabs_Subscriptions
+View,לצפיה,module,ParadoxLabs_Subscriptions
+You have not purchased any subscriptions.,לא רכשת מנוי ,module,ParadoxLabs_Subscriptions
+Bill To,חשבונית על שם,module,ParadoxLabs_Subscriptions
+(Expires %1),(Expires %1),module,ParadoxLabs_Subscriptions
+No info found. Please add a payment method.,לא נמצא מידע. אנא הוסף שיטת תשלום.,module,ParadoxLabs_Subscriptions
+Ship To,שלח אל,module,ParadoxLabs_Subscriptions
+%1 of %2 completed,%1 of %2 completed,module,ParadoxLabs_Subscriptions
+(%1 remaining),(%1 remaining),module,ParadoxLabs_Subscriptions
+Runs every,מחויב כל,module,ParadoxLabs_Subscriptions
+Subscription Items,פריטים במנוי,module,ParadoxLabs_Subscriptions
+Item,פריט,module,ParadoxLabs_Subscriptions
+Price,מחיר,module,ParadoxLabs_Subscriptions
+Qty,כמות,module,ParadoxLabs_Subscriptions
+Subscription History,היסטוריית מנוי,module,ParadoxLabs_Subscriptions
+View Subscription Details,פרטי המנוי,module,ParadoxLabs_Subscriptions
+Product Name,שם מוצר,module,ParadoxLabs_Subscriptions
+Sku,"מק""ט",module,ParadoxLabs_Subscriptions
+The following subscription failed to bill. It has been placed on hold.,חיוב המנוי נכשל,module,ParadoxLabs_Subscriptions
+Error,שגיאה,module,ParadoxLabs_Subscriptions
+"Hi %name,",היי  name%,module,ParadoxLabs_Subscriptions
+We hope you're enjoying your subscription. This is a reminder that it's scheduled to renew on %nextRunDate.,אנו מקווים שאתה נהנה מהמנוי שלך. זוהי תזכורת לכך שהוא עומד להיות מחויב בתאריך %nextrundate.,module,ParadoxLabs_Subscriptions
+"Please contact us or <a href=""%account_url"">log into your account</a> to change your subscription.","אנא צור איתנו קשר או <a href=""%Account_url""> היכנס לחשבונך </a> כדי לשנות את המנוי שלך.",module,ParadoxLabs_Subscriptions
+"If you have questions or need help, you can email us at <a href=""mailto:%store_email"">%store_email</a>","אם יש לך שאלות או שאתה זקוק לעזרה, אתה יכול לשלוח לנו דוא""ל לכתובת <a href=""mailto :%store_email"">%store_email </a>",module,ParadoxLabs_Subscriptions
+Scheduled,מתוזמן,module,ParadoxLabs_Subscriptions
+Billing To,חיוב עבור,module,ParadoxLabs_Subscriptions
+"We just tried running your subscription, but the payment did not go through.",חיוב התשלום עבור המנוי נכשל,module,ParadoxLabs_Subscriptions
+"We have placed the subscription on hold. Please contact us or <a href=""%account_url"">log into your account</a> to update payment info and reactivate your subscription.",המנוי מוקפא. כדאי לבדוק את פרטי התשלום או ליצור קשר עם שירות הלקוחות ,module,ParadoxLabs_Subscriptions
+%1$s (+%2$s setup fee),דמי הקמה,module,ParadoxLabs_Subscriptions
+%1$s (-%2$s first order discount),הנחת הזמנה ראשונה,module,ParadoxLabs_Subscriptions
+Adaptive Subscriptions,Adaptive Subscriptions,module,ParadoxLabs_Subscriptions
+<strong>Adaptive Subscriptions</strong> by ParadoxLabs,<strong>Adaptive Subscriptions</strong> by ParadoxLabs,module,ParadoxLabs_Subscriptions
+Version Installed,Version Installed,module,ParadoxLabs_Subscriptions
+Enable,Enable,module,ParadoxLabs_Subscriptions
+Allow customers to cancel,Allow customers to cancel,module,ParadoxLabs_Subscriptions
+Allow customers to pause,Allow customers to pause,module,ParadoxLabs_Subscriptions
+Group same-day subscriptions,Group same-day subscriptions,module,ParadoxLabs_Subscriptions
+"If 'Yes', will attempt to group together matching subscriptions billing the same day (having same customer, shipping, and payment details).","If 'Yes', will attempt to group together matching subscriptions billing the same day (having same customer, shipping, and payment details).",module,ParadoxLabs_Subscriptions
+Recalculate prices,Recalculate prices,module,ParadoxLabs_Subscriptions
+"If 'Yes', subscription prices will be updated with the latest product pricing before each billing. 'No' will keep prices from the original purchase.","If 'Yes', subscription prices will be updated with the latest product pricing before each billing. 'No' will keep prices from the original purchase.",module,ParadoxLabs_Subscriptions
+Enable shipping fallback,Enable shipping fallback,module,ParadoxLabs_Subscriptions
+"If 'Yes', subscriptions will use the cheapest available shipping method if the customer's chosen method is unavailable. 'No' will put the subscription on hold.","If 'Yes', subscriptions will use the cheapest available shipping method if the customer's chosen method is unavailable. 'No' will put the subscription on hold.",module,ParadoxLabs_Subscriptions
+Always add product option,Always add product option,module,ParadoxLabs_Subscriptions
+"If 'Yes', subscription-enabled products will always have a custom option to choose the subscription interval, even if only one choice is available. 'No' will allow you to add single-option subscription simple products to configurable, grouped, and bundle products.<br />Caution: Changing this value will not affect existing Subscription custom options.","If 'Yes', subscription-enabled products will always have a custom option to choose the subscription interval, even if only one choice is available. 'No' will allow you to add single-option subscription simple products to configurable, grouped, and bundle products.<br />Caution: Changing this value will not affect existing Subscription custom options.",module,ParadoxLabs_Subscriptions
+Default products to one-time purchase,Default products to one-time purchase,module,ParadoxLabs_Subscriptions
+"If 'Yes', when one-time purchase is allowed, subscription products will default to it, and users will not be required to select a subscription option. Otherwise, the subscription dropdown will be required and include 'One Time' as an option.<br />Caution: Changing this value will not affect existing Subscription custom options.","If 'Yes', when one-time purchase is allowed, subscription products will default to it, and users will not be required to select a subscription option. Otherwise, the subscription dropdown will be required and include 'One Time' as an option.<br />Caution: Changing this value will not affect existing Subscription custom options.",module,ParadoxLabs_Subscriptions
+Product option label,Product option label,module,ParadoxLabs_Subscriptions
+Installment term,Installment term,module,ParadoxLabs_Subscriptions
+"Enter the term to use for billings, as in: ""Every week for 52 <b>installments</b>"".","Enter the term to use for billings, as in: ""Every week for 52 <b>installments</b>"".",module,ParadoxLabs_Subscriptions
+Enable public API,Enable public API,module,ParadoxLabs_Subscriptions
+Scheduling,Scheduling,module,ParadoxLabs_Subscriptions
+Enable automatic scheduled billing,Enable automatic scheduled billing,module,ParadoxLabs_Subscriptions
+"If 'No', subscriptions will not be rebilled automatically via Magento's scheduler. <b>Caution:</b> Changing from 'No' to 'Yes' will result in all outstanding subscriptions running on the next billing event.","If 'No', subscriptions will not be rebilled automatically via Magento's scheduler. <b>Caution:</b> Changing from 'No' to 'Yes' will result in all outstanding subscriptions running on the next billing event.",module,ParadoxLabs_Subscriptions
+Schedule on days of week,Schedule on days of week,module,ParadoxLabs_Subscriptions
+Choose days of the week installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,Choose days of the week installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,module,ParadoxLabs_Subscriptions
+Schedule on days of month,Schedule on days of month,module,ParadoxLabs_Subscriptions
+Choose days of the month installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,Choose days of the month installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,module,ParadoxLabs_Subscriptions
+Schedule on months,Schedule on months,module,ParadoxLabs_Subscriptions
+Choose months installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,Choose months installments should be scheduled on. Scheduling will choose the next available day after the expected billing date. Any changes will not affect existing scheduled installments.,module,ParadoxLabs_Subscriptions
+Blackout Dates,Blackout Dates,module,ParadoxLabs_Subscriptions
+"Enter any specific dates installments should <b>NOT</b> be scheduled on, one per line. Scheduling will choose the next available day. Any changes will not affect existing scheduled installments, so always enter dates farther in advance than your longest subscription interval.","Enter any specific dates installments should <b>NOT</b> be scheduled on, one per line. Scheduling will choose the next available day. Any changes will not affect existing scheduled installments, so always enter dates farther in advance than your longest subscription interval.",module,ParadoxLabs_Subscriptions
+When a subscription is reactivated,כאשר מנוי היין מופעל מחדש,module,ParadoxLabs_Subscriptions
+"If a 1 month subscription is set to run Jan 1st, but is paused and gets reactivated Jan 15, when should it run, and when should it be scheduled?","If a 1 month subscription is set to run Jan 1st, but is paused and gets reactivated Jan 15, when should it run, and when should it be scheduled?",module,ParadoxLabs_Subscriptions
+Billing Failed Email,"דוא""ל חיוב שנכשל",module,ParadoxLabs_Subscriptions
+"This will alert you (administrator) whenever a subscription fails to bill, for any reason.","This will alert you (administrator) whenever a subscription fails to bill, for any reason.",module,ParadoxLabs_Subscriptions
+Billing Failed Email Sender,Billing Failed Email Sender,module,ParadoxLabs_Subscriptions
+Billing Failed Email Receiver,Billing Failed Email Receiver,module,ParadoxLabs_Subscriptions
+Billing Failed Template,Billing Failed Template,module,ParadoxLabs_Subscriptions
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected.",module,ParadoxLabs_Subscriptions
+Send Billing Failed Email Copy To,Send Billing Failed Email Copy To,module,ParadoxLabs_Subscriptions
+"Separate by "","".","Separate by "","".",module,ParadoxLabs_Subscriptions
+Send Billing Failed Email Copy Method,Send Billing Failed Email Copy Method,module,ParadoxLabs_Subscriptions
+Payment Failed Email,Payment Failed Email,module,ParadoxLabs_Subscriptions
+This will alert the customer when a subscription fails to bill due to invalid payment info.,This will alert the customer when a subscription fails to bill due to invalid payment info.,module,ParadoxLabs_Subscriptions
+Payment Failed Email Sender,Payment Failed Email Sender,module,ParadoxLabs_Subscriptions
+Payment Failed Template,Payment Failed Template,module,ParadoxLabs_Subscriptions
+Send Payment Failed Email Copy To,Send Payment Failed Email Copy To,module,ParadoxLabs_Subscriptions
+Send Payment Failed Email Copy Method,Send Payment Failed Email Copy Method,module,ParadoxLabs_Subscriptions
+Billing Notice Email,Billing Notice Email,module,ParadoxLabs_Subscriptions
+This will notify the customer in advance of when their subscription is due to rebill.,This will notify the customer in advance of when their subscription is due to rebill.,module,ParadoxLabs_Subscriptions
+Days in Advance to Notify,ימים מראש להודיע,module,ParadoxLabs_Subscriptions
+Billing Notice Email Sender,Billing Notice Email Sender,module,ParadoxLabs_Subscriptions
+Billing Notice Template,Billing Notice Template,module,ParadoxLabs_Subscriptions
+Send Billing Notice Email Copy To,Send Billing Notice Email Copy To,module,ParadoxLabs_Subscriptions
+Send Billing Notice Email Copy Method,Send Billing Notice Email Copy Method,module,ParadoxLabs_Subscriptions
+Return to Subscription List,חזרה למנויים,module,ParadoxLabs_Subscriptions
+All Store Views,All Store Views,module,ParadoxLabs_Subscriptions
+Subscription ID,מספר מנוי,module,ParadoxLabs_Subscriptions
+Email,"דוא""ל",module,ParadoxLabs_Subscriptions
+Order ID,מספר הזמנה,module,ParadoxLabs_Subscriptions
+View All Logs,View All Logs,module,ParadoxLabs_Subscriptions
+Change status,שנה סטטוס,module,ParadoxLabs_Subscriptions
+SKU,"מק""ט",module,ParadoxLabs_Subscriptions
+Firstname,שם פרטי,module,ParadoxLabs_Subscriptions
+Lastname,שם משפחה,module,ParadoxLabs_Subscriptions
+Customer Group,קבוצת לקוחות,module,ParadoxLabs_Subscriptions
+Created,נוצר,module,ParadoxLabs_Subscriptions
+Updated,מעודכן,module,ParadoxLabs_Subscriptions
+Last Notified,הודעה אחרונה,module,ParadoxLabs_Subscriptions
+Frequency (count),Frequency (count),module,ParadoxLabs_Subscriptions
+Frequency (unit),Frequency (unit),module,ParadoxLabs_Subscriptions
+Times Billed,זמנים מחויבים,module,ParadoxLabs_Subscriptions
+Items,פריטים,module,ParadoxLabs_Subscriptions
