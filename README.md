@@ -22,6 +22,7 @@
 - Mirasvit_RewardPoints
 - Mirasvit_SearchAutocomplete
 - Ubertheme_UbMegaMenu
+- ParadoxLabs_Subscriptions
 
 
 ## Install & update via composer steps 
