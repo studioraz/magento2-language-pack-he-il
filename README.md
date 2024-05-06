@@ -24,7 +24,8 @@
 - Ubertheme_UbMegaMenu
 - ParadoxLabs_Subscriptions
 
-
 ## Install & update via composer steps 
 1. `composer.phar require studioraz/magento2-language-pack-he-il`
 
+## Notes
+1. The source translation files divided by modules, for viewing purpose can be found in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1hMXFImBOwCaIM2g8Rpnn5zex9LMcAtBk7vieBRd0ivo/edit?usp=sharing)
