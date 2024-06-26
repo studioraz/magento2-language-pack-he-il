@@ -2709,3 +2709,13 @@ Items,פריטים,module,ParadoxLabs_Subscriptions
 "You have signed out","התנתקתם מחשבונכם"
 "You have signed out and will be redirected to our homepage in 5 seconds.","התנתקתם מחשבונכם, ומייד תועברו לעמוד הבית."
 "Thank you for your visit, we're looking forward to see you again soon.","תודה על ביקורכם, אנו מצפים לראותכם שוב בקרוב."
+"We apologize, but requested quantity of free gift <strong>%1</strong> is not available at the moment","אנו מתנצלים, אך הכמות המבוקשת של <strong>%1</strong> אינה זמינה כרגע",module,Amasty_Promo
+"We apologize, but products of type <strong>%1</strong> are not supported","אנו מתנצלים, אך מוצרים מסוג <strong>%1</strong> אינם נתמכים",module,Amasty_Promo
+"We apologize, but your free gift <strong>%1</strong> is not available at the moment","אנו מתנצלים, <strong>%1</strong> אינה זמינה כרגע",module,Amasty_Promo
+Free gift <strong>%1</strong> was added to your shopping cart,<strong>%1</strong> נוסף לסל הקניות שלך,module,Amasty_Promo
+Free gift couldn't be added to the cart. Please try again or contact the administrator for more information.,לא ניתן היה להוסיף את המוצר לסל. אנא נסה שוב או צור קשר עם שירות הלקוחות שלנו.,module,Amasty_Promo
+Something went wrong.,אירעה תקלה. אנא צור קשר עם שירות הלקוחות שלנו.,module,Amasty_Promo
+Free gift couldn't be added to the cart.,לא ניתן היה להוסיף את המוצר לסל.,module,Amasty_Promo
+Free Gift is not available anymore.,ההטבעה אינה זמינה יותר.,module,Amasty_Promo
+Please click 'Update Items and Quantities' to refresh the cart,אנא לחץ 'עדכן פריטים וכמויות' כדי לרענן את הסל,module,Amasty_Promo
+Free Gift,הטבה,module,Amasty_Promo
