@@ -23,6 +23,7 @@
 - Mirasvit_SearchAutocomplete
 - Ubertheme_UbMegaMenu
 - ParadoxLabs_Subscriptions
+- Amasty Promo (Free Gift)
 
 ## Install & update via composer steps 
 1. `composer.phar require studioraz/magento2-language-pack-he-il`
