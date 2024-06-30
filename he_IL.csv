@@ -1868,175 +1868,175 @@ Wrap Name,סוג עטיפה,module,Amasty_GiftWrap
 "We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").","We don't have as many  ""%1"" : ""%2"" - ""%3""  as you requested (available qty: ""%4"").",module,Amasty_GiftWrap
 In Stock,במלאי,module,Amasty_Xnotif
 Out of Stock,אזל במלאי,module,Amasty_Xnotif
-Received on %1,שהתקבל על %1,module,Amasty_Xnotif
-Pending,ממתין ל,module,Amasty_Xnotif
-Back in Stock Requests,חזרה בקשות במלאי,module,Amasty_Xnotif
+Received on %1,התקבל על %1,module,Amasty_Xnotif
+Pending,בהמתנה,module,Amasty_Xnotif
+Back in Stock Requests,התראות מלאי,module,Amasty_Xnotif
 First Name,שם פרטי,module,Amasty_Xnotif
 Last Name,שם משפחה,module,Amasty_Xnotif
 Email,אימייל,module,Amasty_Xnotif
 Price,מחיר,module,Amasty_Xnotif
-Date Subscribed,מנוי תאריך,module,Amasty_Xnotif
-Last Notification,הודעה אחרונה,module,Amasty_Xnotif
-Send Count,רוזן שלח,module,Amasty_Xnotif
-Guest,אוֹרֵחַ,module,Amasty_Xnotif
+Date Subscribed,תאריך התראה,module,Amasty_Xnotif
+Last Notification,התראה אחרונה,module,Amasty_Xnotif
+Send Count,מספר שליחות,module,Amasty_Xnotif
+Guest,אורח,module,Amasty_Xnotif
 Action,פעולה,module,Amasty_Xnotif
-Remove,לְהַסִיר,module,Amasty_Xnotif
+Remove,הסרה,module,Amasty_Xnotif
 Website,אתר אינטרנט,module,Amasty_Xnotif
-Stock,המניה,module,Amasty_Xnotif
+Stock,מלאי,module,Amasty_Xnotif
 Websites,אתרים,module,Amasty_Xnotif
-Name,שֵׁם,module,Amasty_Xnotif
+Name,שם,module,Amasty_Xnotif
 SKU,"מק""ט",module,Amasty_Xnotif
-Count,לספור,module,Amasty_Xnotif
-First Subscription,המינוי הראשון,module,Amasty_Xnotif
-Last Subscription,המנוי אחרון,module,Amasty_Xnotif
+Count,ספירה,module,Amasty_Xnotif
+First Subscription,התראה ראשונה,module,Amasty_Xnotif
+Last Subscription,התראה אחרונה,module,Amasty_Xnotif
 EMAIL,אימייל,module,Amasty_Xnotif
-Subscription Date,תאריך מנוי,module,Amasty_Xnotif
-Total Number of Subscriptions,המספר הכולל של מנויי,module,Amasty_Xnotif
-Customers Awaiting Notification,לקוחות ממתינים Notification,module,Amasty_Xnotif
+Subscription Date,תאריך התראות,module,Amasty_Xnotif
+Total Number of Subscriptions,סך הכל התראות,module,Amasty_Xnotif
+Customers Awaiting Notification,מספר לקוחות הממתינים להתראה,module,Amasty_Xnotif
 CSV,CSV,module,Amasty_Xnotif
 Excel XML,XML Excel,module,Amasty_Xnotif
-Test Notification,Notification מבחן,module,Amasty_Xnotif
-Test notification will be sent to the following email address: %1,"ההודעה מבחן יישלח לכתובת הדוא""ל: %1",module,Amasty_Xnotif
-Are you sure you want to do this?,האם אתה בטוח שאתה רוצה לעשות את זה?,module,Amasty_Xnotif
-Delete,לִמְחוֹק,module,Amasty_Xnotif
-Save and Continue Edit,ערוך שמור והמשך,module,Amasty_Xnotif
-Save,שמור,module,Amasty_Xnotif
-Please update Amasty Base module. Re-upload it and replace all the files.,עדכן את מודול בסיס Amasty. להעלות אותו מחדש ולהחליף את כל הקבצים.,module,Amasty_Xnotif
-An error occurred while deleting the item from Subscriptions: %s,ארעה שגיאה בזמן מחיקת פריט מההרשמה: s%,module,Amasty_Xnotif
-"No cron job ""amasty_xnotif_product_alert"" found. Please check your cron configuration.","אין עבודת cron ""amasty_xnotif_product_alert"" מצא. אנא בדוק את ההגדרות שלך cron.",module,Amasty_Xnotif
+Test Notification,Test Notification,module,Amasty_Xnotif
+Test notification will be sent to the following email address: %1,Test notification will be sent to the following email address: %1,module,Amasty_Xnotif
+Are you sure you want to do this?,Are you sure you want to do this?,module,Amasty_Xnotif
+Delete,Delete,module,Amasty_Xnotif
+Save and Continue Edit,Save and Continue Edit,module,Amasty_Xnotif
+Save,Save,module,Amasty_Xnotif
+Please update Amasty Base module. Re-upload it and replace all the files.,Please update Amasty Base module. Re-upload it and replace all the files.,module,Amasty_Xnotif
+An error occurred while deleting the item from Subscriptions: %s,An error occurred while deleting the item from Subscriptions: %s,module,Amasty_Xnotif
+"No cron job ""amasty_xnotif_product_alert"" found. Please check your cron configuration.","No cron job ""amasty_xnotif_product_alert"" found. Please check your cron configuration.",module,Amasty_Xnotif
 Analytics Dashboard,Analytics Dashboard,module,Amasty_Xnotif
 Notifications,התראות,module,Amasty_Xnotif
 Alerts,התראות,module,Amasty_Xnotif
 Price Alerts,התראות מחיר,module,Amasty_Xnotif
-An error occurred while deleting the item from Subscriptions.,ארעה שגיאה בזמן מחיקת פריט מההרשמה.,module,Amasty_Xnotif
-The item has been deleted from Subscriptions.,הפריט נמחק מההרשמה.,module,Amasty_Xnotif
-Stock Alerts,התראות במלאי,module,Amasty_Xnotif
-Please select the item(s).,אנא בחר את הפריט (ים).,module,Amasty_Xnotif
-Test notification has been successfully sent.,הודעת מבחן נשלחה בהצלחה.,module,Amasty_Xnotif
-We can't change item right now. Please review the log and try again.,אנחנו לא יכולים לשנות תקין פריט עכשיו. עיין ביומן ונסה שוב.,module,Amasty_Xnotif
-A total of %1 record(s) have been changed.,סך של %1 שורות שונו.,module,Amasty_Xnotif
-No records have been changed.,אין רשומות ששונו.,module,Amasty_Xnotif
-You deleted the subscription.,מחקת את המנוי.,module,Amasty_Xnotif
-We can't delete item right now. Please review the log and try again.,אנחנו לא יכולים למחוק פריט עכשיו. נסה שוב.,module,Amasty_Xnotif
-This subscription no longer exists.,מנוי זה כבר לא קיים.,module,Amasty_Xnotif
-Out of Stock Subscriptions,מתוך הרשמות במלאי,module,Amasty_Xnotif
-Edit Subscription,עריכת הרשמה,module,Amasty_Xnotif
-New Subscription,הרשמה חדשה,module,Amasty_Xnotif
-A total of %1 record(s) have been deleted.,סך של %1 רשומות נמחקו.,module,Amasty_Xnotif
-No records have been deleted.,אין רשומות נמחקו.,module,Amasty_Xnotif
-You saved the item.,אתה הצלת את הפריט.,module,Amasty_Xnotif
-Please enter a valid Product SKU,"נא להזין מק""ט מוצר חוקי",module,Amasty_Xnotif
-Please agree to the Privacy Policy,אנא מסכים למדיניות הפרטיות,module,Amasty_Xnotif
-Please enter a valid email address.,"אנא הזן כתובת דוא""ל תקנית.",module,Amasty_Xnotif
-Thank you! You are already subscribed to this product.,תודה! כבר נרשמו למוצר זה.,module,Amasty_Xnotif
-Alert subscription has been saved.,מנוי התראה נשמר.,module,Amasty_Xnotif
-Unable to update the alert subscription.,לא ניתן לעדכן את המנוי התראה.,module,Amasty_Xnotif
+An error occurred while deleting the item from Subscriptions.,An error occurred while deleting the item from Subscriptions.,module,Amasty_Xnotif
+The item has been deleted from Subscriptions.,The item has been deleted from Subscriptions.,module,Amasty_Xnotif
+Stock Alerts,התראות מלאי,module,Amasty_Xnotif
+Please select the item(s).,Please select the item(s).,module,Amasty_Xnotif
+Test notification has been successfully sent.,Test notification has been successfully sent.,module,Amasty_Xnotif
+We can't change item right now. Please review the log and try again.,We can't change item right now. Please review the log and try again.,module,Amasty_Xnotif
+A total of %1 record(s) have been changed.,A total of %1 record(s) have been changed.,module,Amasty_Xnotif
+No records have been changed.,No records have been changed.,module,Amasty_Xnotif
+You deleted the subscription.,You deleted the subscription.,module,Amasty_Xnotif
+We can't delete item right now. Please review the log and try again.,We can't delete item right now. Please review the log and try again.,module,Amasty_Xnotif
+This subscription no longer exists.,This subscription no longer exists.,module,Amasty_Xnotif
+Out of Stock Subscriptions,Out of Stock Subscriptions,module,Amasty_Xnotif
+Edit Subscription,Edit Subscription,module,Amasty_Xnotif
+New Subscription,New Subscription,module,Amasty_Xnotif
+A total of %1 record(s) have been deleted.,A total of %1 record(s) have been deleted.,module,Amasty_Xnotif
+No records have been deleted.,No records have been deleted.,module,Amasty_Xnotif
+You saved the item.,You saved the item.,module,Amasty_Xnotif
+Please enter a valid Product SKU,נא להזין מק״ט תקין,module,Amasty_Xnotif
+Please agree to the Privacy Policy,נא לאשר את תנאי הפרטיות,module,Amasty_Xnotif
+Please enter a valid email address.,נא להזין כתובת אימייל תקינה,module,Amasty_Xnotif
+Thank you! You are already subscribed to this product.,שים לב! כבר נרשמת למוצר זה.,module,Amasty_Xnotif
+Alert subscription has been saved.,ההתראה נשמרה בהצלחה,module,Amasty_Xnotif
+Unable to update the alert subscription.,לא ניתן לעדכן את ההתראה,module,Amasty_Xnotif
 Not enough parameters.,לא מספיק פרמטרים.,module,Amasty_Xnotif
-My Price Subscriptions,הרשמות שלי מחיר,module,Amasty_Xnotif
-My Back in Stock Subscriptions,גבי הרשמות במלאי,module,Amasty_Xnotif
+My Price Subscriptions,התראות המחיר שלי,module,Amasty_Xnotif
+My Back in Stock Subscriptions,ההתראות המלאי שלי,module,Amasty_Xnotif
 The product was not found.,המוצר לא נמצא.,module,Amasty_Xnotif
-You will no longer receive stock alerts for this product.,אתה לא תקבל עוד התראות מניות עבור מוצר זה.,module,Amasty_Xnotif
-The alert subscription couldn't update at this time. Please try again later.,מנוי ההתראה לא יכול לעדכן בשלב זה. בבקשה נסה שוב מאוחר יותר.,module,Amasty_Xnotif
-Notify me when this product is in stock,הודע לי כאשר המוצר הזה הוא במלאי,module,Amasty_Xnotif
-Notify me when the price drops,הודע לי כאשר המחיר יורד,module,Amasty_Xnotif
-Price Subscription Form,טופס מנוי מחיר,module,Amasty_Xnotif
-Stock Subscription Form,טופס מנוי במלאי,module,Amasty_Xnotif
-Out of Stock Notification,אזל מהמלאי Notification,module,Amasty_Xnotif
+You will no longer receive stock alerts for this product.,לא תקבלו התראות מלאי למוצר זה,module,Amasty_Xnotif
+The alert subscription couldn't update at this time. Please try again later.,לא ניתן לעדכן את ההתראה. נא לנסות מאוחר יותר,module,Amasty_Xnotif
+Notify me when this product is in stock,אני רוצה לדעת כשהמוצר חוזר למלאי,module,Amasty_Xnotif
+Notify me when the price drops,אני רוצה כשמחיר המוצר יורד,module,Amasty_Xnotif
+Price Subscription Form,טופס התראת מחיר,module,Amasty_Xnotif
+Stock Subscription Form,טופס התראת מלאי,module,Amasty_Xnotif
+Out of Stock Notification,התראת מלאי,module,Amasty_Xnotif
 Please specify email address: Store -> Configuration -> Amasty Out of Stock Notification -> Test Stock Notification,Please specify email address: Store -> Configuration -> Amasty Out of Stock Notification -> Test Stock Notification,module,Amasty_Xnotif
 Please enable stock notifications: Store -> Configuration -> Catalog -> Alert,Please enable stock notifications: Store -> Configuration -> Catalog -> Alert,module,Amasty_Xnotif
-Unable to save stock with ID %1. Error: %2,אין אפשרות לשמור מלאי עם זיהוי %1. שגיאה: %2,module,Amasty_Xnotif
-Unable to save new stock. Error: %1,אין אפשרות לשמור מלאי חדש. שגיאה:%1,module,Amasty_Xnotif
-"Stock with specified ID ""%1"" not found.","מניות עם מזהה שצוין ""%1"" לא נמצא.",module,Amasty_Xnotif
-Unable to remove stock with ID %1. Error: %2,אין אפשרות להסיר את המלאי עם זיהוי %1. שגיאה: %2,module,Amasty_Xnotif
-Unable to remove stock. Error: %1,אין אפשרות להסיר את המלאי. שגיאה:%1,module,Amasty_Xnotif
-%1 (Default),%1 (ברירת מחדל),module,Amasty_Xnotif
-All Groups,כל קבוצות,module,Amasty_Xnotif
-Not Logged In,לא מחובר,module,Amasty_Xnotif
-You will no longer receive stock alerts.,אתה לא תקבל עוד התראות של מנוי.,module,Amasty_Xnotif
-All Store Views,כל התצוגות בחנות,module,Amasty_Xnotif
-Edit,לַעֲרוֹך,module,Amasty_Xnotif
-Recent Activity (Subscriptions),פעולות אחרונות (מנויים),module,Amasty_Xnotif
-Customer,צרכן,module,Amasty_Xnotif
+Unable to save stock with ID %1. Error: %2,Unable to save stock with ID %1. Error: %2,module,Amasty_Xnotif
+Unable to save new stock. Error: %1,Unable to save new stock. Error: %1,module,Amasty_Xnotif
+"Stock with specified ID ""%1"" not found.","Stock with specified ID ""%1"" not found.",module,Amasty_Xnotif
+Unable to remove stock with ID %1. Error: %2,Unable to remove stock with ID %1. Error: %2,module,Amasty_Xnotif
+Unable to remove stock. Error: %1,Unable to remove stock. Error: %1,module,Amasty_Xnotif
+%1 (Default),%1 (Default),module,Amasty_Xnotif
+All Groups,All Groups,module,Amasty_Xnotif
+Not Logged In,Not Logged In,module,Amasty_Xnotif
+You will no longer receive stock alerts.,לא תקבלו התראות מלאי,module,Amasty_Xnotif
+All Store Views,All Store Views,module,Amasty_Xnotif
+Edit,עריכה,module,Amasty_Xnotif
+Recent Activity (Subscriptions),Recent Activity (Subscriptions),module,Amasty_Xnotif
+Customer,לקוח,module,Amasty_Xnotif
 Product Name,שם מוצר,module,Amasty_Xnotif
-Date & Time,תאריך שעה,module,Amasty_Xnotif
-View more,ראה עוד,module,Amasty_Xnotif
-Subscriptions created,הרשמות שנוצרו,module,Amasty_Xnotif
-Alerts sent,התראות שנשלחו,module,Amasty_Xnotif
-Revenue made,הכנסות שנעשו,module,Amasty_Xnotif
-Most Wanted Products,המוצרים המבוקשים ביותר,module,Amasty_Xnotif
+Date & Time,תאריך ושעה,module,Amasty_Xnotif
+View more,צפה בעוד,module,Amasty_Xnotif
+Subscriptions created,Subscriptions created,module,Amasty_Xnotif
+Alerts sent,Alerts sent,module,Amasty_Xnotif
+Revenue made,Revenue made,module,Amasty_Xnotif
+Most Wanted Products,Most Wanted Products,module,Amasty_Xnotif
 Qty,כמות,module,Amasty_Xnotif
-Quantity,כַּמוּת,module,Amasty_Xnotif
-Subscribe to back in stock,הירשם חזר למלאי,module,Amasty_Xnotif
-Subscribe to back in stock notification,הירשם בחזרה הודעה על המניה,module,Amasty_Xnotif
+Quantity,כמות,module,Amasty_Xnotif
+Subscribe to back in stock,אני רוצה לדעת כשמוצר חוזר למלאי,module,Amasty_Xnotif
+Subscribe to back in stock notification,אני רוצה לדעת כשמוצר חוזר למלאי,module,Amasty_Xnotif
 GDRP,GDRP,module,Amasty_Xnotif
-Subscribe,הירשם,module,Amasty_Xnotif
-There are no notifications.,אין הודעות.,module,Amasty_Xnotif
-Sign up for price alert,הרשם להתראה מחיר,module,Amasty_Xnotif
+Subscribe,הרשמה,module,Amasty_Xnotif
+There are no notifications.,אין התראות,module,Amasty_Xnotif
+Sign up for price alert,אני רוצה לקבל התראה כשהמחיר יורד,module,Amasty_Xnotif
 Image,תמונה,module,Amasty_Xnotif
 Product,מוצר,module,Amasty_Xnotif
 Subscribed On,המנויים ב,module,Amasty_Xnotif
-Notification Status,סטטוס הודעה,module,Amasty_Xnotif
-Stock Status,מצב המניה,module,Amasty_Xnotif
-Remove This Item,הסר פריט זה,module,Amasty_Xnotif
-There are no active subscriptions.,אין מינויים פעילים.,module,Amasty_Xnotif
-Email alert for new out of stock subscriptions,"התראת דוא""ל עבור החוצה חדש של מנוי מניות",module,Amasty_Xnotif
-"Hello,","שלום,",module,Amasty_Xnotif
-This is an automatic notification about a new out of stock subscription(s) made today.,זוהי הודעה אוטומטית על החוצה חדש של מנוי מניות (ים) עשה היום.,module,Amasty_Xnotif
-Products:,מוצרים:,module,Amasty_Xnotif
-Thank you!,תודה!,module,Amasty_Xnotif
-Low stock notification,הודעה על מנייה נמוכה,module,Amasty_Xnotif
-This is an automatic notification about the low stock of the following product(s),זוהי הודעה אוטומטית על המלאי הנמוך של המוצר הבא (ים),module,Amasty_Xnotif
-Out of stock notification,מתוך הודעה על המניה,module,Amasty_Xnotif
-This is an automatic notification about the out of stock status of the following product(s),זוהי הודעה אוטומטית על מתוך מצב מניות של המוצר הבא (ים),module,Amasty_Xnotif
-Out of Stock Notifications,אזל מהמלאי הודעות,module,Amasty_Xnotif
-Information,מֵידָע,module,Amasty_Xnotif
-General,כללי,module,Amasty_Xnotif
-Use Configurable Image,תמונה להגדרה השתמשתי,module,Amasty_Xnotif
-Use configurable product image for simple product subscriptions on account page,השתמש בתמונת מוצר להגדרה עבור מנוי מוצר פשוט על דף חשבון,module,Amasty_Xnotif
-Greeting Text for Email,"טקסט ברכה עבור דוא""ל",module,Amasty_Xnotif
-Minimum Stock Quantity,כמות מלאה מינימום,module,Amasty_Xnotif
-Minimum stock quantity before the email is triggered.,"כמות מניות מינימום לפני הדוא""ל מופעלת.",module,Amasty_Xnotif
-Test Stock Notification Email,אימייל התראה מבחן במלאי,module,Amasty_Xnotif
-Please go to the Reports > Stock Alerts to send it.,אנא ללכת התראות דוחות> לניירות לשלוח אותו.,module,Amasty_Xnotif
-Show Options of Out Of Stock Configurable,הצג אפשרויות של אזל מהמלאי להגדרה,module,Amasty_Xnotif
-Set ‘Yes’ to allow customers to subscribe on ‘out of stock' configuration of ‘out of stock’ Configurable Product.,"סט ""כן"" כדי לאפשר ללקוחות להירשם על ""אזל מהמלאי"" לתצורת 'אזל מהמלאי' מוצרים להגדרה.",module,Amasty_Xnotif
-Stock Subscription,מנוי במלאי,module,Amasty_Xnotif
-Allow Subscription for Selected Group(s),אפשר מנוי עבור קבוצתיות נבחרות (ים),module,Amasty_Xnotif
-Limit Emails by Product Qty,"הודעות דוא""ל הגבל לפי מוצר כמות",module,Amasty_Xnotif
-Note! Emails will be sent once a day,הערה! מיילים יישלחו פעם ביום,module,Amasty_Xnotif
-Enable Subscribe from Category Page,אפשר להירשם מתוך דף קטגוריות,module,Amasty_Xnotif
-Use Popup for Guests on Category,השתמש ב Popup עבור אורחים בדף קטגוריה,module,Amasty_Xnotif
-Placeholder for the Subscription Field,מציין מיקום השדה מנוי,module,Amasty_Xnotif
-Specify the placeholder to be displayed inside the subscription field by default,את מציין המיקום שיוצג בתוך שדה מנוי כברירת מחדל,module,Amasty_Xnotif
-Price Subscription,מנוי מחיר,module,Amasty_Xnotif
-Please Enable Default Price Alerts in Configuration - Catalog - Product Alerts,אנא אפשר ברירת התראות מחיר ב Configuration - קטלוג - התראות מוצרים,module,Amasty_Xnotif
-Admin Notifications,ההודעות של מנהל המערכת,module,Amasty_Xnotif
-Send Email Reports for New Subscriptions (Daily),"שלח דיווחי דוא""ל עבור מינויים חדשים (יומי)",module,Amasty_Xnotif
-Set 'Yes' to receive daily emails with a list of all products to which the customers have subscribed.,"סט ""כן"" כדי לקבל הודעות דוא""ל היומי עם רשימה של כל המוצרים שאליהם מתייחסת ללקוחות מנוי.",module,Amasty_Xnotif
-Email Template to Notify Admin,"תבנית דוא""ל כדי להודיע ​​Admin",module,Amasty_Xnotif
-Notify Admin about Inventory Low in Stock,הודע Admin על נמוך מלאה במלאי,module,Amasty_Xnotif
-Set 'Yes' to get email alert when product is about to go out-of-stock. It works based on Notify for Quantity Below setting.,"סט ""כן"" כדי לקבל התראה באימייל כאשר המוצר עומד לצאת שאינם במלאי. זה עובד על בסיס הודע עבור כמות להלן הגדרה.",module,Amasty_Xnotif
-Email Template to Notify Low in Stock,"תבנית דוא""ל כדי להודיע ​​נמוך במלאי",module,Amasty_Xnotif
-Notify for Quantity Below,הודע עבור כמות להלן,module,Amasty_Xnotif
-Notify Admin about Out of Stock Inventory,הודע Admin על אזלת מהמלאי מלאה,module,Amasty_Xnotif
-Email Template to Notify Out Of Stock,"תבנית דוא""ל כדי להודיע ​​אזל מהמלאי",module,Amasty_Xnotif
-Admin Email Address,"כתובת דוא""ל Admin",module,Amasty_Xnotif
-"Comma-separated emails, no spaces.","מופרדים-מיילים, ללא רווחים.",module,Amasty_Xnotif
-Email Sender,אי-מייל,module,Amasty_Xnotif
-GDPR Consent,GDPR הסכמה,module,Amasty_Xnotif
-Enabled,מופעל,module,Amasty_Xnotif
+Notification Status,סטטוס התראה,module,Amasty_Xnotif
+Stock Status,מצב המלאי,module,Amasty_Xnotif
+Remove This Item,הסרת פריט,module,Amasty_Xnotif
+There are no active subscriptions.,אין התראות פעילות,module,Amasty_Xnotif
+Email alert for new out of stock subscriptions,Email alert for new out of stock subscriptions,module,Amasty_Xnotif
+"Hello,","Hello,",module,Amasty_Xnotif
+This is an automatic notification about a new out of stock subscription(s) made today.,This is an automatic notification about a new out of stock subscription(s) made today.,module,Amasty_Xnotif
+Products:,Products:,module,Amasty_Xnotif
+Thank you!,Thank you!,module,Amasty_Xnotif
+Low stock notification,Low stock notification,module,Amasty_Xnotif
+This is an automatic notification about the low stock of the following product(s),This is an automatic notification about the low stock of the following product(s),module,Amasty_Xnotif
+Out of stock notification,Out of stock notification,module,Amasty_Xnotif
+This is an automatic notification about the out of stock status of the following product(s),This is an automatic notification about the out of stock status of the following product(s),module,Amasty_Xnotif
+Out of Stock Notifications,Out of Stock Notifications,module,Amasty_Xnotif
+Information,Information,module,Amasty_Xnotif
+General,General,module,Amasty_Xnotif
+Use Configurable Image,Use Configurable Image,module,Amasty_Xnotif
+Use configurable product image for simple product subscriptions on account page,Use configurable product image for simple product subscriptions on account page,module,Amasty_Xnotif
+Greeting Text for Email,Greeting Text for Email,module,Amasty_Xnotif
+Minimum Stock Quantity,Minimum Stock Quantity,module,Amasty_Xnotif
+Minimum stock quantity before the email is triggered.,Minimum stock quantity before the email is triggered.,module,Amasty_Xnotif
+Test Stock Notification Email,Test Stock Notification Email,module,Amasty_Xnotif
+Please go to the Reports > Stock Alerts to send it.,Please go to the Reports > Stock Alerts to send it.,module,Amasty_Xnotif
+Show Options of Out Of Stock Configurable,Show Options of Out Of Stock Configurable,module,Amasty_Xnotif
+Set ‘Yes’ to allow customers to subscribe on ‘out of stock' configuration of ‘out of stock’ Configurable Product.,Set ‘Yes’ to allow customers to subscribe on ‘out of stock' configuration of ‘out of stock’ Configurable Product.,module,Amasty_Xnotif
+Stock Subscription,Stock Subscription,module,Amasty_Xnotif
+Allow Subscription for Selected Group(s),Allow Subscription for Selected Group(s),module,Amasty_Xnotif
+Limit Emails by Product Qty,Limit Emails by Product Qty,module,Amasty_Xnotif
+Note! Emails will be sent once a day,Note! Emails will be sent once a day,module,Amasty_Xnotif
+Enable Subscribe from Category Page,Enable Subscribe from Category Page,module,Amasty_Xnotif
+Use Popup for Guests on Category,Use Popup for Guests on Category,module,Amasty_Xnotif
+Placeholder for the Subscription Field,Placeholder for the Subscription Field,module,Amasty_Xnotif
+Specify the placeholder to be displayed inside the subscription field by default,Specify the placeholder to be displayed inside the subscription field by default,module,Amasty_Xnotif
+Price Subscription,Price Subscription,module,Amasty_Xnotif
+Please Enable Default Price Alerts in Configuration - Catalog - Product Alerts,Please Enable Default Price Alerts in Configuration - Catalog - Product Alerts,module,Amasty_Xnotif
+Admin Notifications,Admin Notifications,module,Amasty_Xnotif
+Send Email Reports for New Subscriptions (Daily),Send Email Reports for New Subscriptions (Daily),module,Amasty_Xnotif
+Set 'Yes' to receive daily emails with a list of all products to which the customers have subscribed.,Set 'Yes' to receive daily emails with a list of all products to which the customers have subscribed.,module,Amasty_Xnotif
+Email Template to Notify Admin,Email Template to Notify Admin,module,Amasty_Xnotif
+Notify Admin about Inventory Low in Stock,Notify Admin about Inventory Low in Stock,module,Amasty_Xnotif
+Set 'Yes' to get email alert when product is about to go out-of-stock. It works based on Notify for Quantity Below setting.,Set 'Yes' to get email alert when product is about to go out-of-stock. It works based on Notify for Quantity Below setting.,module,Amasty_Xnotif
+Email Template to Notify Low in Stock,Email Template to Notify Low in Stock,module,Amasty_Xnotif
+Notify for Quantity Below,Notify for Quantity Below,module,Amasty_Xnotif
+Notify Admin about Out of Stock Inventory,Notify Admin about Out of Stock Inventory,module,Amasty_Xnotif
+Email Template to Notify Out Of Stock,Email Template to Notify Out Of Stock,module,Amasty_Xnotif
+Admin Email Address,Admin Email Address,module,Amasty_Xnotif
+"Comma-separated emails, no spaces.","Comma-separated emails, no spaces.",module,Amasty_Xnotif
+Email Sender,Email Sender,module,Amasty_Xnotif
+GDPR Consent,GDPR Consent,module,Amasty_Xnotif
+Enabled,Enabled,module,Amasty_Xnotif
 Consent Text,טקסט הסכמה,module,Amasty_Xnotif
 Please disable the setting if you use consent checkboxes configured for Out of Stock Notification forms via <a href='%1'>GDPR Consent Checkboxes.</a>,Please disable the setting if you use consent checkboxes configured for Out of Stock Notification forms via <a href='%1'>GDPR Consent Checkboxes.</a>,module,Amasty_Xnotif
-Back,חזור,module,Amasty_Xnotif
-Store,חנות,module,Amasty_Xnotif
-Product SKU,"מק""ט מוצר",module,Amasty_Xnotif
-Add New Subscription,הוסף מנוי,module,Amasty_Xnotif
-Delete items,מחיקת פריטים,module,Amasty_Xnotif
-Are you sure you wan't to delete selected items?,האם אתה בטוח שאתה רוצה לבצע למחוק פריטים שנבחרו?,module,Amasty_Xnotif
+Back,Back,module,Amasty_Xnotif
+Store,Store,module,Amasty_Xnotif
+Product SKU,Product SKU,module,Amasty_Xnotif
+Add New Subscription,Add New Subscription,module,Amasty_Xnotif
+Delete items,Delete items,module,Amasty_Xnotif
+Are you sure you wan't to delete selected items?,Are you sure you wan't to delete selected items?,module,Amasty_Xnotif
 Sent,Sent,module,Amasty_Xnotif
-Status,סטָטוּס,module,Amasty_Xnotif
-Price Subscriptions,מחיר הרשמה,module,Amasty_Xnotif
-Back in Stock Subscriptions,חזרה ב הרשמות למלאי,module,Amasty_Xnotif
+Status,Status,module,Amasty_Xnotif
+Price Subscriptions,Price Subscriptions,module,Amasty_Xnotif
+Back in Stock Subscriptions,Back in Stock Subscriptions,module,Amasty_Xnotif
 Card Value in,בחרו סכום,module,Amasty_GiftCard
 Store Credit,זיכוי בחנות,module,Amasty_StoreCredit
 Current Balance,מאזן הנוכחי.,module,Amasty_StoreCredit
