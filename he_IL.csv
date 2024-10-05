@@ -2405,9 +2405,9 @@ Save Subscription,שמירת המנוי,module,ParadoxLabs_Subscriptions
 Edit Subscription,עריכת מנוי,module,ParadoxLabs_Subscriptions
 Save and Continue Edit,שמור והמשך לערוך,module,ParadoxLabs_Subscriptions
 Bill Now,חייב עכשיו,module,ParadoxLabs_Subscriptions
-Reactivate,חידוש מנוי,module,ParadoxLabs_Subscriptions
-Pause,הקפאת מנוי,module,ParadoxLabs_Subscriptions
-Cancel,ביטול מנוי,module,ParadoxLabs_Subscriptions
+Reactivate,הפעלה מחדש,module,ParadoxLabs_Subscriptions
+Pause,הקפאה,module,ParadoxLabs_Subscriptions
+Cancel,ביטול,module,ParadoxLabs_Subscriptions
 History,היסטוריה,module,ParadoxLabs_Subscriptions
 Date,תאריך,module,ParadoxLabs_Subscriptions
 Order #,מספר הזמנה,module,ParadoxLabs_Subscriptions
