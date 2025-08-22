@@ -133,7 +133,7 @@ Show On Cart Page,הצג בסל הקניות,module,Amasty_Extrafee
 Enable Fee,אפשר תוספת תשלום,module,Amasty_Extrafee
 Autoapply,יישום אוטומטי,module,Amasty_Extrafee
 Fee will be applied automatically and displayed in Order Summary step.,תוספת תשלום זו תחול באופן אוטומטי ותוצג בשלב 'סיכום הזמנה'.,module,Amasty_Extrafee
--- Please Select --,-- בחר --,module,Amasty_Extrafee
+-- Please Select --,-- נא לבחור --,module,Amasty_Extrafee
 Display on Cart,הצג בסל הקניות,module,Amasty_Extrafee
 Add New Fee,הוסף תוספתתשלום חדשה,module,Amasty_Extrafee
 Delete items,מחק פריטים,module,Amasty_Extrafee
@@ -404,7 +404,7 @@ New Gift Code Account,חשבון קוד מתנה חדש,module,Amasty_GiftCard
 Code Pool,בריכת קוד,module,Amasty_GiftCard
 Image,תמונה,module,Amasty_GiftCard
 Store,חֲנוּת,module,Amasty_GiftCard
-Balance,איזון,module,Amasty_GiftCard
+Balance,יתרה,module,Amasty_GiftCard
 Send Information,שלח מידע,module,Amasty_GiftCard
 Sender Name,שם השולח,module,Amasty_GiftCard
 Sender Email,"דוא""ל השולח",module,Amasty_GiftCard
@@ -427,8 +427,8 @@ Are you sure?,האם אתה בטוח?,module,Amasty_GiftCard
 CSV,CSV,module,Amasty_GiftCard
 Template Information,מידע על תבנית,module,Amasty_GiftCard
 Image Title,כותרת תמונה,module,Amasty_GiftCard
-Inactive,לֹא פָּעִיל,module,Amasty_GiftCard
-Active,פָּעִיל,module,Amasty_GiftCard
+Inactive,לא פעיל,module,Amasty_GiftCard
+Active,פעיל,module,Amasty_GiftCard
 Upload Image,העלאת תמונה,module,Amasty_GiftCard
 "Please, specify code position","אנא, ציין מיקום קוד",module,Amasty_GiftCard
 ALL GROUPS,כל הקבוצות,module,Amasty_GiftCard
@@ -523,7 +523,7 @@ All Websites,כל אתרי האינטרנט,module,Amasty_GiftCard
 Amounts,סכומים,module,Amasty_GiftCard
 Amount,כמות,module,Amasty_GiftCard
 Drag me,גרור אותי,module,Amasty_GiftCard
-Apply,להגיש מועמדות,module,Amasty_GiftCard
+Apply,החל,module,Amasty_GiftCard
 Remove Gift Cards Code,הסר כרטיסי מתנה קוד,module,Amasty_GiftCard
 Remove,לְהַסִיר,module,Amasty_GiftCard
 Status: %1,סטטוס: %1,module,Amasty_GiftCard
@@ -544,7 +544,7 @@ Custom Amount,סכום מותאם אישית,module,Amasty_GiftCard
 Minimum: %1,מינימום: %1,module,Amasty_GiftCard
 Maximum: %1,מקסימום: %1,module,Amasty_GiftCard
 Choose card type,בחר סוג כרטיס,module,Amasty_GiftCard
--- Please Select --,-- בבקשה תבחר --,module,Amasty_GiftCard
+-- Please Select --,-- נא לבחור --,module,Amasty_GiftCard
 Please be aware that printed gift card will be sent to the shipping address you specify during checkout.,"לידיעתך, כרטיס מתנה מודפס יישלח לכתובת המשלוח שתציין במהלך הקנייה.",module,Amasty_GiftCard
 Choose card Image,בחר תמונה בכרטיס,module,Amasty_GiftCard
 Please be aware that delivery date of printed certificates may be different due to post.,"לידיעתך, תאריך האספקה ​​של האישורים המודפסים עשוי להיות שונה עקב הודעה.",module,Amasty_GiftCard
@@ -606,7 +606,7 @@ Message added,ההודעה נוספה,module,Mirasvit_Helpdesk
 Internal note added,הערה פנימית נוספה,module,Mirasvit_Helpdesk
 Third party message added,נוספה הודעת צד שלישי,module,Mirasvit_Helpdesk
 Private third party message added,הודעה פרטית של צד שלישי נוספה,module,Mirasvit_Helpdesk
--- Please Select --,-- בבקשה תבחר --,module,Mirasvit_Helpdesk
+-- Please Select --,-- נא לבחור --,module,Mirasvit_Helpdesk
 Contact Tab,לשונית אנשי קשר,module,Mirasvit_Helpdesk
 Contact Form,טופס יצירת קשר,module,Mirasvit_Helpdesk
 at %1 (%2) - %3,ב- %1 (%2) - %3,module,Mirasvit_Helpdesk
@@ -790,7 +790,7 @@ Affiliate Withdrawals,משיכות שותפים,module,Amasty_Affiliate
 The withdrawal was already processed,המשיכה כבר מעובדת,module,Amasty_Affiliate
 The account has not enough funds to this withdrawal,אין בחשבון לא מספיק כספים כדי נסיגה זו,module,Amasty_Affiliate
 The withdrawal was payed.,הנסיגה היתה בתשלום.,module,Amasty_Affiliate
-Active,Active,module,Amasty_Affiliate
+Active,פעיל,module,Amasty_Affiliate
 Inactive,לא פעיל,module,Amasty_Affiliate
 Unable to save account with ID %1. Error: %2,לא ניתן לשמור את החשבון עם מזהה%1. שגיאה: %2,module,Amasty_Affiliate
 Unable to save new account. Error: %1,לא ניתן לשמור את חשבון חדש. שגיאה:%1,module,Amasty_Affiliate
@@ -897,7 +897,7 @@ On Hold:,בהמתנה:,module,Amasty_Affiliate
 Lifetime:,לכל החיים:,module,Amasty_Affiliate
 Paid:,שולם:,module,Amasty_Affiliate
 Date,תאריך,module,Amasty_Affiliate
-Balance,איזון,module,Amasty_Affiliate
+Balance,יתרה,module,Amasty_Affiliate
 Amount,כמות,module,Amasty_Affiliate
 Details,פרטים,module,Amasty_Affiliate
 You have no transactions.,אין לך עסקאות.,module,Amasty_Affiliate
@@ -1359,7 +1359,7 @@ We found an invalid value in a website column.,מצאנו ערך לא חוקי �
 Please enter a valid email.,נא להזין כתובת דואר אלקטרוני תקינה.,module,Mirasvit_Rewards
 "Please make sure attribute "" %1 "" is not empty.",אנא וודא שהתכונה '%1' אינה ריקה.,module,Mirasvit_Rewards
 We can't find a customer who matches this email and website code.,"איננו יכולים למצוא לקוח שמתאים לדוא""ל וקוד אתר זה.",module,Mirasvit_Rewards
--- Please Select --,-- תבחר בבקשה --,module,Mirasvit_Rewards
+-- Please Select --,-- נא לבחור --,module,Mirasvit_Rewards
 Discount Used,הנחה בשימוש,module,Mirasvit_Rewards
 Custom Product Attributes,תכונות מוצר מותאמות אישית,module,Mirasvit_Rewards
 - Disable these emails -,- השבת את האימיילים האלה -,module,Mirasvit_Rewards
@@ -2391,9 +2391,9 @@ Paypal,Paypal,module,Amasty_SocialLogin
 Twitch,Twitch,module,Amasty_SocialLogin
 "See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.","See how to configure app <a target=""_blank"" href=""https://amasty.com/docs/doku.php?id=magento_2:social_login#twitch"">here</a>.",module,Amasty_SocialLogin
 Login type,Login type,module,Amasty_SocialLogin
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","צרו קשר בטלפון <a href=""tel:%store_phone"">%store_phone</a>"
-"Our hours are <span class=""no-link"">%store_hours</span>.","השעות שלנו הן <span class=""no-link"">%store_hours</span>."
-"SKU","מק"ט"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","צרו קשר בטלפון <a href=""tel:%store_phone"">%store_phone</a>",,
+"Our hours are <span class=""no-link"">%store_hours</span>.","השעות שלנו הן <span class=""no-link"">%store_hours</span>.",,
+SKU,"מקט""",,
 Description,תיאור,module,ParadoxLabs_Subscriptions
 Subscription Status,סטטוס מנוי,module,ParadoxLabs_Subscriptions
 Purchased,נרכש,module,ParadoxLabs_Subscriptions
@@ -2600,7 +2600,7 @@ Ref #,Ref #,module,ParadoxLabs_Subscriptions
 -,-,module,ParadoxLabs_Subscriptions
 Actions,פעולות,module,ParadoxLabs_Subscriptions
 View,לצפיה,module,ParadoxLabs_Subscriptions
-You have not purchased any subscriptions.,לא רכשת מנוי ,module,ParadoxLabs_Subscriptions
+You have not purchased any subscriptions.,לא רכשת מנוי,module,ParadoxLabs_Subscriptions
 Bill To,חשבונית על שם,module,ParadoxLabs_Subscriptions
 (Expires %1),(Expires %1),module,ParadoxLabs_Subscriptions
 No info found. Please add a payment method.,לא נמצא מידע. אנא הוסף שיטת תשלום.,module,ParadoxLabs_Subscriptions
@@ -2625,7 +2625,7 @@ We hope you're enjoying your subscription. This is a reminder that it's schedule
 Scheduled,מתוזמן,module,ParadoxLabs_Subscriptions
 Billing To,חיוב עבור,module,ParadoxLabs_Subscriptions
 "We just tried running your subscription, but the payment did not go through.",חיוב התשלום עבור המנוי נכשל,module,ParadoxLabs_Subscriptions
-"We have placed the subscription on hold. Please contact us or <a href=""%account_url"">log into your account</a> to update payment info and reactivate your subscription.",המנוי מוקפא. כדאי לבדוק את פרטי התשלום או ליצור קשר עם שירות הלקוחות ,module,ParadoxLabs_Subscriptions
+"We have placed the subscription on hold. Please contact us or <a href=""%account_url"">log into your account</a> to update payment info and reactivate your subscription.",המנוי מוקפא. כדאי לבדוק את פרטי התשלום או ליצור קשר עם שירות הלקוחות,module,ParadoxLabs_Subscriptions
 %1$s (+%2$s setup fee),דמי הקמה,module,ParadoxLabs_Subscriptions
 %1$s (-%2$s first order discount),הנחת הזמנה ראשונה,module,ParadoxLabs_Subscriptions
 Adaptive Subscriptions,Adaptive Subscriptions,module,ParadoxLabs_Subscriptions
@@ -2701,14 +2701,14 @@ Frequency (count),Frequency (count),module,ParadoxLabs_Subscriptions
 Frequency (unit),Frequency (unit),module,ParadoxLabs_Subscriptions
 Times Billed,זמנים מחויבים,module,ParadoxLabs_Subscriptions
 Items,פריטים,module,ParadoxLabs_Subscriptions
-"Delivery Date Info:","מידע על תאריך אספקה:",module,Amasty_DeliveryDateManager
-"Delivery Time Interval","טווח שעות לאספקה",module,Amasty_DeliveryDateManager
-"Delivery Time Interval:","טווח שעות לאספקה:",module,Amasty_DeliveryDateManager
-"Shipping Info","פרטי משלוח",module,Amasty_DeliveryDateManager
-"Delivery Date:","תאריך אספקה:",module,Amasty_DeliveryDateManager
-"You have signed out","התנתקתם מחשבונכם"
-"You have signed out and will be redirected to our homepage in 5 seconds.","התנתקתם מחשבונכם, ומייד תועברו לעמוד הבית."
-"Thank you for your visit, we're looking forward to see you again soon.","תודה על ביקורכם, אנו מצפים לראותכם שוב בקרוב."
+Delivery Date Info:,מידע על תאריך אספקה:,module,Amasty_DeliveryDateManager
+Delivery Time Interval,טווח שעות לאספקה,module,Amasty_DeliveryDateManager
+Delivery Time Interval:,טווח שעות לאספקה:,module,Amasty_DeliveryDateManager
+Shipping Info,פרטי משלוח,module,Amasty_DeliveryDateManager
+Delivery Date:,תאריך אספקה:,module,Amasty_DeliveryDateManager
+You have signed out,התנתקתם מחשבונכם,,
+You have signed out and will be redirected to our homepage in 5 seconds.,"התנתקתם מחשבונכם, ומייד תועברו לעמוד הבית.",,
+"Thank you for your visit, we're looking forward to see you again soon.","תודה על ביקורכם, אנו מצפים לראותכם שוב בקרוב.",,
 "We apologize, but requested quantity of free gift <strong>%1</strong> is not available at the moment","אנו מתנצלים, אך הכמות המבוקשת של <strong>%1</strong> אינה זמינה כרגע",module,Amasty_Promo
 "We apologize, but products of type <strong>%1</strong> are not supported","אנו מתנצלים, אך מוצרים מסוג <strong>%1</strong> אינם נתמכים",module,Amasty_Promo
 "We apologize, but your free gift <strong>%1</strong> is not available at the moment","אנו מתנצלים, <strong>%1</strong> אינה זמינה כרגע",module,Amasty_Promo
@@ -2720,8 +2720,59 @@ Free Gift is not available anymore.,ההטבעה אינה זמינה יותר.,m
 Please click 'Update Items and Quantities' to refresh the cart,אנא לחץ 'עדכן פריטים וכמויות' כדי לרענן את הסל,module,Amasty_Promo
 Free Gift,הטבה,module,Amasty_Promo
 The free gift has been added to your cart.,ההטבה נוספה לסל הקניות שלך,module,Amasty_Promo
-"Yes","כן"
-"No","לא"
-" & Up","&nbsp;ומעלה"
-"%1 & Up","%1&nbsp;ומעלה"
-"Only registered users can write reviews. Please <a href="%1">Sign in</a> or <a href="%2">create an account</a>","רק משתמשים רשומים יכולים לכתוב חוות דעת. אנא <a href="%1">התחברות</a> או <a href="%2">הרשמה</a>"
+Yes,כן,,
+No,לא,,
+ & Up,&nbsp;ומעלה,,
+%1 & Up,%1&nbsp;ומעלה,,
+"Only registered users can write reviews. Please <a href=%1"">Sign in</a> or <a href=""%2"">create an account</a>""","רק משתמשים רשומים יכולים לכתוב חוות דעת. אנא <a href=%1"">התחברות</a> או <a href=""%2"">הרשמה</a>""",,
+Your request was successfully sent.,בקשתך נשלחה בהצלחה.,module,Mirasvit_Gdpr
+Your request was registered.,בקשתך נרשמה.,module,Mirasvit_Gdpr
+Your request was successfully processed.,בקשתך עובדה בהצלחה.,module,Mirasvit_Gdpr
+The password is wrong. Please enter correct password.,הסיסמה שגויה. אנא הזן/י סיסמה נכונה.,module,Mirasvit_Gdpr
+Number of Days,מספר ימים,module,Mirasvit_Gdpr
+Delete my account,מחק את החשבון שלי,module,Mirasvit_Gdpr
+You can request the deletion of your data that we have stored by clicking the button below:,ניתן לבקש את מחיקת הנתונים שלך השמורים אצלנו בלחיצה על הכפתור למטה:,module,Mirasvit_Gdpr
+Send request,שלח בקשה,module,Mirasvit_Gdpr
+I understand and want remove my personal data,אני מבין/ה ורוצה למחוק את הנתונים האישיים שלי,module,Mirasvit_Gdpr
+"Please keep in mind that we are deleting your account. After the deletion of your account, you will not be able to access your account anymore.","לתשומת ליבך: אנו מוחקים את החשבון שלך. לאחר מחיקת החשבון, לא תוכל/י עוד לגשת לחשבון שלך.",module,Mirasvit_Gdpr
+Delete account,מחק חשבון,module,Mirasvit_Gdpr
+You can download all your data that we have stored by clicking the button below:,ניתן להוריד את כל הנתונים שלך השמורים אצלנו בלחיצה על הכפתור למטה:,module,Mirasvit_Gdpr
+Download,הורד,module,Mirasvit_Gdpr
+Download personal data,הורד נתונים אישיים,module,Mirasvit_Gdpr
+Anonymize my account,הפוך את החשבון שלי לאנונימי,module,Mirasvit_Gdpr
+You can request the anonymization of your personal data that we have stored by clicking the button below:,ניתן לבקש את האנונימיזציה של הנתונים האישיים השמורים אצלנו בלחיצה על הכפתור למטה:,module,Mirasvit_Gdpr
+Process,בצע,module,Mirasvit_Gdpr
+I understand and want anonymize my personal data,אני מבין/ה ורוצה להפוך את הנתונים האישיים שלי לאנונימיים,module,Mirasvit_Gdpr
+Current Password,נעדכן את שמך גם בהזמנות. נא לוודא שאין לך הזמנות ממתינות.,module,Mirasvit_Gdpr
+We will also update your name in the orders. Kindly ensure that you do not have any pending orders.,נעדכן את שמך גם בהזמנות. נא לוודא שאין לך הזמנות ממתינות.,module,Mirasvit_Gdpr
+Please be aware that we will delete your addresses and will update your name to Anonymous.,"לתשומת ליבך: נמחק את כתובותיך ונעדכן את שמך ל־""אנונימי"".",module,Mirasvit_Gdpr
+"To anonymize your account as well as your data from our website, please submit the form.","כדי להפוך לאנונימיים את חשבונך ואת הנתונים שלך מהאתר, יש להגיש את הטופס.",module,Mirasvit_Gdpr
+Anonymize personal data,הפוך נתונים אישיים לאנונימיים,module,Mirasvit_Gdpr
+OK,אישור,module,Mirasvit_Gdpr
+Remove User Data,מחיקת נתוני משתמש,module,Mirasvit_Gdpr
+Anonymize User Data,הפוך נתוני משתמש לאנונימיים,module,Mirasvit_Gdpr
+Provide User Data,מסירת נתוני משתמש,module,Mirasvit_Gdpr
+Rejected,נדחה,module,Mirasvit_Gdpr
+Partially completed,הושלם חלקית,module,Mirasvit_Gdpr
+Removed,הוסר,module,Mirasvit_Gdpr
+Deny,דחה,module,Mirasvit_Gdpr
+Approve,אשר,module,Mirasvit_Gdpr
+"GDPR: One or more <a href=""%1"">customers' requests</a> are currently in pending status.","תקנות הגנת המידע של האיחוד האירופי: אחת או יותר מ<a href=""%1"">בקשות הלקוחות</a> נמצאות כעת במצב ממתין.",module,Mirasvit_Gdpr
+You already have a pending removal request.,כבר קיימת עבורך בקשת מחיקה ממתינה.,module,Mirasvit_Gdpr
+We can't process the request right now because you have pending order(s): %1,אין באפשרותנו לעבד את הבקשה כעת משום שיש לך הזמנות ממתינות: %1,module,Mirasvit_Gdpr
+The request was denied.,הבקשה נדחתה.,module,Mirasvit_Gdpr
+The request was processed.,הבקשה עובדה.,module,Mirasvit_Gdpr
+This request no longer exists.,בקשה זו אינה קיימת עוד.,module,Mirasvit_Gdpr
+Customers' Requests,בקשות הלקוחות,module,Mirasvit_Gdpr
+Essential,הכרחי,module,Mirasvit_Gdpr
+Open cookie consent settings,נהל,module,Mirasvit_Gdpr
+You can review all consents that you provide during navigation in the store.,אתה יכול לעיין בתוכן קובצי ה-Cookie שלך ולעדכן אותם במידת הצורך.,module,Mirasvit_Gdpr
+Cookie Consent,ניהול עוגיות,module,Mirasvit_Gdpr
+You can review your cookie contents and update them if necessary.,אתה יכול לעיין בכל ההסכמות שאתה נותן במהלך הגלישה בחנות.,module,Mirasvit_Gdpr
+My Consents,העגויות שלי,module,Mirasvit_Gdpr
+You can download and review all of your personal data that we have stored.,אתה יכול להוריד ולעיין בכל הנתונים האישיים שלך שאנו שומרים.,module,Mirasvit_Gdpr
+"You can request the deletion of your data, including the account that we have stored.","אתה יכול לבקש את מחיקת הנתונים שלך, כולל החשבון שאנו שומרים.",module,Mirasvit_Gdpr
+You can request the anonymization of the personal data we have stored.,אתה יכול לבקש את האנונימיזציה של הנתונים האישיים שאנו שומרים.,module,Mirasvit_Gdpr
+Privacy Dashboard,הגדרות פרטיות,module,Mirasvit_Gdpr
+Decline,סירוב,module,Mirasvit_Gdpr
+Agree All,"הבנתי, תודה",module,Mirasvit_Gdpr

@@ -6,25 +6,26 @@
 - Amasty_Cart
 - Amasty_Checkout
 - Amasty_Extrafee
-- Amasty_StoreCredit
 - Amasty_Gdpr
 - Amasty_GiftCard
+- Amasty_GiftWrap
+- Amasty_Promo (Free Gift)
+- Amasty_ShopbyBrand
 - Amasty_SocialLogin
 - Amasty_Sorting
-- Amasty_ShopbyBrand
-- Amasty_GiftWrap
+- Amasty_StoreCredit
 - Amasty_Xnotif (Out of Stock Notification)
 - Magento_Checkout
 - Magento_Customer
 - Magento_SalesRule
 - Magento_Tax
 - Magento_Ui
+- Mirasvit_Gdpr
 - Mirasvit_Helpdesk
 - Mirasvit_RewardPoints
 - Mirasvit_SearchAutocomplete
-- Ubertheme_UbMegaMenu
 - ParadoxLabs_Subscriptions
-- Amasty Promo (Free Gift)
+- Ubertheme_UbMegaMenu
 
 ## Install & update via composer steps 
 1. `composer.phar require studioraz/magento2-language-pack-he-il`
