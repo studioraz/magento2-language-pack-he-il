@@ -32,7 +32,7 @@ notice,שים לב
 Wrong message type,סוג ההודעה אינו נכון
 Wrong notification ID specified.,התראה לא נכונה של הID המצוין.
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} אינו מומלץ לשימוש בסביבת פרודקשן להכרזה על כתובת בסיס לא-מאובטחת /כתובת בסיס מאבטחת. מומלץ מאוד לשנות ערך זה ב<a href=""%1""> הגדרות</a> מג'נטו."
-One or more of the Cache Types are invalidated: %1. ,אחד או יותר מסוגי Cache תוקפם: %1. 
+One or more of the Cache Types are invalidated: %1. ,אחד או יותר מסוגי Cache תוקפם: %1.
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","בבקשה ללכת <a href=""%1""> ניהול cacge</a> ולרענן את סוגי הcache."
 We were unable to synchronize one or more media files. Please refer to the log file for details.,לא הצלחנו לסינכרון קובץ מדיה אחד או יותר. נא עיין בקובץ הlog לקבלת פרטים.
 Synchronization of media storages has been completed.,סינכרון של תיקיית מדיה הושלמה.
@@ -118,9 +118,9 @@ Please upload the file in .csv format.,בבקשה להעלות את הקובץ �
 %1 item(s) need your attention.,הפריט/ים %1 מצריך את תשומת לבכם.
 Apply Coupon Code,אשר את קוד הקופון
 Remove Coupon Code,הסר קוד קופון
-"The coupon code ""%1"" is not valid.","קוד הקופון ""%1"" אינו תקין."
+"The coupon code ""%1"" is not valid.","קוד הקופון ""%1"" אינו תקין"
 Shopping Cart Items,פריטים בעגלת הקניות
-A total of %1 record(s) have been deleted.,סך של %1 רשומות נמחקו.
+A total of %1 record(s) have been deleted.,סך של %1 רשומות נמחקו
 Row Subtotal,השורה של סכום ביניים
 No ordered items,אין פריטים שהוזמנו
 Total %1 product(s),כל %1 מוצרים
@@ -131,7 +131,7 @@ Are you sure you want to remove this item?,האם אתה בטוח שברצונך
 SKU number,מספר מק״ט
 Upload File,העלה קובץ
 "Your csv file must include ""sku"" and ""qty"" columns.","בקובץ ה-csv עליך לכלול עמודות ""מק״ט"" ו- ""כמות""."
-SKU: ,ברקוד: 
+SKU: ,ברקוד:
 "Only <span id=""%1_max_allowed"">%2</span> in stock","רק <span id=""%1_max_allowed"">%2</span>נותרו במלאי"
 Account,חשבון
 See price before order confirmation.,ראה מחיר לפני אישור ההזמנה.
@@ -198,7 +198,7 @@ There was an error save new configuration value.,אירעה שגיאה בעת ש
 Cannot find predefined integration user!,לא ניתן למצוא משתמש אינטגרציה מוגדר מראש!
 File is not ready yet.,הקובץ עדיין לא מוכן.
 Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.,"כתובת האתר הבסיסית שלך השתנתה והדו""חות שלך מתעדכנים ברגע זה. הדו""חות המתקדמים יהיו זמינים ברגע ששינוי זה יסתיים. אנא נסה שוב בעוד מספר רגעים."
-Failed to synchronize data to the Magento Business Intelligence service. ,סינכרון המידע לשירות Magento Business Intelligence נכשל. 
+Failed to synchronize data to the Magento Business Intelligence service. ,סינכרון המידע לשירות Magento Business Intelligence נכשל.
 TestMessage,הודעת בדיקה
 Apps and Games,אפליקציות ומשחקים
 Athletic/Sporting Goods,מוצרי אתלטיקה\ספורט
@@ -293,7 +293,7 @@ Please Select,נא לבחור
 Credit Card Number,מספר כרטיס אשראי
 Expiration Date,תאריך תפוגה
 Card Verification Number,קוד אימות לכרטיס
-Fraud Detection ,זוהתה הונאה 
+Fraud Detection ,זוהתה הונאה
 FDS Filter Action,פעולת סינון FDS
 AVS Response,תגובת AVS
 Card Code Response,תגובת כרטיס קוד
@@ -335,13 +335,13 @@ Cache Storage Management,ניהול אחסון הCache
 Flush Magento Cache,נקה Cache של מגנטו
 The cache storage may contain additional data. Are you sure that you want to flush it?,האחסון בcache יכול להכיל נתונים נוספים. האם אתה בטוח כי ברצונך לנקות את הcache?
 Flush Cache Storage,מחיקת Cache
-Invalidated,מבוטל
+Invalidated,לא בתוקף
 Add New,הוסף חדש
 Add Option,הוסף אפשרות
 Most Viewed Products,המוצרים הנצפים ביותר
 New Customers,לקוחות חדשים
 Add Price,הוסף מחיר
-Address Book,ספר כתובות
+Address Book,כתובות
 Average Order,הזמנה הממוצעת
 Average,ממוצע
 Views,צפיות
@@ -486,7 +486,7 @@ Before modifying the website code please make sure it is not used in index.php.,
 The store does not exist,החנות אינה קיימת
 Store view doesn't exist,תצוגת חנות אינה קיימת
 Before modifying the store view code please make sure it is not used in index.php.,"לפני שאתה משנה את הקוד באתר האיטרנט , אנא ודא שהוא לא בשימוש ב- index. php."
-New ,חדש 
+New ,חדש
 All Stores,כל החנויות
 You saved the website.,שמרת את אתר האינטרנט.
 The default store cannot be disabled,לא ניתן לבטל את החנות ברירת המחדל
@@ -824,7 +824,7 @@ Save for later use.,שמור לשימוש מאוחר יותר.
 This payment is not available,תשלום זה אינו זמין
 Please try again with another form of payment.,אנא נסה שוב עם אפשרות אחרת של התשלום.
 "Sorry, but something went wrong.","מצטערים, משהו השתבש."
-Payment ,תשלום 
+Payment ,תשלום
 Credit card type is not accepted by this merchant account.,כרטיס אשראי מסוג זה אינו מאושר על חשבון סוחר זה.
 Cannot refund a transaction unless it is settled.,אין החזר כספי על העסקה אלא אם כן אושר מראש.
 Cannot submit for settlement unless status is authorized.,לא יכול לחתום על ההסכם אלא אם כן הסטטוס מורשה.
@@ -908,7 +908,7 @@ We can't initialize checkout review.,איננו יכולים לאתחיל את �
 We can't update shipping method.,איננו יכולים לעדכן את שיטת המשלוח.
 "The processor declined your transaction, please re-enter your payment information","המערכת דחתה את העסקה שלך, אנא הזן בשנית את פרטי התשלום שלך"
 Transaction declined by gateway: Check card details or try another card,העסקה נדחתה על ידי שירות הסליקה: נא בדוק את פרטי כרטיס או נסה כרטיס אחר
-Transaction declined: ,העסקה נדחתה: 
+Transaction declined: ,העסקה נדחתה:
 The processor responded with an unknown error,המערכת החזירה שגיאה לא ידועה
 Credit card type is not allowed for your country.,סוג כרטיס האשראי אינו מורשה עבור המדינה שלך.
 Credit card type is not allowed for this payment method.,סוג כרטיס האשראי אינו מותר עבור שיטת התשלום הנוכחית.
@@ -1460,7 +1460,7 @@ Allow Multiple Boxes for Shipping,אפשר משלוח במספר חבילות
 start typing to search attribute,התחל להקליד כדי לחפש תכונה
 Basic Settings,הגדרות בסיסיות
 Advanced Settings,הגדרות מתקדמות
-Buy %1 for: ,לקנות %1 עבור: 
+Buy %1 for: ,לקנות %1 עבור:
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","קנה %1 עבור %2 כל אחד <strong class=""benefit"">וחסוך<span class=""percent tier-%3"">&nbsp;%4%</span></strong>"
 Buy %1 for %2 each,קנה %1 עבור %2 כל אחד
 Approve,אשר
@@ -1812,7 +1812,7 @@ Advanced Search,חיפוש מתקדם
 We can't find any items matching these search criteria.,איננו מסוגלים למצוא פריטים התואמים לקריטריוני חיפוש אלה.
 Modify your search.,התאם את החיפוש שלך.
 Don't see what you're looking for?,לא רואה את מה שאתה מחפש?
-Your search returned no results.,אין תוצאות לשאילתת חיפוש שלך.
+Your search returned no results.,לא נמצאו תוצאות.
 Catalog Search,חיפוש בקטלוג
 Popular Search Terms,מונחי חיפוש פופולריים
 Minimal Query Length,אורך שאילתה מינימלי
@@ -1924,9 +1924,9 @@ Created,נוצר
 New Address,כתובת חדשה
 Order Summary,סיכום הזמנה
 Provided Zip/Postal Code seems to be invalid.,המיקוד שסופק נראה לא תקין.
- Example: , דוגמה: 
+ Example: , דוגמה:
 If you believe it is the right one you can ignore this notice.,אם אתה מאמין שזה נכון תוכל להתעלם מהודעה זו.
-Field ,שדה 
+Field ,שדה
  is required., נדרש.
 Are you sure you would like to remove this item from the shopping cart?,האם להסיר פריט זה מעגלת הקניות?
 Review & Payments,סיכום ותשלום
@@ -2532,7 +2532,7 @@ Account Created in:,החשבון נוצר ב:
 Customer Group:,קבוצת לקוח:
 Sales Statistics,סטטיסטיקת מכירות
 Average Sale,מכירה ממוצעת
-Manage Addresses,נהל כתובות
+Manage Addresses,ניהול כתובות
 Continue Shopping,המשיכו בקניות
 Change Password,שינוי סיסמה
 Newsletters,ניוזלטר
@@ -2565,7 +2565,7 @@ Confirm Password,אימות סיסמה
 You have signed out and will go to our homepage in 5 seconds.,תהליך התנתקות. אתה תועבר לדף הבית בעוד 5 שניות.
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","חשבון זה אינו מאושר. "" ""<a href=""%1""> לחץ כאן</a> כדי לשלוח דוא״ל אישור מחדש."
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","קיים כבר חשבון עם כתובת הדוא״ל. אם אתה בטוח כי זה כתובת הדואר האלקטרוני שלך, <a href=""%1""> לחץ כאן</a> כדי לקבל את הסיסמה שלך כדי לגשת לחשבון שלך."
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","ביצירת חשבון יש יתרונות רבים: לבצע תשלום בצורה מהירה יותר, להזין מספר כתובות למשלוח, לעקוב אחר הזמנותיך וכו'."
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","ביצירת חשבון יש יתרונות רבים: לבצע תשלום בצורה מהירה יותר, להזין מכתובות למשלוח, לעקוב אחר הזמנותיך וכו'."
 Welcome to %store_name,ברוכים הבאים ל-%store_name
 Welcome to %store_name.,ברוכים הבאים ל-%store_name.
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","כדי להיכנס לאתר שלנו, השתמש בפרטי חיבור אלה במהלך הרכישה או בדף <a href=""%customer_url""> החשבון שלי</a>:"
@@ -2785,7 +2785,7 @@ Billing,חיוב
 Has State/Province,יש מדינה/מחוז
 has,כוללת
 does not exist,לא קיים
-Newsletter Subscription,ניוזלטר - רישום
+Newsletter Subscription,ניוזלטר
 subscribed,מנויים
 not subscribed,לא מנויים
 Date Range,טווח תאריכים
@@ -3163,9 +3163,9 @@ Numeric,ממוספר
 Are you sure you want to continue without saving your changes?,האם אתה בטוח שברצונך להמשיך מבלי לשמור את השינויים שביצעת?
 Generate,יצירה
 This won't take long . . .,זה לא ייקח הרבה זמן . . .
-Gift Card: ,כרטיס מתנה: 
-Current Balance: ,יתרה נוכחית: 
-Expires: ,תוקף פג בעוד: 
+Gift Card: ,כרטיס מתנה:
+Current Balance: ,יתרה נוכחית:
+Expires: ,תוקף פג בעוד:
 Add or remove gift cards,הוספה או הסרה של כרטיסי מתנה
 Code Length,אורך קוד
 Code Format,פורמט קוד
@@ -3478,7 +3478,7 @@ Admin Actions Log,לוג פעולות של מנהל
 Admin Actions Archive,ארכיון פעולות מנהל
 Report,דוח
 Tax Rates Import,ייבוא שערי מס
-Cache types: %1 ,סוגי מטמון: %1 
+Cache types: %1 ,סוגי מטמון: %1
 This user is locked,משתמש זה נעול
 Admin User Name,שם משתמש מנהל
 IP-Address,‏כתובת IP
@@ -3571,7 +3571,7 @@ We can't add the following product(s) to shopping cart: %1.,איננו יכול�
 Product(s) %1 have required options. Each product can only be added individually.,למוצרים %1 יש את האפשרויות הנדרשות. ניתן להוסיף כל מוצר בנפרד בלבד.
 %1 product(s) have been added to shopping cart: %2.,%1 מוצרים נוספו לסל הקניות: %2.
 %1's Wish List,ה-wishlist של %1
-Default Shipping Address,כתובת משולח ראשית
+Default Shipping Address,כתובת משלוח ראשית
 Unknown Magento error,שגיאת מג'נטו לא ידועה
 No items,אין פריטים
 Create New Wish List,צור רשימת מועדפים חדשה
@@ -3580,7 +3580,7 @@ Move Selected to Wish List,העבר פריטים נבחרים למועדפים
 Copy Selected to Wish List,העתק פריטים נבחרים למועדפים
 Are you sure you want to delete your wish list? This action can't be undone.,האם אתה בטוח שברצונך למחוק את המועדפים שלך? פעולה זו לא ניתנת לשחזור.
 My Wish Lists Link,קישור לרשימת הבקשות שלי
-Ship to Multiple Addresses,משלוח למספר כתובות
+Ship to Multiple Addresses,משלוח למכתובות
 Billing Information - %1,מידע אודות החיוב - %1
 Review Order - %1,סקירה הזמנה - %1
 Total for this address,סך הכל עבור הכתובת
@@ -3612,7 +3612,7 @@ Back to Shipping Information,חזרה למידע עבור השילוח
 Other items in your order,פריטים אחרים בהזמנה שלך
 Edit Items,עריכת פריטים
 Shipping is not applicable.,משלוח אינו ישים.
-Check Out with Multiple Addresses,המשך לתשלום עם מספר כתובות
+Check Out with Multiple Addresses,המשך לתשלום עם מכתובות
 Shipping To,משלוח עבור
 Order Review,סקירת הזמנה
 Grand Total:,סך הכל:
@@ -3625,7 +3625,7 @@ Back to Select Addresses,חזרה לבחירת כתובות
 We can't complete your order because you don't have a payment method set up.,אין אפשרות להשלים את ההזמנה שלך כי אין לך שיטת תשלום מוגדרת.
 Multishipping Settings Section,סעיף הגדרות שילוח מרובה
 Multishipping Settings,הגדרות שילוח מרובה
-Allow Shipping to Multiple Addresses,אפשר משלוח למספר כתובות
+Allow Shipping to Multiple Addresses,אפשר משלוח למכתובות
 Maximum Qty Allowed for Shipping to Multiple Addresses,כמות המרבית המותרת עבור משלוח לכתובות מרובות
 Review Order,סקירת הזמנה
 Select Shipping Method,בחר שיטת משלוח
@@ -3700,7 +3700,7 @@ Allow Guest Subscription,לאפשר מינוי של אורחים
 Recipients,המקבלים
 Customer First Name,השם הפרטי של הלקוח
 Customer Last Name,שם המשפחה של הלקוח
-Newsletter Subscriptions,ניוזלטר - רישום
+Newsletter Subscriptions,ניוזלטר
 Make Check payable to:,כתוב את השיק לפקודת:
 Send Check to:,שלח כדי לבדוק ל-:
 Purchase Order Number,מספר הזמנת הרכישה
@@ -4152,8 +4152,8 @@ Tracking Information,מידע אודות המעקב
 Page not found,הדף לא נמצא
 Please check this order for errors.,נא בדוק הזמנה זו לאיתור שגיאות.
 Contact Email Address,"כתובת דוא""ל איש קשר"
-Return # ,החזר # 
-Return Date: ,תאריך החזרה: 
+Return # ,החזר #
+Return Date: ,תאריך החזרה:
 Return Address:,כתובת להחזרה:
 There is an error in quantities for item %1.,יש שגיאה בכמויות עבור פריט %1.
 Authorized Qty,כמות מורשית
@@ -4344,7 +4344,7 @@ Please enter the country.,אנא הזינו מדינה.
 Unknown Status,סטטוס לא ידוע
 Payment transactions disallow storing objects.,תנועות התשלום לא מאפשרת אחסון אובייקטים.
 You can't do this without a transaction object.,אינך יכול לעשות זאת ללא אובייקט טרנזקציה.
-Order Date: ,תאריך הזמנה: 
+Order Date: ,תאריך הזמנה:
 Total Shipping Charges,חיובי משלוח כולל
 "We don't recognize the draw line data. Please define the ""lines"" array.","אנחנו לא מזהים את הנתונים בנתוני הסכמה הקווית. אנא הגדר את המערך ""שורות""."
 Excl. Tax,"ללא מע""מ"
@@ -4402,7 +4402,7 @@ Your %store_name order has shipped,%store_name ההזמנה שלך נשלחה
 Your shipping confirmation is below. Thank you again for your business.,להלן אישור המשלוח שלך. תודה על רכישתך.
 Your Shipment #%shipment_id for Order #%order_id,המשלוח שלך %shipment_id # עבור הזמנה #%order_id
 Update to your %store_name shipment,עדכן את %store_name לשילוח
-Gift Options for ,אפשרויות מתנה 
+Gift Options for ,אפשרויות מתנה
 Include Tax to Amount,"הוסף מע""מ לסכום ההזמנה"
 Asynchronous sending,שליחה אסינכרונית
 Shipment Comments,הערות משלוח
@@ -4644,9 +4644,9 @@ Tracking Number(s):,מספרי מעקב:
 Order tracking,מעקב הזמנה
 Tracking Number:,מספר מעקב:
 Carrier:,מוביל:
-Tracking information is currently not available. Please ,מידע עבור המעקב לא זמין כעת. בבקשה 
+Tracking information is currently not available. Please ,מידע עבור המעקב לא זמין כעת. בבקשה
 contact us,צור עימנו קשר
- for more information or , לקבלת מידע נוסף או 
+ for more information or , לקבלת מידע נוסף או
 email us at ,"שלח לנו דוא""ל לכתובת "
 Info:,מידע:
 Track:,מעקב:
@@ -4712,7 +4712,7 @@ Something went wrong while saving the %1.,משהו השתבש בעת שמירת 
 Repository should return instance of %s,מאגר צריך להחזיר מופע של %s
 This action is unavailable,פעולה זו אינה זמינה
 Calendar,לוח שנה
-Belongs to ,שייך ל 
+Belongs to ,שייך ל
 Share Preview Link,שתף קישור תצוגה מקדימה
 Includes,כולל
 Current store is not active.,חנות נוכחית לא פעילה.
@@ -5464,7 +5464,7 @@ Transaction was not placed.,הטרנזקציה לא בוצעה.
 Refused,סירב
 Authorised,מורשה
 Captured,נקלט
-Please click ,נא לחץ 
+Please click ,נא לחץ
  if you are not redirected automatically., אם אתה לא מעובר מחדש באופן אוטומטי.
 You will be redirected to the Worldpay website.,המערכת תעביר אותך מחדש לאתר האינטרנט Worldpay.
 Continue to Worldpay,המשך לWorldpay
@@ -5481,7 +5481,7 @@ Set Order Status to Suspected Fraud for CVV,להגדיר את מצב ההזמנ�
 Set Order Status to Suspected Fraud for Postcode AVS,להגדיר את מצב ההזמנה לחשד להונאה עבור מיקוד AVS
 Your payment has been successfully processed by our shop system.,התשלום שלך נרשם בהצלחה בחנות שלנו.
 Payment was canceled,התשלום בוטל
-Please ,בבקשה 
+Please ,בבקשה
 continue shopping,המשך בקנייה
 Quick Checkout,צ'ק אאוט מהיר
 Store alternative addresses,שמור כתובות חלופיות
@@ -5976,7 +5976,7 @@ Message added,ההודעה נוספה
 Internal note added,הערה פנימית נוספה
 Third party message added,נוספה הודעת צד שלישי
 Private third party message added,הודעה פרטית של צד שלישי נוספה
-My Wish Lists,רשימות הווישליסט שלי
+My Wish Lists,ווישליסט
 Contact Tab,לשונית אנשי קשר
 at %1 (%2) - %3,ב- %1 (%2) - %3
 "You don't have permissions to read this ticket. Please, contact your administrator.",אין לך הרשאות לקרוא את הכרטיס הזה. אנא פנה למנהל המערכת שלך.
@@ -6336,7 +6336,7 @@ Affiliate Email,"דוא""ל שותפים"
 Payment Method,שיטת תשלום
 Affiliate Withdrawal,משיכת שותפים
 Withdrawal Information,מידע משייך
-"You added %1 to your <a href=""%2"">shopping cart</a>.",%1 נוסף לעגלת הקניות.
+"You added %1 to your <a href=""%2"">shopping cart</a>.",%1 נוסף לסל הקניות
 We can't add this item to your shopping cart right now. Please reload the page.,
 Pending,בהמתנה
 %1 has been added to your cart,%1 התווסף לסל הקניות שלך
@@ -7238,7 +7238,7 @@ We can't find item.,We can't find item.
 Something is wrong.,Something is wrong.
 This product(s) is out of stock.,המוצר(ים) לא במלאי.
 Can't load item.,Can't load item.
-This Wish List has no Items,ברשימת המועדפים הזו אין פריטים
+This Wish List has no Items,הרשימה ריקה
 You will no longer receive wishlist price alerts.,You will no longer receive wishlist price alerts.
 Unable to update the wishlist price alert subscription.,Unable to update the wishlist price alert subscription.
 Something wrong,Something wrong
@@ -7791,7 +7791,7 @@ Subscribe for the latest news and our best offers.,מצטרפים לניוזלט
 Please include an '@' in the email address. %1 is missing an '@'.,אנא הזן כתובת דוא״ל תקנית
 Please fill in this field.,"אנא הזן כתובת דואל תקנית"""
 "Hi, ","הי, "
-My Wish List,הווישליסט שלי
+My Wish List,ווישליסט
 Shopping Basket,סל הקניות
 Options,אפשרויות
 Proceed to secure payment,המשיכו לתשלום מאובטח
@@ -7872,7 +7872,7 @@ We can't find products matching the selection.,לא נמצאו מוצרים
 We'll email you an order confirmation with details and tracking info.,יישלח אימייל אישור עם פרטים על ההזמנה ומידע למעקב אחר החבילה.
 %1 field is required.,שדה %1 הינו שדה חובה.
 Wish List,ווישליסט
-You aren't subscribed to our newsletter.,אינך רשומ.ה לקבלת דיוורים פרסומיים
+You aren't subscribed to our newsletter.,אינך רשום לקבלת דיוורים פרסומיים
 Continue to Checkout,המשיכו לקופה
 You can track your order status by creating an account.,באפשרותך לעקוב אחר מצב ההזמנה שלך על ידי יצירת חשבון.
 Full Name,שם מלא
@@ -7885,3 +7885,12 @@ Popular Suggestions,חיפושים פופולריים
 You have no other address entries in your address book.,אין לך כתובות נוספות
 Your order has been received,ההזמנה שלך נקלטה
 An order confirmation email will be sent to you shortly. You can track the status of your order in your personal account.,ברגעים אלו נשלח אלייך מייל אישור הזמנה ניתן לעקוב אחר סטטוס ההזמנה באיזור האישי
+Search Tips,טיפים לחיפוש
+Double-check your spelling.,בדוק את האיות
+Try using separate words.,נסה להפריד בין המילים
+Try searching for an item that is less specific.,נסה ביטוי אחר
+You can always narrow your search results later,You can always narrow your search results later
+Cart is empty,הסל שלך ריק
+Allow remote shopping assistance,אפשר סיוע בקניות על ידי התמיכה
+Cart Summary,סיכום הזמנה
+%1 field must contain a valid email address (Ex: johndoe@domain.com).,נא להזין כתובת אימייל חוקית
