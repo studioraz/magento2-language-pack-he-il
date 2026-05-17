@@ -7894,3 +7894,4 @@ Cart is empty,הסל שלך ריק
 Allow remote shopping assistance,אפשר סיוע בקניות על ידי התמיכה
 Cart Summary,סיכום הזמנה
 %1 field must contain a valid email address (Ex: johndoe@domain.com).,נא להזין כתובת אימייל חוקית
+Your order # is: <span class=""text-lg md:text-2xl"">%1</span>.,מספר ההזמנה שלך: <span class=""text-lg md:text-2xl"">%1</span>.
