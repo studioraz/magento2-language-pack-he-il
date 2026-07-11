@@ -2558,7 +2558,7 @@ Registered Customers,לקוחות רשומים
 "If you have an account, sign in with your email address.","לקוחות רשומים, ניתן להכנס באמצעות כתובת דואר אלקטרוני."
 Subscription option,אפשרות מינוי
 General Subscription,הרשמה כללית
-Sign Up for Newsletter,הרשמה לניוזלטר
+Sign Up for Newsletter,אני מאשר/ת קבלת דיוור ו/או מידע פרסומי בדוא״ל ו/או במסרונים
 Address Information,מידע אודות כתובת
 Default Addresses,כתובות ראשיות
 Confirm Password,אימות סיסמה
@@ -5513,7 +5513,7 @@ Please enter a valid year (1900-%1).,הזינו בבקשה את ערך חוקי 
 Please enter a valid day (1-%1).,הזינו בבקשה ערך חוקי ליום(1-%1).
 Please enter a date from the past.,הזינו בבקשה תאריך מן העבר.
 Fixed,תוקן
-Create New Customer Account,יצירת חשבון לקוח
+Create New Customer Account,יצירת חשבון
 The password needs at least %1 characters. Create a new password and try again.,יש ליצור סיסמה עם מינימום %1 תווים. נא להזין סיסמה חדשה.
 Forgot Your Password,שכחת סיסמה
 Fixed amount discount,הנחה בסכום קבוע
@@ -6539,7 +6539,7 @@ Customer adds tag to a product,הלקוח מוסיף תג למוצר
 Customer writes a product review,הלקוח כותב ביקורת מוצר
 Customer has a birthday,ללקוח יש יום הולדת
 Customer is inactive for long time,הלקוח אינו פעיל במשך זמן רב
-Newsletter sign up,הרשמה לניוזלטר
+Newsletter sign up,אני מאשר/ת קבלת דיוור ו/או מידע פרסומי בדוא״ל ו/או במסרונים
 Facebook Share,שיתוף בפייסבוק
 Facebook Like,פייסבוק לייק
 Twitter Tweet,ציוץ טוויטר
@@ -7897,3 +7897,4 @@ Cart Summary,סיכום הזמנה
 Your order # is: <span class=""text-lg md:text-2xl"">%1</span>.,מספר ההזמנה שלך: <span class=""text-lg md:text-2xl"">%1</span>.
 "Show %d more products","%d מוצרים, הצג עוד"
 Continue shopping,המשך בקניות
+Customer Login,התחברות לקוח
