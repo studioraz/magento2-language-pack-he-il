@@ -2599,8 +2599,8 @@ All Customers,כל הלקוחות
 Now Online,לקוחות באתר
 Share Customer Accounts,שיתוף חשבונות לקוח
 Validate on Each Transaction,אמת בכל עסקה
-Show VAT Number on Storefront,"הצג את מספר מע""מ בקדמת החנות"
-"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","בכדי להציג מספר מע""מ בקדמת החנות, יש לשנות את 'הצג מספר מע""מ בקדמת החנות' לכן."
+Show VAT Number on Storefront,"הצג את מספר ח""פ בקדמת החנות"
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","בכדי להציג מספר ח""פ בקדמת החנות, יש לשנות את 'הצג מספר ח""פ בקדמת החנות' לכן."
 Default Welcome Email,ברירת מחדל של הודעת ברוכים הבאים
 Default Welcome Email Without Password,ברירת המחדל של הודעת ברוכים הבאים ללא סיסמה
 Require Emails Confirmation,דרוש אישור הודעות דואר אלקטרוני
@@ -7326,7 +7326,7 @@ Used,בשימוש
 Select the appropriate template for the email notifications.,Select the appropriate template for the email notifications.
 List Name,List Name
 Users,משתמשים
-VAT Number,"מספר המע""מ"
+VAT Number,"מספר ח""פ"
 Total number of Lists the item is present in,Total number of Lists the item is present in
 Number of Wish Lists,Number of Wish Lists
 Number of Requisition Lists,Number of Requisition Lists
