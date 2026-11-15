@@ -1,7 +1,7 @@
 -- Please Select --,-- נא לבחור --
 Allowed Scopes,טווח נתונים אפשריים
 You need more permissions to apply some of the rule updates.,אתה צריך הרשאות נוספות כדי ליישם חלק מהעדכונים.
-"You need more permissions to access website ""%1"".","אתה צריך הרשאה יותר גבוהה כדי לצפות באתר ""1%""."
+"You need more permissions to access website ""%1"".","אתה צריך הרשאה יותר גבוהה כדי לצפות באתר ""%1""."
 Role Scopes,טווחי תפקיד
 --Please Select--,-- נא לבחור --
 Read Details,קרא פרטים
@@ -2145,7 +2145,7 @@ The specified image adapter cannot be used because of: %1,התמונה הספצ�
 Default scope,טווח ברירת מחדל
 Base currency,מטבע הבסיס
 Display default currency,הצגת מטבע ברירת מחדל
-website(%1) scope,טווח אתר (1%)
+website(%1) scope,טווח אתר (%1)
 store(%1) scope,טווח חנות(%1)
 "Currency ""%1"" is used as %2 in %3.","מטבע ""%1"" משמש %2 ב %3."
 Always (during development),תמיד (במהלך פיתוח)
@@ -5832,7 +5832,7 @@ Label,תווית
 label,label
 Card Value,ערך כרטיס
 Card Type,סוג כרטיס
-Image Id %d,מזהה תמונה% d
+Image Id %d,מזהה תמונה%d
 Gift Card Image,תמונה של כרטיס מתנה
 Last Activity,פעילות אחרונה
 %1 days,%1 ימים
@@ -5885,9 +5885,9 @@ Gift card %1 is used.,נעשה שימוש בכרטיס מתנה %1.
 Gift card %1 is not enabled.,כרטיס מתנה %1 אינו מופעל.
 Gift card %1 balance does not have funds.,כרטיס מתנה %1 מאזן אין כספים.
 Please be aware that it is not possible to use the gift card you purchased for your own orders.,"לידיעתך, לא ניתן להשתמש בכרטיס המתנה שקנית עבור ההזמנות שלך."
-"Please add {L} or {D} placeholders into the template ""%s""","הוסף {L} או {d} מצייני מיקום לתבנית ""% s"""
-"Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.","המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא% d, אנא עדכן את כמות השדות בהתאם."
-"Over time, you can generate no more than %d codes.","עם הזמן, תוכל ליצור לא יותר מ-% d קודים."
+"Please add {L} or {D} placeholders into the template ""%s""","הוסף {L} או {d} מצייני מיקום לתבנית ""%s"""
+"Maximum number of code combinations for the current template is %d, please update Quantity field accordingly.","המספר המרבי של שילובי קוד עבור התבנית הנוכחית הוא %d, אנא עדכן את כמות השדות בהתאם."
+"Over time, you can generate no more than %d codes.","עם הזמן, תוכל ליצור לא יותר מ-%d קודים."
 Length,אורך
 Printed,מודפס
 Lifetime Sales,מכירות בכל הזמנים
@@ -6451,7 +6451,7 @@ Is sent,נשלח
 Amount Used,הסכום המשומש
 "Checkout now and earn <b class=""message-earn-points-label"">%1</b> for this order.","עבור הזמנה זו תרוויח <b class=""message-earn-points-label"">%1</b>."
 "Applies only to registered customers, may vary when logged in.","נקודות חבר מועדון קיימות עבור לקוחות רשומים בלבד, עלייך להתחבר או ליצור חשבון"
-Possible discount %1 %2,הנחה אפשרית%1%
+Possible discount %1 %2,הנחה אפשרית %1 %2
 Earn %1 %2,להרוויח %2 %1
 Product,מוצר
 Product Details and Comment,פרטי המוצר והערה
@@ -7250,13 +7250,13 @@ Wish list has been updated.,Wish list has been updated.
 A list with the same name already exist.,A list with the same name already exist.
 Timezone,אזור זמן
 Title,כותרת
-Maximum Search query length is %1,Maximum Search query length is %2
-Unable to save wishlist with ID %1. Error: %2,Unable to save wishlist with ID %1. Error: %3
-Unable to save new wishlist. Error: %1,Unable to save new wishlist. Error: %2
+Maximum Search query length is %1,Maximum Search query length is %1
+Unable to save wishlist with ID %1. Error: %2,Unable to save wishlist with ID %1. Error: %2
+Unable to save new wishlist. Error: %1,Unable to save new wishlist. Error: %1
 "Wishlist with specified ID ""%1"" not found.","Wishlist with specified ID ""%1"" not found."
 "Wishlist with specified Customer ID ""%1"" not found.","Wishlist with specified Customer ID ""%1"" not found."
-Unable to remove wishlist with ID %1. Error: %2,Unable to remove wishlist with ID %1. Error: %3
-Unable to remove wishlist. Error: %1,Unable to remove wishlist. Error: %2
+Unable to remove wishlist with ID %1. Error: %2,Unable to remove wishlist with ID %1. Error: %2
+Unable to remove wishlist. Error: %1,Unable to remove wishlist. Error: %1
 Default Stock,Default Stock
 To:,אל:
 Requisition Lists,רשימות קניות
