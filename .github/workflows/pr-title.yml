@@ -11,6 +11,21 @@ jobs:
   call-pr-title:
     uses: studioraz/ci-templates/.github/workflows/pr-title.yml@master
     with:
+      types: |
+        added
+        updated
+        removed
+        feat
+        fix
+        perf
+        revert
+        docs
+        style
+        refactor
+        test
+        build
+        ci
+        chore
       subject-pattern: ^([A-Z][A-Z0-9]+-\d+ )?(?![A-Z]).+$
       subject-pattern-error: |
         The subject "{subject}" must start lowercase, optionally after a Jira key

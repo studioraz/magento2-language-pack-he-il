@@ -33,8 +33,22 @@
 ## Releases
 
 Releases follow the [shared Release Please guide](https://github.com/studioraz/ci-templates/blob/master/docs/release-please.md).
-Use Conventional Commit PR titles (`feat: add support`, `fix: correct behavior`).
+Use PR titles with `added:`, `updated:`, or `removed:` prefixes, for example
+`added: new checkout translations`, `updated: improve existing translations`, or
+`removed: obsolete translations`. These appear under **Added**, **Updated**, and
+**Removed** in the changelog.
+Each custom type produces a patch release by default. Mark breaking changes with `!`
+(for example `removed!: drop translations for unsupported modules`) or a
+`BREAKING CHANGE:` footer to produce a major release.
+The `type: description` syntax, optional scope, and lowercase subject are still required.
 Squash merges use the PR title and body; single-commit PRs must have a matching commit title.
+
+Standard Conventional Commit types remain supported for compatibility: `feat:` appears
+under Added and still produces a minor release; `fix:`, `perf:`, and `revert:` appear
+under Updated. Maintenance types such as `chore:`, `ci:`, and `docs:` stay hidden
+and do not trigger releases unless marked as breaking.
+The custom changelog sections live under `packages["."]` in `release-please-config.json`
+so shared configuration sync preserves them.
 
 Pushes to `master`, the Monday 06:00 UTC schedule and manual runs maintain the release PR
 and synchronize shared configuration.
