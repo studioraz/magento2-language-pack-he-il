@@ -58,6 +58,23 @@
     }
   ],
   "packages": {
-    ".": {}
+    ".": {
+      "changelog-sections": [
+        { "type": "added", "section": "Added" },
+        { "type": "updated", "section": "Updated" },
+        { "type": "removed", "section": "Removed" },
+        { "type": "feat", "section": "Added" },
+        { "type": "fix", "section": "Updated" },
+        { "type": "perf", "section": "Updated" },
+        { "type": "revert", "section": "Updated" },
+        { "type": "docs", "section": "Documentation", "hidden": true },
+        { "type": "style", "section": "Styles", "hidden": true },
+        { "type": "refactor", "section": "Code Refactoring", "hidden": true },
+        { "type": "test", "section": "Tests", "hidden": true },
+        { "type": "build", "section": "Build System", "hidden": true },
+        { "type": "ci", "section": "Continuous Integration", "hidden": true },
+        { "type": "chore", "section": "Miscellaneous Chores", "hidden": true }
+      ]
+    }
   }
 }
